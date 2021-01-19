@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: Introduction: The Bargain Principle and RST (Second)
+title: The Bargain Principle and RST (Second)
 author:
 editor: Sabina Pringle
 source: Progressive Legal Research by Jonathan Saxon, CUNY School of Law Library

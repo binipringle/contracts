@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: Section Two
+title: Housekeeping
 author:
 editor: Sabina Pringle
 source: Capstone project, MA in Digital Humanities, The Graduate Center - CUNY
