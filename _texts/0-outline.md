@@ -5,51 +5,20 @@ author:
 editor: Sabina Pringle
 source: Law in the Market Economy (Contracts) - doctrinal course CUNY School of Law, Professor Zalesne, Spring 2021
 toc:
-- 1 INTRODUCTION TO CONTRACT LAW
-- 1.1 The Bargain Principle
-- 1.2 Theoretical Perspectives
-- 2 OBJECTIVITY - INTERPRETING ACTS AND OR WORDS
-- 2.1. Policy
-- 2.2. Case Briefing
-- 3. CONTRACT FORMATION - ASSENT
-- 3.1. Was there an Offer?
-- 3.2 Was there Acceptance?
-- 3.3. Revocation of the Offer Prior to Acceptance - Unilateral Contracts, Option Contacts and Firm Offers
-- 4. CONTRACT FORMATION - CONSIDERATION
-- 4.1. The Origins and Elements of the Consideration Doctrine - “Legal Detriment” and “Bargained-For”
-- 4.2. Neo-Classical Economic Theory
-- 4.3. Critical Legal Theory
-- 5. ALTERNATIVES TO THE BARGAIN MODEL
-- 5.1. The Promise
-- 5.2 Reasonable Reliance
-- 5.3 The Restitution Principle
-- 6. CONTRACT FORMATION - STATUTE OF FRAUDS
-- 7. DEFENSES - EXPLICIT POLITICAL, ECONOMIC, AND MORAL CONTROLS ON CONTRACTING
-- 7.1. Public Policy
-- 7.2. Lack of Capacity - Who Can Contract?
-- 7.2.1. Children
-- 7.2.2. Mental Incapacity
-- 7.3. Duress - Force and Threats
-- 7.4. Miscommunication
-- 7.5. Misunderstanding
-- 7.6. Misrepresentation - False Statements, Duty to Read and Duty to Disclose
-- 7.7. Theoretical Perspective
-- 7.8. Unconscionability - Procedural and Substantive Bargaining Defects
-- 8. CHANGES AFTER CONTRACT FORMATION
-- 8.1. Impracticability
-- 8.2. Agreed Modifications
-- 8.3. Theoretical Perspective - Neo-Classical Economics and Socioeconomics
-- 9. CONTENT OF THE CONTRACT
-- 9.1. Interpretation
-- 9.1.1. Implied Terms
-- 9.1.2. Express Terms
-- 9.2. Theoretical Perspective - Formalism and Legal Realism
-- 9.3. Parol Evidence Rule - Written Agreements and Extrinsic Evidence
-- 10. BREACH OF CONTRACT
+- INTRODUCTION TO CONTRACT LAW
+- The Bargain Principle
+- Theoretical Perspectives
+- OBJECTIVITY - INTERPRETING ACTS AND OR WORDS
+- Policy
+- Case Briefing
+- CONTRACT FORMATION - ASSENT
+- Was there an Offer?
+- Was there Acceptance?
+- Revocation of the Offer Prior to Acceptance - Unilateral Contracts, Option Contacts and Firm Offers
 
 ---
 
-# 1 INTRODUCTION TO CONTRACT LAW  
+# INTRODUCTION TO CONTRACT LAW  
 
 **Contracts**
 
@@ -96,7 +65,7 @@ Reasons not to enforce a promise
 - against public policy
 - no assent
 
-# 1.1 The Bargain Principle
+# The Bargain Principle
 
 Bargain Theory involves:
 
@@ -123,7 +92,7 @@ Underlying policy concerns:
 - Factual counterarguments: there was exchange because plaintiff worked on defendant's farm.
 - If I wanted to make this more clearly enforceable, I would rephrase the promise as "if she would "come down and see [him], [he would] let [her] have a place to raise [her] family [until a specified time] [in exchange for her doing work on his farm]."  
 
-# 1.2 Theoretical Perspectives
+# Theoretical Perspectives
 
 ## Neo-Classical Economics
 
@@ -151,7 +120,7 @@ As social justice lawyers we will consider: how can these assumptions be challen
 - Reliance theory (involves promises to give gifts. Seeks to protect those who reasonably rely on others.)
 - Restitution theory (one ought to pay for any benefit unjustly retained. Goal is to prevent unjust enrichment.)
 
-# 2 OBJECTIVITY - INTERPRETING ACTS AND OR WORDS
+# OBJECTIVITY - INTERPRETING ACTS AND OR WORDS
 
 ## The Objective Theory of Interpretation
 
@@ -173,7 +142,7 @@ As social justice lawyers we will consider: how can these assumptions be challen
 
 Text pp 59-66, 82-87
 
-# 2.1. Policy
+# Policy
 
 What is the difference between the objective and subjective approaches to assent?
 
@@ -183,9 +152,9 @@ Why, as a policy matter, does contract law opt for the objective approach?
 
 Brief Embry for class.  I will post a sample brief on TWEN with a discussion of the choices that the author of the sample brief made.  Consider the differences between yours and the sample and the likely reasons for the differences.   
 
-# 3. CONTRACT FORMATION - ASSENT
+# CONTRACT FORMATION - ASSENT
 
-# 3.1. Was there an Offer?
+# Was there an Offer?
 
 **Leonard v. Pepsico**
 
@@ -231,7 +200,7 @@ What justifies the general rule on ads and offers? What justifies the exceptions
 
 Write a synthesized rule statement for offer.  
 
-# 3.2 Was there Acceptance?
+# Was there Acceptance?
 
 Mirror Image Rule and the Mode/ Manner of Acceptance
 
@@ -282,7 +251,7 @@ What justifies the common law mirror image rule? Under what circumstances does t
 
 In class, we will discuss the contrast between Formalism and Legal Realism as illustrated by the difference between the RST and the UCC.
 
-# 3.3. Revocation of the Offer Prior to Acceptance - Unilateral Contracts, Option Contacts and Firm Offers
+# Revocation of the Offer Prior to Acceptance - Unilateral Contracts, Option Contacts and Firm Offers
 
 **Dickinson v. Dodds**
 
