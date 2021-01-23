@@ -5,10 +5,10 @@ author:
 editor: Sabina Pringle
 source: Law in the Market Economy (Contracts) - doctrinal course CUNY School of Law, Professor Zalesne, Spring 2021
 toc:
-- 1. INTRODUCTION TO CONTRACT LAW
-- 1.1. The Bargain Principle
-- 1.2. Theoretical Perspectives
-- 2. OBJECTIVITY - INTERPRETING ACTS AND OR WORDS
+- 1 INTRODUCTION TO CONTRACT LAW
+- 1.1 The Bargain Principle
+- 1.2 Theoretical Perspectives
+- 2 OBJECTIVITY - INTERPRETING ACTS AND OR WORDS
 - 2.1. Policy
 - 2.2. Case Briefing
 - 3. CONTRACT FORMATION - ASSENT
@@ -49,7 +49,7 @@ toc:
 
 ---
 
-# 1. INTRODUCTION TO CONTRACT LAW  
+# 1 INTRODUCTION TO CONTRACT LAW  
 
 **Contracts**
 
@@ -96,7 +96,7 @@ Reasons not to enforce a promise
 - against public policy
 - no assent
 
-# 1.1. The Bargain Principle
+# 1.1 The Bargain Principle
 
 Bargain Theory involves:
 
@@ -123,7 +123,7 @@ Underlying policy concerns:
 - Factual counterarguments: there was exchange because plaintiff worked on defendant's farm.
 - If I wanted to make this more clearly enforceable, I would rephrase the promise as "if she would "come down and see [him], [he would] let [her] have a place to raise [her] family [until a specified time] [in exchange for her doing work on his farm]."  
 
-# 1.2. Theoretical Perspectives
+# 1.2 Theoretical Perspectives
 
 ## Neo-Classical Economics
 
@@ -151,7 +151,7 @@ As social justice lawyers we will consider: how can these assumptions be challen
 - Reliance theory (involves promises to give gifts. Seeks to protect those who reasonably rely on others.)
 - Restitution theory (one ought to pay for any benefit unjustly retained. Goal is to prevent unjust enrichment.)
 
-# 2. OBJECTIVITY - INTERPRETING ACTS AND OR WORDS
+# 2 OBJECTIVITY - INTERPRETING ACTS AND OR WORDS
 
 ## The Objective Theory of Interpretation
 

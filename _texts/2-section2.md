@@ -6,9 +6,6 @@ editor: Sabina Pringle
 rights:
 source: M.A. in Digital Humanities capstone project. The Graduate Center - CUNY. May 2020
 toc:
-- Background
-
----
 - 3.1. Was there an Offer?
 - 3.2 Was there Acceptance?
 - 3.3. Revocation of the Offer Prior to Acceptance - Unilateral Contracts, Option Contacts and Firm Offers
@@ -40,6 +37,9 @@ toc:
 - 9.1. Interpretation
 - 9.1.1. Implied Terms
 - 9.1.2. Express Terms
+- 9.2. Theoretical Perspective - Formalism and Legal Realism
+- 9.3. Parol Evidence Rule: Written Agreements and Extrinsic Evidence
+- # 10. BREACH OF CONTRACT
 
 
 ---
