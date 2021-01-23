@@ -5,18 +5,19 @@ author:
 editor: Sabina Pringle
 source: Law in the Market Economy (Contracts) - doctrinal course CUNY School of Law, Professor Zalesne, Spring 2021
 toc:
-- I. INTRODUCTION TO CONTRACT LAW
-- I.i The Bargain Principle
-- I.ii Theoretical Perspectives
-- II. OBJECTIVITY - INTERPRETING ACTS AND OR WORDS
-- II.i Policy
-- III. CONTRACT FORMATION - ASSENT
-- III.i Was there an Offer?
-- III.ii Was there Acceptance?
+- I INTRODUCTION TO CONTRACT LAW
+- Ia The Bargain Principle
+- Ib Theoretical Perspectives
+- II OBJECTIVITY - INTERPRETING ACTS AND OR WORDS
+- IIa The Objective Theory of Interpretation
+- IIb Policy
+- III CONTRACT FORMATION - ASSENT
+- IIIa Was there an Offer?
+- IIIb Was there Acceptance?
 
 ---
 
-# I. INTRODUCTION TO CONTRACT LAW  
+# I. I INTRODUCTION TO CONTRACT LAW  
 
 **Contracts**
 
@@ -63,7 +64,7 @@ Reasons not to enforce a promise
 - against public policy
 - no assent
 
-# I.i The Bargain Principle
+# Ia The Bargain Principle
 
 Bargain Theory involves:
 
@@ -90,7 +91,7 @@ Underlying policy concerns:
 - Factual counterarguments: there was exchange because plaintiff worked on defendant's farm.
 - If I wanted to make this more clearly enforceable, I would rephrase the promise as "if she would "come down and see [him], [he would] let [her] have a place to raise [her] family [until a specified time] [in exchange for her doing work on his farm]."  
 
-# I.ii Theoretical Perspectives
+# Ib Theoretical Perspectives
 
 ## Neo-Classical Economics
 
@@ -118,9 +119,9 @@ As social justice lawyers we will consider: how can these assumptions be challen
 - Reliance theory (involves promises to give gifts. Seeks to protect those who reasonably rely on others.)
 - Restitution theory (one ought to pay for any benefit unjustly retained. Goal is to prevent unjust enrichment.)
 
-# II. OBJECTIVITY - INTERPRETING ACTS AND OR WORDS
+# II OBJECTIVITY - INTERPRETING ACTS AND OR WORDS
 
-## The Objective Theory of Interpretation
+## IIa The Objective Theory of Interpretation
 
 **Embry v. Hargadine, McKittrick Dry Goods Co.**
 
@@ -140,7 +141,7 @@ As social justice lawyers we will consider: how can these assumptions be challen
 
 Text pp 59-66, 82-87
 
-## II.i Policy
+## IIb Policy
 
 What is the difference between the objective and subjective approaches to assent?
 
@@ -150,9 +151,9 @@ Why, as a policy matter, does contract law opt for the objective approach?
 
 Brief Embry for class.  I will post a sample brief on TWEN with a discussion of the choices that the author of the sample brief made.  Consider the differences between yours and the sample and the likely reasons for the differences.   
 
-# III. CONTRACT FORMATION - ASSENT
+# III CONTRACT FORMATION - ASSENT
 
-# III.i Was there an Offer?
+# IIIa Was there an Offer?
 
 **Leonard v. Pepsico**
 
@@ -198,7 +199,7 @@ What justifies the general rule on ads and offers? What justifies the exceptions
 
 Write a synthesized rule statement for offer.  
 
-# III.ii Was there Acceptance?
+# IIIb Was there Acceptance?
 
 Mirror Image Rule and the Mode/ Manner of Acceptance
 
