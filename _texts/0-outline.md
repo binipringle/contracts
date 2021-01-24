@@ -17,7 +17,7 @@ toc:
 
 ---
 
-# I. I INTRODUCTION TO CONTRACT LAW  
+# I INTRODUCTION TO CONTRACT LAW  
 
 **Contracts**
 
