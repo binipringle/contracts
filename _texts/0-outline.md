@@ -5,7 +5,7 @@ author:
 editor: Sabina Pringle
 source: Law in the Market Economy (Contracts) - doctrinal course CUNY School of Law, Professor Zalesne, Spring 2021
 toc:
-- I Introduction
+- I Introduction to contract law
 - Ia The Bargain Principle
 - Ib Theoretical perspectives
 - II Objectivity
@@ -58,9 +58,7 @@ toc:
 
 ---
 
-# I Introduction
-
-**Contracts**
+# I Introduction to contract law
 
 - Law of private agreements
 - Exercise of individual freedoms
@@ -77,11 +75,7 @@ Default rules come from:
 - Restatement (Second) of Contracts - not law; summary of law; very influential
 - Law reviews, treatises, etc.
 
-**Questions for analysis:**
-
-Is there a contract? If contract, is it enforceable? What are the terms? Did a party breach? If there's breach, what are the damages?
-
-Contract Law protects parties and society.
+Questions to ask: Is there a contract? If contract, is it enforceable? What are the terms? Did a party breach? If there's breach, what are the damages?
 
 Why should the law enforce any promises?
 
@@ -98,7 +92,7 @@ Reasons to enforce a promise:
 - Reliance
 - unjust enrichment (dog hypo)
 
-Reasons not to enforce a promise
+Reasons not to enforce a promise:
 
 - gift (no exchange)
 - no real promise
