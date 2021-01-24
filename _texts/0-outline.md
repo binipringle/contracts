@@ -7,45 +7,54 @@ source: Law in the Market Economy (Contracts) - doctrinal course CUNY School of 
 toc:
 - I Introduction
 - Ia The Bargain Principle
-- Ib Theoretical Perspectives
+- Ib Theoretical perspectives
 - II Objectivity
-- IIa The Objective Theory of Interpretation
+- IIa Objective theory of interpretation
 - IIb Policy
 - III Assent
-- IIIa Was there an Offer?
-- IIIb Was there Acceptance?
-- IIIc Revocation Prior to Acceptance
+- IIIa Was there an offer?
+- IIIb Was there acceptance?
+- IIIc Revocation prior to acceptance
 - IV Consideration
-- IVa Legal Detriment and Bargained-For
-- IVb Neo-Classical Economic Theory
-- IVc Critical Legal Theory
-- V Alternatives to Bargain Model
-- Va The Promise
-- Vb Reasonable Reliance
-- Vc The Restitution Principle
+- IVa Legal detriment and bargained-for
+- IVb Neo-Classical economic theory
+- IVc Critical legal theory
+- V Alternatives to bargain model
+- Va The promise
+- Vb Reasonable reliance
+- Vc The Restitution principle
 - VI Statute of Frauds
 - VII Defenses Explicit Political Economic Moral Controls
-- VIIa Public Policy
-- VIIb Lack of Capacity - Who Can Contract?
+- VIIa Public policy
+- VIIai Theoretical perspective
+- VIIb Lack of capacity and who can contract?
 - VIIbi Children
-- VIIbii Mental Incapacity
-- VIIc Duress - Force and Threats
+- VIIbii Mental incapacity
+- VIIc Duress and force and threats
 - VIId Miscommunication
 - VIIe Misunderstanding
-- VIIf Misrepresentation, False Statements
-- VIIg Theoretical Perspective
+- VIIf Misrepresentation, false statements
+- VIIg Theoretical perspective
 - VIIh Unconscionability
 - VIII Changes After Contract Formation
 - VIIIa Impracticability
 - VIIIb Agreed Modifications
-- VIIIc Neo-Classical Economics and Socioeconomics
+- VIIIc Neo-Classical economics and Socioeconomics
 - IX Content of the Contract
 - IXa Interpretation
 - IXai Implied Terms
 - IXaii Express Terms
 - IXb Formalism and Legal Realism
-- IXc Parol Evidence Rule
+- IXc Parol evidence rule
 - X Breach of Contract
+- Xa Constructive conditions and substantial performance
+- Xb Theoretical perspective on result in Jacob and Youngs
+- XI Remedies
+- XIa Specific performance
+- XIb Gendered context in Lumley rule
+- XIc Expectation and reliance damages, non-pecuniary loss, punitive damages
+- XId Limitation on damages
+- XIe Feminist Legal Theory
 
 ---
 
@@ -123,13 +132,9 @@ Underlying policy concerns:
 - Factual counterarguments: there was exchange because plaintiff worked on defendant's farm.
 - If I wanted to make this more clearly enforceable, I would rephrase the promise as "if she would "come down and see [him], [he would] let [her] have a place to raise [her] family [until a specified time] [in exchange for her doing work on his farm]."  
 
-## Ib Theoretical Perspectives
+## Ib Theoretical perspectives
 
-## Neo-Classical Economics
-
-Economic theory most closely associated with Bargain Theory (a deal's a deal etc.). Values efficiency and profit-making.
-
-Assumptions (pp 37-38):
+**Neo-Classical Economics:** Economic theory most closely associated with Bargain Theory (a deal's a deal etc.). Values efficiency and profit-making. Assumptions (pp 37-38):
 
 - people act in their own self interest
 - people act rationally
@@ -139,7 +144,7 @@ Assumptions (pp 37-38):
 
 As social justice lawyers we will consider: how can these assumptions be challenged?
 
-## Socioeconomics (counter economic theory)
+**Socioeconomics (counter economic theory):**
 
 - assumes we can't adequately understand economic behavior by the assumptions of autonomy, rationality, and efficiency
 - considers social norms, disparate bargaining power, sexism, racism, educational inequalities and other inequalities
@@ -155,7 +160,7 @@ As social justice lawyers we will consider: how can these assumptions be challen
 
 This is where I'll write something about this.
 
-## IIa The Objective Theory of Interpretation
+## IIa Objective theory of interpretation
 
 **Embry v. Hargadine, McKittrick Dry Goods Co.**
 
@@ -181,13 +186,11 @@ What is the difference between the objective and subjective approaches to assent
 
 Why, as a policy matter, does contract law opt for the objective approach?
 
-## Case Briefing
-
-Brief Embry for class.  I will post a sample brief on TWEN with a discussion of the choices that the author of the sample brief made.  Consider the differences between yours and the sample and the likely reasons for the differences.   
+Case Briefing: Brief Embry for class.  I will post a sample brief on TWEN with a discussion of the choices that the author of the sample brief made.  Consider the differences between yours and the sample and the likely reasons for the differences.   
 
 # III Assent
 
-## IIIa Was there an Offer?
+## IIIa Was there an offer?
 
 **Leonard v. Pepsico**
 
@@ -217,7 +220,7 @@ Text pp 87-88, 95-107 (top)
 
 RST § 24
 
-## Working with Rules - Inferring Factors
+Working with Rules - Inferring Factors
 
 What facts did the Pepsico court consider important in determining whether an offer had been made?  
 
@@ -233,7 +236,7 @@ What justifies the general rule on ads and offers? What justifies the exceptions
 
 Write a synthesized rule statement for offer.  
 
-## IIIb Was there Acceptance?
+## IIIb Was there acceptance?
 
 Mirror Image Rule and the Mode/ Manner of Acceptance
 
@@ -274,7 +277,7 @@ UCC §§ 2-206, 2-207(1)
 
 Text pp 116-127 (very top)
 
-## Working with Rules - Sources of Law and Theoretical Perspective
+Working with Rules - Sources of Law and Theoretical perspective
 
 In class, we will discuss Article 2 of the Uniform Commercial Code (UCC) as a source of authority of contract law.  How does the UCC differ from the RST in terms of its authority and scope?
 
@@ -284,7 +287,7 @@ What justifies the common law mirror image rule? Under what circumstances does t
 
 In class, we will discuss the contrast between Formalism and Legal Realism as illustrated by the difference between the RST and the UCC.
 
-## IIIc Revocation Prior to Acceptance
+## IIIc Revocation prior to acceptance
 
 **Dickinson v. Dodds**
 
@@ -308,7 +311,7 @@ RST §§ 25, 45, 87
 
 # IV Consideration
 
-## IVa Legal Detriment and Bargained-For
+## IVa Legal detriment and bargained-for
 
 **Hamer v. Sidway**
 
@@ -330,7 +333,7 @@ Text pp 185-205 (top)
 
 Read the text of RST § 71 and all the comments and illustrations carefully.
 
-## IVb Neo-Classical Economic Theory
+## IVb Neo-Classical economic theory
 
 It is said that courts won’t look at the adequacy or fairness of the consideration. Should sellers be permitted to charge what the market will bear in all cases?  What if that means charging higher prices for goods in poor neighborhoods?  What if it means charging women more than men or BIPOC consumers more than white consumers? Should it matter if members of those groups agree to pay more?
 
@@ -374,13 +377,13 @@ Text pp 205-214 (bottom), 218-219
 
 Text pp 220-226
 
-## Theoretical Perspective and Close Case Reading
+Theoretical perspective and Close Case Reading
 
 What is the “primitive stage of formalism” that the Wood court is rejecting? Why is it being rejected?
 
 What is Cardozo telling us about the relationship between the parties in the case? For whose benefit is the term implied?  Who was vulnerable under the contract as written?
 
-## IVc Critical Legal Theory
+## IVc Critical legal theory
 
 The Paula Childress story beginning on p 226 is optional reading. It provides an account of the role of class, race, and poverty in the dehumanization of people who are poor. Does this attitude help explain the devaluation of the claim in the Lawrence case?
 
@@ -388,7 +391,7 @@ Would the outcome of Lawrence change if Ethel Lawrence had been a paying patient
 
 What would have been a more persuasive way for the clinic to make the case that there was no consideration in Lawrence?
 
-# V Alternatives to Bargain Model
+# V Alternatives to bargain model
 
 A. The Reliance principle: Promissory Estoppel
 
@@ -401,7 +404,7 @@ A. The Reliance principle: Promissory Estoppel
 - Factual counterarguments:
 
 
-## Va The Promise
+## Va The promise
 
 **State Bank of Standish v. Curry**
 
@@ -411,7 +414,7 @@ A. The Reliance principle: Promissory Estoppel
 - Factual arguments in support of that holding:
 - Factual counterarguments:
 
-## Vb Reasonable Reliance
+## Vb Reasonable reliance
 
 **Alden v. Presley**
 
@@ -431,11 +434,11 @@ Text pp 241-261
 
 Text pp 277-281
 
-## Working with Rules and Outlining
+Working with Rules and Outlining
 
 How will the rule for promise appear in your outline?
 
-## Vc The Restitution Principle
+## Vc The Restitution principle
 
 **Cotnam v. Wisdom**
 
@@ -463,7 +466,7 @@ How will the rule for promise appear in your outline?
 
 Text pp 46-53, 292-303
 
-## Outlining
+Outlining
 
 Consider what each case adds to your understanding of the doctrine of Restitution.  Consider the role the cases will ultimately play in your outline of Restitution.
 
@@ -489,7 +492,7 @@ ASSIGNMENT	SKILLS FOCUS AND THOUGHT QUESTIONS
 
 # VII Defenses Explicit Political Economic Moral Controls
 
-## VIIa Public Policy
+## VIIa Public policy
 
 **In the Matter of Baby “M"**  (Superior court and supreme court opinions)
 
@@ -509,17 +512,17 @@ Consider: Baby M drafting exercise (posted under “class exercises”)
 
 Make a list of policies for and against enforcing the Baby M contract (including the arguments from the case and the other readings).  Factors both favoring and disfavoring enforcement should include contract / law and economic arguments as well as social policy arguments.  	
 
-## Working with Facts
+Working with Facts
 
 Consider the language the lower court used in characterizing the Whiteheads and the Sterns.  What differences are evident in tone and word choice? What language does the appellate court use in characterizing the Whiteheads and the Sterns?  Are there similar differences in tone and word choice?
 
 Consider the role that these choices play in the process of legal analysis and the courts’ decisions.  How do these choices inform your reading of the case?
 
-## Theoretical Perspective
+## VIIai Theoretical perspective
 
 Consider any discomfort you may have with either the lower court or the appellate opinion.  Can you categorize your objection in terms of one or more of the theories we studied?
 
-## VIIb Lack of Capacity - Who Can Contract?
+## VIIb Lack of capacity and who can contract?
 
 **Paula Darlene Hampton v. Dillard Dept. Stores**
 
@@ -539,7 +542,7 @@ Consider any discomfort you may have with either the lower court or the appellat
 - Factual arguments in support of that holding:
 - Factual counterarguments:
 
-## VIIbii Mental Incapacity
+## VIIbii Mental incapacity
 
 Legal tests (volitional and cognitive)
 
@@ -551,15 +554,15 @@ Text pp 367-368 (very top), 372
 
 RST § 15
 
-## Working with Rules: The Role of Policy in the Rule
+Working with Rules: The Role of Policy in the Rule
 
 Do you think the rule for minority is fair? Whom is the rule trying to protect and from what?  What assumptions does the rule make about minors? Are these assumptions valid?  How are those assumptions challenged empirically by the readings?
 
-## Working with Rules: The Role of Policy in the Rule
+Working with Rules: The Role of Policy in the Rule
 
 How is the test for mental capacity different from the test for minority? Why do you suppose the tests are different?  By comparing these rules, we can see that policy is built into each rule. What policy concerns underlie the different rules?
 
-## VIIc Duress - Force and Threats
+## VIIc Duress and force and threats
 
 **Trane v. Bond**
 
@@ -573,11 +576,11 @@ Text pp 440-452
 
 RST §§ 174 - 176
 
-## Working with Rules: Articulating and Elementizing a Rule
+Working with Rules: Articulating and Elementizing a Rule
 
 What’s the difference between     § 174 and § 175 in substance and in effect?  What elements are required under § 175(1) for a showing of duress by threat by the other party?  Read § 176.  When is a threat improper?  When might a threat be proper?
 
-## Note Taking and Outlining
+Note Taking and Outlining
 
 With your study group, prepare answers to the questions about duress posted on TWEN under “Class Exercises.” You should be able to answer these questions from your notes, and some of the questions might help you in the process of converting your notes into an outline.
 14
@@ -614,7 +617,7 @@ Text pp 389-396
 
 RST § 20
 
-## VIIf Misrepresentation, False Statements
+## VIIf Misrepresentation, false statements
 
 **Kang v. Harrington**
 
@@ -636,11 +639,11 @@ Text pp 405-411, 419-428
 
 RST §§ 164, 159-172
 
-## Working with Rules:  Elementizing
+Working with Rules:  Elementizing
 
 What are the four elements required for a showing of misrepresentation?  Use §§159-172 to fill in the rules and definitions for each of the four elements.
 
-## VIIg Theoretical Perspective
+## VIIg Theoretical perspective
 
 Consider background assumptions the court may have made about women and widows in Vokes.  What role do you think Vokes’s
 gender played in the court’s reasoning? What role do you think race, class, or gender should play in analyzing a party’s behavior? We will use this case and these theoretical issues as the basis of a discussion on competing economic theories about the appropriate role of these characteristics in legal reasoning.
@@ -663,11 +666,11 @@ UCC § 2-302
 
 RST § 208
 
-## Working with Rules
+Working with Rules
 
 What is the difference between the doctrines of void as against public policy and unconscionability?
 
-## Issue Spotting
+Issue Spotting
 
 Consider any other contract defenses that might have been available to Williams.  What key fact or facts are necessary to implicate each of those possible defenses?
 
@@ -704,11 +707,11 @@ UCC § 2-209
 
 RST § 89
 
-## Practice Point: Drafting
+Practice Point: Drafting
 
 Draft a modification to the Alaska Packers contract that would be more immune to challenge.  
 
-## VIIIc Neo-Classical Economics and Socioeconomics
+## VIIIc Neo-Classical economics and Socioeconomics
 
 What neo-classical economic assumptions does the court make in Alaska Packers that may have influenced the outcome of the case?  How might you challenge those assumptions?
 
@@ -763,11 +766,11 @@ UCC § 201-203, 206-207
 
 ## IXb Formalism and Legal Realism
 
-Was Nanakuli decided from a Formalist / Classical Contract Law perspective or a Legal Realist perspective? What clues does the court give of its theoretical perspective? How might the outcome have changed had the judge adopted a different theoretical perspective?
+Was Nanakuli decided from a Formalist / Classical Contract Law perspective or a Legal Realist perspective? What clues does the court give of its Theoretical perspective? How might the outcome have changed had the judge adopted a different Theoretical perspective?
 
 What about Pacific Gas?
 
-## IXc Parol Evidence Rule
+## IXc Parol evidence rule
 
 **Betaco, Inc. v. Cessna Aircraft Co.**
 
@@ -783,79 +786,109 @@ UCC § 2-202
 
 RST §§ 209, 210, 214-216
 
-## Practice Point: Drafting
+Practice Point: Drafting
 
 What is a “merger” clause?  Why should a lawyer include it when drafting a contract?  Must a lawyer include it?  
 
 # X Breach of Contract
 
-A. Constructive Conditions and Substantial Performance
+## Xa Constructive conditions and substantial performance
 
--  Jacob & Youngs, Inc. v. Kent
+**Jacob & Youngs, Inc. v. Kent**
+
+- Issue:
+- Why issue matters:
+- Holding:
+- Factual arguments in support of that holding:
+- Factual counterarguments:
 
 Text pp 615-627, 653-54
 
 UCC § 2-601
 
-Theoretical Perspective
+## Xb Theoretical perspective on result in Jacob and Youngs
 
 Do you agree or disagree with the result in Jacob & Youngs?  Can you characterize your opinion about the case in theoretical terms?
-21
 
-XI. REMEDIES
+# XI Remedies
 
-A. Specific Performance
+## XIa Specific performance
 
--  Sokoloff v. Harriman Estates Development Corp.
+**Sokoloff v. Harriman Estates Development Corp.**
 
--  Beverly Glen v. Warner Communications and Anita Baker
+- Issue:
+- Why issue matters:
+- Holding:
+- Factual arguments in support of that holding:
+- Factual counterarguments:
 
+**Beverly Glen v. Warner Communications and Anita Baker**
 
+- Issue:
+- Why issue matters:
+- Holding:
+- Factual arguments in support of that holding:
+- Factual counterarguments:
 
 Text pp 675-684
 
+## XIb Gendered context in Lumley rule
 
+## XIc Expectation and reliance damages, non-pecuniary loss, punitive damages
 
+**Sullivan v. O’Connor**
 
+- Issue:
+- Why issue matters:
+- Holding:
+- Factual arguments in support of that holding:
+- Factual counterarguments:
 
-Theoretical Perspective
+**American Standard v. Schectman**
 
-Consider the gendered context in which the Lumley rule was written.
-22
-
-B. Expectation and Reliance Damages, Non-Pecuniary Loss, and Punitive Damages
-
--  Sullivan v. O’Connor
-
--  American Standard v. Schectman 	
+- Issue:
+- Why issue matters:
+- Holding:
+- Factual arguments in support of that holding:
+- Factual counterarguments: 	
 
 Text pp 684-692, 699-705 (top)
-
-
 
 Issue Spotting
 
 Consider what other doctrinal areas outside of Contract law are implicated by the facts of Sullivan.
-23
 
-C. Limitation on Damages
+## XId Limitation on damages
 
+1. Certainty
 
-     1. Certainty
+**Halliburton Co. v. Eastern Cement Corp.**
 
--  Halliburton Co. v. Eastern Cement Corp.
+- Issue:
+- Why issue matters:
+- Holding:
+- Factual arguments in support of that holding:
+- Factual counterarguments:
 
-     2. Foreseeability
+2. Foreseeability
 
--  Hadley v. Baxendale
+**Hadley v. Baxendale**
 
-     3. Mitigation
+- Issue:
+- Why issue matters:
+- Holding:
+- Factual arguments in support of that holding:
+- Factual counterarguments:
 
-- Parker v. Twentieth Century-Fox Film Corp.
+3. Mitigation
 
+**Parker v. Twentieth Century-Fox Film Corp.**
 
-
-
+- Issue:
+- Why issue matters:
+- Holding:
+- Factual arguments in support of that holding:
+- Factual counterarguments:
 
 Text pp 711 (just the paragraph under #3), 716-720
 
@@ -869,17 +902,14 @@ Text pp 725-733
 
 RST § 350
 
-
-
 Working with Rules: Identifying Rule Structures
 
 Locate the rule for foreseeability in Hadley.  What is the rule structure of that rule? Now read RST § 351.  Describe the similarities and differences between the two rules.  Identify the overall rule structure for foreseeability.
+
 What is the difference between the two kinds of cases described in Hadley (“ordinary” and “special” circumstances cases)? Which kind of case is Hadley?
-Theoretical Perspective:  Feminist Legal Theory
+
+## XIe Feminist Legal Theory
 
 Consider what role, if any, you think gender played in Parker.
-
-
-
 
 ---
