@@ -5,20 +5,51 @@ author:
 editor: Sabina Pringle
 source: Law in the Market Economy (Contracts) - doctrinal course CUNY School of Law, Professor Zalesne, Spring 2021
 toc:
-- I INTRODUCTION TO CONTRACT LAW
+- ONE - INTRODUCTION
 - Ia The Bargain Principle
 - Ib Theoretical Perspectives
-- II OBJECTIVITY - INTERPRETING ACTS AND OR WORDS
+- TWO - OBJECTIVITY
 - IIa The Objective Theory of Interpretation
 - IIb Policy
-- III CONTRACT FORMATION - ASSENT
+- THREE - CONTRACT FORMATION - ASSENT
 - IIIa Was there an Offer?
 - IIIb Was there Acceptance?
-- 4 Revocation of the Offer Prior to Acceptance - Unilateral Contracts, Option Contacts and Firm Offers
+- IIIc Revocation of the Offer Prior to Acceptance - Unilateral Contracts, Option Contacts and Firm Offers
+- FOUR - CONTRACT FORMATION - CONSIDERATION
+- IVa The Origins and Elements of the Consideration Doctrine - “Legal Detriment” and “Bargained-For”
+- IVb Neo-Classical Economic Theory
+- IVc Critical Legal Theory
+- FIVE - ALTERNATIVES TO THE BARGAIN MODEL
+- Va The Promise
+- Vb Reasonable Reliance
+- Vc The Restitution Principle
+- SIX - CONTRACT FORMATION - STATUTE OF FRAUDS
+- SEVEN - DEFENSES - EXPLICIT POLITICAL, ECONOMIC, AND MORAL CONTROLS ON CONTRACTING
+- VIIa Public Policy
+- VIIb Lack of Capacity - Who Can Contract?
+- VIIbi Children
+- VIIbii Mental Incapacity
+- VIIc Duress - Force and Threats
+- VIId Miscommunication
+- VIIe Misunderstanding
+- VIIf Misrepresentation - False Statements, Duty to Read and Duty to Disclose
+- VIIg Theoretical Perspective
+- VIIh Unconscionability -  Procedural and Substantive Bargaining Defects
+- EIGHT - CHANGES AFTER CONTRACT FORMATION
+- VIIIa Impracticability
+- VIIIb Agreed Modifications
+- VIIIc Theoretical Perspective - Neo-Classical Economics and Socioeconomics
+- NINE - CONTENT OF THE CONTRACT
+- IXa Interpretation
+- IXai Implied Terms
+- IXaii Express Terms
+- IXb Theoretical Perspective - Formalism and Legal Realism
+- IXc Parol Evidence Rule - Written Agreements and Extrinsic Evidence
+- TEN - BREACH OF CONTRACT
 
 ---
 
-# I INTRODUCTION TO CONTRACT LAW  
+# ONE - INTRODUCTION
 
 **Contracts**
 
@@ -65,7 +96,7 @@ Reasons not to enforce a promise
 - against public policy
 - no assent
 
-# Ia The Bargain Principle
+## Ia The Bargain Principle
 
 Bargain Theory involves:
 
@@ -92,7 +123,7 @@ Underlying policy concerns:
 - Factual counterarguments: there was exchange because plaintiff worked on defendant's farm.
 - If I wanted to make this more clearly enforceable, I would rephrase the promise as "if she would "come down and see [him], [he would] let [her] have a place to raise [her] family [until a specified time] [in exchange for her doing work on his farm]."  
 
-# Ib Theoretical Perspectives
+## Ib Theoretical Perspectives
 
 ## Neo-Classical Economics
 
@@ -120,7 +151,7 @@ As social justice lawyers we will consider: how can these assumptions be challen
 - Reliance theory (involves promises to give gifts. Seeks to protect those who reasonably rely on others.)
 - Restitution theory (one ought to pay for any benefit unjustly retained. Goal is to prevent unjust enrichment.)
 
-# II OBJECTIVITY - INTERPRETING ACTS AND OR WORDS
+# TWO - OBJECTIVITY
 
 This is where I'll write something about this.
 
@@ -154,9 +185,9 @@ Why, as a policy matter, does contract law opt for the objective approach?
 
 Brief Embry for class.  I will post a sample brief on TWEN with a discussion of the choices that the author of the sample brief made.  Consider the differences between yours and the sample and the likely reasons for the differences.   
 
-# III CONTRACT FORMATION - ASSENT
+# THREE - CONTRACT FORMATION - ASSENT
 
-# IIIa Was there an Offer?
+## IIIa Was there an Offer?
 
 **Leonard v. Pepsico**
 
@@ -202,7 +233,7 @@ What justifies the general rule on ads and offers? What justifies the exceptions
 
 Write a synthesized rule statement for offer.  
 
-# IIIb Was there Acceptance?
+## IIIb Was there Acceptance?
 
 Mirror Image Rule and the Mode/ Manner of Acceptance
 
@@ -253,7 +284,7 @@ What justifies the common law mirror image rule? Under what circumstances does t
 
 In class, we will discuss the contrast between Formalism and Legal Realism as illustrated by the difference between the RST and the UCC.
 
-# 4 Revocation of the Offer Prior to Acceptance - Unilateral Contracts, Option Contacts and Firm Offers
+## IIIc Revocation of the Offer Prior to Acceptance - Unilateral Contracts, Option Contacts and Firm Offers
 
 **Dickinson v. Dodds**
 
@@ -275,9 +306,9 @@ Text pp 155-159, 161-168 (top)
 
 RST §§ 25, 45, 87
 
-# 4. CONTRACT FORMATION - CONSIDERATION
+# FOUR - CONTRACT FORMATION - CONSIDERATION
 
-# 4.1. The Origins and Elements of the Consideration Doctrine - “Legal Detriment” and “Bargained-For”
+## IVa The Origins and Elements of the Consideration Doctrine - “Legal Detriment” and “Bargained-For”
 
 **Hamer v. Sidway**
 
@@ -299,7 +330,7 @@ Text pp 185-205 (top)
 
 Read the text of RST § 71 and all the comments and illustrations carefully.
 
-# 4.1. Neo-Classical Economic Theory
+## IVb Neo-Classical Economic Theory
 
 It is said that courts won’t look at the adequacy or fairness of the consideration. Should sellers be permitted to charge what the market will bear in all cases?  What if that means charging higher prices for goods in poor neighborhoods?  What if it means charging women more than men or BIPOC consumers more than white consumers? Should it matter if members of those groups agree to pay more?
 
@@ -349,7 +380,7 @@ What is the “primitive stage of formalism” that the Wood court is rejecting?
 
 What is Cardozo telling us about the relationship between the parties in the case? For whose benefit is the term implied?  Who was vulnerable under the contract as written?
 
-# 4.2. Critical Legal Theory
+## IVc Critical Legal Theory
 
 The Paula Childress story beginning on p 226 is optional reading. It provides an account of the role of class, race, and poverty in the dehumanization of people who are poor. Does this attitude help explain the devaluation of the claim in the Lawrence case?
 
@@ -357,7 +388,7 @@ Would the outcome of Lawrence change if Ethel Lawrence had been a paying patient
 
 What would have been a more persuasive way for the clinic to make the case that there was no consideration in Lawrence?
 
-# 5. ALTERNATIVES TO THE BARGAIN MODEL
+# FIVE - ALTERNATIVES TO THE BARGAIN MODEL
 
 A. The Reliance principle: Promissory Estoppel
 
@@ -370,7 +401,7 @@ A. The Reliance principle: Promissory Estoppel
 - Factual counterarguments:
 
 
-# 5.1. The Promise
+## Va The Promise
 
 **State Bank of Standish v. Curry**
 
@@ -380,7 +411,7 @@ A. The Reliance principle: Promissory Estoppel
 - Factual arguments in support of that holding:
 - Factual counterarguments:
 
-# 5.2 Reasonable Reliance
+## Vb Reasonable Reliance
 
 **Alden v. Presley**
 
@@ -404,7 +435,7 @@ Text pp 277-281
 
 How will the rule for promise appear in your outline?
 
-# 5.3 The Restitution Principle
+## Vc The Restitution Principle
 
 **Cotnam v. Wisdom**
 
@@ -436,7 +467,7 @@ Text pp 46-53, 292-303
 
 Consider what each case adds to your understanding of the doctrine of Restitution.  Consider the role the cases will ultimately play in your outline of Restitution.
 
-# 6. CONTRACT FORMATION - STATUTE OF FRAUDS
+# SIX - CONTRACT FORMATION - STATUTE OF FRAUDS
 
 A. When is a Writing Necessary?
 
@@ -456,9 +487,9 @@ DOCTRINAL FOCUS	READING
 
 ASSIGNMENT	SKILLS FOCUS AND THOUGHT QUESTIONS
 
-# 7. DEFENSES - EXPLICIT POLITICAL, ECONOMIC, AND MORAL CONTROLS ON CONTRACTING
+# SEVEN - DEFENSES - EXPLICIT POLITICAL, ECONOMIC, AND MORAL CONTROLS ON CONTRACTING
 
-# 7.1. Public Policy
+## VIIa Public Policy
 
 **In the Matter of Baby “M"**  (Superior court and supreme court opinions)
 
@@ -488,7 +519,7 @@ Consider the role that these choices play in the process of legal analysis and t
 
 Consider any discomfort you may have with either the lower court or the appellate opinion.  Can you categorize your objection in terms of one or more of the theories we studied?
 
-# 7.2. Lack of Capacity - Who Can Contract?
+## VIIb Lack of Capacity - Who Can Contract?
 
 **Paula Darlene Hampton v. Dillard Dept. Stores**
 
@@ -498,7 +529,7 @@ Consider any discomfort you may have with either the lower court or the appellat
 - Factual arguments in support of that holding:
 - Factual counterarguments:
 
-# 7.2.1. Children
+## VIIbi Children
 
 **Kim Young v. Phillip Weaver**
 
@@ -508,7 +539,7 @@ Consider any discomfort you may have with either the lower court or the appellat
 - Factual arguments in support of that holding:
 - Factual counterarguments:
 
-# 7.2.2. Mental Incapacity
+## VIIbii Mental Incapacity
 
 Legal tests (volitional and cognitive)
 
@@ -528,7 +559,7 @@ Do you think the rule for minority is fair? Whom is the rule trying to protect a
 
 How is the test for mental capacity different from the test for minority? Why do you suppose the tests are different?  By comparing these rules, we can see that policy is built into each rule. What policy concerns underlie the different rules?
 
-# 7.3. Duress - Force and Threats
+## VIIc Duress - Force and Threats
 
 **Trane v. Bond**
 
@@ -551,7 +582,7 @@ What’s the difference between     § 174 and § 175 in substance and in effect
 With your study group, prepare answers to the questions about duress posted on TWEN under “Class Exercises.” You should be able to answer these questions from your notes, and some of the questions might help you in the process of converting your notes into an outline.
 14
 
-# 7.4. Miscommunication
+## VIId Miscommunication
 
 - Mutual Mistake
 - Unilateral Mistake
@@ -565,7 +596,7 @@ With your study group, prepare answers to the questions about duress posted on T
 - Factual arguments in support of that holding:
 - Factual counterarguments:
 
-# 7.5. Misunderstanding
+## VIIe Misunderstanding
 
 **Konic International Corp. v. Spokane Computer Serv.**
 
@@ -583,7 +614,7 @@ Text pp 389-396
 
 RST § 20
 
-# 7.6. Misrepresentation - False Statements, Duty to Read and Duty to Disclose
+## VIIf Misrepresentation - False Statements, Duty to Read and Duty to Disclose
 
 **Kang v. Harrington**
 
@@ -609,12 +640,12 @@ RST §§ 164, 159-172
 
 What are the four elements required for a showing of misrepresentation?  Use §§159-172 to fill in the rules and definitions for each of the four elements.
 
-# 7.7. Theoretical Perspective
+## VIIg Theoretical Perspective
 
 Consider background assumptions the court may have made about women and widows in Vokes.  What role do you think Vokes’s
 gender played in the court’s reasoning? What role do you think race, class, or gender should play in analyzing a party’s behavior? We will use this case and these theoretical issues as the basis of a discussion on competing economic theories about the appropriate role of these characteristics in legal reasoning.
 
-# 7.8. Unconscionability -  Procedural and Substantive Bargaining Defects
+## VIIh Unconscionability -  Procedural and Substantive Bargaining Defects
 
 **Williams v. Walker-Thomas Furniture Co.**
 
@@ -640,11 +671,11 @@ What is the difference between the doctrines of void as against public policy an
 
 Consider any other contract defenses that might have been available to Williams.  What key fact or facts are necessary to implicate each of those possible defenses?
 
-# 8. CHANGES AFTER CONTRACT FORMATION
+# EIGHT - CHANGES AFTER CONTRACT FORMATION
 
-# 8.1. Impracticability
+## VIIIa Impracticability
 
-# 8.2. Agreed Modifications
+## VIIIb Agreed Modifications
 
 **Alaska Packers’ Ass’n v. Domenico et al.**
 
@@ -677,15 +708,15 @@ RST § 89
 
 Draft a modification to the Alaska Packers contract that would be more immune to challenge.  
 
-# 8.3. Theoretical Perspective - Neo-Classical Economics and Socioeconomics
+## VIIIc Theoretical Perspective - Neo-Classical Economics and Socioeconomics
 
 What neo-classical economic assumptions does the court make in Alaska Packers that may have influenced the outcome of the case?  How might you challenge those assumptions?
 
-# 9. CONTENT OF THE CONTRACT
+# NINE - CONTENT OF THE CONTRACT
 
-## 9.1. Interpretation
+## IXa Interpretation
 
-## 9.1.1. Implied Terms
+## IXai Implied Terms
 
 - Good faith
 - Missing terms / Gap filling
@@ -706,7 +737,7 @@ What neo-classical economic assumptions does the court make in Alaska Packers th
 - Factual arguments in support of that holding:
 - Factual counterarguments:
 
-# 9.1.2. Express Terms
+## IXaii Express Terms
 
 - Objective Theory revisited
 - Maxims of Interpretation
@@ -730,13 +761,13 @@ Text pp 587-590, 593-597
 
 UCC § 201-203, 206-207
 
-# 9.2. Theoretical Perspective - Formalism and Legal Realism
+## IXb Theoretical Perspective - Formalism and Legal Realism
 
 Was Nanakuli decided from a Formalist / Classical Contract Law perspective or a Legal Realist perspective? What clues does the court give of its theoretical perspective? How might the outcome have changed had the judge adopted a different theoretical perspective?
 
 What about Pacific Gas?
 
-# 9.3. Parol Evidence Rule - Written Agreements and Extrinsic Evidence
+## IXc Parol Evidence Rule - Written Agreements and Extrinsic Evidence
 
 **Betaco, Inc. v. Cessna Aircraft Co.**
 
@@ -756,7 +787,7 @@ RST §§ 209, 210, 214-216
 
 What is a “merger” clause?  Why should a lawyer include it when drafting a contract?  Must a lawyer include it?  
 
-# 10. BREACH OF CONTRACT
+# TEN - BREACH OF CONTRACT
 
 A. Constructive Conditions and Substantial Performance
 
