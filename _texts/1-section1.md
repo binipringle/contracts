@@ -1,14 +1,17 @@
 ---
 layout: narrative
-title: More expansive notes from class
+title: Notes
 author:
 editor: Sabina Pringle
 source: Handout from class
 toc:
-- What promises should the law enforce? (problem posted on TWEN)
+- January 20, 2021
 
 ---
-# What promises should the law enforce? (problem posted on TWEN)
+
+## January 20, 2021
+
+What promises should the law enforce? (problem posted on TWEN)
 
 1. **From Kirksy v. Kirksy** Anne is a widow raising several children. She and her children lived on a homesteading claim on public land. Anne received a letter from her brother-in-law that stated: “Dear sister Anne—I felt terrible upon learning of brother Henry’s death. I do not know if you have a preference on the place you are living on, but if you do, I would advise you to sell the land. If you come down to see me, I will let you have a place to raise your family, and I have more open land than I can tend; on account of your situation, and that of your family, I feel I want you and the children to do well. Your brother-in-law, Henry.” Within a month or two of receiving this letter, Anne abandoned her homestead, moved into a house provided by Henry and began to farm his land. At first he put her and her family in a comfortable house and gave her land to cultivate, but at the end of two years, he notified her to move, and put her in a shack in the woods. He later asked her to move from that as well. If Anne sues Henry, should she be able to enforce his “promise” to give her a place to live with her children? Why or why not?
 
