@@ -5,26 +5,26 @@ author:
 editor: Sabina Pringle
 source: Law in the Market Economy (Contracts) - doctrinal course CUNY School of Law, Professor Zalesne, Spring 2021
 toc:
-- ONE - INTRODUCTION
+- I Introduction
 - Ia The Bargain Principle
 - Ib Theoretical Perspectives
-- TWO - OBJECTIVITY
+- II Objectivity
 - IIa The Objective Theory of Interpretation
 - IIb Policy
-- THREE - CONTRACT FORMATION - ASSENT
+- III Assent
 - IIIa Was there an Offer?
 - IIIb Was there Acceptance?
-- IIIc Revocation of the Offer Prior to Acceptance - Unilateral Contracts, Option Contacts and Firm Offers
-- FOUR - CONTRACT FORMATION - CONSIDERATION
-- IVa The Origins and Elements of the Consideration Doctrine - “Legal Detriment” and “Bargained-For”
+- IIIc Revocation Prior to Acceptance
+- IV Consideration
+- IVa Legal Detriment and Bargained-For
 - IVb Neo-Classical Economic Theory
 - IVc Critical Legal Theory
-- FIVE - ALTERNATIVES TO THE BARGAIN MODEL
+- V Alternatives to Bargain Model
 - Va The Promise
 - Vb Reasonable Reliance
 - Vc The Restitution Principle
-- SIX - CONTRACT FORMATION - STATUTE OF FRAUDS
-- SEVEN - DEFENSES - EXPLICIT POLITICAL, ECONOMIC, AND MORAL CONTROLS ON CONTRACTING
+- VI Statute of Frauds
+- VII Defenses Explicit Political Economic Moral Controls
 - VIIa Public Policy
 - VIIb Lack of Capacity - Who Can Contract?
 - VIIbi Children
@@ -32,24 +32,24 @@ toc:
 - VIIc Duress - Force and Threats
 - VIId Miscommunication
 - VIIe Misunderstanding
-- VIIf Misrepresentation - False Statements, Duty to Read and Duty to Disclose
+- VIIf Misrepresentation, False Statements
 - VIIg Theoretical Perspective
-- VIIh Unconscionability -  Procedural and Substantive Bargaining Defects
-- EIGHT - CHANGES AFTER CONTRACT FORMATION
+- VIIh Unconscionability
+- VIII Changes After Contract Formation
 - VIIIa Impracticability
 - VIIIb Agreed Modifications
-- VIIIc Theoretical Perspective - Neo-Classical Economics and Socioeconomics
-- NINE - CONTENT OF THE CONTRACT
+- VIIIc Neo-Classical Economics and Socioeconomics
+- IX Content of the Contract
 - IXa Interpretation
 - IXai Implied Terms
 - IXaii Express Terms
-- IXb Theoretical Perspective - Formalism and Legal Realism
-- IXc Parol Evidence Rule - Written Agreements and Extrinsic Evidence
-- TEN - BREACH OF CONTRACT
+- IXb Formalism and Legal Realism
+- IXc Parol Evidence Rule
+- X Breach of Contract
 
 ---
 
-# ONE - INTRODUCTION
+# I Introduction
 
 **Contracts**
 
@@ -151,7 +151,7 @@ As social justice lawyers we will consider: how can these assumptions be challen
 - Reliance theory (involves promises to give gifts. Seeks to protect those who reasonably rely on others.)
 - Restitution theory (one ought to pay for any benefit unjustly retained. Goal is to prevent unjust enrichment.)
 
-# TWO - OBJECTIVITY
+# II Objectivity
 
 This is where I'll write something about this.
 
@@ -185,7 +185,7 @@ Why, as a policy matter, does contract law opt for the objective approach?
 
 Brief Embry for class.  I will post a sample brief on TWEN with a discussion of the choices that the author of the sample brief made.  Consider the differences between yours and the sample and the likely reasons for the differences.   
 
-# THREE - CONTRACT FORMATION - ASSENT
+# III Assent
 
 ## IIIa Was there an Offer?
 
@@ -284,7 +284,7 @@ What justifies the common law mirror image rule? Under what circumstances does t
 
 In class, we will discuss the contrast between Formalism and Legal Realism as illustrated by the difference between the RST and the UCC.
 
-## IIIc Revocation of the Offer Prior to Acceptance - Unilateral Contracts, Option Contacts and Firm Offers
+## IIIc Revocation Prior to Acceptance
 
 **Dickinson v. Dodds**
 
@@ -306,9 +306,9 @@ Text pp 155-159, 161-168 (top)
 
 RST §§ 25, 45, 87
 
-# FOUR - CONTRACT FORMATION - CONSIDERATION
+# IV Consideration
 
-## IVa The Origins and Elements of the Consideration Doctrine - “Legal Detriment” and “Bargained-For”
+## IVa Legal Detriment and Bargained-For
 
 **Hamer v. Sidway**
 
@@ -388,7 +388,7 @@ Would the outcome of Lawrence change if Ethel Lawrence had been a paying patient
 
 What would have been a more persuasive way for the clinic to make the case that there was no consideration in Lawrence?
 
-# FIVE - ALTERNATIVES TO THE BARGAIN MODEL
+# V Alternatives to Bargain Model
 
 A. The Reliance principle: Promissory Estoppel
 
@@ -467,7 +467,7 @@ Text pp 46-53, 292-303
 
 Consider what each case adds to your understanding of the doctrine of Restitution.  Consider the role the cases will ultimately play in your outline of Restitution.
 
-# SIX - CONTRACT FORMATION - STATUTE OF FRAUDS
+# VI Statute of Frauds
 
 A. When is a Writing Necessary?
 
@@ -487,7 +487,7 @@ DOCTRINAL FOCUS	READING
 
 ASSIGNMENT	SKILLS FOCUS AND THOUGHT QUESTIONS
 
-# SEVEN - DEFENSES - EXPLICIT POLITICAL, ECONOMIC, AND MORAL CONTROLS ON CONTRACTING
+# VII Defenses Explicit Political Economic Moral Controls
 
 ## VIIa Public Policy
 
@@ -614,7 +614,7 @@ Text pp 389-396
 
 RST § 20
 
-## VIIf Misrepresentation - False Statements, Duty to Read and Duty to Disclose
+## VIIf Misrepresentation, False Statements
 
 **Kang v. Harrington**
 
@@ -645,7 +645,7 @@ What are the four elements required for a showing of misrepresentation?  Use §�
 Consider background assumptions the court may have made about women and widows in Vokes.  What role do you think Vokes’s
 gender played in the court’s reasoning? What role do you think race, class, or gender should play in analyzing a party’s behavior? We will use this case and these theoretical issues as the basis of a discussion on competing economic theories about the appropriate role of these characteristics in legal reasoning.
 
-## VIIh Unconscionability -  Procedural and Substantive Bargaining Defects
+## VIIh Unconscionability
 
 **Williams v. Walker-Thomas Furniture Co.**
 
@@ -671,7 +671,7 @@ What is the difference between the doctrines of void as against public policy an
 
 Consider any other contract defenses that might have been available to Williams.  What key fact or facts are necessary to implicate each of those possible defenses?
 
-# EIGHT - CHANGES AFTER CONTRACT FORMATION
+# VIII Changes After Contract Formation
 
 ## VIIIa Impracticability
 
@@ -708,11 +708,11 @@ RST § 89
 
 Draft a modification to the Alaska Packers contract that would be more immune to challenge.  
 
-## VIIIc Theoretical Perspective - Neo-Classical Economics and Socioeconomics
+## VIIIc Neo-Classical Economics and Socioeconomics
 
 What neo-classical economic assumptions does the court make in Alaska Packers that may have influenced the outcome of the case?  How might you challenge those assumptions?
 
-# NINE - CONTENT OF THE CONTRACT
+# IX Content of the Contract
 
 ## IXa Interpretation
 
@@ -761,13 +761,13 @@ Text pp 587-590, 593-597
 
 UCC § 201-203, 206-207
 
-## IXb Theoretical Perspective - Formalism and Legal Realism
+## IXb Formalism and Legal Realism
 
 Was Nanakuli decided from a Formalist / Classical Contract Law perspective or a Legal Realist perspective? What clues does the court give of its theoretical perspective? How might the outcome have changed had the judge adopted a different theoretical perspective?
 
 What about Pacific Gas?
 
-## IXc Parol Evidence Rule - Written Agreements and Extrinsic Evidence
+## IXc Parol Evidence Rule
 
 **Betaco, Inc. v. Cessna Aircraft Co.**
 
@@ -787,7 +787,7 @@ RST §§ 209, 210, 214-216
 
 What is a “merger” clause?  Why should a lawyer include it when drafting a contract?  Must a lawyer include it?  
 
-# TEN - BREACH OF CONTRACT
+# X Breach of Contract
 
 A. Constructive Conditions and Substantial Performance
 
