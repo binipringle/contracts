@@ -14,6 +14,7 @@ toc:
 - III CONTRACT FORMATION - ASSENT
 - IIIa Was there an Offer?
 - IIIb Was there Acceptance?
+- 4 Revocation of the Offer Prior to Acceptance - Unilateral Contracts, Option Contacts and Firm Offers
 
 ---
 
@@ -120,6 +121,8 @@ As social justice lawyers we will consider: how can these assumptions be challen
 - Restitution theory (one ought to pay for any benefit unjustly retained. Goal is to prevent unjust enrichment.)
 
 # II OBJECTIVITY - INTERPRETING ACTS AND OR WORDS
+
+This is where I'll write something about this.
 
 ## IIa The Objective Theory of Interpretation
 
@@ -250,7 +253,7 @@ What justifies the common law mirror image rule? Under what circumstances does t
 
 In class, we will discuss the contrast between Formalism and Legal Realism as illustrated by the difference between the RST and the UCC.
 
-# Revocation of the Offer Prior to Acceptance - Unilateral Contracts, Option Contacts and Firm Offers
+# 4 Revocation of the Offer Prior to Acceptance - Unilateral Contracts, Option Contacts and Firm Offers
 
 **Dickinson v. Dodds**
 
