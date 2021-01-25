@@ -150,11 +150,15 @@ As social justice lawyers we will consider: how can these assumptions be challen
 - Reliance theory (involves promises to give gifts. Seeks to protect those who reasonably rely on others.)
 - Restitution theory (one ought to pay for any benefit unjustly retained. Goal is to prevent unjust enrichment.)
 
+---
+
 # II Objectivity
 
-This is where I'll write something about this.
+Note: As a general rule, oral contracts are enforceable (except if they are fraud); there is no general common law rule requiring written evidence of a contract. (82)
 
 ## IIa Objective theory of interpretation
+
+The "objective theory" of interpretation provides that words and conduct should be interpreted as a “reasonable person” would interpret them.
 
 **Embry v. Hargadine, McKittrick Dry Goods Co.**
 
@@ -172,15 +176,17 @@ This is where I'll write something about this.
 - Factual arguments in support of that holding:
 - Factual counterarguments:
 
-Text pp 59-66, 82-87
-
 ## IIb Policy
 
-What is the difference between the objective and subjective approaches to assent?
+Differences between objective and subjective tests:
 
-Why, as a policy matter, does contract law opt for the objective approach?
+The “objective theory” assumes that a standard of shared meaning already exists or that one ought to exist, and this assumption is controversial. (59)  When resolving disputes, courts using the objective approach determine the meaning of words, conduct and circumstances from the perspective of a reasonable person. Under the "subjective theory" of interpretation the court would evaluate what both people actually thought (by indirect evidence) andd the court would only find a contract if there had been a "meeting of the minds."  *This was the approach taken by the trial court in Embry.*
 
-Case Briefing: Brief Embry for class.  I will post a sample brief on TWEN with a discussion of the choices that the author of the sample brief made.  Consider the differences between yours and the sample and the likely reasons for the differences.   
+Three variations on the objective/reasonable person test:
+
+- (1) **"Reasonable person" as a "universal" observer** who is positioned outside of the history and circumstances of the parties and who sees and hears the words and conduct apart from the context in which they were uttered or performed. Associated with a formalist approach to law and legal interpretation not generally followed today. Some impact in contract interpretation (see chapter nine). Only relevant evidence is the specific words and content being interpreted.
+- (2) **Positioned reasonable person test** interprets the meaning of words and conduct according to the understanding of a "universal" observer who is placed in the position of the recipient of the communication. *This was used by the court in Embry.* Relevant evidence includes evidence of the history of the parties' relationship and of the circumstances surrounding the communications.
+- (3) **Socially situated reasonableness analysis** interprets the meaning of words and conduct according to the understanding of a "universal" observer who is placed in the position of the recipient of the communication but who also has the social identity of the recipient. Draws from the United Nations Convention on Contracts for the International Sale of Goods (UN CISG), which provides that statements and conduct of contracting parties should be interpreted accordidng to the parties' own shared meanings, but if these cannot be ascertained, then the statements should be interpreted according to the understanding that "a reasonable person *of the same kind* (including nationality, culture, religion and the like) as the other party would have had in the same circumstances." Relevant evidence includes the history and circumstances of the communication and also the practices of the parties' trades or communities and their own experiences in negotiations of this sort. Critics of the socially situated theory argue that it is better to challenge class and other bias in the objective theory than to invite judges to indulge in stereotypical versions of others' perspectives.
 
 # III Assent
 
