@@ -34,6 +34,6 @@ Missouri Court of Appeals 105 S.W. 777 (1907) (pp 59-66)
 - **Purpose:** Illustrates objective theory of interpretation
 - **Issue:**
 - **Rule:** Basic contract law does not require that agreements be made exclusively through verbal or written communications. Agreements can be implied in whole or in part through conduct alone or through usage of trade. *See RST Contracts Section 4* An implied agreement concerning the issue of transferability may arise in the absence of a specific agreement to the contrary if custom or practice in the industry provides for such an understanding.
-**Holding:** The court found that custom and practice in the industry was sufficient to imply an agreement between the parties.
+- **Holding:** The court found that custom and practice in the industry was sufficient to imply an agreement between the parties.
 
 ---
