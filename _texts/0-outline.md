@@ -61,6 +61,8 @@ toc:
 
 # I Intro to contract law
 
+[Glossary](https://binipringle.github.io/contracts/texts/glossary/)
+
 ## Sources of Law
 
 - Common law - determines what constitutes a contract - RST is restatement of common law
