@@ -5,7 +5,8 @@ author:
 editor: Sabina Pringle
 source: Law in the Market Economy (Contracts) - doctrinal course CUNY School of Law, Professor Zalesne, Spring 2021
 toc:
-- I Introduction to contract law
+- I Intro to contract law
+- Sources of Law
 - Ia The Bargain Principle
 - Ib Theoretical perspectives
 - II Objectivity
@@ -58,21 +59,29 @@ toc:
 
 ---
 
-# I Introduction to contract law
+# Glossary (get defs in RST)
 
-- Law of private agreements
-- Exercise of individual freedoms
-- Process of self-determination that involves exchanges and agreements between private parties
-- Parties have almost unfettered freedom to make their own bargains
+Promise
+Promisor
+Promisee
+Beneficiary
+Offeror
+Offeree
+Agreement
+Contract (defined in RST 1)
+Mutual assent: offer and acceptance of both parties
 
-Default rules come from:
 
-- Common law - determines what constitutes a contract
+# I Intro to contract law
+
+## Sources of Law
+
+- Common law - determines what constitutes a contract - RST is restatement of common law
 - Legislation
 - UCC Art. 2 - Uniform Commercial Code governs the sale of goods. Services are not governed by UCC. Real Estate is not covered by UCC. UCC has a separate set of law from common law. If something is a good, UCC applies.
 - UN CISG - like UCC but for international sale of goods
 - Commentary
-- Restatement (Second) of Contracts - not law; summary of law; very influential
+- Restatement (Second) of Contracts - not law; summary of law; very influential (common law)
 - Law reviews, treatises, etc.
 
 Questions to ask: Is there a contract? If contract, is it enforceable? What are the terms? Did a party breach? If there's breach, what are the damages?
@@ -144,6 +153,14 @@ As social justice lawyers we will consider: how can these assumptions be challen
 - considers social norms, disparate bargaining power, sexism, racism, educational inequalities and other inequalities
 - recognizes the capacity for empathy
 
+**(Legal) Formalism**
+
+- words rule. They have a distinct meaning.
+
+**Contextual approach**  
+
+- the objective test
+
 ## Three principles of contract lawyers
 
 - Bargain theory (agreement to exchange one thing for another gives rise to mutual obligations)
@@ -158,7 +175,12 @@ Note: As a general rule, oral contracts are enforceable (except if they are frau
 
 ## IIa Objective theory of interpretation
 
-The "objective theory" of interpretation provides that words and conduct should be interpreted as a “reasonable person” would interpret them.
+**Definition:** The "objective theory" of interpretation provides that words and conduct should be interpreted as a “reasonable person” would interpret them.
+
+Used to determine:
+
+- whether there was an offer
+- whether there was acceptance
 
 **Embry v. Hargadine, McKittrick Dry Goods Co.** *see case brief and distill a lot**
 
@@ -184,28 +206,15 @@ Differences between objective and subjective tests:
 
 The “objective theory” assumes that a standard of shared meaning already exists or that one ought to exist, and this assumption is controversial. (59)  When resolving disputes, courts using the objective approach determine the meaning of words, conduct and circumstances from the perspective of a reasonable person. Under the "subjective theory" of interpretation the court would evaluate what both people actually thought (by indirect evidence) andd the court would only find a contract if there had been a "meeting of the minds."  *This was the approach taken by the trial court in Embry.* Subjective test allows for differences between people. It prevents contracts being formed by accident.
 
-**Three variations on the reasonable person test:**
+## Three variations on the reasonable person test
 
-- (1) **Universal reasonable person:** Relevant evidence; just specific words being interpreted. Words have set meaning. Positioned outside of the history and circumstances of the parties and who sees and hears the words and conduct apart from the context in which they were uttered or performed. Associated with a formalist approach to law and legal interpretation not generally followed today. Some impact in contract interpretation (see chapter nine). Only relevant evidence is the specific words and content being interpreted. If the court were using this test in Embry, they would only be looking at the words McKittrick said, not context. Embry's request is context. The context and timing led the court to find that there was a context. Critique of universal: it favors the powerful party.
-- (2) **Positioned reasonable person test** interprets the meaning of words and conduct according to the understanding of a "universal" observer who is placed in the position of the recipient of the communication. *This was used by the court in Embry.* Relevant evidence includes evidence of the history of the parties' relationship and of the circumstances surrounding the communications.
-- (3) **Socially situated reasonableness analysis** interprets the meaning of words and conduct according to the understanding of a "universal" observer who is placed in the position of the recipient of the communication but who also has the social identity of the recipient. Draws from the United Nations Convention on Contracts for the International Sale of Goods (UN CISG), which provides that statements and conduct of contracting parties should be interpreted accordidng to the parties' own shared meanings, but if these cannot be ascertained, then the statements should be interpreted according to the understanding that "a reasonable person *of the same kind* (including nationality, culture, religion and the like) as the other party would have had in the same circumstances." Relevant evidence includes the history and circumstances of the communication and also the practices of the parties' trades or communities and their own experiences in negotiations of this sort. Critics of the socially situated theory argue that it is better to challenge class and other bias in the objective theory than to invite judges to indulge in stereotypical versions of others' perspectives. Very essentializing.
+**(1) Universal reasonable person:** Relevant evidence; just specific words being interpreted. Words have set meaning. Positioned outside of the history and circumstances of the parties and who sees and hears the words and conduct apart from the context in which they were uttered or performed. Associated with a formalist approach to law and legal interpretation not generally followed today. Some impact in contract interpretation (see chapter nine). Only relevant evidence is the specific words and content being interpreted. If the court were using this test in Embry, they would only be looking at the words McKittrick said, not context. Embry's request is context. The context and timing led the court to find that there was a context. Critique of universal: it favors the powerful party.
 
-The critique of the reasonable person test whichever way you look at it is the problem of bias, of essentialiizing. Race. Gender. Class. The objective test is the test that courts use, because it's more rational than the subjective test. So we have to figure out how to use it in the least harmful way.
-
-The key is that either a reasonable person interpreted in a way or *should have* interpreted it in that way.
-
-**Revisit Local 1330 v. US Steel**
-
-- Workers take wage concessions etc. thinking it will keep steel mills open andd save their jobs. Company decides to shut dddown the steel mills. 4000 workers lost their job. Sued based on alleged promise off company to keep the plants open as long as they remain profitable Workers claimed that there was a promise basedd on various statements of the company execs. "Your cooperation and assistance is absolutely necessary if our facilities are to continue to operate." Enforceable promise? Both sides could be argued. Here the court took a very narrow focus.
-- If you wanted to say yes there was a promise, you look at the relationships, how people had very little power. Make the caase by putting yourself in the shoes of the workers, what they heard and how they world interrpret it.
-
-**Using the objective test:**
-
-Questions to ask: How did the court determine what a reasonable person would have thought? What facts did the court rely on? What facts support a counterargument that a reasonable person would not think McKittrick was agreeing to renew the contract?
+**(2) Positioned reasonable person test** interprets the meaning of words and conduct according to the understanding of a "universal" observer who is placed in the position of the recipient of the communication. *This was used by the court in Embry.* Relevant evidence includes evidence of the history of the parties' relationship and of the circumstances surrounding the communications.
 
 Turn the facts into factors. If you take these facts and turn them into factors you can use in the next case, then you can use them.
 
-## Factors
+**Factors**
 
 - clarity of representation
 - seriousness
@@ -218,6 +227,23 @@ Turn the facts into factors. If you take these facts and turn them into factors 
 - Etc.
 
 What was said? And what would that lead a reasonable person to believe? Use factors.
+
+U.S. Steel Hypo
+
+**(3) Socially situated reasonableness analysis** interprets the meaning of words and conduct according to the understanding of a "universal" observer who is placed in the position of the recipient of the communication but who also has the social identity of the recipient. Draws from the United Nations Convention on Contracts for the International Sale of Goods (UN CISG), which provides that statements and conduct of contracting parties should be interpreted accordidng to the parties' own shared meanings, but if these cannot be ascertained, then the statements should be interpreted according to the understanding that "a reasonable person *of the same kind* (including nationality, culture, religion and the like) as the other party would have had in the same circumstances." Relevant evidence includes the history and circumstances of the communication and also the practices of the parties' trades or communities and their own experiences in negotiations of this sort. Critics of the socially situated theory argue that it is better to challenge class and other bias in the objective theory than to invite judges to indulge in stereotypical versions of others' perspectives. Very essentializing.
+
+The critique of the reasonable person test whichever way you look at it is the problem of bias, of essentialiizing. Race. Gender. Class. The objective test is the test that courts use, because it's more rational than the subjective test. So we have to figure out how to use it in the least harmful way.
+
+The key is that either a reasonable person interpreted in a way or *should have* interpreted it in that way.
+
+**Revisit Local 1330 v. US Steel**
+
+- Workers take wage concessions etc. thinking it will keep steel mills open andd save their jobs. Company decides to shut down the steel mills. 4000 workers lost their job. Sued based on alleged promise off company to keep the plants open as long as they remain profitable Workers claimed that there was a promise basedd on various statements of the company execs. "Your cooperation and assistance is absolutely necessary if our facilities are to continue to operate." Enforceable promise? Both sides could be argued. Here the court took a very narrow focus.
+- If you wanted to say yes there was a promise, you look at the relationships, how people had very little power. Make the caase by putting yourself in the shoes of the workers, what they heard and how they world interrpret it.
+
+**Using the objective test:**
+
+Questions to ask: How did the court determine what a reasonable person would have thought? What facts did the court rely on? What facts support a counterargument that a reasonable person would not think McKittrick was agreeing to renew the contract?
 
 **Hypo** from Death of a Salesman:
 
