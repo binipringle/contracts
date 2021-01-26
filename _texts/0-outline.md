@@ -170,14 +170,13 @@ The "objective theory" of interpretation provides that words and conduct should 
 
 **R.L.M. Dist. Co. v. W.A. Taylor, Inc.**
 
-- **Purpose:** Illustrates objective theory of interpretation
-- **Issue:**
+- **Issue:** Whether custom and practice in the industry was sufficient to imply an agreement between the parties.
 - **Rule:** Contract assent can be express or implied. Agreements can be implied in whole or in part through conduct alone or through usage of trade. *See RST Contracts Section 4* An implied agreement concerning the issue of transferability may arise in the absence of a specific agreement to the contrary if custom or practice in the industry provides for such an understanding.
 - **Holding:** The court found that custom and practice in the industry was sufficient to imply an agreement between the parties.
-- Factual arguments in support of that holding:
-- Factual counterarguments:
+- **Factual arguments in support of that holding:** In the RLM case, the custom in the industry was that if you transfer a business you also transfer distribution rights. So a reasonable person would believe that here too. So absent any other facts a party would be reasonable to believe that parties were following custom. If you don't follow custom you have to be explicit.
+- **Factual counterarguments:** Transferability was not explicit.
 
-In the RLM case, the custom in the industry was that if you transfer a business you also transfer distribution rights. So a reasonable person would believe that here too. So absent any other facts a party would be reasonable to believe that parties were following custom. If you don't follow custom you have to be explicit. The very fact that you are using the objective test means that there was no express intent - no "I promise to sell you my car" - implied agreement can arise by virtue of conduct and custom or practice in the industry - use objective test.
+The very fact that you are using the objective test means that there was no express intent - no "I promise to sell you my car" - implied agreement can arise by virtue of conduct and custom or practice in the industry - use objective test.
 
 ## IIb Policy
 
