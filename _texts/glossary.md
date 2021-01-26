@@ -7,8 +7,6 @@ source:
 
 ---
 
-# Glossary (get defs in RST)
-
 - Promise  
 - Promisor
 - Promisee
