@@ -65,15 +65,15 @@ toc:
 
 ## Sources of Law
 
-- Common law - determines what constitutes a contract - RST is restatement of common law
-- Legislation
-- UCC Art. 2 - Uniform Commercial Code governs the sale of goods. Services are not governed by UCC. Real Estate is not covered by UCC. UCC has a separate set of law from common law. If something is a good, UCC applies.
-- UN CISG - like UCC but for international sale of goods
-- Commentary
-- Restatement (Second) of Contracts - not law; summary of law; very influential (common law)
-- Law reviews, treatises, etc.
+- **Common law** - determines what constitutes a contract - RST is restatement of common law
+- **Legislation**
+- **UCC Art. 2 - Uniform Commercial Code** governs the sale of goods. Services are not governed by UCC. Real Estate is not covered by UCC. UCC has a separate set of law from common law. If something is a good, UCC applies.
+- **UN CISG** - like UCC but for international sale of goods
+- **Commentary**
+- **Restatement (Second) of Contracts** - not law; summary of law; very influential (common law)
+- **Law reviews, treatises, etc.**
 
-Questions to ask: Is there a contract? If contract, is it enforceable? What are the terms? Did a party breach? If there's breach, what are the damages?
+Broad steps of analysis: Is there a contract? If contract, is it enforceable? What are the terms? Did a party breach? If there's breach, what are the damages?
 
 Why should the law enforce any promises?
 
