@@ -256,15 +256,47 @@ Relationship of the parties. An employee and an employer. An employee asking a q
 
 # III Assent
 
+Note on the polarity of the offer-acceptance model: In § 2-204(b) of the UCC, Professor Karl Llewelyn sought to reform the "yes/no - was there a contract" polarity of contract formation:
+
+- (b) An agreement sufficient to constitute a contract for sale may be found even though the moment of its making is undetermined.
+
+This allows courts to develop a flexible open-ended model of contract formation in contracts for the sale of goods.
+
 ## IIIa Was there an offer?
 
-**Leonard v. Pepsico**
+Did there come a time in the communication between the parties when either party communicated a "willingness to enter into a bargain, so made to justify [a reasonable person in the position of the other party] in understanding that his assent to that bargain is invited and will conclude it"? See RST § 24.
 
-- Issue:
-- Why issue matters:
+**Four factors**
+
+1. Did the words of the communication indicate a willingness, at that moment, to make a committment? If so, the communication appears more like an offer.
+2. To how many people was the communication directed? If to one person, the communication appears more like an offer.
+3. Did the communication include detailed terms? If so, the communication appears more like an offer.
+4. Are there any relevant community practices ("trade practices"), past conversations between the parties, past contracts between the parties ("course of dealings"), or other circumstances that would inform a reasonable person's interpretation of the communication? If so, these may make the communication appear to be more or less like an offer.
+
+<p style="margin-left:10%; margin-right:10%;">Generaliizations:</p>
+
+<p style="margin-left:15%; margin-right:10%;">1. Generally, advertisements should not be characterized as offers because they are addressed to a large number of people.</p>
+
+<p style="margin-left:15%; margin-right:10%;">2. Generally, price quotes, catalogues and price lists should not be characterized as offers because they are phrased in general terms, not focused on a specific order or job, and are addressed to many people.</p>
+
+<p style="margin-left:15%; margin-right:10%;">3. Generally, putting a price tag on an item and putting it on a shelf in a store should not be characterized as an offer because sellers can change a price tag or remove the item without notifying buyers.</p>
+
+**John D.R. Leonard v. Pepsico, Inc.** U.S. District Court, SDNY (1999)  
+
+- **Issue:** Whether accepting the terms of an advertisement that is not clear and intended to be a joke can create an enforceable contract.
+- **Facts:**
+- **I. Uncontested facts:** Pepsico was going to run a promotional campaign called "Pepsi Stuff" which encouraged consumers to collect points from Pepsi packaging and redeem them for Pepsi branded merchandise. Before launching the campaign, to test the promotion, Pepsico broadcast a TV commercial that showed someone redeeming their points for a Harrier jet. Pepsico also distributed a Pepsi Stuff catalog in Washington State which listed various items exchangeable for points but not the Harrier jet. An order form that came with the catalog had check boxes for ordering the items advertised in the catalog but not the Harrier jet. The catalog stated that merchandise could only be ordered with the order form.
+- **II. Appellant Leonard’s factual allegations:** Plaintiff Leonard alleged that he saw the commercial with the Harrier jet and based on the commercial, believed that he could redeem 7.000.000 Pepsi Stuff points for a Harrier jet. Through collecting and buying points for this purpose, Leonard amassed about 700,000 points.
+- **III. Respondent Pepsico’s factual allegations:** Defendant Pepsico alleged that the advertisement in the commercial stating that the Harrrier jet could be purchased with 7,000,000 Pepsi Stuff points was a joke. 
+- IV. The appellate court’s resolution of the fact:
+- Procedural History:
+- Court’s Reasoning:
+- Rule/Law:
+- Application:
+- Policy:
 - Holding:
-- Factual arguments in support of that holding:
-- Factual counterarguments:
+- Disposition:
+- Context (why the case was assigned):
 
 **Lefkowitz v. Great Minneapolis Surplus** (discussed in Pepsi)
 

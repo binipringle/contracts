@@ -37,3 +37,60 @@ Missouri Court of Appeals 105 S.W. 777 (1907) (pp 59-66)
 - **Holding:** The court found that custom and practice in the industry was sufficient to imply an agreement between the parties.
 
 ---
+
+**Name v. Name** Court, year (kind of court)
+
+- Issue:
+- Facts:
+- I. Uncontested facts:
+- II. Appellant NAME’s factual allegations:
+- III. Respondent NAME’s factual allegations:
+- IV. The appellate court’s resolution of the fact:
+- Procedural History:
+- Court’s Reasoning:
+- Rule/Law:
+- Application:
+- Policy:
+- Holding:
+- Disposition:
+- Context (why the case was assigned):
+
+---
+
+**Name v. Name** Court, year (kind of court)
+
+- Issue:
+- Facts:
+- I. Uncontested facts:
+- II. Appellant NAME’s factual allegations:
+- III. Respondent NAME’s factual allegations:
+- IV. The appellate court’s resolution of the fact:
+- Procedural History:
+- Court’s Reasoning:
+- Rule/Law:
+- Application:
+- Policy:
+- Holding:
+- Disposition:
+- Context (why the case was assigned):
+
+---
+
+**Name v. Name** Court, year (kind of court)
+
+- Issue:
+- Facts:
+- I. Uncontested facts:
+- II. Appellant NAME’s factual allegations:
+- III. Respondent NAME’s factual allegations:
+- IV. The appellate court’s resolution of the fact:
+- Procedural History:
+- Court’s Reasoning:
+- Rule/Law:
+- Application:
+- Policy:
+- Holding:
+- Disposition:
+- Context (why the case was assigned):
+
+---
