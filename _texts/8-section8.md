@@ -4,7 +4,36 @@ title: Case briefing template
 author:
 editor: Sabina Pringle
 source: Laura Mott, Academic Orientatation, Summer 2020
+toc:
+- Template from Embry brief
+- Template from Skills, Summer 2020
+
 ---
+
+# Template from Embry brief
+
+**Name v. Name** Court, year (kind of court)
+
+- Issue:
+- Facts:
+- I. Uncontested facts:
+- II. Appellant NAME’s factual allegations:
+- III. Respondent NAME’s factual allegations:
+- IV. The appellate court’s resolution of the fact:
+- Procedural History:
+- Court’s Reasoning:
+- Rule/Law:
+- Application:
+- Policy:
+- Holding:
+- Disposition:
+- Context (why the case was assigned):
+
+Note: I should probably nest some of these when I'm happy with the brief.
+
+---
+
+# Template from Skills, Summer 2020
 
 Caption: Case Name, Page #, Parties, Court, Year
 
