@@ -264,7 +264,39 @@ This allows courts to develop a flexible open-ended model of contract formation 
 
 ## IIIa Was there an offer?
 
+Offer and Acceptance: both require assent. Two steps:
+
+1. Did a party make an offer?   
+2. Was there acceptance?  "Manifestation of intent to enter into a bargain on the terms proposed by the offeror."
+
+Mutuality: No contract is formed unless both parties manifest the willingness to enter into a bargain.
+
 Did there come a time in the communication between the parties when either party communicated a "willingness to enter into a bargain, so made to justify [a reasonable person in the position of the other party] in understanding that his assent to that bargain is invited and will conclude it"? See RST § 24.
+
+**Hypo** I promise to give you $100 if you give me the apples. The whole thing is an offer. If
+
+Rule for offer: An offer is a "manifestation of intent to enter into a bargain made by offeror to offeree." No formalities are required. May be written or spoken or other conduct. May be implied by the facts. Offer can be made by the buyer or seller. all that is required are words or conduct that would lead a reasonable person in the shoes of the party to believe a promise has been made.
+
+Hypos: are these an offer?
+COPY THE THREE HYPOS FROM SLIDES
+
+HYPOS
+
+5/20 Rancher stops by to talk to his neigbor. Tells neighbbor he's intersted in selling his ranch and asks if neighbor is interested in buying.
+neighbor says he's interested and he will see if he can find the money. Rancher says he'll determine the value of the property andd get back to the neighbor.
+6/13 neighbor calls the rancher to see if he was still selling. Rancher replies that he was still selling and that there's just a little delay. Says, "don't worry, everything is in order."
+6/17 Rancher sends a letter to the neighhbor and to three other neighbors asking if they'd be intersstedd in buying the ranch. The letter details the price and all the terms.
+Did the rancher an offer to the neighbor? Did hhe make an offer to the other neighbors?
+
+This is an advertisement. Too many people.
+
+An advertisement that induces performance can be an offer.  
+
+Hypo: The Gap is putting an ad in the paper that they are selling a sweater
+
+- Will you sell me your property for $60,000? I said yes. Seems like no, it's not an offer because it's too vague and doesn't provide enough detail, and isn't a promise.
+- It would not be possible  
+-
 
 **Four factors**
 
@@ -287,11 +319,11 @@ Did there come a time in the communication between the parties when either party
 - **Facts:**
 - **I. Uncontested facts:** Pepsico was going to run a promotional campaign called "Pepsi Stuff" which encouraged consumers to collect points from Pepsi packaging and redeem them for Pepsi branded merchandise. Before launching the campaign, to test the promotion, Pepsico broadcast a TV commercial that showed someone redeeming their points for a Harrier jet. Pepsico also distributed a Pepsi Stuff catalog in Washington State which listed various items exchangeable for points but not the Harrier jet. An order form that came with the catalog had check boxes for ordering the items advertised in the catalog but not the Harrier jet. The catalog stated that merchandise could only be ordered with the order form.
 - **II. Appellant Leonard’s factual allegations:** Plaintiff Leonard alleged that he saw the commercial with the Harrier jet and based on the commercial, believed that he could redeem 7.000.000 Pepsi Stuff points for a Harrier jet. Through collecting and buying points for this purpose, Leonard amassed about 700,000 points.
-- **III. Respondent Pepsico’s factual allegations:** Defendant Pepsico alleged that the advertisement in the commercial stating that the Harrrier jet could be purchased with 7,000,000 Pepsi Stuff points was a joke. 
+- **III. Respondent Pepsico’s factual allegations:** Defendant Pepsico alleged that the advertisement in the commercial stating that the Harrrier jet could be purchased with 7,000,000 Pepsi Stuff points was a joke.
 - IV. The appellate court’s resolution of the fact:
 - Procedural History:
 - Court’s Reasoning:
-- Rule/Law:
+- **Rule/Law:** For an advertisement to be an offer, there must be some language of commitment (on whose part?) or some invitation to take action without further communication (could this invitation to take action be an order form?). (99) Advertisements are mere requests to consider and examine and negotiate unless the circumstances are exceptional and the words used are very plain and clear. (99) An advertisement is not transformed into an enforceable offer merely by a potential offeree's expression of willingness to accept the offer through, among other means, completion of an order form. (99) Advertisements and the completion of order forms are mere notices and solicitations for offers. (99) Purchase orders are not enforceable contracts until they are accepted by the seller (99-100). RST § 26 states that "[a] manifestation of willingness to enter into a bargain is not an offer if the person to whom it is addressed knows or has reason to know that the person making it does not intend to conclude a bargain until he has madde a further manifestation of assent" (100).
 - Application:
 - Policy:
 - Holding:

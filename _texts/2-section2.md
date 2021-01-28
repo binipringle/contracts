@@ -38,6 +38,67 @@ Missouri Court of Appeals 105 S.W. 777 (1907) (pp 59-66)
 
 ---
 
+**John D.R. Leonard v. Pepsico, Inc.** U.S. District Court, SDNY (1999)  
+
+- **Issue:** Whether accepting the terms of an advertisement that is not clear and intended to be a joke can create an enforceable contract.
+- **Facts:**
+- **I. Uncontested facts:** Pepsico was going to run a promotional campaign called "Pepsi Stuff" which encouraged consumers to collect points from Pepsi packaging and redeem them for Pepsi branded merchandise. Before launching the campaign, to test the promotion, Pepsico broadcast a TV commercial that showed someone redeeming their points for a Harrier jet. Pepsico also distributed a Pepsi Stuff catalog in Washington State which listed various items exchangeable for points but not the Harrier jet. An order form that came with the catalog had check boxes for ordering the items advertised in the catalog but not the Harrier jet. The catalog stated that merchandise could only be ordered with the order form.
+- **II. Appellant Leonard’s factual allegations:** Plaintiff Leonard alleged that he saw the commercial with the Harrier jet and based on the commercial, believed that he could redeem 7.000.000 Pepsi Stuff points for a Harrier jet. Through collecting and buying points for this purpose, Leonard amassed about 700,000 points.
+- **III. Respondent Pepsico’s factual allegations:** Defendant Pepsico alleged that the advertisement in the commercial stating that the Harrrier jet could be purchased with 7,000,000 Pepsi Stuff points was a joke.
+- IV. The appellate court’s resolution of the fact:
+- Procedural History:
+- Court’s Reasoning:
+- **Rule/Law:** For an advertisement to be an offer, there must be some language of commitment (on whose part?) or some invitation to take action without further communication (could this invitation to take action be an order form?). (99) Advertisements are mere requests to consider and examine and negotiate unless the circumstances are exceptional and the words used are very plain and clear. (99) An advertisement is not transformed into an enforceable offer merely by a potential offeree's expression of willingness to accept the offer through, among other means, completion of an order form. (99) Advertisements and the completion of order forms are mere notices and solicitations for offers. (99) Purchase orders are not enforceable contracts until they are accepted by the seller (99-100). RST § 26 states that "[a] manifestation of willingness to enter into a bargain is not an offer if the person to whom it is addressed knows or has reason to know that the person making it does not intend to conclude a bargain until he has madde a further manifestation of assent" (100).
+- Application:
+- Policy:
+- Holding: Here, the court found that it was not an offer.
+- Disposition:
+- Context (why the case was assigned):
+
+**Lefkowitz v. Great Minneapolis Surplus** (discussed in Pepsi)
+
+- Issue:
+- Facts: Great Minneapolis Surplus Store published advertisement stating that on Saturday at 9 AM sharp 3
+- I. Uncontested facts:
+- II. Appellant NAME’s factual allegations:
+- III. Respondent NAME’s factual allegations:
+- IV. The appellate court’s resolution of the fact:
+- Procedural History:
+- Court’s Reasoning:
+- Rule/Law: An advertisement may constitute a contract if it is clear, definite and explicit, and leaves nothing open to negotiation.
+- Application: Because the coat ad was clear, definite and explicit, it was an offer. Lefkowitz accepted the offer by going to the store at the specific time with the money.
+- Policy:
+- Holding:
+- Disposition:
+- Context (why the case was assigned):
+
+**Carbolic Smoke Ball** (discussed in Pepsi)
+
+- Issue:
+- Facts:
+- I. Uncontested facts:
+- II. Appellant NAME’s factual allegations:
+- III. Respondent NAME’s factual allegations:
+- IV. The appellate court’s resolution of the fact:
+- Procedural History:
+- Court’s Reasoning:
+- Rule/Law: Advertisements offering rewards are offers to anyone who does perform the conditions named in the advertisement, and anybody who does perform the condition accepts the offer.  
+- Application:
+Factors:
+Invites performance.
+Extravagant promise: If a person chooses to make extravagant promises, it usually benefits them to make such a promise.
+Communiccates a willingness to commit: I have money in the bank stored away ready to pay you; this is a real offerr beccause ii have money.
+- Policy:
+- Holding:
+- Disposition:
+- Context (why the case was assigned): Law of unilateral offers
+
+Text pp 87-88, 95-107 (top)
+
+RST § 24
+
+---
+
 **Name v. Name** Court, year (kind of court)
 
 - Issue:
