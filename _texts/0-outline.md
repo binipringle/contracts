@@ -16,6 +16,7 @@ toc:
 - Using the objective test
 - Assent
 - Offer and acceptance
+- Acceptance
 - Revocation prior to acceptance
 - IV Consideration
 - IVa Legal detriment and bargained-for
