@@ -16,8 +16,10 @@ toc:
 - Using the objective test
 - Assent
 - Offer and acceptance
-- Acceptance
+- Mode of acceptance
+- Manner of Acceptance
 - Revocation prior to acceptance
+- Mirror image rule
 - IV Consideration
 - IVa Legal detriment and bargained-for
 - IVb Neo-Classical economic theory
@@ -417,7 +419,7 @@ Apply socially situated RP test - court says ad is targeting younger generation 
 
 *Based on the court’s holding, use the facts that the Pepsico court consider important in determining whether an offer had been made to construct a rule that future courts can use to determine whether there was an offer.*  
 
-## Acceptance
+## Mode of acceptance
 
 Mirror Image Rule and the Mode/ Manner of Acceptance
 
@@ -439,27 +441,51 @@ the court also addressed (2) Panhandle's "counteroffer" argument. The court note
 - **Disposition:** Appeals court affirmed ruling of lower court.
 - **Context (why the case was assigned):** To illustrate acceptance of offer/exclusive mode of acceptance.
 
-**Russell v. Texas Co.**
+## Manner of Acceptance
 
-- Issue:
-- Facts:
-- I. Uncontested facts:
-- II. Appellant NAME’s factual allegations:
-- III. Respondent NAME’s factual allegations:
-- IV. The appellate court’s resolution of the fact:
-- Procedural History:
-- Court’s Reasoning:
-- Rule/Law:
-- Application:
-- Policy:
-- Holding:
-- Disposition:
-- Context (why the case was assigned):
+**General rule:** An offer may specify any manner of acceptance that the offeror desires. (p. 109) If the offeror does not specify that a specific manner of acceptance is the only accepted manner, a court will interpret the offer to allow acceptance in any reasonable manner.
+
+**UCC § 2-206** provides "Unless otherwise unambiguously indicated by the language or circumstances ... an offer to make a contract shall be construed as inviting acceptance in any manner and by any medium reasonable in the circumstances." (p. 110)
+
+**Acceptance by promise (express or implied): bilateral contracts:** Usually, an acceptance will take the form of an express or implied promise (someone can accept an offer by making a promise). Promise to purchase in response to listing of sale (Southworth v. Oliver, p. 110); hand shake; handing of keys of motorbike to offeror of purchase. If an offer permits an acceptance by promise, then both parties are bound by the contract as soon as the return promise is made ("cross promises"). There are two promises. Hence bilateral. (p. 111)
+
+**Acceptance by full performance: unilateral contracts:**  If the offer specifies that it can only be accepted by full performance, the contract is not formed until the offeree has performed everything specified in the offer. After this is done, only the offeror needs to perform because the offeree has fully performed. Because only one party is obligated, this is a unilateral contract. (p. 111) In the past unilateral contracts were limited to rewards ("$500 if you find my dog") and contests ("$20 if you score five basketss in five minutes"). Now, many contracts are unilateral; for example, an insurance contract where insurance company promises to pay if insuree pays premium. An at-will employment contract is unilateral; courts have found that the employer makes a new offer each day and the employee accepts the offer by going to work each day. (p. 112)
+
+1. When an offer may be accepted by any reasonable means an offeree may accept by full performance or by promise. **RST § 32:** In case of doubt an offer is interpreted as inviting the offeree to accept either by promising to perform what the offer requests or by rendering the performance, as the offeree chooses.
+2. Sometimes an offer will expressly require acceptance by promise or accceptance by full performance as an exclusive mode of acceptancce.
+3. If the offer requests that the offeree do something dangerous, risky or unlikely to occur, the offer will implicitly require full performance. (p. 111)
+
+**Acceptance by silence:** The general rule is that silence cannot be acceptance. There are three exceptions:
+
+1. when the parties explicitly agree that silence will constitute acceptance (e.g. "if you don't hear from me by Friday you can assume the offer is accepted by us");
+2. when the parties' past dealings have established a practice in which silence conveys acceptance (i.e. when the parties have impliicitly agreed that silence will be accceptance); and
+3. when the offeree has already received the benefits of the offered contract.
+
+**Theodore B. Russell v. Texas Co.** U.S. Court of Appeals for the 9th Circuit, 238 F.2d 636 (1956)
+
+- **Issue:** Whether an offeree may vitiate a contract by a claim of lack of intention to accept an offer when he accepts and retains the benefits offered to him by the offeror, with a positive and affirmative proviso by the offeror that such acceptance of the benefits will, in and of itself, be deemed by the offeror to be an acceptance. (p. 115)
+- **Narrow Issue:** Whether Texas Co. accepted Russel's offer of a revocable license for use of real property section 23.
+- **Facts:**
+- **I. Uncontested facts:** Russell's predecessors acquired section 23 from the Northern Pacific Railway Company through a contract in 1918. In the contract and deed were miniral rights. The Texas Co. conducted operations in section 23 since 1952 under an oil and gas lease granted by Norrthern Pacific Railway Company. The Texas Co. has also made use of the surface of section 23.   
+- **II. Appellant Russel’s factual allegations:** Russel argued that its offer of a license to Texas Co. stated that the continued use of section 23 constituted acceptance.  
+- **III. Respondent Texas Co.’s factual allegations:** Texas Co. argued that it never accepted Russel's offer of a revocable license for the use of section 23 because Texas Co. did not intend to accept this offer.
+- **IV. The appellate court’s resolution of the fact:**
+- **Procedural History:** Russell sued Texas Co. for nonpayment in trial court. The trial court found that Texas Co. had accepted Russel's offer of a revocable contract and ruled that Texas Co. should therefore pay Russell damages. Texas Co. appealed.  
+- **Court’s Reasoning:** See application below.
+- **Rule/Law:** Under RST § 72.2 "Where the offeree exercises dominion over things which are offered to him, such exercise of dominion in the absence of other circumstances showing a contrary intention is an acceptance, though the offeree manifests an intention not to accept.""
+- **Application:** The court applied the reasonable person test which asks whether or not the offeror was led to reasonably believe that the act of the offeree was an acceptance; the court found that in this case, it was. (p. 116)
+- **Policy:**
+- **Holding:** An offeree may vitiate a contract by a claim of lack of intention to accept an offer when he accepts and retains the benefits offered to him by the offeror, with a positive and affirmative proviso by the offeror that such acceptance of the benefits will, in and of itself, be deemed by the offeror to be an acceptance.
+- **Disposition:** Judgement affirmed as to appelants.
+- **Context (why the case was assigned):** To illustrate acceptance by silence.
 -
 **Judicial Interpretation of Unread Boilerplate, Shrink Wrap, Click Wrap, and Browse Wrap Contracts**
 
-- Issue:
-- Why issue matters:
+- **Issue:** whether clicking on "I agree" to terms and conditions on a website is a contract.
+
+## Mirror image rule
+
+
 
 **Nguyen v. Barnes & Noble, Inc.**
 
