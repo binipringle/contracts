@@ -279,29 +279,17 @@ Did there come a time in the communication between the parties when either party
 
 **Hypo** I promise to give you $100 if you give me the apples. The whole thing is an offer. If
 
-Rule for offer: An offer is a "manifestation of intent to enter into a bargain made by offeror to offeree." No formalities are required. May be written or spoken or other conduct. May be implied by the facts. Offer can be made by the buyer or seller. all that is required are words or conduct that would lead a reasonable person in the shoes of the party to believe a promise has been made.
+**Rule for offer:** An offer is a "manifestation of intent to enter into a bargain made by offeror to offeree." No formalities are required. May be written or spoken or other conduct. May be implied by the facts. Offer can be made by the buyer or seller. all that is required are words or conduct that would lead a reasonable person in the shoes of the party to believe a promise has been made.
 
-Hypos: are these an offer?
-COPY THE THREE HYPOS FROM SLIDES
+Hypos: are these an offer? COPY THE THREE HYPOS FROM SLIDES
 
-HYPOS
+**Rancher hypo:** 5/20 Rancher stops by to talk to his neighbor. Tells neighbor he's interested in selling his ranch and asks if neighbor is interested in buying. Neighbor says he's interested and he will see if he can find the money. Rancher says he'll determine the value of the property and get back to the neighbor. 6/13 neighbor calls the rancher to see if he was still selling. Rancher replies that he was still selling and that there's just a little delay. Says, "don't worry, everything is in order." 6/17 Rancher sends a letter to the neighbor and to three other neighbors asking if they'd be interested in buying the ranch. The letter details the price and all the terms. Did the rancher an offer to the neighbor? Did he make an offer to the other neighbors? No. This is an advertisement. Too many people. An advertisement that induces performance can be an offer.  
 
-5/20 Rancher stops by to talk to his neigbor. Tells neighbbor he's intersted in selling his ranch and asks if neighbor is interested in buying.
-neighbor says he's interested and he will see if he can find the money. Rancher says he'll determine the value of the property andd get back to the neighbor.
-6/13 neighbor calls the rancher to see if he was still selling. Rancher replies that he was still selling and that there's just a little delay. Says, "don't worry, everything is in order."
-6/17 Rancher sends a letter to the neighhbor and to three other neighbors asking if they'd be intersstedd in buying the ranch. The letter details the price and all the terms.
-Did the rancher an offer to the neighbor? Did hhe make an offer to the other neighbors?
+**Hypo:** The Gap is putting an ad in the paper that they are selling a sweater (see slide class of 1-20-21)
 
-This is an advertisement. Too many people.
+**Hypo:** Will you sell me your property for $60,000? I said yes. Seems like no, it's not an offer because it's too vague and doesn't provide enough detail, and isn't a promise.
 
-An advertisement that induces performance can be an offer.  
-
-Hypo: The Gap is putting an ad in the paper that they are selling a sweater
-
-- Will you sell me your property for $60,000? I said yes. Seems like no, it's not an offer because it's too vague and doesn't provide enough detail, and isn't a promise.
-- It would not be possible  
-
-**Four factors**
+## Four factors
 
 1. Did the words of the communication indicate a willingness, at that moment, to make a committment? If so, the communication appears more like an offer.
 2. To how many people was the communication directed? If to one person, the communication appears more like an offer.
