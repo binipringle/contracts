@@ -9,13 +9,14 @@ toc:
 - Sources of Law
 - The Bargain Principle
 - Theoretical perspectives
-- II Objectivity
-- IIa Objective theory of interpretation
-- IIb Policy
-- III Assent
-- IIIa Was there an offer?
-- IIIb Was there acceptance?
-- IIIc Revocation prior to acceptance
+- Objectivity
+- Objective theory of interpretation
+- Policy
+- Three variations on the reasonable person test
+- Using the objective test
+- Assent
+- Offer and acceptance
+- Revocation prior to acceptance
 - IV Consideration
 - IVa Legal detriment and bargained-for
 - IVb Neo-Classical economic theory
@@ -65,15 +66,15 @@ toc:
 
 ## Sources of Law
 
-- **Common law** - determines what constitutes a contract - RST is restatement of common law
+- **Common law** determines what constitutes a contract (RST restates common law)
 - **Legislation**
-- **UCC Art. 2 - Uniform Commercial Code** governs the sale of goods. Services are not governed by UCC. Real Estate is not covered by UCC. UCC has a separate set of law from common law. If something is a good, UCC applies.
-- **UN CISG** - like UCC but for international sale of goods
+- **UCC Art. 2 - Uniform Commercial Code** governs the sale of goods. Does not govern services nor Real Estate. UCC separate from common law. If something is a good, UCC applies.
+- **UN CISG** is like UCC but for international sale of goods
 - **Commentary**
-- **Restatement (Second) of Contracts** - not law; summary of law; very influential (common law)
+- **Restatement (Second) of Contracts** is not law; summary of law; very influential (common law)
 - **Law reviews, treatises, etc.**
 
-Broad steps of analysis: Is there a contract? If contract, is it enforceable? What are the terms? Did a party breach? If there's breach, what are the damages?
+Broad steps of analysis: Is there a contract? If contract, is it enforceable? What are the terms? Did a party breach? If there's a breach, what are the damages?
 
 Why should the law enforce any promises?
 
@@ -158,11 +159,9 @@ As social justice lawyers we will consider: how can these assumptions be challen
 
 ---
 
-# II Objectivity
+# Objectivity
 
-Note: As a general rule, oral contracts are enforceable (except if they are fraud); there is no general common law rule requiring written evidence of a contract. (82)
-
-## IIa Objective theory of interpretation
+## Objective theory of interpretation
 
 **Definition:** The "objective theory" of interpretation provides that words and conduct should be interpreted as a “reasonable person” would interpret them.
 
@@ -174,8 +173,9 @@ Used to determine:
 **Charles R Embry v Hargadine McKittrick Dry Goods Company** Missouri Court of Appeals 105 S.W. 777 (1907)
 
 - **Issue:** Whether the appellant and the respondent entered into a contract with each other during their conversation on 12/23/1903 for the reemployment of the appellant for one year from that date.
+- **Legal Issue:** Whether Embry's version of the conversation between Embry and McKittrick is a contract to reemploy Embry for one year.
 - **Parties’ Arguments:**
--	 Charles Embry ("the appellant") is arguing that following the expiration of his employment contract at Hargadine, he was reemployed by McKittrick, the president of the respondent company ("the respondent company president" or "the president") to work for another year.  
+-	 Charles Embry is arguing that following the expiration of his employment contract at Hargadine, he was reemployed by McKittrick, the president of Haggardine McKittrick Dry Goods Company, to work for another year.  
 -	McKittrick is arguing that he never reemployed Embry.    
 - **Rule:** If the words or acts of two parties would be understood by a reasonable person to manifest the intention of both parties to enter into a contract, a contract is created, regardless of whether a party did not intend to enter into the contract so long as a reasonable person would find that the inner intention is not embodied in the words used by or acts of the parties. (62 4th para)
 
@@ -187,17 +187,19 @@ Used to determine:
 - **Factual arguments in support of that holding:** In the RLM case, the custom in the industry was that if you transfer a business you also transfer distribution rights. So a reasonable person would believe that here too. So absent any other facts a party would be reasonable to believe that parties were following custom. If you don't follow custom you have to be explicit.
 - **Factual counterarguments:** Transferability was not explicit.
 
-The very fact that you are using the objective test means that there was no express intent - no "I promise to sell you my car" - implied agreement can arise by virtue of conduct and custom or practice in the industry - use objective test.
+Note: The very fact that you are using the objective test means that there was no express intent - no "I promise to sell you my car" - implied agreement can arise by virtue of conduct and custom or practice in the industry - use objective test.
 
-## IIb Policy
+## Policy
 
 Differences between objective and subjective tests:
 
-The “objective theory” assumes that a standard of shared meaning already exists or that one ought to exist, and this assumption is controversial. (59)  When resolving disputes, courts using the objective approach determine the meaning of words, conduct and circumstances from the perspective of a reasonable person. Under the "subjective theory" of interpretation the court would evaluate what both people actually thought (by indirect evidence) andd the court would only find a contract if there had been a "meeting of the minds."  *This was the approach taken by the trial court in Embry.* Subjective test allows for differences between people. It prevents contracts being formed by accident.
+The “objective theory” assumes that a standard of shared meaning already exists or that one ought to exist. This assumption is controversial. (59)  When resolving disputes, courts using the objective approach to determine the meaning of words, conduct and circumstances from the perspective of a reasonable person.
+
+Under the "subjective theory" of interpretation the court would evaluate what both people actually thought (by indirect evidence) and the court would only find a contract if there had been a "meeting of the minds."  *This was the approach taken by the trial court in Embry.* Subjective test allows for differences between people. It prevents contracts being formed by accident.
 
 ## Three variations on the reasonable person test
 
-**(1) Universal reasonable person:** Relevant evidence; just specific words being interpreted. Words have set meaning. Positioned outside of the history and circumstances of the parties and who sees and hears the words and conduct apart from the context in which they were uttered or performed. Associated with a formalist approach to law and legal interpretation not generally followed today. Some impact in contract interpretation (see chapter nine). Only relevant evidence is the specific words and content being interpreted. If the court were using this test in Embry, they would only be looking at the words McKittrick said, not context. Embry's request is context. The context and timing led the court to find that there was a context. Critique of universal: it favors the powerful party.
+**(1) Universal reasonable person:** Only relevant evidence is the specific words and content being interpreted. Words have set meaning. Positioned outside of the history and circumstances of the parties and apart from the context in which they were uttered or performed. Associated with a formalist approach to law and legal interpretation not generally followed today. Some impact in contract interpretation (see chapter nine). If the court were using this test in Embry, it would only look at the words McKittrick said, not context. Embry's request is context. The context and timing led the court to find that there was a contract. Critique of universal reasonable person test: it favors the powerful party.
 
 **(2) Positioned reasonable person test** interprets the meaning of words and conduct according to the understanding of a "universal" observer who is placed in the position of the recipient of the communication. *This was used by the court in Embry.* Relevant evidence includes evidence of the history of the parties' relationship and of the circumstances surrounding the communications.
 
@@ -217,7 +219,7 @@ Turn the facts into factors. If you take these facts and turn them into factors 
 
 What was said? And what would that lead a reasonable person to believe? Use factors.
 
-U.S. Steel Hypo
+**U.S. Steel Hypo**
 
 **(3) Socially situated reasonableness analysis** interprets the meaning of words and conduct according to the understanding of a "universal" observer who is placed in the position of the recipient of the communication but who also has the social identity of the recipient. Draws from the United Nations Convention on Contracts for the International Sale of Goods (UN CISG), which provides that statements and conduct of contracting parties should be interpreted accordidng to the parties' own shared meanings, but if these cannot be ascertained, then the statements should be interpreted according to the understanding that "a reasonable person *of the same kind* (including nationality, culture, religion and the like) as the other party would have had in the same circumstances." Relevant evidence includes the history and circumstances of the communication and also the practices of the parties' trades or communities and their own experiences in negotiations of this sort. Critics of the socially situated theory argue that it is better to challenge class and other bias in the objective theory than to invite judges to indulge in stereotypical versions of others' perspectives. Very essentializing.
 
@@ -225,12 +227,12 @@ The critique of the reasonable person test whichever way you look at it is the p
 
 The key is that either a reasonable person interpreted in a way or *should have* interpreted it in that way.
 
-**Revisit Local 1330 v. US Steel**
+**Revisit Local 1330 v. US Steel:**
 
-- Workers take wage concessions etc. thinking it will keep steel mills open andd save their jobs. Company decides to shut down the steel mills. 4000 workers lost their job. Sued based on alleged promise off company to keep the plants open as long as they remain profitable Workers claimed that there was a promise basedd on various statements of the company execs. "Your cooperation and assistance is absolutely necessary if our facilities are to continue to operate." Enforceable promise? Both sides could be argued. Here the court took a very narrow focus.
+- Workers take wage concessions etc. thinking it will keep steel mills open and save their jobs. Company decides to shut down the steel mills. 4000 workers lost their job. Sued based on alleged promise of company to keep the plants open as long as they remain profitable Workers claimed that there was a promise based on various statements of the company execs. "Your cooperation and assistance is absolutely necessary if our facilities are to continue to operate." Enforceable promise? Both sides could be argued. Here the court took a very narrow focus.
 - If you wanted to say yes there was a promise, you look at the relationships, how people had very little power. Make the caase by putting yourself in the shoes of the workers, what they heard and how they world interrpret it.
 
-**Using the objective test:**
+## Using the objective test
 
 Questions to ask: How did the court determine what a reasonable person would have thought? What facts did the court rely on? What facts support a counterargument that a reasonable person would not think McKittrick was agreeing to renew the contract?
 
@@ -254,7 +256,7 @@ Relationship of the parties. An employee and an employer. An employee asking a q
 
 ---
 
-# III Assent
+# Assent
 
 Note on the polarity of the offer-acceptance model: In § 2-204(b) of the UCC, Professor Karl Llewelyn sought to reform the "yes/no - was there a contract" polarity of contract formation:
 
@@ -262,7 +264,11 @@ Note on the polarity of the offer-acceptance model: In § 2-204(b) of the UCC, P
 
 This allows courts to develop a flexible open-ended model of contract formation in contracts for the sale of goods.
 
-## IIIa Was there an offer?
+## Offer and acceptance  
+
+- Offer: **RST § 24** Manifestation of intent to enter into a bargain made by offeror to offeree
+
+- Acceptance: Manifestation of intent to enter into a bargain on the terms proposed by the offeror.
 
 Offer and Acceptance: both require assent. Two steps:
 
@@ -296,7 +302,6 @@ Hypo: The Gap is putting an ad in the paper that they are selling a sweater
 
 - Will you sell me your property for $60,000? I said yes. Seems like no, it's not an offer because it's too vague and doesn't provide enough detail, and isn't a promise.
 - It would not be possible  
--
 
 **Four factors**
 
@@ -348,25 +353,84 @@ Hypo: The Gap is putting an ad in the paper that they are selling a sweater
 
 Text pp 87-88, 95-107 (top)
 
-RST § 24
+**Hypos:**
 
-Working with Rules - Inferring Factors
+Will you sell me your property for $60,000?
+It would not be possible for me to sell it unless I would receive $70,000 cash.
+Do you want to buy 240 good 1000 lb cattle for $1000?
 
-What facts did the Pepsico court consider important in determining whether an offer had been made?  
+**Offer Factors:** these are some of the factors we would use to see if there was an offer in the rancher test. It's similar to the factors in the objective test. This list is a bit particular to offers.
 
-Based on the court’s holding, use those facts to construct a rule that future courts can use to determine whether there was an offer.  
+- **Language** – words of promise or commitment? For there to be an offer there doesn't have to be words of promise; but if there are that makes it more likely that there is an offer.
+- **Level of detail:** in Rancher hypo not much detail in first convo, but in letter a lot more, and the more detail the more like an offer.
+- **Number of people to whom addressed (and does it name a party or parties?):** in Rancher four people; that's not infinite, very finite, but still more thhan hhe could accommodate. Also did Rancher name people? Yes, neighbors, so more liikeley offer
+- **Trade usage / custom:**  
+- **Prior dealings / prior conversations:** for example we have been dealing with each other and month to month contract but every month we renew so we understand there's an expectation to renew
+- **Characterization (price quotation, ad…):** if its an ad, it's usually not an offer; if it's a reward, it usually is an offer.
 
-How does the rule on ads (and the exceptions thereto) fit within the rules on offer generally?
+**Additional Factors Consideredin Pepsico:**
 
-Working with Rules: Policy
+- **Price:** the court says that the price is very low because -the jet is worth about 23 million dollars. If the price is extremely disproportionate to the actual value, the less likely it is to be an offer.
+- **Ability to follow through:** fighter jet not for regular consumption; Pepsico not likely to be able to follow through with delivering a Harrier jet to a sixteen-year old.
+- **Level of seriousness:** a reasonable person would understand that it's a joke.
+- **Characterization of the proposal:** What does the court say about Ads?
 
-What justifies the general rule on ads and offers? What justifies the exceptions? Whom do these rules protect and against what?
+## Advertisements
 
-## Outlining
+**General Rule:** An ad is not an offer
 
-Write a synthesized rule statement for offer.  
+**Presumption:**  Solicitation of offer / invitation to negotiate. Even if it has all the detail in it, it's still presumed to be a solicitation of an offer ratherr than an offer, *because it goes to a lot of people* - it doesn't matter how detailed it is. It's not an offer unless it fits into one of the exceptions.
 
-## IIIb Was there acceptance?
+**Exceptions**
+
+1. Limits number of people who can accept, e.g., "first come first served"; "while supplies last"
+2. Invites performance, e.g. offer for a reward, prove me wrong, or prizes for skill and luck (I've only got one cat so I've limited the number of people, and I've induced performance); they're not worried about the number of people who will
+3. Communicates willingness to commit
+
+**Carbolic Smoke Ball (p 101):** (in Pepsico) 100 pounds to anyone who uses the product and still gets the flu.
+
+Why was the ad in Carbolic Smoke Ball an offer?
+
+The following are *usually* considered offers:  
+
+- Offer of Rewards
+- Prove me wrong offers
+- Prizes for skill and luck
+
+Factors here:
+
+- Limits the number of people who can accept
+- Induces action
+
+Advertisements are not offers:
+
+- price quotes, catalogues, price lists
+- putting price tag on an item and placing it on a shelf in a store
+
+Arguments that Pepsico was not an offer: It was just an advertisement; this was an ad on TV; TV ads are exactly the kind of ad that are generally not considered an offer.
+
+Counterarguments: You can make the case that Pepsico seeks to induce performance, and that performance is to collect Pepsico points. On the one hand you could say that it's inducing performance, because you keep buying Pepsis. The court did not agree, and said that pepsi was not inducing promise, but inducing a counter promise.
+
+- If just an ad, what about the rest of the items in the commercial (leather jacket, sun glasses, etc.)? Answer: if it's just an ad, and there are no exceptions, there's no issue with the leather jacket or the sunglasses; this is not an offer.
+
+Arguments that Pepsico is NOT an offer:
+
+- Characterization: Not that definite
+- Trade usage: not in the catalog
+- Level of seriousness: just a joke   
+- Price:  Too good to be true
+
+Arguments that Pepsico WAS an offer:
+
+- Same level of commitment / definiteness as other items in the commercial
+- Price: maybe reasonable person not aware of price discrepancy or that it is a fighter jet  
+- Trade usage:
+
+Apply socially situated RP test - court says ad is targeting younger generation - the Pepsi generation - you might say that a reasonable teenager doesn't know that it is a fighter jet.
+
+*Based on the court’s holding, use the facts that the Pepsico court consider important in determining whether an offer had been made to construct a rule that future courts can use to determine whether there was an offer.*  
+
+## Acceptance
 
 Mirror Image Rule and the Mode/ Manner of Acceptance
 
@@ -417,7 +481,7 @@ What justifies the common law mirror image rule? Under what circumstances does t
 
 In class, we will discuss the contrast between Formalism and Legal Realism as illustrated by the difference between the RST and the UCC.
 
-## IIIc Revocation prior to acceptance
+## Revocation prior to acceptance
 
 **Dickinson v. Dodds**
 
