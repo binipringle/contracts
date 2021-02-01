@@ -219,8 +219,6 @@ Turn the facts into factors. If you take these facts and turn them into factors 
 
 What was said? And what would that lead a reasonable person to believe? Use factors.
 
-**U.S. Steel Hypo**
-
 **(3) Socially situated reasonableness analysis** interprets the meaning of words and conduct according to the understanding of a "universal" observer who is placed in the position of the recipient of the communication but who also has the social identity of the recipient. Draws from the United Nations Convention on Contracts for the International Sale of Goods (UN CISG), which provides that statements and conduct of contracting parties should be interpreted accordidng to the parties' own shared meanings, but if these cannot be ascertained, then the statements should be interpreted according to the understanding that "a reasonable person *of the same kind* (including nationality, culture, religion and the like) as the other party would have had in the same circumstances." Relevant evidence includes the history and circumstances of the communication and also the practices of the parties' trades or communities and their own experiences in negotiations of this sort. Critics of the socially situated theory argue that it is better to challenge class and other bias in the objective theory than to invite judges to indulge in stereotypical versions of others' perspectives. Very essentializing.
 
 The critique of the reasonable person test whichever way you look at it is the problem of bias, of essentialiizing. Race. Gender. Class. The objective test is the test that courts use, because it's more rational than the subjective test. So we have to figure out how to use it in the least harmful way.
