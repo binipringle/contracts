@@ -420,22 +420,42 @@ Apply socially situated RP test - court says ad is targeting younger generation 
 
 Mirror Image Rule and the Mode/ Manner of Acceptance
 
-**Panhandle Eastern Pipe Line Co. v. Smith**
+**Panhandle Eastern Pipe Line Co. v. Nowlin Smith, Jr.** Wyoming Supreme Court 637 P.2d 1020 (1981)
 
-- Issue:
-- Why issue matters:
-- Holding:
-- Factual arguments in support of that holding:
-- Factual counterarguments:
+- **Issue:** Whether Smith accepted Panhandle's offer to withdraw Smith's discharge.
+- **Facts:**
+<p style="margin-left:10%; margin-right:10%;">I. Uncontested facts: Panhandle fired Smith in October 1979. Nowlin grieved. In December 1979 by letter to Smith, Panhandle offered to withdraw the discharge if Smith complied with certain terms and conditions. Smith signed letter under typewritten words "Understood, Agreed to and Accepted." Smith also wrote notes on the letter. Union rep also signed letter and returned letter to company.</p>
+<p style="margin-left:10%; margin-right:10%;">II. Appellant Panhandle’s factual allegations: Panhandle argues that by writing on the letter Smith "failed to use the mode of acceptance which [Panhandle, the offeror] prescribed." (Panhandle would have objected to any words written on the letter) Panhandle also argues that Smith made a counteroffer by adding terms and conditions to the letter which modified the offer. (108) Panhandle alleges that it informed Smith during a telephone conversation that the mode of acceptance was to sign the letter without writing notes on the letter and that all other modes of acceptance were excluded.</p>
+<p style="margin-left:10%; margin-right:10%;">III. Respondent Smith’s factual allegations: Smith alleges that Panhandle did not inform him during a telephone conversation that the mode of acceptance was to sign the letter without writing notes on the letter and that all other modes of acceptance were excluded. Smith alleges that he did not understand that an addition to the letter would be considered a rejection of the offer.</p>
+<p style="margin-left:10%; margin-right:10%;">IV. The appellate court’s resolution of the fact: The court found that it had to view the evidence of the phone call most favorably to Smith <i>Madrid v. Norton</i>, Wyo., 596 P.2d 1108 (1979) (why?).</p>
+- **Procedural History:**
+- **Court’s Reasoning:** Court addresses (1) Panhandle's "mode of acceptance" argument and (2) its "counteroffer" argument. See reasoning in application below.
+<p style="margin-left:10%; margin-right:10%;"> </p>
+<p style="margin-left:10%; margin-right:10%;">(2)  </p>
+- **Rule/Law:** (1) An offeror has the right to accept an exclusive mode of acceptance from an offeree. An exclusive mode of acceptance can be unreasonable or difficult if it clearly excludes all other modes of acceptance, and this intention is expressed in the communicated offer itself. (2) An acceptance is still effective if the addition only asks for something that would be implied from the offer and is therefore immaterial. (p. 109) (2) Under the law of contract formation, when a person modifies a contract they have usually rejected the offer and made a counteroffer, and no contract exists unless the original offeror accepts the counteroffer. *Trautwein v. Leavey*, Wyo., 472 P.2d 776 (1970).
+- **Application:** (1) Here, the letter stated that the mode of acceptance was to sign the letter, but because the court favored Smith's version of the telephone conversation, Panhandle did not orally modify the written offer and failed to express that it intended to exclude all other modes of acceptance. (p. 108) The court found that the other notes that Smith wrote on the letter were "grumbling" and were not a modification of the offer. The court found that the requirement that Smith not write on the letter is unreasonable because the only reason the court surmised that Panhandle could have was "an inordinate fondness for tidy sheets of paper." (109) Unreasonable requirements must be specified in the communicated offer. (2) Here, the court found that the term added by Smith that he be able to view his personnel file were implicit in the offer because by CBA all employees had a right to view their personnel file. Therefore, this condition was not a new term that modified the contract and was thus not a counteroffer. (p. 109)
+- **Policy:**
+- **Holding:** Here, Smith did not accept Panhandle's offer to withdraw Smith's discharge.
+- **Disposition:** Appeals court affirmed ruling of lower court.
+- **Context (why the case was assigned):** To illustrate acceptance of offer/exclusive mode of acceptance.
 
 **Russell v. Texas Co.**
 
 - Issue:
-- Why issue matters:
+- Facts:
+- I. Uncontested facts:
+- II. Appellant NAME’s factual allegations:
+- III. Respondent NAME’s factual allegations:
+- IV. The appellate court’s resolution of the fact:
+- Procedural History:
+- Court’s Reasoning:
+- Rule/Law:
+- Application:
+- Policy:
 - Holding:
-- Factual arguments in support of that holding:
-- Factual counterarguments:
-
+- Disposition:
+- Context (why the case was assigned):
+-
 **Judicial Interpretation of Unread Boilerplate, Shrink Wrap, Click Wrap, and Browse Wrap Contracts**
 
 - Issue:
@@ -444,10 +464,19 @@ Mirror Image Rule and the Mode/ Manner of Acceptance
 **Nguyen v. Barnes & Noble, Inc.**
 
 - Issue:
-- Why issue matters:
+- Facts:
+- I. Uncontested facts:
+- II. Appellant NAME’s factual allegations:
+- III. Respondent NAME’s factual allegations:
+- IV. The appellate court’s resolution of the fact:
+- Procedural History:
+- Court’s Reasoning:
+- Rule/Law:
+- Application:
+- Policy:
 - Holding:
-- Factual arguments in support of that holding:
-- Factual counterarguments:
+- Disposition:
+- Context (why the case was assigned):
 
 Text pp 107-112, 114 (starting at “acceptance by silence”)-116 (top), 126-127 (stop at the case)
 
