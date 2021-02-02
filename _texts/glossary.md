@@ -16,6 +16,7 @@ source:
 - Agreement
 - Contract (defined in RST 1)
 - Mutual assent: offer and acceptance of both parties
+- manifestation
 
 ---
 

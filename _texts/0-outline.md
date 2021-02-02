@@ -428,24 +428,88 @@ Mirror Image Rule and the Mode/ Manner of Acceptance
 - **Issue:** Whether Smith accepted Panhandle's offer to withdraw Smith's discharge.
 - **Facts:**
 <p style="margin-left:10%; margin-right:10%;">I. Uncontested facts: Panhandle fired Smith in October 1979. Nowlin grieved. In December 1979 by letter to Smith, Panhandle offered to withdraw the discharge if Smith complied with certain terms and conditions. Smith signed letter under typewritten words "Understood, Agreed to and Accepted." Smith also wrote notes on the letter. Union rep also signed letter and returned letter to company.</p>
-<p style="margin-left:10%; margin-right:10%;">II. Appellant Panhandle’s factual allegations: Panhandle argues that by writing on the letter Smith "failed to use the mode of acceptance which [Panhandle, the offeror] prescribed." (Panhandle would have objected to any words written on the letter) Panhandle also argues that Smith made a counteroffer by adding terms and conditions to the letter which modified the offer. (108) Panhandle alleges that it informed Smith during a telephone conversation that the mode of acceptance was to sign the letter without writing notes on the letter and that all other modes of acceptance were excluded.</p>
+<p style="margin-left:10%; margin-right:10%;">II. Appellant Panhandle’s factual allegations: 2 issues: mode/manner of acceptance, and content of acceptance. Panhandle argues that by writing on the letter Smith "failed to use the mode of acceptance which [Panhandle, the offeror] prescribed." (Panhandle would have objected to any words written on the letter) Panhandle also argues that Smith made a counteroffer by adding terms and conditions to the letter which modified the offer. (108) Panhandle alleges that it informed Smith during a telephone conversation that the mode of acceptance was to sign the letter without writing notes on the letter and that all other modes of acceptance were excluded.</p>
 <p style="margin-left:10%; margin-right:10%;">III. Respondent Smith’s factual allegations: Smith alleges that Panhandle did not inform him during a telephone conversation that the mode of acceptance was to sign the letter without writing notes on the letter and that all other modes of acceptance were excluded. Smith alleges that he did not understand that an addition to the letter would be considered a rejection of the offer.</p>
 <p style="margin-left:10%; margin-right:10%;">IV. The appellate court’s resolution of the fact: The court found that it had to view the evidence of the phone call most favorably to Smith <i>Madrid v. Norton</i>, Wyo., 596 P.2d 1108 (1979) (why?).</p>
 - **Procedural History:** Smith brought suit against Panhandle in district court. District court granted damages to Smith for breach of contract. Panhandle appealed.
 - **Court’s Reasoning:** Court addressed (1) Panhandle's "mode of acceptance" argument, asking whether Panhandle specified that the mode of acceptance of its offer excluded all other modes of acceptance. See application below for reasoning.
 the court also addressed (2) Panhandle's "counteroffer" argument. The court noted that under the law of contract formation, when a person modifies a contract they have usually rejected the offer and made a counteroffer, and no contract exists unless the original offeror accepts the counteroffer. *Trautwein v. Leavey*, Wyo., 472 P.2d 776 (1970). However, the court found that here Smith's notes on the letter did not modify the terms of Panhandle's offer. See also reasoning in application below.
 - **Rule/Law:** (1) An offeror has the right to accept an exclusive mode of acceptance from an offeree. An exclusive mode of acceptance can be unreasonable or difficult if it clearly excludes all other modes of acceptance, and this intention is expressed in the communicated offer itself. (2) An acceptance is still effective if the addition only asks for something that would be implied from the offer and is therefore immaterial. (p. 109)
-- **Application:** (1) Here, the letter stated that the mode of acceptance was to sign the letter, but because the court favored Smith's version of the telephone conversation, Panhandle did not orally modify the written offer and failed to express that it intended to exclude all other modes of acceptance. (p. 108) The court found that the other notes that Smith wrote on the letter were "grumbling" and were not a modification of the offer. The court found that the requirement that Smith not write on the letter is unreasonable because the only reason the court surmised that Panhandle could have for stipulating that Smith not write on the letter was "an inordinate fondness for tidy sheets of paper." (109) Unreasonable requirements must be specified in the communicated offer. (2) Here, the court found that the term added by Smith that he be able to view his personnel file were implicit in the offer because by CBA all employees had a right to view their personnel file. Therefore, this condition was not a new term that modified the contract and was thus not a counteroffer. (p. 109)
+- **Application:** (1) Here, the letter stated that the mode of acceptance was to sign the letter, but because the court favored Smith's version of the telephone conversation, Panhandle did not orally modify the written offer and failed to express that it intended to exclude all other modes of acceptance. (p. 108) Question comes up as to why the mode of acceptancce that the uniion must sign did not need to be exclusive while not wriiting notes on the contraccct needed to be cleaar and excclusive. Signatures are habitual and reasonable. Not writing on the contract is unreasonable so it needds to be cclear and specificcally be made clear that it is an exclusive mode of acceptance. (2) The court found that the other notes that Smith wrote on the letter were "grumbling" and were not a modification of the offer. The court found that the requirement that Smith not write on the letter is unreasonable because the only reason the court surmised that Panhandle could have for stipulating that Smith not write on the letter was "an inordinate fondness for tidy sheets of paper." (109) Unreasonable requirements must be specified in the communicated offer. (2) Here, the court found that the term added by Smith that he be able to view his personnel file were implicit in the offer because by CBA all employees had a right to view their personnel file. Therefore, this condition was not a new term that modified the contract and was thus not a counteroffer. (p. 109)
 - **Policy:**
 - **Holding:** Here, Smith did not accept Panhandle's offer to withdraw Smith's discharge.
 - **Disposition:** Appeals court affirmed ruling of lower court.
 - **Context (why the case was assigned):** To illustrate acceptance of offer/exclusive mode of acceptance.
+Class notes 2-1-21
+
+## Acceptance issues
+
+Objective test: would a reasonable person accept the offer
+Mirror image rule (content of acceptance) + 2-207
+Mode/manner of Acceptance
+Acceptance by performance (bilateral v. unilaterral)
+Silence as acceptance
+Mass maarket license agreements
+
+**Rules for mode of acceptance:**
+
+- Offeror is master of the offer
+- Offeror can demand an exclusive mode of acceptance
+- Must be clear/expressly stated that exclusive mode of acceptance (must be clear that the only way offeree can accept the offfer - court is not going to be eager to ccourts favor ccontracts in general)
+- Otherwise, court will interpret offer as allowing acceptance in any reasonable manner
+
+Contract said if you want to accept reply by return mail. If person hand delivers reply, arguably it is a valid mode of acceptance, because the mode of acceptance is speccific but reply by return mail does not say only reply by return mail.
+
+## Content of acceptance - the mirror image rule
+
+- Acceptance must be a mirror image of the offer
+- Even small, unimportant change will result in no acceptance, but rather counteroffer.
+
+If I say I'll sell you my house for $5000, and you say yes I'll buy it as long as you vacate it on Tuesday. You've modified the terms. You created new obligatiions without my assent. So when you change the terms you're making a counterofffer. Your accceptancce is not a mirror image of the offer; it is a mirror image.
+
+If I say I'll sell you my house for $5000, but to be vacated Thursday. If you say "ok great I'll buy your house but can you vacate on wednesday?" here, you still have an offer because you aren't changing the terrms. If you say "yes great I'll buy your house but only if you vacate on Wednesday " here, you no longer have an offer because you have changed the terms.
+
+You turn my offer into a counterofffer, you become the new offeror. I become the new offeree.
+
+**counteroffer**
+
+- offer made by offeree to his offeror
+- Relating to same matter as original offer
+- proposing substitute bargain
+- - No K until the counteroffer is accepted
+
+Sub-rules from this case (see slides for rule)
+
+- Acceptance is still effective if the "addition" only asks for something that was implied iin the offer anyway
+- still an acceptance if "mere request"
+- still an aacceptance if offeree expresses dissatisfactioin with the offer but stiill manifests an intent to acccept ("grumbling accepance")
+
 
 ## Manner of Acceptance
 
 **General rule:** An offer may specify any manner of acceptance that the offeror desires. (p. 109) If the offeror does not specify that a specific manner of acceptance is the only accepted manner, a court will interpret the offer to allow acceptance in any reasonable manner.
 
-**UCC § 2-206** provides "Unless otherwise unambiguously indicated by the language or circumstances ... an offer to make a contract shall be construed as inviting acceptance in any manner and by any medium reasonable in the circumstances." (p. 110)
+**UCC Article 2-206** provides "Unless otherwise unambiguously indicated by the language or circumstances ... an offer to make a contract shall be construed as inviting acceptance in any manner and by any medium reasonable in the circumstances." (p. 110) (UCC Art. 2 applies to the sale of goods [anything movable], not to sale of real estate or sale of services; UCC is a realist code - more flexible/liberal approach to contract formation)
+
+Art 2 drafted by legal realists in the 1950s; trying to reflect reality rather than something rigid. It was written to cover buying and selling goods in the marketplace; the goal is to promote the free flow of ccontraccts in the marketplacce; so important for jobs and stuff that goods be freely changing hands - so legal realists decided to cocme up with a set of rules that would ... iin one-on-one situation the mirror image rule makes sense, but in the marketplace businesses have forms which they use over and over.
+
+Typical scenario: you have a merchant who sells widgets. They get a lawyer who drafts their purchase form. Buyers have lawyers who draft their purchase orders. Sellers might have terms saying that they disclaim all warranties; buyers might have a term that says valid in all state of PA. Buyer says i want to buy 500 widgets. Seller says ok great i'll sell you 500 widgetts. what they're buying and selling is what they want to buy and sell andd is the same, but their forms will be diffferent, so the mirror image rule doesn't make sense in this kind of situatiion;
+
+Therefore,
+
+1. the sale of good under UCCC art. 2, the mirror rule does not apply.
+2. you can have a contract even iif the acceptance has terms different from the offer, as long as the "bargained for" terms agree (you ccan have different langguage in the boilerplate)
+- terms are: everything the parties have agreed to + whatever the code fills into the gap as the rule (the code is the UCC)
+
+Outline - acceptance (so far)
+
+definition/objective test
+
+definition/objective
+
+UCC acceptance rule is identical to the common law. The only time we need to know is when the mirror image rule does not apply (when between merchants)
+
+
 
 **Acceptance by promise (express or implied): bilateral contracts:** Usually, an acceptance will take the form of an express or implied promise (someone can accept an offer by making a promise). Promise to purchase in response to listing of sale (Southworth v. Oliver, p. 110); hand shake; handing of keys of motorbike to offeror of purchase. If an offer permits an acceptance by promise, then both parties are bound by the contract as soon as the return promise is made ("cross promises"). There are two promises. Hence bilateral. (p. 111)
 
@@ -460,6 +524,52 @@ the court also addressed (2) Panhandle's "counteroffer" argument. The court note
 1. when the parties explicitly agree that silence will constitute acceptance (e.g. "if you don't hear from me by Friday you can assume the offer is accepted by us");
 2. when the parties' past dealings have established a practice in which silence conveys acceptance (i.e. when the parties have impliicitly agreed that silence will be accceptance); and
 3. when the offeree has already received the benefits of the offered contract.
+
+Slides:
+
+Bilateral:
+
+- promise in exchange for promise
+- accceptance happens with return promise
+- both parties bound when the return promise is made
+
+Unilateral:
+
+- promise in exchange for performance
+- accceptance occurs when offeree renders full performance
+- no one is bound unless/until offeree performs
+- offer must specify that it can be accepted only by performance
+
+Bilateral vs. unilateral hypos
+
+(I) I promise to pay you $30 if you deliver these apples. "Ok." bilateral or unilateral?
+
+Every contract is conditional on someone doing something. MOst contracts are bilateral. Just using the word "if" does not make it unilateral. "ok" makes it sound liike a promise - makes it sound bilateral. two ways to interpret: one is that "ok" is a promise. Other way is i'll pay you if and only if you deliver these apples. I'll pay you whhen the apples are delivered. The second example is unilateral. Would woulddd a reasonable person thiink? MAJOR GUIDELINE: STRONG PREFERENCCE FOR BILATERAL AND STRONG PRESUMPTION THAT THE PARTIIES WANTED IT TO BE BILATERAL. Presumption is that a reasonable person would think it were bilateral. Anser: bilateral because not clear that it is unilateral.
+
+(2) Frank: "I promise to pay you $100 if you paint my fence." Barb: "ok."
+
+Really the same thing as (I). It's unclear. You can make arguments on both sides. But the best answer would take into account the strong preference for bilateral contracts.
+
+(3) Frank: "I promiise to pay you $100 if you find and return my lost cat." Barb: "ok."
+
+This is the same as (1) and (2) except that it's not. Would a reasonable person be promiising to find the cat? The presumption shifts when the offer is for a reward. Finding the cat is unlikely. Not guarranteed. A reasonable person would probabbly think that she is not promising to find the cat.
+
+Typical examples of unilateral contracts
+
+- offer of a reward
+- contest
+- standard insurance contract
+- at will employment
+- Rule: *an offer will implcitly require full performance if it requsts the offeree do something dangerous, risky, or unlikely to occur.*
+
+What are the implications of characterizing something as unilateral rather than bilateral?
+
+How do you kow whicch is calledd for?
+
+- K interpretation
+- Look at parties' intent
+- Objective test
+- Court preference for bilateral
 
 **Theodore B. Russell v. Texas Co.** U.S. Court of Appeals for the 9th Circuit, 238 F.2d 636 (1956)
 
