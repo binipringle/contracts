@@ -1,11 +1,13 @@
 ---
 layout: narrative
-title: Case briefing template
+title: Templates
 author:
 editor: Sabina Pringle
 source: Laura Mott, Academic Orientatation, Summer 2020
 toc:
 - Template from Embry brief
+- Illustration template
+- Illustration template RLM
 - Template from Skills, Summer 2020
 
 ---
@@ -30,6 +32,18 @@ toc:
 - Context (why the case was assigned):
 
 Note: I should probably nest some of these when I'm happy with the brief.
+
+---
+
+# Illustration template
+
+Like in [case name] where the court found [rule] satisfied/not satisfied because [legally relevant facts from precedential case]. Here, the court will likely find [rule] because [legally relevant facts from exam].
+
+---
+
+# Illustration template RLM
+
+In RLM, the court found [...] did/did not satisfy [ASSENT to the terms of the contract] because a reasonable person would think assent to the transfer of distribution rights was implied upon sale of the business based on the conduct and custom/practice in the industry to transfer such rights this way. Therefore, the term was impliedly included in the contract for sale of the business.
 
 ---
 

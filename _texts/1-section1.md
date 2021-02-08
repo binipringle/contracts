@@ -40,3 +40,93 @@ There's an alternative theory called reliancce theory. If he made a promise that
 **Notes from class:** When somebody confers a benefit on someone else's dog is there an obligation to compensate? This is restitution theory.
 
 --
+
+Notes from skills 2-1-21
+
+where are we? bargain theory
+
+what are the components? mutual assent and consideration
+
+contract formation
+
+End User License Agreements (EULAs)
+
+1. Click wrap: applies to internet transactions. user must cclick on box saying "I agree." generally understood to manifest intent to enter into bargain.
+
+2. browse wrap: like click wrap but you don't have to cliick "i agree." website provides noticce of terms and cocnidtions. you don't have to cclick but just by using the website you are agreeing to the terms of the agreement. websites not very uniform. have terms anddd ocnditions in different places. Browse wrap agreements are not uncommon. they arae generally accepted. there are terms and cocnditioins on most websites so ppl expect ppl to expect there are terms.
+
+3. shrink wrap. applies to store bought software. or over the phone. reference to license agreements is placed on the outside of the packaging.
+
+the rules of accceptance and the rules of objective assent aare bery complicaated. but the courts love them. the markets need them. there has to be an easy way for consumerrs to buy products. these are complicated but
+
+Nguyen
+
+who is the plaintiff? class action. Nguyen and all others similaarly situated -
+
+barnes and nobles contract says you cannot bring a class action and any disputes will be resolved by arbitration
+
+the contract said that cclaims shall not be consolidated. bn says it iis in coontract. nguyen says he didnt see this clause in the terms and cocndidtions.
+
+arbbbitration: can be a good way of dispute resolution. can be a significant way to resolve disputes.
+
+however, arbitrarion is a probblem. when you agree to not go to trial - when you agree to mandatory arbitration you are waiving your constitutional rights to a jury trial. youre agreeing to arbbitratioin . why bad? beccause studies have shown that arbitration heavily favors corporations over individuals and employers over employees.
+
+mandatory arbitration is a huge thing in contracct laaw. repeat perrformance: the ocmpany is going to keep going bacck to arbitration, and the arbitrator is chosen by the parrties so they have every reason to please theiir hcoosers
+
+arbitration has fewerr restricctions and rules - it results in the consumer losing; generally, arbitrration claims cannot be brought as class actions.
+
+when youre buying sth online youre not going to negotiate terms. when youre getting hiired youre not going to want to ddispleaase.
+
+why does nguyen think he is not bound by the arbitratioin clause? he arrgues that beccause he never signed anything. hhe says he never cliccked i agree and never even saw the contracct. he hhad not notice of the terrms.
+
+bn argued that the contract is posted on their webbsite. Nguyen had construcctive notice of the contracct. this is like when you click or not. it doesnt matter because if person wants to know terms they are findable.  
+
+the court says - they use basic offer and acceptance terms - you need a mutual manifestation of intent. The court finds that if you cliick aroundd on the website that indiiicates assesnt.
+
+validity of browse wrap is ...
+
+RULE
+
+user must have actual or constructive knowledge of the websites terms and conditions... see slide SLIDE IS Rule
+
+This ccase - you can see the court's disfavor of browse wrap contraccts. ocurt is requiering very specifeicc placements of information.
+
+what does it matter if term is conspicuous or not? after case bn changes terms of use. however, practically this is not what s going to make a difference.
+
+HYPO - shrink ware
+
+
+
+
+ccome up with gateways argument. what is gateways argument that this was part of the
+
+
+Consumer orders computer software from Gateway
+Software arrives including list of terms
+Says these terms will apply if the customer uses the software or fails to return it after 30 days.
+Customer keeps the software for more than 30 days
+Later has a complaint about the software
+One term says mandatory arbitration
+He wants to sue in court
+
+Issue:  Are these additional terms part of the contract? (is he limited to arbitration?)
+
+Who made the offer?  Who accepted?  At what moment?
+Include policy arguments
+
+customer says ii diddnt agree to arbitration. i didnt agree to them because i didnt have accccess to those terms when i bought the softwarer. using traditoinal offer and accepatance analyssis the customerr would say terms occuredd when customer bought software from gagteway over the phone. that was the contract.  
+
+Did a party make an offer?
+Was there acceptance?
+“Manifestation of intent to enter into a bargain on the terms proposed by the offeror.”
+Mutuality: No contract is formed unless both parties manifest the willingness to enter into a bargain.
+
+Gateway made an offer when they said what they were selling, the customer said they'd purchase it, and Gateway said they'dd send it. Customer calls in and gateway makes the offer. they say ok well sell you the software. we promiise to sell it to you for x amount of money - mode of acceptance is exclusive - basically by using the goods - exerccisiing dominion over the goods - or by siilence - over 30 days. The way courts interrpret this is as you guys said. the only way to acccept is to use the software or to be silent for 30 days,
+
+the way these shrink wrap agreements work is there is a conspicouus notice on the outside of the software that says that the terms are inside the package.
+
+One other thing: policy: gateway would argue that in erms of policy this is reasonable because if these 30 days did not constitute acceptance we would be in a perpetual state of uncertainty as to whether the products were sold; this is what is necessary for markets to function. why not on the phone? nobody is going to wait on the phone while gateway reads the contract.
+
+what iis in these thirty days ocntracts? waaivers of warranty, limitation of liability, mandatory arbiitration;
+
+these type of shrink wrap contracts might not be enforceable iif our societies decided that tthey were not wanted. Courts make an argument withh thhirty day accceptance based on poliicy. 

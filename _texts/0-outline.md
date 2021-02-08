@@ -7,17 +7,30 @@ source: Law in the Market Economy (Contracts) - doctrinal course CUNY School of 
 toc:
 - I Intro to contract law
 - Sources of Law
-- The Bargain Principle
+- Theories of Relief
+- Bargain Principle
 - Theoretical perspectives
-- Objectivity
 - Objective theory of interpretation
+- Terms can be implied
 - Policy
-- Three variations on the reasonable person test
+- Three variations
+- Universal RP test
+- Positioned RP test
+- Factors for positioned RP test
+- Socially situated RP analysis
 - Using the objective test
+- Contract Formation - Elements
 - Assent
 - Offer and acceptance
+- Offer
+- Yes - offers
+- No - not offers
+- Acceptance
+- Mirror image rule
 - Mode of acceptance
 - Manner of Acceptance
+- Bilateral v uniletaral contracts
+- Acceptance by silence
 - Revocation prior to acceptance
 - Mirror image rule
 - IV Consideration
@@ -101,7 +114,9 @@ Reasons not to enforce a promise:
 - against public policy
 - no assent
 
-## The Bargain Principle
+# Theories of Relief
+
+## Bargain Theory
 
 Bargain Theory involves:
 
@@ -121,11 +136,11 @@ Underlying policy concerns:
 
 **Kirksey v. Kirksey** (Supreme Court of Alabama 1845)
 
-- Issue: Whether promise made to plaintiff by plaintiff's brother-in-law (defendant) that if she would "come down and see [him], [he would] let [her] have a place to raise [her] family" was a contract.
-- Why issue matters: Issue matters because it raises the question of what elements are necessary for a promise to be a legal contract.
-- Holding: Promise was a gift (no exchange)
-- Factual arguments in support of that holding: plaintiff did not agree to do anything in exchange for living on defendant's farm.
-- Factual counterarguments: there was exchange because plaintiff worked on defendant's farm.
+- **Issue:** Whether promise made to plaintiff by plaintiff's brother-in-law (defendant) that if she would "come down and see [him], [he would] let [her] have a place to raise [her] family" was a contract.
+- **Why issue matters:** Issue matters because it raises the question of what elements are necessary for a promise to be a legal contract.
+- **Holding:** Promise was a gift (no exchange)
+- **Factual arguments in support of that holding:** plaintiff did not agree to do anything in exchange for living on defendant's farm.
+- **Factual counterarguments:** there was exchange because plaintiff worked on defendant's farm.
 - If I wanted to make this more clearly enforceable, I would rephrase the promise as "if she would "come down and see [him], [he would] let [her] have a place to raise [her] family [until a specified time] [in exchange for her doing work on his farm]."  
 
 ## Theoretical perspectives
@@ -162,9 +177,7 @@ As social justice lawyers we will consider: how can these assumptions be challen
 
 ---
 
-# Objectivity
-
-## Objective theory of interpretation
+# Objective theory of interpretation
 
 **Definition:** The "objective theory" of interpretation provides that words and conduct should be interpreted as a “reasonable person” would interpret them.
 
@@ -181,14 +194,20 @@ Used to determine:
 -	 Charles Embry is arguing that following the expiration of his employment contract at Hargadine, he was reemployed by McKittrick, the president of Haggardine McKittrick Dry Goods Company, to work for another year.  
 -	McKittrick is arguing that he never reemployed Embry.    
 - **Rule:** If the words or acts of two parties would be understood by a reasonable person to manifest the intention of both parties to enter into a contract, a contract is created, regardless of whether a party did not intend to enter into the contract so long as a reasonable person would find that the inner intention is not embodied in the words used by or acts of the parties. (62 4th para)
+- **Illustration**
+- In McKittrick, the court found Embry did not satisfy the positioned reasonable person standard because it was reasonable for an employee in Embry's position to believe when he heard "go ahead, your are all right, get your men out, don't let that worry you," combined with surrounding circumstances such as the past interactions between employer and employee, that he was contracted by McKittrick for another year. Therefore, there was a contract between McKittrick and Embry. Here, the court will likely find [rule] because [legally relevant facts from exam].
 
-**R.L.M. Dist. Co. v. W.A. Taylor, Inc.**
+## Terms can be implied
+
+**RLM Dist. Co. v. W.A. Taylor, Inc.**
 
 - **Issue:** Whether custom and practice in the industry was sufficient to imply an agreement between the parties.
 - **Rule:** Contract assent can be express or implied. Agreements can be implied in whole or in part through conduct alone or through usage of trade. *See RST Contracts Section 4* An implied agreement concerning the issue of transferability may arise in the absence of a specific agreement to the contrary if custom or practice in the industry provides for such an understanding.
 - **Holding:** The court found that custom and practice in the industry was sufficient to imply an agreement between the parties.
 - **Factual arguments in support of that holding:** In the RLM case, the custom in the industry was that if you transfer a business you also transfer distribution rights. So a reasonable person would believe that here too. So absent any other facts a party would be reasonable to believe that parties were following custom. If you don't follow custom you have to be explicit.
 - **Factual counterarguments:** Transferability was not explicit.
+- **Illustration**
+- In RLM, the court found ... did/did not satisfy [ASSENT to the terms of the contract] because a reasonable person wouldd think assent to the transfer of distribution rights was implied upon sale of the business based on the conduct and custom/practice in the industry to transfer such rights this way. Therefore, the term was impliedly included in the contract for sale of the business.
 
 Note: The very fact that you are using the objective test means that there was no express intent - no "I promise to sell you my car" - implied agreement can arise by virtue of conduct and custom or practice in the industry - use objective test.
 
@@ -200,15 +219,19 @@ The “objective theory” assumes that a standard of shared meaning already exi
 
 Under the "subjective theory" of interpretation the court would evaluate what both people actually thought (by indirect evidence) and the court would only find a contract if there had been a "meeting of the minds."  *This was the approach taken by the trial court in Embry.* Subjective test allows for differences between people. It prevents contracts being formed by accident.
 
-## Three variations on the reasonable person test
+## Three variations
 
-**(1) Universal reasonable person:** Only relevant evidence is the specific words and content being interpreted. Words have set meaning. Positioned outside of the history and circumstances of the parties and apart from the context in which they were uttered or performed. Associated with a formalist approach to law and legal interpretation not generally followed today. Some impact in contract interpretation (see chapter nine). If the court were using this test in Embry, it would only look at the words McKittrick said, not context. Embry's request is context. The context and timing led the court to find that there was a contract. Critique of universal reasonable person test: it favors the powerful party.
+## Universal RP test
 
-**(2) Positioned reasonable person test** interprets the meaning of words and conduct according to the understanding of a "universal" observer who is placed in the position of the recipient of the communication. *This was used by the court in Embry.* Relevant evidence includes evidence of the history of the parties' relationship and of the circumstances surrounding the communications.
+Only relevant evidence is the specific words and content being interpreted. Words have set meaning. Positioned outside of the history and circumstances of the parties and apart from the context in which they were uttered or performed. Associated with a formalist approach to law and legal interpretation not generally followed today. If the court were using this test in Embry, it would only look at the words McKittrick said, not context. Embry's request is context. The context and timing led the court to find that there was a contract. Critique of universal reasonable person test: it favors the powerful party.
+
+## Positioned RP test
+
+interprets the meaning of words and conduct according to the understanding of a "universal" observer who is placed in the position of the recipient of the communication. *This was used by the court in Embry.* Relevant evidence includes evidence of the history of the parties' relationship and of the circumstances surrounding the communications.
 
 Turn the facts into factors. If you take these facts and turn them into factors you can use in the next case, then you can use them.
 
-**Factors**
+## Factors for positioned RP test
 
 - clarity of representation
 - seriousness
@@ -222,9 +245,18 @@ Turn the facts into factors. If you take these facts and turn them into factors 
 
 What was said? And what would that lead a reasonable person to believe? Use factors.
 
-**(3) Socially situated reasonableness analysis** interprets the meaning of words and conduct according to the understanding of a "universal" observer who is placed in the position of the recipient of the communication but who also has the social identity of the recipient. Draws from the United Nations Convention on Contracts for the International Sale of Goods (UN CISG), which provides that statements and conduct of contracting parties should be interpreted accordidng to the parties' own shared meanings, but if these cannot be ascertained, then the statements should be interpreted according to the understanding that "a reasonable person *of the same kind* (including nationality, culture, religion and the like) as the other party would have had in the same circumstances." Relevant evidence includes the history and circumstances of the communication and also the practices of the parties' trades or communities and their own experiences in negotiations of this sort. Critics of the socially situated theory argue that it is better to challenge class and other bias in the objective theory than to invite judges to indulge in stereotypical versions of others' perspectives. Very essentializing.
+**Cases:**
 
-The critique of the reasonable person test whichever way you look at it is the problem of bias, of essentialiizing. Race. Gender. Class. The objective test is the test that courts use, because it's more rational than the subjective test. So we have to figure out how to use it in the least harmful way.
+- **Embry**
+- **U.S. Steel**
+- **Death of a Salesman Hypo**
+- **Barn-farm hypo**
+
+## Socially situated RP analysis
+
+Interprets the meaning of words and conduct according to the understanding of a "universal" observer who is placed in the position of the recipient of the communication but who also has the social identity of the recipient. Draws from the UN CISG, which provides that statements and conduct of contracting parties should be interpreted according to the parties' own shared meanings, but if these cannot be ascertained, then the statements should be interpreted according to the understanding that "a reasonable person *of the same kind* (including nationality, culture, religion and the like) as the other party would have had in the same circumstances." Relevant evidence includes history and circumstances of the communication and also the practices of the parties' trades or communities and their own experiences in negotiations of this sort. Critics of the socially situated theory argue that it is better to challenge class and other bias in the objective theory than to invite judges to indulge in stereotypical versions of others' perspectives. Very essentializing.
+
+The critique of the reasonable person test, whichever way you look at it, is the problem of bias, of essentializing. Race. Gender. Class. The objective test is the test that courts use, because it's more rational than the subjective test. So we have to figure out how to use it in the least harmful way.
 
 The key is that either a reasonable person interpreted in a way or *should have* interpreted it in that way.
 
@@ -239,9 +271,12 @@ Questions to ask: How did the court determine what a reasonable person would hav
 
 **Hypo** from Death of a Salesman:
 
-1. Suppose that Howard's father said to Willy, "i'm sure when you decide you want to stop traveling, we'll be able to find a place for you here in town."
-2. years later, Howard has died and Willy doesn't want to travel anymore. Was this a promise?
+1. Willy doesn't want to travel any more. Asks Howard (son of the old owner) for an office job in town.
+2. Suppose that Howard's father said to Willy, "i'm sure when you decide you want to stop traveling, we'll be able to find a place for you here in town."
 3. Would a reasonable person in Willy's shoes think that a promise was made?
+
+- **Willy** would argue that there was a promise because a reasonable person in Willy's shoes who heard the owner of his business say "I'm sure when you decide you want to stop traveling, we'll be able to find a place for you here in town..." would think a promise was made, based on the relationship of owner-employee, industry custom to promise future employment in this type of casual conversation, level of specificity (in town), etc. Therefore, there was an enforceable promise.
+- **Loman** would argue that there was not a promise because a reasonable person in Willy's shoes who heard the ownerr of his business say "I'm sure when you decide you want to stop traveling, we'll be able to find a place for you here in town..." wouldn't think there was a promise of office employment in the future based on the conversation was years ago, not clear, definite or detailed, used the words "I'm sure." Therefore, there was not an enforceable promise.
 
 "I'm sure" is often used colloquially to mean the exact opposite: I'm not sure. Use factors. Statement lacks clarity and definiteness (i.e. "a place")
 
@@ -255,9 +290,12 @@ Relationship of the parties. An employee and an employer. An employee asking a q
 
 - People drinking in a bar. One contracts to sell their farm to the other for $50,000. Farm was really worth a lot more. Next day seller refuses to sell saying they didn't really promise (just kidding). Enforceable promise? Yes. Here we don't have facts that say they were incapacitated because they were drunk, so we assume they had capacity.
 
----
+... would argue that ... because ... therefore [OVERALL RULE] is satisfied.  
 
-# Assent
+---
+# Contract Formation - Elements
+
+## Assent
 
 Note on the polarity of the offer-acceptance model: In § 2-204(b) of the UCC, Professor Karl Llewelyn sought to reform the "yes/no - was there a contract" polarity of contract formation:
 
@@ -265,9 +303,7 @@ Note on the polarity of the offer-acceptance model: In § 2-204(b) of the UCC, P
 
 This allows courts to develop a flexible open-ended model of contract formation in contracts for the sale of goods.
 
-## Offer and acceptance  
-
-- Offer: **RST § 24** Manifestation of intent to enter into a bargain made by offeror to offeree
+## Offer and acceptance
 
 - Acceptance: Manifestation of intent to enter into a bargain on the terms proposed by the offeror.
 
@@ -282,9 +318,18 @@ Did there come a time in the communication between the parties when either party
 
 **Hypo** I promise to give you $100 if you give me the apples. The whole thing is an offer. If
 
-**Rule for offer:** An offer is a "manifestation of intent to enter into a bargain made by offeror to offeree." No formalities are required. May be written or spoken or other conduct. May be implied by the facts. Offer can be made by the buyer or seller. all that is required are words or conduct that would lead a reasonable person in the shoes of the party to believe a promise has been made.
+## Offer
 
-Hypos: are these an offer? COPY THE THREE HYPOS FROM SLIDES
+Under **RST § 24**, an offer is a "manifestation of intent to enter into a bargain made by offeror to offeree."
+
+- No formalities are required.
+- May be written or spoken or other conduct.
+- May be implied by the facts.
+- Offer can be made by the buyer or seller.
+
+All that is required are words or conduct that would lead a reasonable person in the shoes of the party to believe a promise has been made.
+
+Hypos: are these an offer? THE THREE HYPOS ARE IN SLIDES
 
 **Rancher hypo:** 5/20 Rancher stops by to talk to his neighbor. Tells neighbor he's interested in selling his ranch and asks if neighbor is interested in buying. Neighbor says he's interested and he will see if he can find the money. Rancher says he'll determine the value of the property and get back to the neighbor. 6/13 neighbor calls the rancher to see if he was still selling. Rancher replies that he was still selling and that there's just a little delay. Says, "don't worry, everything is in order." 6/17 Rancher sends a letter to the neighbor and to three other neighbors asking if they'd be interested in buying the ranch. The letter details the price and all the terms. Did the rancher an offer to the neighbor? Did he make an offer to the other neighbors? No. This is an advertisement. Too many people. An advertisement that induces performance can be an offer.  
 
@@ -294,10 +339,14 @@ Hypos: are these an offer? COPY THE THREE HYPOS FROM SLIDES
 
 ## Four factors
 
-1. Did the words of the communication indicate a willingness, at that moment, to make a committment? If so, the communication appears more like an offer.
-2. To how many people was the communication directed? If to one person, the communication appears more like an offer.
-3. Did the communication include detailed terms? If so, the communication appears more like an offer.
-4. Are there any relevant community practices ("trade practices"), past conversations between the parties, past contracts between the parties ("course of dealings"), or other circumstances that would inform a reasonable person's interpretation of the communication? If so, these may make the communication appear to be more or less like an offer.
+A court will weigh/balance factors when considering whether there was a manifestation of intent to enter into a bargain made by an offeror to an offeree. One or more factors may have stronger weight than others depending on the context of the communication.
+
+1. **Language - words of promise or commitment?** Did the words of the communication indicate a willingness, at that moment, to make a committment? If so, the communication appears more like an offer.
+2. **Level of detail** Did the communication include detailed terms? If so, the communication appears more like an offer.
+3. **Number of people (and does it name a party or parties?** To how many people was the communication directed? If to one person, the communication appears more like an offer.
+4. **Trade usage/custom** Are there any relevant community practices ("trade practices")
+5. **Prior Dealings/prior conversations** Are there past conversations between the parties, past contracts between the parties ("course of dealings"), or other circumstances that would inform a reasonable person's interpretation of the communication? If so, these may make the communication appear to be more or less like an offer.
+6. **Characterization (price quotation, ad...)
 
 <p style="margin-left:10%; margin-right:10%;">Generaliizations:</p>
 
@@ -306,6 +355,69 @@ Hypos: are these an offer? COPY THE THREE HYPOS FROM SLIDES
 <p style="margin-left:15%; margin-right:10%;">2. Generally, price quotes, catalogues and price lists should not be characterized as offers because they are phrased in general terms, not focused on a specific order or job, and are addressed to many people.</p>
 
 <p style="margin-left:15%; margin-right:10%;">3. Generally, putting a price tag on an item and putting it on a shelf in a store should not be characterized as an offer because sellers can change a price tag or remove the item without notifying buyers.</p>
+
+**Hypos:**
+
+- Will you sell me your property for $60,000?
+- It would not be possible for me to sell it unless I would receive $70,000 cash.
+- Do you want to buy 240 good 1000 lb cattle for $1000?
+
+**Offer Factors:** these are some of the factors we would use to see if there was an offer in the rancher test. It's similar to the factors in the objective test. This list is a bit particular to offers.
+
+- **Language** – words of promise or commitment? For there to be an offer there doesn't have to be words of promise; but if there are that makes it more likely that there is an offer.
+- **Level of detail:** in Rancher hypo not much detail in first convo, but in letter a lot more, and the more detail the more like an offer.
+- **Number of people to whom addressed (and does it name a party or parties?):** in Rancher four people; that's not infinite, very finite, but still more thhan hhe could accommodate. Also did Rancher name people? Yes, neighbors, so more liikeley offer
+- **Trade usage / custom:**  
+- **Prior dealings / prior conversations:** for example we have been dealing with each other and month to month contract but every month we renew so we understand there's an expectation to renew
+- **Characterization (price quotation, ad…):** if its an ad, it's usually not an offer; if it's a reward, it usually is an offer.
+
+**Additional Factors Consideredin Pepsico:**
+
+- **Price:** the court says that the price is very low because -the jet is worth about 23 million dollars. If the price is extremely disproportionate to the actual value, the less likely it is to be an offer.
+- **Ability to follow through:** fighter jet not for regular consumption; Pepsico not likely to be able to follow through with delivering a Harrier jet to a sixteen-year old.
+- **Level of seriousness:** a reasonable person would understand that it's a joke.
+- **Characterization of the proposal:** What does the court say about Ads?
+
+---
+
+## Yes - offers
+
+**The following are *usually* considered offers:**
+
+- Offer of Rewards
+- Prove me wrong offers
+- Prizes for skill and luck
+
+Factors here:
+
+- Limits the number of people who can accept
+- Induces action
+
+---
+
+## No - not offers
+
+- Advertisements
+- price quotes, catalogues, price lists
+- putting price tag on an item and placing it on a shelf in a store
+
+## Advertisements
+
+Generally, ads are not offers. There is a presumption that an ad is a solicitation of an offer, or an invitation to negotiate. [An advertisement] is more likely to be considered an offer if it (1) limits number of people who can accept; (2) invites performance; and (3) communicates willingness to commit.
+
+SEE SLIDE FROM CLASS WITH SUB-RULES!!!
+
+**Presumption:**  Solicitation of offer / invitation to negotiate. Even if it has all the detail in it, it's still presumed to be a solicitation of an offer rather than an offer, *because it goes to a lot of people* - it doesn't matter how detailed it is. It's not an offer unless it fits into one of the exceptions.
+
+**Exceptions**
+
+1. Limits number of people who can accept, e.g., "first come first served"; "while supplies last"
+2. Invites performance, e.g. offer for a reward, prove me wrong, or prizes for skill and luck (I've only got one cat so I've limited the number of people, and I've induced performance); they're not worried about the number of people who will... *Carbolic Smoke Ball*
+3. Communicates willingness to commit
+
+**Carbolic Smoke Ball (p 101):** (in Pepsico) 100 pounds to anyone who uses the product and still gets the flu. (The ad in Carbolic Smoke Ball was considered an offer because it invited performance.)
+
+In Carbolic Smoke Ball, the court found that an ad was an offer because by offering 100 pounds to anyone who used the product and still got the flu invited performance. Here, the court will likely find that the ad for [whatever exam ad is for] is an offer because [legally relevant facts from exam].
 
 **John D.R. Leonard v. Pepsico, Inc.** U.S. District Court, SDNY (1999)  
 
@@ -324,6 +436,8 @@ Hypos: are these an offer? COPY THE THREE HYPOS FROM SLIDES
 - Disposition:
 - Context (why the case was assigned):
 
+In Pepsi, the court found the TV ad displaying the Harrier jet did not have clear, definite and explicit terms because the ad reserved the details of the offer to a separate writing - the cata ... see slide
+
 **Lefkowitz v. Great Minneapolis Surplus** (discussed in Pepsi)
 
 - Issue:
@@ -332,69 +446,6 @@ Hypos: are these an offer? COPY THE THREE HYPOS FROM SLIDES
 - Factual arguments in support of that holding:
 - Factual counterarguments:
 
-**Carbolic Smoke Ball** (discussed in Pepsi)
-
-- Issue:
-- Why issue matters:
-- Holding:
-- Factual arguments in support of that holding:
-- Factual counterarguments:
-
-Text pp 87-88, 95-107 (top)
-
-**Hypos:**
-
-Will you sell me your property for $60,000?
-It would not be possible for me to sell it unless I would receive $70,000 cash.
-Do you want to buy 240 good 1000 lb cattle for $1000?
-
-**Offer Factors:** these are some of the factors we would use to see if there was an offer in the rancher test. It's similar to the factors in the objective test. This list is a bit particular to offers.
-
-- **Language** – words of promise or commitment? For there to be an offer there doesn't have to be words of promise; but if there are that makes it more likely that there is an offer.
-- **Level of detail:** in Rancher hypo not much detail in first convo, but in letter a lot more, and the more detail the more like an offer.
-- **Number of people to whom addressed (and does it name a party or parties?):** in Rancher four people; that's not infinite, very finite, but still more thhan hhe could accommodate. Also did Rancher name people? Yes, neighbors, so more liikeley offer
-- **Trade usage / custom:**  
-- **Prior dealings / prior conversations:** for example we have been dealing with each other and month to month contract but every month we renew so we understand there's an expectation to renew
-- **Characterization (price quotation, ad…):** if its an ad, it's usually not an offer; if it's a reward, it usually is an offer.
-
-**Additional Factors Consideredin Pepsico:**
-
-- **Price:** the court says that the price is very low because -the jet is worth about 23 million dollars. If the price is extremely disproportionate to the actual value, the less likely it is to be an offer.
-- **Ability to follow through:** fighter jet not for regular consumption; Pepsico not likely to be able to follow through with delivering a Harrier jet to a sixteen-year old.
-- **Level of seriousness:** a reasonable person would understand that it's a joke.
-- **Characterization of the proposal:** What does the court say about Ads?
-
-## Advertisements
-
-**General Rule:** An ad is not an offer
-
-**Presumption:**  Solicitation of offer / invitation to negotiate. Even if it has all the detail in it, it's still presumed to be a solicitation of an offer ratherr than an offer, *because it goes to a lot of people* - it doesn't matter how detailed it is. It's not an offer unless it fits into one of the exceptions.
-
-**Exceptions**
-
-1. Limits number of people who can accept, e.g., "first come first served"; "while supplies last"
-2. Invites performance, e.g. offer for a reward, prove me wrong, or prizes for skill and luck (I've only got one cat so I've limited the number of people, and I've induced performance); they're not worried about the number of people who will
-3. Communicates willingness to commit
-
-**Carbolic Smoke Ball (p 101):** (in Pepsico) 100 pounds to anyone who uses the product and still gets the flu.
-
-Why was the ad in Carbolic Smoke Ball an offer?
-
-The following are *usually* considered offers:  
-
-- Offer of Rewards
-- Prove me wrong offers
-- Prizes for skill and luck
-
-Factors here:
-
-- Limits the number of people who can accept
-- Induces action
-
-Advertisements are not offers:
-
-- price quotes, catalogues, price lists
-- putting price tag on an item and placing it on a shelf in a store
 
 Arguments that Pepsico was not an offer: It was just an advertisement; this was an ad on TV; TV ads are exactly the kind of ad that are generally not considered an offer.
 
@@ -419,9 +470,11 @@ Apply socially situated RP test - court says ad is targeting younger generation 
 
 *Based on the court’s holding, use the facts that the Pepsico court consider important in determining whether an offer had been made to construct a rule that future courts can use to determine whether there was an offer.*  
 
-## Mode of acceptance
+---
 
-Mirror Image Rule and the Mode/ Manner of Acceptance
+# Acceptance
+
+# Mirror image rule
 
 **Panhandle Eastern Pipe Line Co. v. Nowlin Smith, Jr.** Wyoming Supreme Court 637 P.2d 1020 (1981)
 
@@ -447,7 +500,7 @@ Class notes 2-1-21
 Objective test: would a reasonable person accept the offer
 Mirror image rule (content of acceptance) + 2-207
 Mode/manner of Acceptance
-Acceptance by performance (bilateral v. unilaterral)
+Acceptance by performance (bilateral v. unilateral)
 Silence as acceptance
 Mass maarket license agreements
 
@@ -509,23 +562,9 @@ definition/objective
 
 UCC acceptance rule is identical to the common law. The only time we need to know is when the mirror image rule does not apply (when between merchants)
 
+## Bilateral v uniletaral contracts
 
-
-**Acceptance by promise (express or implied): bilateral contracts:** Usually, an acceptance will take the form of an express or implied promise (someone can accept an offer by making a promise). Promise to purchase in response to listing of sale (Southworth v. Oliver, p. 110); hand shake; handing of keys of motorbike to offeror of purchase. If an offer permits an acceptance by promise, then both parties are bound by the contract as soon as the return promise is made ("cross promises"). There are two promises. Hence bilateral. (p. 111)
-
-**Acceptance by full performance: unilateral contracts:**  If the offer specifies that it can only be accepted by full performance, the contract is not formed until the offeree has performed everything specified in the offer. After this is done, only the offeror needs to perform because the offeree has fully performed. Because only one party is obligated, this is a unilateral contract. (p. 111) In the past unilateral contracts were limited to rewards ("$500 if you find my dog") and contests ("$20 if you score five basketss in five minutes"). Now, many contracts are unilateral; for example, an insurance contract where insurance company promises to pay if insuree pays premium. An at-will employment contract is unilateral; courts have found that the employer makes a new offer each day and the employee accepts the offer by going to work each day. (p. 112)
-
-1. When an offer may be accepted by any reasonable means an offeree may accept by full performance or by promise. **RST § 32:** In case of doubt an offer is interpreted as inviting the offeree to accept either by promising to perform what the offer requests or by rendering the performance, as the offeree chooses.
-2. Sometimes an offer will expressly require acceptance by promise or accceptance by full performance as an exclusive mode of acceptancce.
-3. If the offer requests that the offeree do something dangerous, risky or unlikely to occur, the offer will implicitly require full performance. (p. 111)
-
-**Acceptance by silence:** The general rule is that silence cannot be acceptance. There are three exceptions:
-
-1. when the parties explicitly agree that silence will constitute acceptance (e.g. "if you don't hear from me by Friday you can assume the offer is accepted by us");
-2. when the parties' past dealings have established a practice in which silence conveys acceptance (i.e. when the parties have impliicitly agreed that silence will be accceptance); and
-3. when the offeree has already received the benefits of the offered contract.
-
-Slides:
+The only difference between these theories is in acceptance (this is why it goes under acceptance in the outline)
 
 Bilateral:
 
@@ -544,17 +583,17 @@ Bilateral vs. unilateral hypos
 
 (I) I promise to pay you $30 if you deliver these apples. "Ok." bilateral or unilateral?
 
-Every contract is conditional on someone doing something. MOst contracts are bilateral. Just using the word "if" does not make it unilateral. "ok" makes it sound liike a promise - makes it sound bilateral. two ways to interpret: one is that "ok" is a promise. Other way is i'll pay you if and only if you deliver these apples. I'll pay you whhen the apples are delivered. The second example is unilateral. Would woulddd a reasonable person thiink? MAJOR GUIDELINE: STRONG PREFERENCCE FOR BILATERAL AND STRONG PRESUMPTION THAT THE PARTIIES WANTED IT TO BE BILATERAL. Presumption is that a reasonable person would think it were bilateral. Anser: bilateral because not clear that it is unilateral.
+Every contract is conditional on someone doing something. Most contracts are bilateral. Just using the word "if" does not make it unilateral. "ok" makes it sound like a promise - makes it sound bilateral. two ways to interpret: one is that "ok" is a promise. Other way is i'll pay you if and only if you deliver these apples. If he had said "I'll pay you when the apples are delivered" it would be unilateral. Would would a reasonable person think? MAJOR GUIDELINE: STRONG PREFERENCE FOR BILATERAL AND STRONG PRESUMPTION THAT THE PARTIES WANTED IT TO BE BILATERAL. Presumption is that a reasonable person would think it were bilateral. Answer: bilateral because not clear that it is unilateral.
 
 (2) Frank: "I promise to pay you $100 if you paint my fence." Barb: "ok."
 
 Really the same thing as (I). It's unclear. You can make arguments on both sides. But the best answer would take into account the strong preference for bilateral contracts.
 
-(3) Frank: "I promiise to pay you $100 if you find and return my lost cat." Barb: "ok."
+(3) Frank: "I promise to pay you $100 if you find and return my lost cat." Barb: "ok."
 
-This is the same as (1) and (2) except that it's not. Would a reasonable person be promiising to find the cat? The presumption shifts when the offer is for a reward. Finding the cat is unlikely. Not guarranteed. A reasonable person would probabbly think that she is not promising to find the cat.
+This is the same as (1) and (2) except that it's not. Would a reasonable person be promising to find the cat? The presumption shifts when the offer is for a reward. Finding the cat is unlikely. Not guaranteed. A reasonable person would probably think that she is not promising to find the cat.
 
-Typical examples of unilateral contracts
+**Typical examples of unilateral contracts**
 
 - offer of a reward
 - contest
@@ -564,12 +603,28 @@ Typical examples of unilateral contracts
 
 What are the implications of characterizing something as unilateral rather than bilateral?
 
-How do you kow whicch is calledd for?
+How do you know which is called for?
 
 - K interpretation
 - Look at parties' intent
 - Objective test
 - Court preference for bilateral
+
+**Acceptance by promise (express or implied): bilateral contracts:** Usually, an acceptance will take the form of an express or implied promise (someone can accept an offer by making a promise). Promise to purchase in response to listing of sale (Southworth v. Oliver, p. 110); hand shake; handing of keys of motorbike to offeror of purchase. If an offer permits an acceptance by promise, then both parties are bound by the contract as soon as the return promise is made ("cross promises"). There are two promises. Hence bilateral. (p. 111)
+
+**Acceptance by full performance: unilateral contracts:**  If the offer specifies that it can only be accepted by full performance, the contract is not formed until the offeree has performed everything specified in the offer. After this is done, only the offeror needs to perform because the offeree has fully performed. Because only one party is obligated, this is a unilateral contract. (p. 111) In the past unilateral contracts were limited to rewards ("$500 if you find my dog") and contests ("$20 if you score five basketss in five minutes"). Now, many contracts are unilateral; for example, an insurance contract where insurance company promises to pay if insuree pays premium. An at-will employment contract is unilateral; courts have found that the employer makes a new offer each day and the employee accepts the offer by going to work each day. (p. 112)
+
+1. When an offer may be accepted by any reasonable means an offeree may accept by full performance or by promise. **RST § 32:** In case of doubt an offer is interpreted as inviting the offeree to accept either by promising to perform what the offer requests or by rendering the performance, as the offeree chooses.
+2. Sometimes an offer will expressly require acceptance by promise or accceptance by full performance as an exclusive mode of acceptancce.
+3. If the offer requests that the offeree do something dangerous, risky or unlikely to occur, the offer will implicitly require full performance. (p. 111)
+
+## Acceptance by silence
+
+ The general rule is that silence cannot be acceptance. There are three exceptions:
+
+1. when the parties explicitly agree that silence will constitute acceptance (e.g. "if you don't hear from me by Friday you can assume the offer is accepted by us");
+2. when the parties' past dealings have established a practice in which silence conveys acceptance (i.e. when the parties have impliicitly agreed that silence will be accceptance); and
+3. when the offeree has already received the benefits of the offered contract.
 
 **Theodore B. Russell v. Texas Co.** U.S. Court of Appeals for the 9th Circuit, 238 F.2d 636 (1956)
 
@@ -594,8 +649,6 @@ How do you kow whicch is calledd for?
 - **Issue:** whether clicking on "I agree" to terms and conditions on a website is a contract.
 
 ## Mirror image rule
-
-
 
 **Nguyen v. Barnes & Noble, Inc.**
 

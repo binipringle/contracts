@@ -1,25 +1,24 @@
 ---
 layout: narrative
-title: Section 7 fun with html
+title: Steps of Analysis
 author:
 editor: Sabina Pringle
 source: M.A. in Digital Humanities capstone project. The Graduate Center - CUNY. May 2020
 ---
 
-One of the things that I really like about kramdown is that I can write human readable text with simple formatting and if I want to do something different I can use html. kramdown (sic, not Kramdown or KramDown, just kramdown) is a free MIT-licensed Ruby library for parsing and converting a superset of Markdown. It is completely written in Ruby, supports standard Markdown (with some minor modifications) and various extensions that have been made popular by the PHP Markdown Extra package and Maruku.
-
-<p style="margin-left:10%; margin-right:10%;">This is to see what a little html can do</p>
-
-<p style="margin-left:15%; margin-right:10%;">Because I might want to nest. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Est sit amet facilisis magna. Nulla facilisi nullam vehicula ipsum a arcu cursus vitae. </p>
-
-<p style="margin-left:20%; margin-right:10%;">And nest. Turpis tincidunt id aliquet risus feugiat in ante. Enim nulla aliquet porttitor lacus luctus accumsan tortor. Enim nunc faucibus a pellentesque. </p>
-
-<p style="margin-left:25%; margin-right:10%;">A whole load. Maecenas ultricies mi eget mauris. Nullam ac tortor vitae purus faucibus ornare suspendisse sed. </p>
-
-<p style="margin-left:25%; margin-right:10%;">And on and on. Faucibus ornare suspendisse sed nisi lacus sed. Consequat interdum varius sit amet. </p>
-
-<p style="margin-left:15%; margin-right:10%;">From level to level. Vitae tempus quam pellentesque nec nam aliquam sem et tortor. Aliquet risus feugiat in ante metus dictum at tempor commodo. Fusce id velit ut tortor pretium viverra suspendisse.</p>
-
-Until I choose to stop nesting altogether. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Est sit amet facilisis magna. Nulla facilisi nullam vehicula ipsum a arcu cursus vitae.
+1. Read the call of the question and set up broad structure
+2. Read the hypo slowly, sentence by sentence
+3. Mark issues as you encounter them
+4. Broadly outline your answer, using IRAC
+- (1) Start by writing an issue statement for each broad issue
+- (2) Then, write the corresponding broad rule/policy
+5. Make your outline more precise
+- (1) Write issue statements for each narrow issue (mini-IRACs)
+- (2) Then, add the corresponding narrow rules (in each mini-IRAC)
+6. Write your answer
+- (1) Analyze each side's argument in each mini-IRAC
+- (2) Conclude for each mini-IRAC
+7. Conclude for each large issue
+8. You're done!
 
 ---
