@@ -562,6 +562,8 @@ definition/objective
 
 UCC acceptance rule is identical to the common law. The only time we need to know is when the mirror image rule does not apply (when between merchants)
 
+What are code gap fillers? Ask Laura Mott
+
 ## Bilateral v uniletaral contracts
 
 The only difference between these theories is in acceptance (this is why it goes under acceptance in the outline)
@@ -687,25 +689,164 @@ In class, we will discuss the contrast between Formalism and Legal Realism as il
 
 ## Revocation prior to acceptance
 
+4 ways to terminate an offer
+
+Rejection - only the offeree can reject - would a rp in the offeree's situation
+Revocation - the offeror can revoke the offer
+Lapse - the offer can lapse. I made offer you said nothingg; it's no longer reasonable to understand the offer is still open. What is a reasonable period of time? If oral offer, the offer lapses as soon as the conversatoin is over. If written, it is a reasonable period of tiime; if it's a big thing it can take longer
+Death or incapacity of either party - an offer is not transferable; if the person who made the offer passes away, the offer is over.
+
+Revocation is the tricky one. Starting rule: the offeror can revoke at any time prior to acceptance.
+
+
 **Dickinson v. Dodds**
 
-- Issue:
-- Why issue matters:
-- Holding:
-- Factual arguments in support of that holding:
-- Factual counterarguments:
+- 6/10:  Offer
+- 6/11 (morning): Dickinson decides to accept
+- 6/11 (afternoon):  Dodds sells property to Allen
+- Later Dickinson was informed that Dodds sold prop to Allen
+- 6/11 (evening): Dickinson leaves formal acceptance letter with Dodds’ mother-in-law
+- 6/12 (morning):  Dodds receives Dickinson’s acceptance
+
+What happened first? If offeree accepts before offeror revokes, it's too late for the offeror to revoke. If offeror revokes before offeree accepts, offeror can revoke.
+
+- This offer will be left open until 6/12
+- Dickinson tried to accept before 6/12
+- What’s the issue?
+- Issue is could he revoke; could he change his mind?
+- Was the promise to keep the offer open until the 12th binding? For something to be bindding it needs sth, sth, and consiideraation
+- If the promise is not binding, I can revoke.
+- Promise could have been binding if the offeree had paid money to offeror for keeping the offer open
+
+1. Did Dodds have the right to revoke?
+2. Did Dodds properly revoke the offer before Dickinson acccepted it?
+
+Rule for revokiing: Offeree must get actual notice (reliable information) – but doesn’t have to come directly from offeror
+
+- If Dodds didn't revoke it would be a mess. If both accepted Dickinson wouldd have to pay damages to Dicckinson
+- the only q is if doddd revoked before dickinson accccepted they wouldd have a ccontracct. even if therre was already a ccontracct wiithh allen.
+- was there an offer? yes. acceptance? yes
+
+dodds has propertty. makes offer to dickinson. ill keep offer open until june 12thh. diickinson thiinksa bout it. Dodds makes offer to allen. allen accepts. binding contract with allen. dickinson
+
+thhe offeror can revoke at any time before accceptance even if the offeror says they wont. even if thhey promise not to. however, thhey cannot revoke after acceptance.
+
+contract law doesn't value promises. contract law only values promises that are an exchange - whiichh makes them a contract.
+
+Policy: No one is bound until there is mutuality - also, at the core of contract law is the exchange of goods - neoclassical economic theory
+
+dodds made a valid revocation (he actually got lucky)
+
+Revocation made to the public by an ad: 1. the fine print; 2.
+
+Hypo
+
+How can offeror revoke an offer made by a newspaper ad, poster, or other general notification to the public?
+
+Post a new advertisement. If II make an offer through an advertisement to revoke the offer i would want to put it out in the same publication to reacch roughly the same auddiencce. Even though I ccant giive actual notiicce to every person iif I make a good attempt aandd put the advertisement in the same publication.
+
+BUT I don't have to use the same mode or medium to revoke an offer. It's only if it goes to the general public.
+
+REVOCATION
+
+Offeror can revoke any time prior to acceptance EVEN IF she promised not to revoke  UNLESS:
+
+- Option K:  Additional consideration (exchange) plus signed writing  (§§ 25, 87(1))
+- Or
+- Firm Offer (UCC § 2-205):  Doesn’t require additional consideration if:
+- Signed writing
+- By a merchant
+
+Then: Irrevocable during the time stated OR reasonable time BUT not longer than 3 months.
+
+(UCCC is a legal realiist code written by legal realist iin the 1950s trying to make the code reflect real human experience)
+
+WE'VE SEEN TWO THINGS WITH UCCC:
+
+UCC RULE DOES NOT FOLLOW MIRROR IMAGE RULE
+UNDER UCCC, IF THE SELLER PUTS IT IN WRITING AND THE SELLER IS A MERCHANT AND WRITES DOWN I PROMISE TO KEEP OFFER OPEN UNTIL JUNE 12TH THAT'S ALL YOU NEED TO MAKE THE OFFER IRREVOCABLE. THE COMMON LAW DOESN'T HAVE THIS RULE.
+
+We're only talking about offer and acceptance right now. For it to be a binding contract, you also need consideration.
+
+You don't have a contract until you have the third element, which is consideration.
+
+Two additional ways an offer ccan become irrevoccable is in the Drennan case. This is the third way an offer ccan become irrevocable:
 
 **Drennan v. Star Paving Co.**
 
-- Issue:
-- Why issue matters:
-- Holding:
-- Factual arguments in support of that holding:
-- Factual counterarguments:
+D made an offer
+P used it to submit its bid
+D revoked before P could say “I accept”
+Valid revocation?
 
-Text pp 155-159, 161-168 (top)
+If the D had the right to revoke and they revoked properly, the revocation occurred before the plaintiff accepted. If the D didn't have the right to revoke or didn't revoke properly then there was no revocation.
 
-RST §§ 25, 45, 87
+Here, there was no revocation because the plaintiff relied on the defendant
+
+From Drennan, if the offeree reasonably relies on the offer to theiir detriment, then the offer becomes irrevocable.
+
+Here, the general contractor had to rely on the subcocntractor's offer to include it in their offer to the schcool. So iif the subconracctor were able to revoke their offer at this late date, then the general cocntracctor would be harmed. they reliied on it and theiir reliance was reasonable.
+
+The plaintifff is a general contractor preparing to make a bid for a school contract. but thhey need to subcontract. they soliciit a subccontractor. the plaintiff willl accept the lowest bid from a subccontracctor and inccorporate that into theiir bid to the school. lowest bid was $7000 and they submit it. General contractor gets the job. Go back to tell the subcontractor I accept your bid. But before they can saay I accept, the defendant (the subccontracctor) revokes. Why didn't the general contractor accept right away? because they were waiting to see if they got the main job they were putting a bid in for.
+
+How would the analysis be different if the bid were substantially lower than all the other bids? It would not be reasonable. If they had left a 0 out or something it wouldn't be a reasonable bid.
+
+How is reliance on an offer that’s part of an exchange different from reliance on a promise to give a gift?
+
+In most cases, it's not reasonable to rely on an offer. It's not reasonable to rely on an offer. It's very rare for a court to find that reliance on an offer is reasonable. Drennan case is reasonable reliance making the offer irrevocable.
+
+Subrule is that usually, it's not reasonable to rely on an offer and usually the only time a court will find reliancce reasonable is when a contractor's bid reliies on the bid of a subcontractor. Drennan.  
+
+**Revocaation rules:**
+
+Offeror can revoke any time prior to acceptance EVEN IF she promised not to revoke  UNLESS:
+
+Option K:  Additional consideration (exchange) plus signed writing (§ 87(1))
+
+Firm Offer (UCC § 2-205):  Doesn’t require additional consideration.  Just signed writing by merchant…
+
+Reasonable Reliance (Drennan) (§ 87(2))
+
+Part Performance of Unilateral K (§ 45)
+
+FOURTH WAY A CONTRACT BECOMES IRREVOCABLE:
+
+Part performance of a unilateral K
+
+Offer becomes irrevocable.
+Part perf does not amount to acceptance.
+Acceptance does not occur until full performance.
+But offeror has to give offeree reasonable amount of time to complete performance.
+What constitutes part performance?
+
+I'll pay you $100 if you paint my fence. Part performance does not amount to acceptance.
+
+Subrules:
+
+What constitutes part performance?  
+
+Usually:
+Beginning of performance is required, not just mere preparation
+But doesn’t need to be substantial performance – can be just the very start of performance
+
+Once you have painted at least one slat, then you have tried to accept and I have to give you time to fully acccept with full performance.
+
+Hypos
+
+After losing my valuable watch at school I offer a reward to anyone who finds it and returns it.  Some students begin looking around the classroom. Can I revoke?
+
+Yeah. Courts would say that findiing the watch doesn't require a lot of effort so looking iisnt beginning performeance. maybe delivering the watch wouldd be part performance.
+
+naah see rule
+
+I invite someone from California to walk across the Brooklyn Bridge for a reward.  They fly here but haven’t gotten to the bridge yet.  Can I revoke?
+
+What constitutes part performance?
+
+Usually:
+Beginning of performance is required, not just mere preparation
+But doesn’t need to be substantial performance – can be just the very start of performance
+
 
 # IV Consideration
 
