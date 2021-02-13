@@ -8,7 +8,6 @@ toc:
 - I Intro to contract law
 - Sources of Law
 - Theories of Relief
-- Three principles of contract lawyers
 - Bargain Principle
 - Other theoretical perspectives
 - Objective theory of contract interpretation
@@ -92,11 +91,7 @@ toc:
 
 # Theories of Relief
 
-## Three principles of contract lawyers
-
-- Bargain theory (agreement to exchange one thing for another gives rise to mutual obligations)
-- Reliance theory (involves promises to give gifts. Seeks to protect those who reasonably rely on others.)
-- Restitution theory (one ought to pay for any benefit unjustly retained. Goal is to prevent unjust enrichment.)
+**Three principles of contract lawyers:** **Bargain theory** (agreement to exchange one thing for another gives rise to mutual obligations); **reliance theory** (involves promises to give gifts. Seeks to protect those who reasonably rely on others.); **restitution theory** (one ought to pay for any benefit unjustly retained. Goal is to prevent unjust enrichment.)
 
 ## Bargain Principle
 
@@ -191,13 +186,13 @@ The critique of the reasonable person test, whichever way you look at it, is the
 
 ## Universal RP test
 
-Only relevant evidence is the specific words and content being interpreted. Words have set meaning. Positioned outside of the history and circumstances of the parties and apart from the context in which they were uttered or performed. Associated with a formalist approach to law and legal interpretation not generally followed today. If the court were using this test in Embry, it would only look at the words McKittrick said, not context. Embry's request is context. The context and timing led the court to find that there was a contract. Critique of universal reasonable person test: it favors the powerful party.
+- Only relevant evidence is the specific words and content being interpreted. Words have set meaning. Positioned outside of the history and circumstances of the parties and apart from the context in which they were uttered or performed. Associated with a formalist approach to law and legal interpretation not generally followed today. If the court were using this test in Embry, it would only look at the words McKittrick said, not context. Embry's request is context. The context and timing led the court to find that there was a contract. Critique of universal reasonable person test: it favors the powerful party.
 
 ## Positioned RP test
 
-interprets the meaning of words and conduct according to the understanding of a "universal" observer who is placed in the position of the recipient of the communication. *This was used by the court in Embry.* Relevant evidence includes evidence of the history of the parties' relationship and of the circumstances surrounding the communications.
+- Interprets the meaning of words and conduct according to the understanding of a "universal" observer who is placed in the position of the recipient of the communication. *This was used by the court in Embry.* Relevant evidence includes evidence of the history of the parties' relationship and of the circumstances surrounding the communications.
 
-Turn the facts into factors. If you take these facts and turn them into factors you can use in the next case, then you can use them.
+- Turn the facts into factors. If you take these facts and turn them into factors you can use in the next case, then you can use them.
 
 ## Factors for positioned RP test
 
@@ -222,7 +217,7 @@ What was said? And what would that lead a reasonable person to believe? Use fact
 
 ## Socially situated RP analysis
 
-Interprets the meaning of words and conduct according to the understanding of a "universal" observer who is placed in the position of the recipient of the communication but who also has the social identity of the recipient. Draws from the UN CISG, which provides that statements and conduct of contracting parties should be interpreted according to the parties' own shared meanings, but if these cannot be ascertained, then the statements should be interpreted according to the understanding that "a reasonable person *of the same kind* (including nationality, culture, religion and the like) as the other party would have had in the same circumstances." Relevant evidence includes history and circumstances of the communication and also the practices of the parties' trades or communities and their own experiences in negotiations of this sort. Critics of the socially situated theory argue that it is better to challenge class and other bias in the objective theory than to invite judges to indulge in stereotypical versions of others' perspectives. Very essentializing.
+- Interprets the meaning of words and conduct according to the understanding of a "universal" observer who is placed in the position of the recipient of the communication but who also has the social identity of the recipient. Draws from the UN CISG, which provides that statements and conduct of contracting parties should be interpreted according to the parties' own shared meanings, but if these cannot be ascertained, then the statements should be interpreted according to the understanding that "a reasonable person *of the same kind* (including nationality, culture, religion and the like) as the other party would have had in the same circumstances." Relevant evidence includes history and circumstances of the communication and also the practices of the parties' trades or communities and their own experiences in negotiations of this sort. Critics of the socially situated theory argue that it is better to challenge class and other bias in the objective theory than to invite judges to indulge in stereotypical versions of others' perspectives. Very essentializing.
 
 **Revisit Local 1330 v. US Steel:**
 
