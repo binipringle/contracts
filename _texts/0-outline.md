@@ -8,12 +8,12 @@ toc:
 - I Intro to contract law
 - Sources of Law
 - Theories of Relief
+- Three principles of contract lawyers
 - Bargain Principle
-- Theoretical perspectives
-- Objective theory of interpretation
+- Other theoretical perspectives
+- Objective theory of contract interpretation
 - Terms can be implied
 - Policy
-- Three variations
 - Universal RP test
 - Positioned RP test
 - Factors for positioned RP test
@@ -76,29 +76,41 @@ toc:
 
 ---
 
-# I Intro to contract law
-
 [Glossary](https://binipringle.github.io/contracts/texts/glossary/)
+
+# I Intro to contract law
 
 ## Sources of Law
 
 - **Common law** determines what constitutes a contract (RST restates common law)
 - **Legislation**
+- **Restatement (Second) of Contracts (common law)** is not law; summary of law; very influential
 - **UCC Art. 2 - Uniform Commercial Code** governs the sale of goods. Does not govern services nor Real Estate. UCC separate from common law. If something is a good, UCC applies.
 - **UN CISG** is like UCC but for international sale of goods
 - **Commentary**
-- **Restatement (Second) of Contracts** is not law; summary of law; very influential (common law)
 - **Law reviews, treatises, etc.**
 
-Broad steps of analysis: Is there a contract? If contract, is it enforceable? What are the terms? Did a party breach? If there's a breach, what are the damages?
+# Theories of Relief
 
-Why should the law enforce any promises?
+## Three principles of contract lawyers
 
-1. Because of people's expectations; people expect that a contract will be enforced. If I sell you a car we can start relying on the agreement of the sale of the car. We want to protect the expectations of the parties.
+- Bargain theory (agreement to exchange one thing for another gives rise to mutual obligations)
+- Reliance theory (involves promises to give gifts. Seeks to protect those who reasonably rely on others.)
+- Restitution theory (one ought to pay for any benefit unjustly retained. Goal is to prevent unjust enrichment.)
 
-2. We want to protect contracting for business. One thing that contract law doesn't do is penalize people for breaching contracts. This is not criminal law. We don't want to punish people for not observing contracts. We want to compensate the party who suffered.
+## Bargain Principle
 
-**Hypo:** I rent you an apartment. You agree to rent it for 2000. You decide to go to California so you breach. Apartment empty for a month. Then I rent it for 3000. Should you compensate me for my loss due to breach of contract?
+Bargain Theory involves:
+
+- Exchange / reciprocity (consideration) +
+- Assent (offer and acceptance)
+- Assumption: Bargains are motivated by self-interest
+
+Underlying policy concerns:
+
+- Fairness
+- Reliance
+- Efficiency
 
 Reasons to enforce a promise:
 
@@ -114,36 +126,15 @@ Reasons not to enforce a promise:
 - against public policy
 - no assent
 
-# Theories of Relief
-
-## Bargain Theory
-
-Bargain Theory involves:
-
-- Exchange / reciprocity (consideration) +
-- Assent (offer and acceptance)
-- Assumption: Bargains are motivated by self-interest
-
-Underlying policy concerns:
-
-- Fairness
-- Reliance
-- Efficiency
-
-*See Section 2: problem posted on TWEN (What promises should the law enforce?)*
-
 **Hypo** illustrating the blurred line between exchange and Gift: Uncle promises to pay nephew $5000 if he quits drinking and smoking until he turns 21; nephew quits; turns 21; $5000 not paid; nephew sues. Does he have a claim under the bargain principle? (Was the promise part of an exchange or a promise to give a gift?)   
 
-**Kirksey v. Kirksey** (Supreme Court of Alabama 1845)
+**Kirksey v. Kirksey** (Supreme Court of Alabama 1845) (plaintiff's brother-in-law (defendant) promised plaintiff that if she would "come down and see [him], [he would] let [her] have a place to raise [her] family.")
 
-- **Issue:** Whether promise made to plaintiff by plaintiff's brother-in-law (defendant) that if she would "come down and see [him], [he would] let [her] have a place to raise [her] family" was a contract.
-- **Why issue matters:** Issue matters because it raises the question of what elements are necessary for a promise to be a legal contract.
 - **Holding:** Promise was a gift (no exchange)
 - **Factual arguments in support of that holding:** plaintiff did not agree to do anything in exchange for living on defendant's farm.
-- **Factual counterarguments:** there was exchange because plaintiff worked on defendant's farm.
-- If I wanted to make this more clearly enforceable, I would rephrase the promise as "if she would "come down and see [him], [he would] let [her] have a place to raise [her] family [until a specified time] [in exchange for her doing work on his farm]."  
+- **Factual counterarguments:** there was exchange because plaintiff worked on defendant's farm. If I wanted to make this more clearly enforceable, I would rephrase the promise as "if she would "come down and see [him], [he would] let [her] have a place to raise [her] family [until a specified time] [in exchange for her doing work on his farm]."  
 
-## Theoretical perspectives
+## Other theoretical perspectives
 
 **Neo-Classical Economics:** Economic theory most closely associated with Bargain Theory (a deal's a deal etc.). Values efficiency and profit-making. Assumptions (pp 37-38):
 
@@ -155,38 +146,21 @@ Underlying policy concerns:
 
 As social justice lawyers we will consider: how can these assumptions be challenged?
 
-**Socioeconomics (counter economic theory):**
+**Socioeconomics (counter economic theory):** Assumes we can't adequately understand economic behavior by the assumptions of autonomy, rationality, and efficiency. Considers social norms, disparate bargaining power, sexism, racism, educational inequalities and other inequalities. Recognizes the capacity for empathy.
 
-- assumes we can't adequately understand economic behavior by the assumptions of autonomy, rationality, and efficiency
-- considers social norms, disparate bargaining power, sexism, racism, educational inequalities and other inequalities
-- recognizes the capacity for empathy
+**(Legal) Formalism:** Words rule. They have a distinct meaning.
 
-**(Legal) Formalism**
-
-- words rule. They have a distinct meaning.
-
-**Contextual approach**  
-
-- the objective test
-
-## Three principles of contract lawyers
-
-- Bargain theory (agreement to exchange one thing for another gives rise to mutual obligations)
-- Reliance theory (involves promises to give gifts. Seeks to protect those who reasonably rely on others.)
-- Restitution theory (one ought to pay for any benefit unjustly retained. Goal is to prevent unjust enrichment.)
+**Contextual approach:** The objective test
 
 ---
 
-# Objective theory of interpretation
+# Objective theory of contract interpretation
 
-**Definition:** The "objective theory" of interpretation provides that words and conduct should be interpreted as a “reasonable person” would interpret them.
-
-Used to determine:
-
-- whether there was an offer
-- whether there was acceptance
+The "objective theory" of interpretation provides that words and conduct should be interpreted as a “reasonable person” would interpret them. The reasonable person standard is used to determine (1) whether there was an offer, and (2) whether there was acceptance.
 
 **Charles R Embry v Hargadine McKittrick Dry Goods Company** Missouri Court of Appeals 105 S.W. 777 (1907)
+
+In McKittrick, the court found Embry did not satisfy the positioned reasonable person standard because it was reasonable for an employee in Embry's position to believe when he heard "go ahead, your are all right, get your men out, don't let that worry you," combined with surrounding circumstances such as the past interactions between employer and employee, that he was contracted by McKittrick for another year. Therefore, there was a contract between McKittrick and Embry. Here, the court will likely find [rule] because [legally relevant facts from exam].
 
 - **Issue:** Whether the appellant and the respondent entered into a contract with each other during their conversation on 12/23/1903 for the reemployment of the appellant for one year from that date.
 - **Legal Issue:** Whether Embry's version of the conversation between Embry and McKittrick is a contract to reemploy Embry for one year.
@@ -194,32 +168,26 @@ Used to determine:
 -	 Charles Embry is arguing that following the expiration of his employment contract at Hargadine, he was reemployed by McKittrick, the president of Haggardine McKittrick Dry Goods Company, to work for another year.  
 -	McKittrick is arguing that he never reemployed Embry.    
 - **Rule:** If the words or acts of two parties would be understood by a reasonable person to manifest the intention of both parties to enter into a contract, a contract is created, regardless of whether a party did not intend to enter into the contract so long as a reasonable person would find that the inner intention is not embodied in the words used by or acts of the parties. (62 4th para)
-- **Illustration**
-- In McKittrick, the court found Embry did not satisfy the positioned reasonable person standard because it was reasonable for an employee in Embry's position to believe when he heard "go ahead, your are all right, get your men out, don't let that worry you," combined with surrounding circumstances such as the past interactions between employer and employee, that he was contracted by McKittrick for another year. Therefore, there was a contract between McKittrick and Embry. Here, the court will likely find [rule] because [legally relevant facts from exam].
 
 ## Terms can be implied
 
 **RLM Dist. Co. v. W.A. Taylor, Inc.**
+
+In RLM Dist. Co. v. W.A. Taylor, Inc., the court found found that custom and practice in the industry was sufficient to imply an agreement because the custom in the industry was that if you transfer a business you also transfer distribution rights. In RLM, the court found that absent any other facts, it was reasonable to believe that parties were following custom. Therefore, there was an agreement between RLM and Taylor. Here, the court will likely find [rule] because [legally relevant facts from exam].
 
 - **Issue:** Whether custom and practice in the industry was sufficient to imply an agreement between the parties.
 - **Rule:** Contract assent can be express or implied. Agreements can be implied in whole or in part through conduct alone or through usage of trade. *See RST Contracts Section 4* An implied agreement concerning the issue of transferability may arise in the absence of a specific agreement to the contrary if custom or practice in the industry provides for such an understanding.
 - **Holding:** The court found that custom and practice in the industry was sufficient to imply an agreement between the parties.
 - **Factual arguments in support of that holding:** In the RLM case, the custom in the industry was that if you transfer a business you also transfer distribution rights. So a reasonable person would believe that here too. So absent any other facts a party would be reasonable to believe that parties were following custom. If you don't follow custom you have to be explicit.
 - **Factual counterarguments:** Transferability was not explicit.
-- **Illustration**
-- In RLM, the court found ... did/did not satisfy [ASSENT to the terms of the contract] because a reasonable person wouldd think assent to the transfer of distribution rights was implied upon sale of the business based on the conduct and custom/practice in the industry to transfer such rights this way. Therefore, the term was impliedly included in the contract for sale of the business.
 
 Note: The very fact that you are using the objective test means that there was no express intent - no "I promise to sell you my car" - implied agreement can arise by virtue of conduct and custom or practice in the industry - use objective test.
 
 ## Policy
 
-Differences between objective and subjective tests:
+**Differences between objective and subjective tests:** The “objective theory” assumes that a standard of shared meaning already exists or that one ought to exist. This assumption is controversial. However, for lack of a better system, courts generally use the objective standard to determine the meaning of words, conduct and circumstances from the perspective of a reasonable person. Under the "subjective theory" of interpretation the court would evaluate what both people actually thought (by indirect evidence) and the court would only find a contract if there had been a "meeting of the minds."  *This was the approach taken by the trial court in Embry.* Subjective test allows for differences between people. It prevents contracts being formed by accident. The problem with the subjective theory of interpretation is that it is extremely difficult to determine what people actually thought.
 
-The “objective theory” assumes that a standard of shared meaning already exists or that one ought to exist. This assumption is controversial. (59)  When resolving disputes, courts using the objective approach to determine the meaning of words, conduct and circumstances from the perspective of a reasonable person.
-
-Under the "subjective theory" of interpretation the court would evaluate what both people actually thought (by indirect evidence) and the court would only find a contract if there had been a "meeting of the minds."  *This was the approach taken by the trial court in Embry.* Subjective test allows for differences between people. It prevents contracts being formed by accident.
-
-## Three variations
+The critique of the reasonable person test, whichever way you look at it, is the problem of bias, of essentializing. Race. Gender. Class. The objective test is the test that courts use, because it's more rational than the subjective test. So we have to figure out how to use it in the least harmful way. The key is that either a reasonable person interpreted something in a way or *should have* interpreted it in that way.
 
 ## Universal RP test
 
@@ -255,10 +223,6 @@ What was said? And what would that lead a reasonable person to believe? Use fact
 ## Socially situated RP analysis
 
 Interprets the meaning of words and conduct according to the understanding of a "universal" observer who is placed in the position of the recipient of the communication but who also has the social identity of the recipient. Draws from the UN CISG, which provides that statements and conduct of contracting parties should be interpreted according to the parties' own shared meanings, but if these cannot be ascertained, then the statements should be interpreted according to the understanding that "a reasonable person *of the same kind* (including nationality, culture, religion and the like) as the other party would have had in the same circumstances." Relevant evidence includes history and circumstances of the communication and also the practices of the parties' trades or communities and their own experiences in negotiations of this sort. Critics of the socially situated theory argue that it is better to challenge class and other bias in the objective theory than to invite judges to indulge in stereotypical versions of others' perspectives. Very essentializing.
-
-The critique of the reasonable person test, whichever way you look at it, is the problem of bias, of essentializing. Race. Gender. Class. The objective test is the test that courts use, because it's more rational than the subjective test. So we have to figure out how to use it in the least harmful way.
-
-The key is that either a reasonable person interpreted in a way or *should have* interpreted it in that way.
 
 **Revisit Local 1330 v. US Steel:**
 

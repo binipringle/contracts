@@ -15,6 +15,31 @@ What promises should the law enforce? (problem posted on TWEN)
 
 Note: As a general rule, oral contracts are enforceable (except if they are fraud); there is no general common law rule requiring written evidence of a contract. (82)
 
+Broad steps of analysis: Is there a contract? If contract, is it enforceable? What are the terms? Did a party breach? If there's a breach, what are the damages?
+
+Why should the law enforce any promises?
+
+1. Because of people's expectations; people expect that a contract will be enforced.
+2. We want to protect contracting for business. Contract law doesn't penalize people for breaching contracts but it wants to compensate the party who suffered.
+
+**Hypo:** I rent you an apartment. You agree to rent it for 2000. You decide to go to California so you breach. Apartment empty for a month. Then I rent it for 3000. Should you compensate me for my loss due to breach of contract? It depends.
+
+Reasons to enforce a promise:
+
+- Both agreed (assent)
+- Exchange is important as opposed to gifts
+- Reliance
+- unjust enrichment (dog hypo)
+
+Reasons not to enforce a promise:
+
+- gift (no exchange)
+- no real promise
+- against public policy
+- no assent
+
+ ---
+
 1. **From Kirksy v. Kirksy** Anne is a widow raising several children. She and her children lived on a homesteading claim on public land. Anne received a letter from her brother-in-law that stated: “Dear sister Anne—I felt terrible upon learning of brother Henry’s death. I do not know if you have a preference on the place you are living on, but if you do, I would advise you to sell the land. If you come down to see me, I will let you have a place to raise your family, and I have more open land than I can tend; on account of your situation, and that of your family, I feel I want you and the children to do well. Your brother-in-law, Henry.” Within a month or two of receiving this letter, Anne abandoned her homestead, moved into a house provided by Henry and began to farm his land. At first he put her and her family in a comfortable house and gave her land to cultivate, but at the end of two years, he notified her to move, and put her in a shack in the woods. He later asked her to move from that as well. If Anne sues Henry, should she be able to enforce his “promise” to give her a place to live with her children? Why or why not?
 
 **First thoughts:** Henry would argue no because although he promised to let her “have a place” he did not specify for how long. Anne would argue that Henry’s promise that he would let her “have a place to raise her family” means that Henry would give her a place for at least until her family was raised.
