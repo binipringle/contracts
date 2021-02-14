@@ -135,11 +135,6 @@ The "objective theory" of interpretation provides that words and conduct should 
 
 In McKittrick, the court found Embry did not satisfy the positioned reasonable person standard because it was reasonable for an employee in Embry's position to believe when he heard "go ahead, your are all right, get your men out, don't let that worry you," combined with surrounding circumstances such as the past interactions between employer and employee, that he was contracted by McKittrick for another year. Therefore, there was a contract between McKittrick and Embry. Here, the court will likely find [rule] because [legally relevant facts from exam].
 
-- **Issue:** Whether the appellant and the respondent entered into a contract with each other during their conversation on 12/23/1903 for the reemployment of the appellant for one year from that date.
-- **Legal Issue:** Whether Embry's version of the conversation between Embry and McKittrick is a contract to reemploy Embry for one year.
-- **Parties’ Arguments:**
--	 Charles Embry is arguing that following the expiration of his employment contract at Hargadine, he was reemployed by McKittrick, the president of Haggardine McKittrick Dry Goods Company, to work for another year.  
--	McKittrick is arguing that he never reemployed Embry.    
 - **Rule:** If the words or acts of two parties would be understood by a reasonable person to manifest the intention of both parties to enter into a contract, a contract is created, regardless of whether a party did not intend to enter into the contract so long as a reasonable person would find that the inner intention is not embodied in the words used by or acts of the parties. (62 4th para)
 
 ## Terms can be implied
@@ -148,13 +143,9 @@ In McKittrick, the court found Embry did not satisfy the positioned reasonable p
 
 In RLM Dist. Co. v. W.A. Taylor, Inc., the court found found that custom and practice in the industry was sufficient to imply an agreement because the custom in the industry was that if you transfer a business you also transfer distribution rights. In RLM, the court found that absent any other facts, it was reasonable to believe that parties were following custom. Therefore, there was an agreement between RLM and Taylor. Here, the court will likely find [rule] because [legally relevant facts from exam].
 
-- **Issue:** Whether custom and practice in the industry was sufficient to imply an agreement between the parties.
 - **Rule:** Contract assent can be express or implied. Agreements can be implied in whole or in part through conduct alone or through usage of trade. *See RST Contracts Section 4* An implied agreement concerning the issue of transferability may arise in the absence of a specific agreement to the contrary if custom or practice in the industry provides for such an understanding.
-- **Holding:** The court found that custom and practice in the industry was sufficient to imply an agreement between the parties.
-- **Factual arguments in support of that holding:** In the RLM case, the custom in the industry was that if you transfer a business you also transfer distribution rights. So a reasonable person would believe that here too. So absent any other facts a party would be reasonable to believe that parties were following custom. If you don't follow custom you have to be explicit.
-- **Factual counterarguments:** Transferability was not explicit.
 
-Note: The very fact that you are using the objective test means that there was no express intent - no "I promise to sell you my car" - implied agreement can arise by virtue of conduct and custom or practice in the industry - use objective test.
+- **Note:** The very fact that you are using the objective test means that there was no express intent - there was no explicit "I promise to sell you my car."
 
 ## Policy
 
@@ -213,9 +204,7 @@ Questions to ask: How did the court determine what a reasonable person would hav
 3. Would a reasonable person in Willy's shoes think that a promise was made?
 
 - **Willy** would argue that there was a promise because a reasonable person in Willy's shoes who heard the owner of his business say "I'm sure when you decide you want to stop traveling, we'll be able to find a place for you here in town..." would think a promise was made, based on the relationship of owner-employee, industry custom to promise future employment in this type of casual conversation, level of specificity (in town), etc. Therefore, there was an enforceable promise.
-- **Loman** would argue that there was not a promise because a reasonable person in Willy's shoes who heard the ownerr of his business say "I'm sure when you decide you want to stop traveling, we'll be able to find a place for you here in town..." wouldn't think there was a promise of office employment in the future based on the conversation was years ago, not clear, definite or detailed, used the words "I'm sure." Therefore, there was not an enforceable promise.
-
-"I'm sure" is often used colloquially to mean the exact opposite: I'm not sure. Use factors. Statement lacks clarity and definiteness (i.e. "a place")
+- **Loman** would argue that there was not a promise because a reasonable person in Willy's shoes who heard the ownerr of his business say "I'm sure when you decide you want to stop traveling, we'll be able to find a place for you here in town..." wouldn't think there was a promise of office employment in the future based on the conversation was years ago, not clear, definite or detailed, used the words "I'm sure." Therefore, there was not an enforceable promise. ("I'm sure" is often used colloquially to mean the exact opposite: I'm not sure. Use factors. Statement lacks clarity and definiteness (i.e. "a place"))
 
 Relationship of the parties. An employee and an employer. An employee asking a question of his employer.
 
