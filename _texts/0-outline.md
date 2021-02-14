@@ -7,8 +7,8 @@ source: Law in the Market Economy (Contracts) - doctrinal course CUNY School of 
 toc:
 - I Intro to contract law
 - Sources of Law
-- Theories of Relief
 - Bargain Principle
+- Other theories of Relief
 - Other theoretical perspectives
 - Objective theory of contract interpretation
 - Terms can be implied
@@ -89,37 +89,15 @@ toc:
 - **Commentary**
 - **Law reviews, treatises, etc.**
 
-# Theories of Relief
-
-**Three principles of contract lawyers:** **Bargain theory** (agreement to exchange one thing for another gives rise to mutual obligations); **reliance theory** (involves promises to give gifts. Seeks to protect those who reasonably rely on others.); **restitution theory** (one ought to pay for any benefit unjustly retained. Goal is to prevent unjust enrichment.)
-
 ## Bargain Principle
 
-Bargain Theory involves:
+The Bargain theory is a theory of relief where a promise to exchange one thing for another gives rise to mutual obligations. Under the bargain theory, an enforceable promise becomes a contract where there is assent (offer and acceptance) and reciprocity (consideration). Closely related to neo-classical economic theory, the bargain theory values efficiency and profit-making and assumes that bargains are motivated by self-interest and that people act in their own self interest, rationally and with access to perfect information, that people and resources are freely movable and that there are no artificial restrictions to entry to the market.
 
-- Exchange / reciprocity (consideration) +
-- Assent (offer and acceptance)
-- Assumption: Bargains are motivated by self-interest
+# Other theories of Relief
 
-Underlying policy concerns:
+**reliance theory** (involves promises to give gifts. Seeks to protect those who reasonably rely on others.)
 
-- Fairness
-- Reliance
-- Efficiency
-
-Reasons to enforce a promise:
-
-- Both agreed (assent)
-- Exchange is important as opposed to gifts
-- Reliance
-- unjust enrichment (dog hypo)
-
-Reasons not to enforce a promise:
-
-- gift (no exchange)
-- no real promise
-- against public policy
-- no assent
+**restitution theory** (one ought to pay for any benefit unjustly retained. Goal is to prevent unjust enrichment.)
 
 **Hypo** illustrating the blurred line between exchange and Gift: Uncle promises to pay nephew $5000 if he quits drinking and smoking until he turns 21; nephew quits; turns 21; $5000 not paid; nephew sues. Does he have a claim under the bargain principle? (Was the promise part of an exchange or a promise to give a gift?)   
 
