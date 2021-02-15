@@ -77,9 +77,9 @@ toc:
 
 [Glossary](https://binipringle.github.io/contracts/texts/glossary/)
 
-# I Intro to contract law
+# I. Intro to contract law
 
-## Sources of Law
+## A. Sources of Law
 
 - **Common law** determines what constitutes a contract (RST restates common law)
 - **Legislation**
@@ -89,7 +89,7 @@ toc:
 - **Commentary**
 - **Law reviews, treatises, etc.**
 
-## Bargain Principle
+## B. Bargain Principle
 
 The Bargain theory is a theory of relief where a promise to exchange one thing for another gives rise to mutual obligations. Under the bargain theory, an enforceable promise becomes a contract where there is assent (offer and acceptance) and reciprocity (consideration). Closely related to neo-classical economic theory, the bargain theory values efficiency and profit-making and assumes that bargains are motivated by self-interest and that people act in their own self interest, rationally and with access to perfect information, that people and resources are freely movable and that there are no artificial restrictions to entry to the market.
 
@@ -127,7 +127,7 @@ As social justice lawyers we will consider: how can these assumptions be challen
 
 ---
 
-# Objective theory of contract interpretation
+# II. Objective theory of contract interpretation
 
 The "objective theory" of interpretation provides that words and conduct should be interpreted as a “reasonable person” would interpret them. The reasonable person standard is used to determine (1) whether there was an offer, and (2) whether there was acceptance.
 
