@@ -5,12 +5,12 @@ author:
 editor: Sabina Pringle
 source: Law in the Market Economy (Contracts) - doctrinal course CUNY School of Law, Professor Zalesne, Spring 2021
 toc:
-- I. Intro to contract law
+- I. Intro to Contract Law
 - A. Sources of law
 - B. Bargain principle
 - C. Other theoretical perspectives
 - II. Objective theory of contract interpretation
-- A. Objective theory - approach
+- A. Objective theory approach
 - B. Varieties
 - Universal RP test
 - Positioned RP test
@@ -19,15 +19,15 @@ toc:
 - Socially situated RP analysis
 - Problems with RP standard
 - Using the objective test
-- B. Subjective theory - approach
+- B. Subjective theory of interpretation
 - III. Theories of Relief
 - A. Bargain theory
-- Contract Formation - Elements
+- Contract Formation Elements
 - Assent
 - Offer
 - Four factors
-- Yes - offers
-- No - not offers
+- Yes offers
+- No not offers
 - Advertisement
 - Cases - advertisement
 - Acceptance
@@ -89,7 +89,7 @@ toc:
 
 [Glossary](https://binipringle.github.io/contracts/texts/glossary/)
 
-# I. Intro to contract law
+# I. Intro to Contract Law
 
 ## A. Sources of law
 
@@ -127,7 +127,7 @@ As social justice lawyers we will consider: how can these assumptions be challen
 
 # II. Objective theory of contract interpretation
 
-## A. Objective theory - approach
+## A. Objective theory approach
 
 The "objective theory" of interpretation provides that words and conduct should be interpreted as a “reasonable person” would interpret them. The “objective theory” assumes that a standard of shared meaning already exists or that one ought to exist. This assumption is controversial. However, for lack of a better system, courts generally use the objective standard to determine the meaning of words, conduct and circumstances from the perspective of a reasonable person. The reasonable person standard is used to determine (1) whether there was an offer, and (2) whether there was acceptance.
 
@@ -208,7 +208,7 @@ The critique of the reasonable person test, whichever way you look at it, is the
 Questions to ask: How did the court determine what a reasonable person would have thought? What facts did the court rely on? What facts support a counterargument that a reasonable person would have thought in a way?
 
 
-## B. Subjective theory - approach
+## B. Subjective theory of interpretation
 
 Under the "subjective theory" of interpretation the court would evaluate what both people actually thought (by indirect evidence) and the court would only find a contract if there had been a "meeting of the minds."  The subjective test allows for differences between people and aims to prevent contracts being formed by accident. The problem with the subjective theory of interpretation is that it is extremely difficult to determine what people actually thought. The subjective theory approach was taken by the trial court in Embry, where the jury was instructed that if they found that both parties expressed the intent to contract with the other party for the plaintiff’s employment for one year, they should find that the parties thereby entered into a contract. At appeal, the court questioned whether this jury instruction was a correct statement of law, asking whether the formation of a contract depended on the intention of the then plaintiff and the then defendant or on the words spoken by both parties. The higher court took the objective theory approach which resulted in a reversal of the lower court's ruling.
 
@@ -223,7 +223,7 @@ Or
 
 A bargain is an agreement to exchange promises or to exchange a promise for a performance or to exchange performances. Under the bargain theory of relief where a promise to exchange one thing for another gives rise to mutual obligations, an enforceable promise becomes a contract where there is assent (offer and acceptance) and reciprocity (consideration).
 
-# Contract Formation - Elements
+# Contract Formation Elements
 
 ## Assent
 
@@ -306,7 +306,7 @@ A court will weigh and balance a series of factors when considering whether ther
 - **Level of seriousness:** a reasonable person would understand that it's a joke.
 - **Characterization of the proposal:** What does the court say about Ads?
 
-## Yes - offers
+## Yes offers
 
 **The following are *usually* considered offers:**
 
@@ -319,7 +319,7 @@ Factors here:
 - Limits the number of people who can accept
 - Induces action
 
-## No - not offers
+## No not offers
 
 - Advertisements
 - price quotes, catalogues, price lists
