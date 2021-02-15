@@ -10,23 +10,16 @@ toc:
 - RLM Dist Co v WA Taylor Inc
 ---
 
-**Kirksey v. Kirksey** Supreme Court of Alabama 8 Ala. 131 (1845)
+## Kirksey v. Kirksey
 
-- Issue: If Anne sues Henry, should she be able to enforce his “promise” to give her a place to live with her children?
-- Facts: Anne is a widow raising several children. She and her children lived on a homesteading claim on public land. Anne received a
-letter from her brother-in-law that stated: “Dear sister Anne—I felt terrible upon learning of brother Henry’s death. I do not
-know if you have a preference on the place you are living on, but if you do, I would advise you to sell the land. If you come
-down to see me, I will let you have a place to raise your family, and I have more open land than I can tend; on account of your
-situation, and that of your family, I feel I want you and the children to do well. Your brother-in-law, Henry.” Within a month or
-two of receiving this letter, Anne abandoned her homestead, moved into a house provided by Henry and began to farm his
-land. At first he put her and her family in a comfortable house and gave her land to cultivate, but at the end of two years, he notified her to move, and put her in a shack in the woods. He later asked her to move from that as well.
-- II. Anne’s allegations: Anne argued that Henry offered her a place to live.
-- III. Henry’s allegations: Henry would argue no because although he promised to let Anne “have a place” he did not specify for how long. Anne would argue that Henry’s promise that he would let her “have a place to raise her family” means that Henry would give her a place for at least until her family was raised.
-- IV. The appellate court’s resolution of the fact:
-- Procedural History:
-- Court’s Reasoning:
-- Rule/Law: A promise to provide free land for a residence is a gift, not an exchange, and gifts are not contracts, so it is not a contract.
-- Holding: The court said that this was not a binding promise; it was a gift, a gratuity. You can revoke a gift any time because it's not a contract.
+Supreme Court of Alabama 8 Ala. 131 (1845)
+
+- **Issue:** If Anne sues Henry, should she be able to enforce his “promise” to give her a place to live with her children?
+- **Facts:** Anne and several children lived on a homesteading claim on public land. Anne received a letter from her brother-in-law that stated: “Dear sister Anne—I felt terrible upon learning of brother Henry’s death. I do not know if you have a preference on the place you are living on, but if you do, I would advise you to sell the land. If you come down to see me, I will let you have a place to raise your family, and I have more open land than I can tend; on account of your situation, and that of your family, I feel I want you and the children to do well. Your brother-in-law, Henry.” Anne abandoned her homestead, moved into a house provided by Henry and began to farm his land. At first he put her and her family in a comfortable house and gave her land to cultivate, but at the end of two years, he notified her to move, and put her in a shack in the woods. He later asked her to move from that as well.
+- **Anne’s allegations:** Anne argued that Henry offered her a place to live.
+- **Henry’s allegations:** Henry would argue no because although he promised to let Anne “have a place” he did not specify for how long. Anne would argue that Henry’s promise that he would let her “have a place to raise her family” means that Henry would give her a place for at least until her family was raised.
+- **Rule/Law:** A promise to provide free land for a residence is a gift, not an exchange, and gifts are not contracts, so it is not a contract.
+- **Holding:** The court said that this was not a binding promise; it was a gift, a gratuity. You can revoke a gift any time because it's not a contract.
 
 ---
 
@@ -49,16 +42,33 @@ Missouri Court of Appeals 105 S.W. 777 (1907) (pp 59-66)
 
 ---
 
-## RLM Dist Co v WA Taylor Inc
+## R.L.M. Dist. Co. v. W.A. Taylor, Inc.
+
+723 F. Supp. 421 (D. Ariz. 1988)
 
 - **Purpose:** Illustrates objective theory of interpretation
-- **Issue:**
 - **Rule:** Basic contract law does not require that agreements be made exclusively through verbal or written communications. Agreements can be implied in whole or in part through conduct alone or through usage of trade. *See RST Contracts Section 4* An implied agreement concerning the issue of transferability may arise in the absence of a specific agreement to the contrary if custom or practice in the industry provides for such an understanding.
 - **Holding:** The court found that custom and practice in the industry was sufficient to imply an agreement between the parties.
 
 ---
 
-**John D.R. Leonard v. Pepsico, Inc.** U.S. District Court, SDNY (1999)  
+## United Steelworkers of America, Local 1330 v. U.S. Steel
+
+USDC for the Northern District of Ohio, 492 F. Supp. 1 (1980)
+
+- **Issue:** Did U.S. Steel's statements represent a promise made by the corporation on which the workers should have reasonably relied?
+- **Facts:** U.S. Steel stated that in order to stay open the plants must make profit and that they would close if they were not profitable, but did not state that they would not close if they were profitable. Workers gave up furloughs and extra pay in order to keep the company profitable. The company was profitable but closed anyway.
+- **Workers' allegations:** communications by the company constitute a promise to keep the factory operating if and so long as the mills are profitable.
+- **U.S. Steel’s allegations:** U.S. Steel stated that in order to stay open the plants must make profit and that they would close if they were not profitable, but did not state that they would not close if they were profitable. The statement that lack of profitability would close the plants does not imply that the plants will not close if they are profitable.
+- **Rule/Law:**
+- **Holding:** U.S. Steel's statements did not represent a promise made by the corporation on which the workers should have reasonably relied.
+- **Summary/notes:** You can't enforce a promise if not enough detail but there can be implied facts; look at details. Was it reasonable to expect something? Disparate bargaining power. Is it employment context, family context, damages? Look at perspective.
+
+---
+
+## John D.R. Leonard v. Pepsico, Inc.
+
+U.S. District Court, SDNY (1999)  
 
 - **Issue:** Whether accepting the terms of an advertisement that is not clear and intended to be a joke can create an enforceable contract.
 - **Facts:**
@@ -75,7 +85,11 @@ Missouri Court of Appeals 105 S.W. 777 (1907) (pp 59-66)
 - Disposition:
 - Context (why the case was assigned):
 
-**Lefkowitz v. Great Minneapolis Surplus** (discussed in Pepsi)
+---
+
+## Lefkowitz v. Great Minneapolis Surplus
+
+(discussed in Pepsi)
 
 - Issue:
 - Facts: Great Minneapolis Surplus Store published advertisement stating that on Saturday at 9 AM sharp 3
@@ -92,7 +106,9 @@ Missouri Court of Appeals 105 S.W. 777 (1907) (pp 59-66)
 - Disposition:
 - Context (why the case was assigned):
 
-**Carlill v. Carbolic Smoke Ball Co** (discussed in Pepsi)
+## Carlill v. Carbolic Smoke Ball Co
+
+(discussed in Pepsi)
 
 - Issue: Whether there was an enforceable contract between Carbolic Smoke Ball and the viewers of the ad when Carbolic Smoke Ball when it placed an ad stating that the company would give £100 to anyone who used the product and still got the flu.
 - Rule/Law: Advertisements offering rewards are offers to anyone who does perform the conditions named in the advertisement, and anybody who does perform the condition accepts the offer.  
@@ -102,18 +118,19 @@ Missouri Court of Appeals 105 S.W. 777 (1907) (pp 59-66)
 - Communicates a willingness to commit: I have money in the bank stored away ready to pay you; this is a real offerr beccause ii have money.
 - Holding/illustration: In Carlill v. Carbolic Smoke Ball Co., the court found that an ad was an offer because by stating that the company would give £100 to anyone who used the product and still got the flu, the advertiser invited performance by inviting the public to prove it wrong and communicated a willingness to commit by promising a reward if they did.
 
-**United Steelworkers of America, Local 1330 v. U.S. Steel** USDC for the Northern District of Ohio, 492 F. Supp. 1 (1980)
+---
 
-- Issue: Did U.S. Steel's statements represent a promise made by the corporation on which the workers should have reasonably relied?
-- Facts: U.S. Steel stated that in order to stay open the plants must make profit and that they would close if they were not profitable, but did not state that they would not close if they were profitable. Workers gave up furloughs and extra pay in order to keep the company profitable. The company was profitable but closed anyway.
-- I. Uncontested facts:
-- II. Worker’s factual allegations: communications by the company constitute a promise to keep the factory operating if and so long as the mills are profitable.
-- III. U.S. Steel’s factual allegations: U.S. Steel stated that in order to stay open the plants must make profit and that they would close if they were not profitable, but did not state that they would not close if they were profitable. The statement that lack of profitability would close the plants does not imply that the plants will not close if they are profitable.
-- Rule/Law:
-- Holding: U.S. Steel's statements did not represent a promise made by the corporation on which the workers should have reasonably relied.
-- Summary/notes: You can't enforce a promise if not enough detail but there can be implied facts; look at details. Was it reasonable to expect something? Disparate bargaining power. Is it employment context, family context, damages? Look at perspective.
+## Panhandle Eastern Pipe Line Co. v. Nowlin Smith, Jr.
+
+Wyoming Supreme Court 637 P.2d 1020 (1981)
+
+- **Issues:** Whether Smith accepted Panhandle's offer to withdraw Smith's discharge even though Smith added words to Pandandle's letter of discharge. (2) Whether the words Smith wrote on the letter were acceptance or a counteroffer.
+- **Panhandle's allegations:** (1) Panhandle's mode of acceptance of its offer excluded all other modes of acceptance including writing any words on the letter of discharge. (2) By writing on the letter of discharge Smith made a counteroffer.
+- **Holding:** (1) The court found that the requirement that Smith not write on the letter is unreasonable because the only reason the court surmised that Panhandle could have for stipulating that Smith not write on the letter was "an inordinate fondness for tidy sheets of paper." Unreasonable requirements must be specified in the communicated offer. (2) Smith accepted Panhandle's offer to withdraw Smith's discharge even though Smith aded words to the letter of discharge because the notes that Smith wrote on the letter were "grumbling" and were not a modification of the offer. The court found that the term added by Smith that he be able to view his personnel file were implicit in the offer because by CBA all employees had a right to view their personnel file. Therefore, this condition was not a new term that modified the contract and was thus not a counteroffer.
+- **Rule/Law:** (1) An offeror has the right to accept an exclusive mode of acceptance from an offeree. An exclusive mode of acceptance can be unreasonable or difficult if it clearly excludes all other modes of acceptance, and this intention is expressed in the communicated offer itself. (2) An acceptance is still effective if the addition only asks for something that would be implied from the offer and is therefore immaterial. (p. 109)
 
 ---
+## Russel v. Texas Co.
 
 **Name v. Name** Court, year (kind of court)
 
@@ -133,6 +150,275 @@ Missouri Court of Appeals 105 S.W. 777 (1907) (pp 59-66)
 - Context (why the case was assigned):
 
 ---
+
+## Nguyen v. Barnes and Noble, Inc.  
+
+U.S. Court of Appeals 9th Circuit 763 F.3d 1171 (2014)
+
+- **Issue:** Whether a person can agree to a company's terms and conditions by visiting any area of that company's website (this was a class action suit. Nguyen and all others similarly situated)
+- **Facts:** Barnes & Noble's website’s terms of use said that "By visiting any area in the Barnes & Noble.com site, creating an account, or making a purchase, a User is deemed to have accepted the Terms of Use." The terms of use state that claims shall not be consolidated (you cannot bring a class action) and any disputes will be resolved by arbitration. Arbitration can be a good way of dispute resolution but is also a problem because when you agree to not go to trial - when you agree to mandatory arbitration - you are waiving your constitutional rights to a jury trial. Studies have shown that arbitration heavily favors corporations over individuals and employers over employees.
+- **Policy:** Mandatory arbitration is a huge thing in contract law. Repeat performance: the Company is going to keep going back to arbitration, and the arbitrator is chosen by the parties so they have every reason to please them. Arbitration has fewer restrictions and rules than court and it often results in the consumer losing. When you're buying something online you're not going to negotiate terms. when you're getting hired you're not going to want to displease.
+- **Nguyen argued** that he is not bound by the arbitration clause because he never signed anything. He says he never clicked I agree and never even saw the contract, thus, he had no notice of the terms.
+- **Barnes & Nobles argued** that the contract is posted on their website so Nguyen had constructive notice of the contract. this is like when you click or not. it doesn't matter because if the person wants to know terms they are findable.  
+- **Rule:** The mere presence of a link without some obvious prompt to take affirmative action is not sufficient to bind a user to an arbitration agreement described in terms and conditions. The user must have actual or constructive knowledge of the websites terms and conditions. Visiting the website is not enough. The onus is on the website owner to provide the user with actual or constructive knowledge that by visiting the website the user agrees to the terms and conditions hyperlinked to the website.
+- **Application:** The court uses basic offer and acceptance terms and finds that you need a mutual manifestation of intent. The court finds that if you click around on the website that indicates assent.
+- **Holding:** The browsewrap agreement did not give Nguyen sufficient notice of Barnes & Nobles's terms and conditions, and Nguyen therefore did not enter into an agreement with Barnes & Nobles by visiting their website.
+
+---
+
+## Dickenson v. Dodds  
+
+**Name v. Name** Court, year (kind of court)
+
+- Issue:
+- Facts:
+- I. Uncontested facts:
+- II. Appellant NAME’s factual allegations:
+- III. Respondent NAME’s factual allegations:
+- IV. The appellate court’s resolution of the fact:
+- Procedural History:
+- Court’s Reasoning:
+- Rule/Law:
+- Application:
+- Policy:
+- Holding:
+- Disposition:
+- Context (why the case was assigned):
+
+---
+
+## Drennan v. Star Paving Co.   
+
+**Name v. Name** Court, year (kind of court)
+
+- Issue:
+- Facts:
+- I. Uncontested facts:
+- II. Appellant NAME’s factual allegations:
+- III. Respondent NAME’s factual allegations:
+- IV. The appellate court’s resolution of the fact:
+- Procedural History:
+- Court’s Reasoning:
+- Rule/Law:
+- Application:
+- Policy:
+- Holding:
+- Disposition:
+- Context (why the case was assigned):
+
+---
+
+## Hamer v. Sidway
+
+**Name v. Name** Court, year (kind of court)
+
+- Issue:
+- Facts:
+- I. Uncontested facts:
+- II. Appellant NAME’s factual allegations:
+- III. Respondent NAME’s factual allegations:
+- IV. The appellate court’s resolution of the fact:
+- Procedural History:
+- Court’s Reasoning:
+- Rule/Law:
+- Application:
+- Policy:
+- Holding:
+- Disposition:
+- Context (why the case was assigned):
+
+---
+
+## U.S. v. Betty Jo Meadors
+
+**Name v. Name** Court, year (kind of court)
+
+- Issue:
+- Facts:
+- I. Uncontested facts:
+- II. Appellant NAME’s factual allegations:
+- III. Respondent NAME’s factual allegations:
+- IV. The appellate court’s resolution of the fact:
+- Procedural History:
+- Court’s Reasoning:
+- Rule/Law:
+- Application:
+- Policy:
+- Holding:
+- Disposition:
+- Context (why the case was assigned):
+
+---
+
+## Langer v. Superior Steel Corp   
+
+**Name v. Name** Court, year (kind of court)
+
+- Issue:
+- Facts:
+- I. Uncontested facts:
+- II. Appellant NAME’s factual allegations:
+- III. Respondent NAME’s factual allegations:
+- IV. The appellate court’s resolution of the fact:
+- Procedural History:
+- Court’s Reasoning:
+- Rule/Law:
+- Application:
+- Policy:
+- Holding:
+- Disposition:
+- Context (why the case was assigned):
+
+---
+
+## White v. Village of Homewood Fire and Police Commission
+
+**Name v. Name** Court, year (kind of court)
+
+- Issue:
+- Facts:
+- I. Uncontested facts:
+- II. Appellant NAME’s factual allegations:
+- III. Respondent NAME’s factual allegations:
+- IV. The appellate court’s resolution of the fact:
+- Procedural History:
+- Court’s Reasoning:
+- Rule/Law:
+- Application:
+- Policy:
+- Holding:
+- Disposition:
+- Context (why the case was assigned):
+
+---
+
+## Lawrence v. Ingham Country Health Dept. Family Planning
+
+**Name v. Name** Court, year (kind of court)
+
+- Issue:
+- Facts:
+- I. Uncontested facts:
+- II. Appellant NAME’s factual allegations:
+- III. Respondent NAME’s factual allegations:
+- IV. The appellate court’s resolution of the fact:
+- Procedural History:
+- Court’s Reasoning:
+- Rule/Law:
+- Application:
+- Policy:
+- Holding:
+- Disposition:
+- Context (why the case was assigned):
+
+---
+
+## Ricketts v. Scothorn
+
+**Name v. Name** Court, year (kind of court)
+
+- Issue:
+- Facts:
+- I. Uncontested facts:
+- II. Appellant NAME’s factual allegations:
+- III. Respondent NAME’s factual allegations:
+- IV. The appellate court’s resolution of the fact:
+- Procedural History:
+- Court’s Reasoning:
+- Rule/Law:
+- Application:
+- Policy:
+- Holding:
+- Disposition:
+- Context (why the case was assigned):
+
+---
+
+## State Bank Standish v. Curry  
+
+**Name v. Name** Court, year (kind of court)
+
+- Issue:
+- Facts:
+- I. Uncontested facts:
+- II. Appellant NAME’s factual allegations:
+- III. Respondent NAME’s factual allegations:
+- IV. The appellate court’s resolution of the fact:
+- Procedural History:
+- Court’s Reasoning:
+- Rule/Law:
+- Application:
+- Policy:
+- Holding:
+- Disposition:
+- Context (why the case was assigned):
+
+---
+
+## Alden v. Presley
+
+**Name v. Name** Court, year (kind of court)
+
+- Issue:
+- Facts:
+- I. Uncontested facts:
+- II. Appellant NAME’s factual allegations:
+- III. Respondent NAME’s factual allegations:
+- IV. The appellate court’s resolution of the fact:
+- Procedural History:
+- Court’s Reasoning:
+- Rule/Law:
+- Application:
+- Policy:
+- Holding:
+- Disposition:
+- Context (why the case was assigned):
+
+---
+
+## Cotnam v. Wisdom  
+
+**Name v. Name** Court, year (kind of court)
+
+- Issue:
+- Facts:
+- I. Uncontested facts:
+- II. Appellant NAME’s factual allegations:
+- III. Respondent NAME’s factual allegations:
+- IV. The appellate court’s resolution of the fact:
+- Procedural History:
+- Court’s Reasoning:
+- Rule/Law:
+- Application:
+- Policy:
+- Holding:
+- Disposition:
+- Context (why the case was assigned):
+
+---
+
+## Bailey v. West
+
+**Name v. Name** Court, year (kind of court)
+
+- Issue:
+- Facts:
+- I. Uncontested facts:
+- II. Appellant NAME’s factual allegations:
+- III. Respondent NAME’s factual allegations:
+- IV. The appellate court’s resolution of the fact:
+- Procedural History:
+- Court’s Reasoning:
+- Rule/Law:
+- Application:
+- Policy:
+- Holding:
+- Disposition:
+- Context (why the case was assigned):
+
+---
+
+## Toalson v. Arch Madison
 
 **Name v. Name** Court, year (kind of court)
 

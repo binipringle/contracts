@@ -540,47 +540,33 @@ The general rule is that silence cannot be acceptance. There are three exception
 - **Disposition:** Judgement affirmed as to appelants.
 - **Context (why the case was assigned):** To illustrate acceptance by silence.
 
-## Mass market license agreements
--
-**Judicial Interpretation of Unread Boilerplate, Shrink Wrap, Click Wrap, and Browse Wrap Contracts**
+## End User License Agreements (EULAs)
 
-**Issue:** whether clicking on "I agree" to terms and conditions on a website is a contract.
+**Click wrap:** Applies to internet transactions.  
 
+- User must click on box saying “I agree.”
 
-**Nguyen v. Barnes & Noble, Inc.**
+**Browse wrap:** Like click wrap but you don’t have to click “I agree.” Website provides notice of the terms and conditions.
 
-- Issue:
-- Facts:
-- I. Uncontested facts:
-- II. Appellant NAME’s factual allegations:
-- III. Respondent NAME’s factual allegations:
-- IV. The appellate court’s resolution of the fact:
-- Procedural History:
-- Court’s Reasoning:
-- Rule/Law:
-- Application:
-- Policy:
-- Holding:
-- Disposition:
-- Context (why the case was assigned):
+- User must have actual or constructive knowledge of the website’s terms and conditions
+- Depends on design and content of the website
+- Court looks for textual notice on every page -- user has to go past to get to site
+- Notice must be conspicuous and well-placed
+- PLUS language directing user to terms “Read our terms before signing..”
 
-Text pp 107-112, 114 (starting at “acceptance by silence”)-116 (top), 126-127 (stop at the case)
+**Nguyen v. Barnes & Noble, Inc.** U.S. Court of Appeals 9th Circuit 763 F.3d 1171 (2014)
 
-RST § 30
+In Nguyen v. Barnes & Noble, Inc., the court found that the mere presence of a link without some obvious prompt to take affirmative action was not sufficient to bind a user to an arbitration agreement described in the terms and conditions. Using basic offer and acceptance terms, the court found that there must be a mutual manifestation of intent and the user must have actual or constructive knowledge of the websites' terms and conditions. The onus is on the website owner to provide the user with actual or constructive knowledge that by visiting the website the user agrees to the terms and conditions hyperlinked to the website. In this case you can see the court's disfavor of browse wrap contracts. The Court is requiring very specific placement of information.
 
-UCC §§ 2-206, 2-207(1)
+**Shrink wrap:**  Applies to store bought software (or over the phone).  
 
-Text pp 116-127 (very top)
+- Reference to license agreements is placed on the outside of the software packaging.
 
-Working with Rules - Sources of Law and Theoretical perspective
+**Shrink wrap hypo:** Consumer orders computer software from Gateway; software arrives including list of terms; says these terms will apply if the customer uses the software or fails to return it after 30 days; customer keeps the software for more than 30 days; later has a complaint about the software; one term says mandatory arbitration; consumer wants to sue in court.
 
-In class, we will discuss Article 2 of the Uniform Commercial Code (UCC) as a source of authority of contract law.  How does the UCC differ from the RST in terms of its authority and scope?
-
-Read UCC §§ 2-206 & 2-207(1).  Would Panhandle have been decided differently if it had been a sale of goods and subject to Article 2 of the UCC?  If so, how?
-
-What justifies the common law mirror image rule? Under what circumstances does this rule protect the offeror?  Under what circumstance might it create incentives for opportunistic behavior?  Why does the UCC reject the mirror image rule? Generally speaking, is the UCC rule more generous to offerors or offerees?
-
-In class, we will discuss the contrast between Formalism and Legal Realism as illustrated by the difference between the RST and the UCC.
+- **Issue:** Are these additional terms part of the contract? (is he limited to arbitration?) Customer says he didn't agree to arbitration because he didn't have access to those terms when he bought the software. Using traditional offer and acceptance analysis the customer would say terms occurred when customer bought software from Gateway over the phone. That was the contract.  
+- **Did a party make an offer?** Gateway made an offer when they said what they were selling, the customer said they'd purchase it, and Gateway said they'd send it. Customer calls in and gateway makes the offer by saying we promise to sell you the software for x amount of money - the mode of acceptance is exclusive - basically by using the goods/exercising dominion over the goods - or by silence over 30 days. The way courts interpret this is that the only way to accept is to use the software or be silent for 30 days (the way these shrink wrap agreements work is there is a conspicuous notice on the outside of the software that says that the terms are inside the package).
+- **Policy:** Gateway would argue that in terms of policy this is reasonable because if these 30 days did not constitute acceptance we would be in a perpetual state of uncertainty as to whether the products were sold; this is what is necessary for markets to function. Gateway would argue that providing terms and conditions over the phone is not good policy because nobody is going to wait on the phone while Gateway reads the contract. Thirty days contracts tend to be waivers of warranty, limitation of liability, mandatory arbitration. These type of shrink wrap contracts might not be enforceable if our societies decided that they were not wanted. Courts make an argument with thirty day acceptance based on policy.
 
 ## Revocation prior to acceptance
 
@@ -592,7 +578,6 @@ Lapse - the offer can lapse. I made offer you said nothingg; it's no longer reas
 Death or incapacity of either party - an offer is not transferable; if the person who made the offer passes away, the offer is over.
 
 Revocation is the tricky one. Starting rule: the offeror can revoke at any time prior to acceptance.
-
 
 **Dickinson v. Dodds**
 
@@ -752,11 +737,19 @@ Involves promises to give gifts. Seeks to protect those who reasonably rely on o
 
 **Hypo:** Uncle promises to pay nephew $5000 if he quits drinking and smoking until he turns 21; nephew quits; turns 21; $5000 not paid; nephew sues. Does he have a claim under the bargain principle? (Was the promise part of an exchange or a promise to give a gift?) (illustrates the blurred line between exchange and gift)   
 
-**Kirksey v. Kirksey** (Supreme Court of Alabama 1845)
+**Kirksey v. Kirksey** (Supreme Court of Alabama 1845) *also in restitution theory!*
 
-In Kirksey v. Kirksey, the court ruled that there was no enforceable promise where the plaintiff's brother-in-law promised plaintiff that if she would "come down and see [him], [he would] let [her] have a place to raise [her] family." The court reasoned that because the promise was a gift and not an exchange where the plaintiff did not agree to do anything in exchange for living on defendant's farm, which made the promise a gift. The plaintiff argued that there was exchange because she worked on the defendant's farm, which enriched the defendant. Under the restitution theory, which holds that one ought to pay for any benefit unjustly retained, the promise might be binding because there is an argument that the defendant was unjustly enriched. The plaintiff could also argue that under the reliance theory the promise was binding because she relied on the defendant's promise.
+In Kirksey v. Kirksey, the court ruled that there was no enforceable promise where the plaintiff's brother-in-law promised plaintiff that if she would "come down and see [him], [he would] let [her] have a place to raise [her] family." The court reasoned that because the promise was a gift and not an exchange where the plaintiff did not agree to do anything in exchange for living on defendant's farm, which made the promise a gift. The plaintiff argued that there was exchange because she worked on the defendant's farm, which enriched the defendant. Under the reliance theory the promise would have been binding because she relied on the defendant's promise.
 
 # C. Restitution theory
+
+**Kirksey v. Kirksey** (Supreme Court of Alabama 1845) *also in reliance theory!*
+
+In Kirksey v. Kirksey, the court ruled that there was no enforceable promise where the plaintiff's brother-in-law promised plaintiff that if she would "come down and see [him], [he would] let [her] have a place to raise [her] family." The court reasoned that because the promise was a gift and not an exchange where the plaintiff did not agree to do anything in exchange for living on defendant's farm, which made the promise a gift. Under the restitution theory, which holds that one ought to pay for any benefit unjustly retained, the promise might be binding because there is an argument that the defendant was unjustly enriched.
+
+**Fluffy white dog hypo:** Assume that one day when you were walking, you found a little white dog lying under a tree. The dog appeared ill so you took it home and gave it some water and food. The next day, you decided to take the dog to the vet. The vet examined the dog and told you the dog had pneumonia and it will cost over $500 to treat the dog. You approved treatment and spent your entire savings to pay for the vet bill. The next week, you see a sign that someone has lost a white dog. You take the dog back to its owner and mention the expenses you have incurred in caring for the pet. It turns out that the dog is registered and is a valuable show dog with all kinds of medals.
+
+- **Answer/rule:** Under the restitution theory, tthe owner would have to repay me for the out-of-pocket costs I incurred because when somebody confers a benefit on someone else's dog is there an obligation to compensate because the dog owner was unjustly enriched.
 
 ## IVa Legal detriment and bargained-for
 
