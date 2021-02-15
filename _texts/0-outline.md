@@ -15,7 +15,6 @@ toc:
 - Universal RP test
 - Positioned RP test
 - Factors for positioned RP test
-- Cases - positioned RP
 - Socially situated RP analysis
 - Problems with RP standard
 - Using the objective test
@@ -29,18 +28,14 @@ toc:
 - Yes offers
 - No not offers
 - Advertisement
-- Cases - advertisement
 - Acceptance
-- Content of acceptance - the mirror image rule
+- Mirror image rule
 - Counteroffer
-- Cases - counteroffer
 - Mode or manner of acceptance
-- Cases - manner or mode of acceptance
 - Bilateral v uniletaral contracts
 - Acceptance by silence
-- Mass market license agreements
+- End User License Agreements (EULAs)
 - Revocation prior to acceptance
-- Mirror image rule
 - Consideration
 - Statute of frauds
 - B. Reliance theory
@@ -167,7 +162,7 @@ In RLM Dist. Co. v. W.A. Taylor, Inc., the court found found that custom and pra
 
 What was said? And what would that lead a reasonable person to believe? Use factors.
 
-## Cases - positioned RP
+## Cases
 
 **Charles R Embry v Hargadine McKittrick Dry Goods Company** Missouri Court of Appeals 105 S.W. 777 (1907)
 
@@ -325,7 +320,7 @@ Factors here:
 - price quotes, catalogues, price lists
 - putting price tag on an item and placing it on a shelf in a store
 
-## Advertisements
+## Advertisement
 
 Generally, an advertisement is not an offer because it is usually addressed to a large number of people and phrased in general terms. Instead, there is a presumption that an ad is a solicitation of an offer, or a mere request to consider and examine and negotiate unless the circumstances are exceptional, and the words used are very plain and clear. *Leonard v. Pepsico*, 88 F.Supp. 2d 116 (1999). For an advertisement to be an offer, there must be some language of commitment or some invitation to take action without further communication. An ad is more likely to be considered an offer if it (1) limits the number of people who can accept; (2) invites performance; and (3) communicates willingness to commit.
 
@@ -339,7 +334,7 @@ Generally, an advertisement is not an offer because it is usually addressed to a
 2. Invites performance, e.g. offer for a reward, prove me wrong, or prizes for skill and luck (I've only got one cat so I've limited the number of people, and I've induced performance); they're not worried about the number of people who will... *Carbolic Smoke Ball*
 3. Communicates willingness to commit
 
-## Cases - advertisement
+## Cases
 
 **Carlill v. Carbolic Smoke Ball Co.** (discussed in Pepsi)
 
@@ -395,7 +390,7 @@ Acceptance of an offer is defined in RST § 50 as a manifestation of assent to t
 
 Generally, an offer may specify any mode or manner of acceptance that the offeror desires. However, if the offeror does not specify that a specific manner of acceptance is the only accepted manner, a court will interpret the offer to allow acceptance in any reasonable manner. The mode and manner of acceptance also depends on whether an offer is bilateral or unilateral. In bilateral contracts, a promise is made in exchange for a promise, acceptance happens with the return promise, and both parties are bound when the return promise is made. Bilateral contracts follow the mirror image rule where acceptance must be a mirror image of the offer and even small, unimportant change will result in no acceptance, becoming instead a counteroffer. In unilateral contracts, a promise is made in exchange for performance, acceptance occurs when the offeree renders full performance, and neither party is bound unless and until the offeree has performed. Because courts generally favor bilateral offers, a unilateral offer must specify that it can be accepted only by performance, otherwise it will be deemed bilateral by a court. If the offer specifies that it can only be accepted by full performance, the contract is not formed until the offeree has performed everything specified in the offer. After this is done, only the offeror needs to perform because the offeree has fully performed.
 
-## Content of acceptance - the mirror image rule
+## Mirror image rule
 
 Under the mirror image rule, acceptance must be a mirror image of the offer. Even small, unimportant change will result in no acceptance, but instead become a counteroffer.
 
@@ -418,7 +413,7 @@ Sub-rules from this case (Panhandle?) (see slides for rule):
 - still an acceptance if "mere request"
 - still an acceptance if offeree expresses dissatisfaction with the offer but still manifests intent to accept ("grumbling acceptance")
 
-## Cases - counteroffer
+## Cases
 
 **Panhandle Eastern Pipe Line Co. v. Nowlin Smith, Jr.** Wyoming Supreme Court 637 P.2d 1020 (1981) *Panhandle also in manner or mode of acceptance!*
 
@@ -448,7 +443,7 @@ In Panhandle v. Smith, the court found that Smith accepted Panhandle's offer to 
 
 Note: UCC acceptance rule is identical to the common law. The only time we need to know is when the mirror image rule does not apply (when between merchants)
 
-## Cases - manner or mode of acceptance
+## Cases
 
 **Panhandle Eastern Pipe Line Co. v. Nowlin Smith, Jr.** Wyoming Supreme Court 637 P.2d 1020 (1981) *Panhandle also in counteroffer!*
 
