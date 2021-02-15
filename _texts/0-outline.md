@@ -15,6 +15,7 @@ toc:
 - Universal RP test
 - Positioned RP test
 - Factors for positioned RP test
+- Cases - positioned RP
 - Socially situated RP analysis
 - Problems with RP standard
 - Using the objective test
@@ -24,15 +25,26 @@ toc:
 - Contract Formation - Elements
 - Assent
 - Offer
+- Four factors
+- Yes - offers
+- No - not offers
+- Advertisement
+- Cases - advertisement
 - Acceptance
-- Mirror image rule
-- Mode of acceptance
-- Manner of Acceptance
+- Content of acceptance - the mirror image rule
+- Counteroffer
+- Cases - counteroffer
+- Mode or manner of acceptance
+- Cases - manner or mode of acceptance
 - Bilateral v uniletaral contracts
 - Acceptance by silence
+- Mass market license agreements
 - Revocation prior to acceptance
 - Mirror image rule
-- IV Consideration
+- Consideration
+- Statute of frauds
+- B. Reliance theory
+- C. Restitution theory
 - IVa Legal detriment and bargained-for
 - IVb Neo-Classical economic theory
 - IVc Critical legal theory
@@ -155,30 +167,13 @@ In RLM Dist. Co. v. W.A. Taylor, Inc., the court found found that custom and pra
 
 What was said? And what would that lead a reasonable person to believe? Use factors.
 
-**Cases:**
-
-- **Embry**
-- **U.S. Steel**
-- **Death of a Salesman Hypo**
-- **Barn-farm hypo**
+## Cases - positioned RP
 
 **Charles R Embry v Hargadine McKittrick Dry Goods Company** Missouri Court of Appeals 105 S.W. 777 (1907)
 
 In McKittrick, the court found Embry did not satisfy the positioned reasonable person standard because it was reasonable for an employee in Embry's position to believe when he heard "go ahead, your are all right, get your men out, don't let that worry you," combined with surrounding circumstances such as the past interactions between employer and employee, that he was contracted by McKittrick for another year. Therefore, there was a contract between McKittrick and Embry. Here, the court will likely find [rule] because [legally relevant facts from exam].
 
 - **Rule:** If the words or acts of two parties would be understood by a reasonable person to manifest the intention of both parties to enter into a contract, a contract is created, regardless of whether a party did not intend to enter into the contract so long as a reasonable person would find that the inner intention is not embodied in the words used by or acts of the parties. (62 4th para)
-
-## Socially situated RP analysis
-
-- Interprets the meaning of words and conduct according to the understanding of a "universal" observer who is placed in the position of the recipient of the communication but who also has the social identity of the recipient. Draws from the UN CISG, which provides that statements and conduct of contracting parties should be interpreted according to the parties' own shared meanings, but if these cannot be ascertained, then the statements should be interpreted according to the understanding that "a reasonable person *of the same kind* (including nationality, culture, religion and the like) as the other party would have had in the same circumstances." Relevant evidence includes history and circumstances of the communication and also the practices of the parties' trades or communities and their own experiences in negotiations of this sort. Critics of the socially situated theory argue that it is better to challenge class and other bias in the objective theory than to invite judges to indulge in stereotypical versions of others' perspectives. Very essentializing.
-
-## Problems with RP standard
-
-The critique of the reasonable person test, whichever way you look at it, is the problem of bias, of essentializing. Race. Gender. Class. The objective test is the test that courts use, because it's more rational than the subjective test. So we have to figure out how to use it in the least harmful way. The key is that either a reasonable person interpreted something in a way or *should have* interpreted it in that way.
-
-## Using the objective test
-
-Questions to ask: How did the court determine what a reasonable person would have thought? What facts did the court rely on? What facts support a counterargument that a reasonable person would have thought in a way?
 
 **United Steelworkers of America, Local 1330 v. U.S. Steel** USDC for the Northern District of Ohio, 492 F. Supp. 1 (1980)
 
@@ -194,16 +189,24 @@ In Local 1330 v. U.S. Steel, the court found that U.S. Steel's statements asking
 
 - **Willy** would argue that there was a promise because a reasonable person in Willy's shoes who heard the owner of his business say "I'm sure when you decide you want to stop traveling, we'll be able to find a place for you here in town..." would think a promise was made, based on the relationship of owner-employee, industry custom to promise future employment in this type of casual conversation, level of specificity (in town), etc. Therefore, there was an enforceable promise.
 - **Loman** would argue that there was not a promise because a reasonable person in Willy's shoes who heard the owner of his business say "I'm sure when you decide you want to stop traveling, we'll be able to find a place for you here in town..." wouldn't think there was a promise of office employment in the future based on the conversation was years ago, not clear, definite or detailed, used the words "I'm sure." Therefore, there was not an enforceable promise. ("I'm sure" is often used colloquially to mean the exact opposite: I'm not sure. Use factors. Statement lacks clarity and definiteness (i.e. "a place"))
+- Note: Think of the relationship of the parties. An employee and an employer. An employee asking a question of his employer.
 
-Relationship of the parties. An employee and an employer. An employee asking a question of his employer.
-
-**Another Hypo** from Death of a Salesman:
-
-- Willy doesn't want to travel anymore. Asks Howard (son of the old owner) for an office job in town. (see slide)
-
-**Hypo**
+**Bar/farm hypo**
 
 - People drinking in a bar. One contracts to sell their farm to the other for $50,000. Farm was really worth a lot more. Next day seller refuses to sell saying they didn't really promise (just kidding). Enforceable promise? Yes. Here we don't have facts that say they were incapacitated because they were drunk, so we assume they had capacity.
+
+## Socially situated RP analysis
+
+Interprets the meaning of words and conduct according to the understanding of a "universal" observer who is placed in the position of the recipient of the communication but who also has the social identity of the recipient. Draws from the UN CISG, which provides that statements and conduct of contracting parties should be interpreted according to the parties' own shared meanings, but if these cannot be ascertained, then the statements should be interpreted according to the understanding that "a reasonable person *of the same kind* (including nationality, culture, religion and the like) as the other party would have had in the same circumstances." Relevant evidence includes history and circumstances of the communication and also the practices of the parties' trades or communities and their own experiences in negotiations of this sort. Critics of the socially situated theory argue that it is better to challenge class and other bias in the objective theory than to invite judges to indulge in stereotypical versions of others' perspectives, which is very essentializing.
+
+## Problems with RP standard
+
+The critique of the reasonable person test, whichever way you look at it, is the problem of bias, of essentializing. Race. Gender. Class. The objective test is the test that courts use, because it's more rational than the subjective test. So we have to figure out how to use it in the least harmful way. The key is that either a reasonable person interpreted something in a way or *should have* interpreted it in that way.
+
+## Using the objective test
+
+Questions to ask: How did the court determine what a reasonable person would have thought? What facts did the court rely on? What facts support a counterargument that a reasonable person would have thought in a way?
+
 
 ## B. Subjective theory - approach
 
@@ -216,34 +219,32 @@ Under the "subjective theory" of interpretation the court would evaluate what bo
 
 The bargain theory is a theory of relief where a promise to exchange one thing for another gives rise to mutual obligations. Under the bargain theory, an enforceable promise becomes a contract where there is assent (offer and acceptance) and reciprocity (consideration). Closely related to neo-classical economic theory, the bargain  values efficiency and profit-making and assumes that bargains are motivated by self-interest and that people act in their own self interest, rationally and with access to perfect information, that people and resources are freely movable and that there are no artificial restrictions to entry to the market.
 
+Or
+
+A bargain is an agreement to exchange promises or to exchange a promise for a performance or to exchange performances. Under the bargain theory of relief where a promise to exchange one thing for another gives rise to mutual obligations, an enforceable promise becomes a contract where there is assent (offer and acceptance) and reciprocity (consideration).
+
 # Contract Formation - Elements
 
 ## Assent
 
-Note on the polarity of the offer-acceptance model: In § 2-204(b) of the UCC, Professor Karl Llewelyn sought to reform the "yes/no - was there a contract" polarity of contract formation:
+Assent, or mutual assent, sometimes called the meeting of the minds of the parties, is the expressed willingness of each party to enter into an agreement. No contract is formed unless both parties assent. The Restatement (Second) of Contracts (“RST”) § 3 defines an agreement as a manifestation of mutual assent on the part of two or more persons. For there to be assent, there must be an offer and an acceptance of that offer.
 
-- (b) An agreement sufficient to constitute a contract for sale may be found even though the moment of its making is undetermined.
-
-This allows courts to develop a flexible open-ended model of contract formation in contracts for the sale of goods.
+Note on the polarity of the offer-acceptance model: In § 2-204(b) of the UCC, Professor Karl Llewelyn sought to reform the "yes/no - was there a contract" polarity of contract formation in "(b) An agreement sufficient to constitute a contract for sale may be found even though the moment of its making is undetermined." This allows courts to develop a flexible open-ended model of contract formation in contracts for the sale of goods.
 
 ## Offer and acceptance
-
-- Acceptance: Manifestation of intent to enter into a bargain on the terms proposed by the offeror.
 
 Offer and Acceptance: both require assent. Two steps:
 
 1. Did a party make an offer?   
-2. Was there acceptance?  "Manifestation of intent to enter into a bargain on the terms proposed by the offeror."
-
-Mutuality: No contract is formed unless both parties manifest the willingness to enter into a bargain.
+2. Was there acceptance?  
 
 Did there come a time in the communication between the parties when either party communicated a "willingness to enter into a bargain, so made to justify [a reasonable person in the position of the other party] in understanding that his assent to that bargain is invited and will conclude it"? See RST § 24.
 
-**Hypo** I promise to give you $100 if you give me the apples. The whole thing is an offer. If
-
 ## Offer
 
-Under **RST § 24**, an offer is a "manifestation of intent to enter into a bargain made by offeror to offeree."
+Under RST § 24, an offer is a manifestation of intent to enter into a bargain made by an offeror to an offeree. This rule is interpreted by the courts the objective theory of interpretation, which provides that words and conduct of the parties should be interpreted as a reasonable person would interpret them, to determine whether the communications of the parties constitute an offer. No formalities, such as words of promise, are required; the offer may be written or spoken, communicated by other conduct, or implied by facts, and the offer can be made by the buyer or seller.
+
+**Breakdown:** Under RST § 24, an offer is a "manifestation of intent to enter into a bargain made by offeror to offeree."
 
 - No formalities are required.
 - May be written or spoken or other conduct.
@@ -256,13 +257,17 @@ Hypos: are these an offer? THE THREE HYPOS ARE IN SLIDES
 
 **Rancher hypo:** 5/20 Rancher stops by to talk to his neighbor. Tells neighbor he's interested in selling his ranch and asks if neighbor is interested in buying. Neighbor says he's interested and he will see if he can find the money. Rancher says he'll determine the value of the property and get back to the neighbor. 6/13 neighbor calls the rancher to see if he was still selling. Rancher replies that he was still selling and that there's just a little delay. Says, "don't worry, everything is in order." 6/17 Rancher sends a letter to the neighbor and to three other neighbors asking if they'd be interested in buying the ranch. The letter details the price and all the terms. Did the rancher an offer to the neighbor? Did he make an offer to the other neighbors? No. This is an advertisement. Too many people. An advertisement that induces performance can be an offer.  
 
+**Hypo:** I promise to give you $100 if you give me the apples. The whole thing is an offer.
+
 **Hypo:** The Gap is putting an ad in the paper that they are selling a sweater (see slide class of 1-20-21)
 
 **Hypo:** Will you sell me your property for $60,000? I said yes. Seems like no, it's not an offer because it's too vague and doesn't provide enough detail, and isn't a promise.
 
 ## Four factors
 
-A court will weigh/balance factors when considering whether there was a manifestation of intent to enter into a bargain made by an offeror to an offeree. One or more factors may have stronger weight than others depending on the context of the communication.
+A court will weigh and balance a series of factors when considering whether there was a manifestation of intent to enter into a bargain made by an offeror to an offeree. These factors include language, including whether there were words of promise or commitment; the level of detail of the communication’s terms; the number of people the communication was addressed to, and whether the communication named a party or parties; trade usage and/or custom including relevant community practices; prior dealings and/or conversations between the parties; characterization including whether the communication was a price quote, advertisement, or other factors. One or more factors may have stronger weight than others depending on the context of the communication.
+
+**Breakdown:** A court will weigh/balance factors when considering whether there was a manifestation of intent to enter into a bargain made by an offeror to an offeree. One or more factors may have stronger weight than others depending on the context of the communication.
 
 1. **Language - words of promise or commitment?** Did the words of the communication indicate a willingness, at that moment, to make a committment? If so, the communication appears more like an offer.
 2. **Level of detail** Did the communication include detailed terms? If so, the communication appears more like an offer.
@@ -301,8 +306,6 @@ A court will weigh/balance factors when considering whether there was a manifest
 - **Level of seriousness:** a reasonable person would understand that it's a joke.
 - **Characterization of the proposal:** What does the court say about Ads?
 
----
-
 ## Yes - offers
 
 **The following are *usually* considered offers:**
@@ -316,8 +319,6 @@ Factors here:
 - Limits the number of people who can accept
 - Induces action
 
----
-
 ## No - not offers
 
 - Advertisements
@@ -326,9 +327,9 @@ Factors here:
 
 ## Advertisements
 
-Generally, ads are not offers. There is a presumption that an ad is a solicitation of an offer, or an invitation to negotiate. [An advertisement] is more likely to be considered an offer if it (1) limits number of people who can accept; (2) invites performance; and (3) communicates willingness to commit.
+Generally, an advertisement is not an offer because it is usually addressed to a large number of people and phrased in general terms. Instead, there is a presumption that an ad is a solicitation of an offer, or a mere request to consider and examine and negotiate unless the circumstances are exceptional, and the words used are very plain and clear. *Leonard v. Pepsico*, 88 F.Supp. 2d 116 (1999). For an advertisement to be an offer, there must be some language of commitment or some invitation to take action without further communication. An ad is more likely to be considered an offer if it (1) limits the number of people who can accept; (2) invites performance; and (3) communicates willingness to commit.
 
-SEE SLIDE FROM CLASS WITH SUB-RULES!!!
+**Breakdown:** SEE SLIDE FROM CLASS WITH SUB-RULES!!!
 
 **Presumption:**  Solicitation of offer / invitation to negotiate. Even if it has all the detail in it, it's still presumed to be a solicitation of an offer rather than an offer, *because it goes to a lot of people* - it doesn't matter how detailed it is. It's not an offer unless it fits into one of the exceptions.
 
@@ -338,32 +339,21 @@ SEE SLIDE FROM CLASS WITH SUB-RULES!!!
 2. Invites performance, e.g. offer for a reward, prove me wrong, or prizes for skill and luck (I've only got one cat so I've limited the number of people, and I've induced performance); they're not worried about the number of people who will... *Carbolic Smoke Ball*
 3. Communicates willingness to commit
 
-**Carbolic Smoke Ball (p 101):** (in Pepsico) 100 pounds to anyone who uses the product and still gets the flu. (The ad in Carbolic Smoke Ball was considered an offer because it invited performance.)
+## Cases - advertisement
 
-**Carlill v. Carbolic Smoke Ball Co** (discussed in Pepsi)
+**Carlill v. Carbolic Smoke Ball Co.** (discussed in Pepsi)
 
-In Carlill v. Carbolic Smoke Ball Co., the court found that an ad was an offer because by stating that the company would give £100 to anyone who used the product and still got the flu, the advertiser invited performance by inviting the public to prove it wrong and communicated a willingness to commit by promising a reward if they did.
+In Carlill v. Carbolic Smoke Ball Co., the court found that an ad was an offer because it invited performance by stating that the company would give £100 to anyone who used the product and still got the flu, the advertiser invited performance by calling on the public to prove it wrong and communicated a willingness to commit by promising a reward if they did.
 
 - Rule/Law: Advertisements offering rewards are offers to anyone who does perform the conditions named in the advertisement, and anybody who does perform the condition accepts the offer. RST § 24 (I think).
 
 **John D.R. Leonard v. Pepsico, Inc.** U.S. District Court, SDNY (1999)  
 
-- **Issue:** Whether accepting the terms of an advertisement that is not clear and intended to be a joke can create an enforceable contract.
-- **Facts:**
-- **I. Uncontested facts:** Pepsico was going to run a promotional campaign called "Pepsi Stuff" which encouraged consumers to collect points from Pepsi packaging and redeem them for Pepsi branded merchandise. Before launching the campaign, to test the promotion, Pepsico broadcast a TV commercial that showed someone redeeming their points for a Harrier jet. Pepsico also distributed a Pepsi Stuff catalog in Washington State which listed various items exchangeable for points but not the Harrier jet. An order form that came with the catalog had check boxes for ordering the items advertised in the catalog but not the Harrier jet. The catalog stated that merchandise could only be ordered with the order form.
-- **II. Appellant Leonard’s factual allegations:** Plaintiff Leonard alleged that he saw the commercial with the Harrier jet and based on the commercial, believed that he could redeem 7.000.000 Pepsi Stuff points for a Harrier jet. Through collecting and buying points for this purpose, Leonard amassed about 700,000 points.
-- **III. Respondent Pepsico’s factual allegations:** Defendant Pepsico alleged that the advertisement in the commercial stating that the Harrrier jet could be purchased with 7,000,000 Pepsi Stuff points was a joke.
-- IV. The appellate court’s resolution of the fact:
-- Procedural History:
-- Court’s Reasoning:
-- **Rule/Law:** For an advertisement to be an offer, there must be some language of commitment (on whose part?) or some invitation to take action without further communication (could this invitation to take action be an order form?). (99) Advertisements are mere requests to consider and examine and negotiate unless the circumstances are exceptional and the words used are very plain and clear. (99) An advertisement is not transformed into an enforceable offer merely by a potential offeree's expression of willingness to accept the offer through, among other means, completion of an order form. (99) Advertisements and the completion of order forms are mere notices and solicitations for offers. (99) Purchase orders are not enforceable contracts until they are accepted by the seller (99-100). RST § 26 states that "[a] manifestation of willingness to enter into a bargain is not an offer if the person to whom it is addressed knows or has reason to know that the person making it does not intend to conclude a bargain until he has madde a further manifestation of assent" (100).
-- Application:
-- Policy:
-- Holding:
-- Disposition:
-- Context (why the case was assigned):
+In Pepsico, the court found that a TV ad displaying a person redeeming Pepsi points in exchange for a Harrier jet was not an offer because it did not have clear, definite and explicit terms and because the details of the offer were reserved by Pepsico to a separate writing in its catalogue.
 
-In Pepsi, the court found the TV ad displaying the Harrier jet did not have clear, definite and explicit terms because the ad reserved the details of the offer to a separate writing - the cata ... see slide
+In Pepsico, the court found that a TV ad displaying a person redeeming Pepsi points in exchange for a Harrier jet was not an offer because a reasonable person in appellant Leonard's position would have understood that the commercial stating that the Harrrier jet could be purchased with 7,000,000 Pepsi Stuff points was a joke.  
+
+- **Rule/Law:** For an advertisement to be an offer, there must be some language of commitment or some invitation to take action without further communication (could this invitation to take action be an order form?). (99) Advertisements are mere requests to consider and examine and negotiate unless the circumstances are exceptional and the words used are very plain and clear. (99) An advertisement is not transformed into an enforceable offer merely by a potential offeree's expression of willingness to accept the offer through, among other means, completion of an order form. (99) Advertisements and the completion of order forms are mere notices and solicitations for offers. (99) Purchase orders are not enforceable contracts until they are accepted by the seller (99-100). RST § 26 states that "[a] manifestation of willingness to enter into a bargain is not an offer if the person to whom it is addressed knows or has reason to know that the person making it does not intend to conclude a bargain until he has madde a further manifestation of assent" (100).
 
 **Lefkowitz v. Great Minneapolis Surplus** (discussed in Pepsi)
 
@@ -401,126 +391,105 @@ Apply socially situated RP test - court says ad is targeting younger generation 
 
 # Acceptance
 
-# Mirror image rule
+Acceptance of an offer is defined in RST § 50 as a manifestation of assent to the terms of the offer, made by the offeree in a manner invited or required by the offer. This rule is interpreted by the courts using the objective theory of interpretation, defined above. To determine whether there was acceptance, courts usually apply the positioned reasonable person test which interprets the meaning of words and conduct according to the understanding of a “universal” observer who is placed in the position of the recipient of the communication. Relevant evidence includes evidence of the history of the parties’ relationship and of the circumstances surrounding the communications and takes into account the mode and manner of acceptance, if any, specified in the offer.
 
-**Panhandle Eastern Pipe Line Co. v. Nowlin Smith, Jr.** Wyoming Supreme Court 637 P.2d 1020 (1981)
-
-- **Issue:** Whether Smith accepted Panhandle's offer to withdraw Smith's discharge.
-- **Facts:**
-<p style="margin-left:10%; margin-right:10%;">I. Uncontested facts: Panhandle fired Smith in October 1979. Nowlin grieved. In December 1979 by letter to Smith, Panhandle offered to withdraw the discharge if Smith complied with certain terms and conditions. Smith signed letter under typewritten words "Understood, Agreed to and Accepted." Smith also wrote notes on the letter. Union rep also signed letter and returned letter to company.</p>
-<p style="margin-left:10%; margin-right:10%;">II. Appellant Panhandle’s factual allegations: 2 issues: mode/manner of acceptance, and content of acceptance. Panhandle argues that by writing on the letter Smith "failed to use the mode of acceptance which [Panhandle, the offeror] prescribed." (Panhandle would have objected to any words written on the letter) Panhandle also argues that Smith made a counteroffer by adding terms and conditions to the letter which modified the offer. (108) Panhandle alleges that it informed Smith during a telephone conversation that the mode of acceptance was to sign the letter without writing notes on the letter and that all other modes of acceptance were excluded.</p>
-<p style="margin-left:10%; margin-right:10%;">III. Respondent Smith’s factual allegations: Smith alleges that Panhandle did not inform him during a telephone conversation that the mode of acceptance was to sign the letter without writing notes on the letter and that all other modes of acceptance were excluded. Smith alleges that he did not understand that an addition to the letter would be considered a rejection of the offer.</p>
-<p style="margin-left:10%; margin-right:10%;">IV. The appellate court’s resolution of the fact: The court found that it had to view the evidence of the phone call most favorably to Smith <i>Madrid v. Norton</i>, Wyo., 596 P.2d 1108 (1979) (why?).</p>
-- **Procedural History:** Smith brought suit against Panhandle in district court. District court granted damages to Smith for breach of contract. Panhandle appealed.
-- **Court’s Reasoning:** Court addressed (1) Panhandle's "mode of acceptance" argument, asking whether Panhandle specified that the mode of acceptance of its offer excluded all other modes of acceptance. See application below for reasoning.
-the court also addressed (2) Panhandle's "counteroffer" argument. The court noted that under the law of contract formation, when a person modifies a contract they have usually rejected the offer and made a counteroffer, and no contract exists unless the original offeror accepts the counteroffer. *Trautwein v. Leavey*, Wyo., 472 P.2d 776 (1970). However, the court found that here Smith's notes on the letter did not modify the terms of Panhandle's offer. See also reasoning in application below.
-- **Rule/Law:** (1) An offeror has the right to accept an exclusive mode of acceptance from an offeree. An exclusive mode of acceptance can be unreasonable or difficult if it clearly excludes all other modes of acceptance, and this intention is expressed in the communicated offer itself. (2) An acceptance is still effective if the addition only asks for something that would be implied from the offer and is therefore immaterial. (p. 109)
-- **Application:** (1) Here, the letter stated that the mode of acceptance was to sign the letter, but because the court favored Smith's version of the telephone conversation, Panhandle did not orally modify the written offer and failed to express that it intended to exclude all other modes of acceptance. (p. 108) Question comes up as to why the mode of acceptancce that the uniion must sign did not need to be exclusive while not wriiting notes on the contraccct needed to be cleaar and excclusive. Signatures are habitual and reasonable. Not writing on the contract is unreasonable so it needds to be cclear and specificcally be made clear that it is an exclusive mode of acceptance. (2) The court found that the other notes that Smith wrote on the letter were "grumbling" and were not a modification of the offer. The court found that the requirement that Smith not write on the letter is unreasonable because the only reason the court surmised that Panhandle could have for stipulating that Smith not write on the letter was "an inordinate fondness for tidy sheets of paper." (109) Unreasonable requirements must be specified in the communicated offer. (2) Here, the court found that the term added by Smith that he be able to view his personnel file were implicit in the offer because by CBA all employees had a right to view their personnel file. Therefore, this condition was not a new term that modified the contract and was thus not a counteroffer. (p. 109)
-- **Policy:**
-- **Holding:** Here, Smith did not accept Panhandle's offer to withdraw Smith's discharge.
-- **Disposition:** Appeals court affirmed ruling of lower court.
-- **Context (why the case was assigned):** To illustrate acceptance of offer/exclusive mode of acceptance.
-Class notes 2-1-21
-
-## Acceptance issues
-
-Objective test: would a reasonable person accept the offer
-Mirror image rule (content of acceptance) + 2-207
-Mode/manner of Acceptance
-Acceptance by performance (bilateral v. unilateral)
-Silence as acceptance
-Mass maarket license agreements
-
-**Rules for mode of acceptance:**
-
-- Offeror is master of the offer
-- Offeror can demand an exclusive mode of acceptance
-- Must be clear/expressly stated that exclusive mode of acceptance (must be clear that the only way offeree can accept the offfer - court is not going to be eager to ccourts favor ccontracts in general)
-- Otherwise, court will interpret offer as allowing acceptance in any reasonable manner
-
-Contract said if you want to accept reply by return mail. If person hand delivers reply, arguably it is a valid mode of acceptance, because the mode of acceptance is speccific but reply by return mail does not say only reply by return mail.
+Generally, an offer may specify any mode or manner of acceptance that the offeror desires. However, if the offeror does not specify that a specific manner of acceptance is the only accepted manner, a court will interpret the offer to allow acceptance in any reasonable manner. The mode and manner of acceptance also depends on whether an offer is bilateral or unilateral. In bilateral contracts, a promise is made in exchange for a promise, acceptance happens with the return promise, and both parties are bound when the return promise is made. Bilateral contracts follow the mirror image rule where acceptance must be a mirror image of the offer and even small, unimportant change will result in no acceptance, becoming instead a counteroffer. In unilateral contracts, a promise is made in exchange for performance, acceptance occurs when the offeree renders full performance, and neither party is bound unless and until the offeree has performed. Because courts generally favor bilateral offers, a unilateral offer must specify that it can be accepted only by performance, otherwise it will be deemed bilateral by a court. If the offer specifies that it can only be accepted by full performance, the contract is not formed until the offeree has performed everything specified in the offer. After this is done, only the offeror needs to perform because the offeree has fully performed.
 
 ## Content of acceptance - the mirror image rule
 
-- Acceptance must be a mirror image of the offer
-- Even small, unimportant change will result in no acceptance, but rather counteroffer.
+Under the mirror image rule, acceptance must be a mirror image of the offer. Even small, unimportant change will result in no acceptance, but instead become a counteroffer.
 
-If I say I'll sell you my house for $5000, and you say yes I'll buy it as long as you vacate it on Tuesday. You've modified the terms. You created new obligatiions without my assent. So when you change the terms you're making a counterofffer. Your accceptancce is not a mirror image of the offer; it is a mirror image.
+**Hypo:** If I say I'll sell you my house for $5000, and you say yes I'll buy it as long as you vacate it on Tuesday. You've modified the terms. You created new obligations without my assent. So when you change the terms you're making a counteroffer. Your acceptancce is not a mirror image of the offer.
 
-If I say I'll sell you my house for $5000, but to be vacated Thursday. If you say "ok great I'll buy your house but can you vacate on wednesday?" here, you still have an offer because you aren't changing the terrms. If you say "yes great I'll buy your house but only if you vacate on Wednesday " here, you no longer have an offer because you have changed the terms.
+**Hypo:** If I say I'll sell you my house for $5000, but to be vacated Thursday. If you say "ok great I'll buy your house but can you vacate on Wednesday?", you still have an offer because you aren't changing the terms. If, however, you said "yes great I'll buy your house but only if you vacate on Wednesday " here, you no longer have an offer because you have changed the terms.
 
-You turn my offer into a counterofffer, you become the new offeror. I become the new offeree.
+You turn my offer into a counteroffer, you become the new offeror. I become the new offeree.
 
-**counteroffer**
+## Counteroffer
 
-- offer made by offeree to his offeror
+- offer made by offeree to offeror
 - Relating to same matter as original offer
 - proposing substitute bargain
-- - No K until the counteroffer is accepted
+- No K until the counteroffer accepted
 
-Sub-rules from this case (see slides for rule)
+Sub-rules from this case (Panhandle?) (see slides for rule):
 
-- Acceptance is still effective if the "addition" only asks for something that was implied iin the offer anyway
+- Acceptance is still effective if the "addition" only asks for something that was implied in the offer anyway. *Panhandle*
 - still an acceptance if "mere request"
-- still an aacceptance if offeree expresses dissatisfactioin with the offer but stiill manifests an intent to acccept ("grumbling accepance")
+- still an acceptance if offeree expresses dissatisfaction with the offer but still manifests intent to accept ("grumbling acceptance")
 
+## Cases - counteroffer
 
-## Manner of Acceptance
+**Panhandle Eastern Pipe Line Co. v. Nowlin Smith, Jr.** Wyoming Supreme Court 637 P.2d 1020 (1981) *Panhandle also in manner or mode of acceptance!*
+
+In Panhandle v. Smith, the court found that Smith accepted Panhandle's offer to withdraw Smith's discharge even though Smith added words to the letter of discharge because the notes that Smith wrote on the letter were "grumbling" and were not a modification of the offer. The court found that the term added by Smith that he be able to view his personnel file were implicit in the offer because by CBA all employees had a right to view their personnel file. Therefore, this condition was not a new term that modified the contract and was thus not a counteroffer.
+
+- **Rule/Law:** (2) An acceptance is still effective if the addition only asks for something that would be implied from the offer and is therefore immaterial. (p. 109)
+
+## Mode or manner of Acceptance
 
 **General rule:** An offer may specify any manner of acceptance that the offeror desires. (p. 109) If the offeror does not specify that a specific manner of acceptance is the only accepted manner, a court will interpret the offer to allow acceptance in any reasonable manner.
 
-**UCC Article 2-206** provides "Unless otherwise unambiguously indicated by the language or circumstances ... an offer to make a contract shall be construed as inviting acceptance in any manner and by any medium reasonable in the circumstances." (p. 110) (UCC Art. 2 applies to the sale of goods [anything movable], not to sale of real estate or sale of services; UCC is a realist code - more flexible/liberal approach to contract formation)
+**Breakdown:** Rules for mode of acceptance
 
-Art 2 drafted by legal realists in the 1950s; trying to reflect reality rather than something rigid. It was written to cover buying and selling goods in the marketplace; the goal is to promote the free flow of ccontraccts in the marketplacce; so important for jobs and stuff that goods be freely changing hands - so legal realists decided to cocme up with a set of rules that would ... iin one-on-one situation the mirror image rule makes sense, but in the marketplace businesses have forms which they use over and over.
+- Offeror is master of the offer
+- Offeror can demand an exclusive mode of acceptance
+- Must be clear/expressly stated that exclusive mode of acceptance (must be clear that the only way offeree can accept the offer - court is not going to be eager because courts favor contracts in general)
+- Otherwise, court will interpret offer as allowing acceptance in any reasonable manner
+- Example: contract said if you want to accept reply by return mail. If person hand delivers reply, arguably it is a valid mode of acceptance, because the mode of acceptance is specific but reply by return mail does not say *only* reply by return mail.
 
-Typical scenario: you have a merchant who sells widgets. They get a lawyer who drafts their purchase form. Buyers have lawyers who draft their purchase orders. Sellers might have terms saying that they disclaim all warranties; buyers might have a term that says valid in all state of PA. Buyer says i want to buy 500 widgets. Seller says ok great i'll sell you 500 widgetts. what they're buying and selling is what they want to buy and sell andd is the same, but their forms will be diffferent, so the mirror image rule doesn't make sense in this kind of situatiion;
+**UCC Article 2-206** provides "Unless otherwise unambiguously indicated by the language or circumstances ... an offer to make a contract shall be construed as inviting acceptance in any manner and by any medium reasonable in the circumstances." (p. 110) (UCC Art. 2 applies to the sale of goods [anything movable], not to sale of real estate or sale of services; UCC is a realist code - more flexible/liberal approach to contract formation). Art 2 was drafted by legal realists in the 1950s; trying to reflect reality rather than something rigid. It was written to cover buying and selling goods in the marketplace; the goal is to promote the free flow of ccontracts in the marketplacce; so important for jobs and stuff that goods be freely changing hands - so legal realists decided to come up with a set of rules that would reflect human experience. In a one-on-one situation the mirror image rule makes sense, but in the marketplace businesses have forms which they use over and over.
 
-Therefore,
+**Widget hypo:** Typical scenario: you have a merchant who sells widgets. They get a lawyer who drafts their purchase form. Buyers have lawyers who draft their purchase orders. Sellers might have terms saying that they disclaim all warranties; buyers might have a term that says valid in all state of PA. Buyer says i want to buy 500 widgets. Seller says ok great i'll sell you 500 widgets. what they're buying and selling is what they want to buy and sell and is the same, but their forms will be different, so the mirror image rule doesn't make sense in this kind of situation. Therefore,
 
 1. the sale of good under UCCC art. 2, the mirror rule does not apply.
-2. you can have a contract even iif the acceptance has terms different from the offer, as long as the "bargained for" terms agree (you ccan have different langguage in the boilerplate)
+2. you can have a contract even if the acceptance has terms different from the offer, as long as the "bargained for" terms agree (you can have different language in the boilerplate)
 - terms are: everything the parties have agreed to + whatever the code fills into the gap as the rule (the code is the UCC)
 
-Outline - acceptance (so far)
+Note: UCC acceptance rule is identical to the common law. The only time we need to know is when the mirror image rule does not apply (when between merchants)
 
-definition/objective test
+## Cases - manner or mode of acceptance
 
-definition/objective
+**Panhandle Eastern Pipe Line Co. v. Nowlin Smith, Jr.** Wyoming Supreme Court 637 P.2d 1020 (1981) *Panhandle also in counteroffer!*
 
-UCC acceptance rule is identical to the common law. The only time we need to know is when the mirror image rule does not apply (when between merchants)
+In Panhandle v. Smith, the court found that Smith accepted Panhandle's offer to withdraw Smith's discharge even though Smith added words to Pandandle's letter of discharge because Panhandle did not specify that the mode of acceptance of its offer excluded all other modes of acceptance including writing any words on the letter of discharge. The court found that the requirement that Smith not write on the letter is unreasonable because the only reason the court surmised that Panhandle could have for stipulating that Smith not write on the letter was "an inordinate fondness for tidy sheets of paper." Unreasonable requirements must be specified in the communicated offer.
 
-What are code gap fillers? Ask Laura Mott
+- **Rule/Law:** (1) An offeror has the right to accept an exclusive mode of acceptance from an offeree. An exclusive mode of acceptance can be unreasonable or difficult if it clearly excludes all other modes of acceptance, and this intention is expressed in the communicated offer itself.
 
 ## Bilateral v uniletaral contracts
 
-The only difference between these theories is in acceptance (this is why it goes under acceptance in the outline)
+*The only difference between these theories is in acceptance (this is why it goes under acceptance in the outline)*
+
+Generally, an offer may specify any mode or manner of acceptance that the offeror desires. However, if the offeror does not specify that a specific manner of acceptance is the only accepted manner, a court will interpret the offer to allow acceptance in any reasonable manner. The mode and manner of acceptance also depends on whether an offer is bilateral or unilateral. In bilateral contracts, a promise is made in exchange for a promise, acceptance happens with the return promise, and both parties are bound when the return promise is made. Bilateral contracts follow the mirror image rule where acceptance must be a mirror image of the offer and even small, unimportant change will result in no acceptance, becoming instead a counteroffer. In unilateral contracts, a promise is made in exchange for performance, acceptance occurs when the offeree renders full performance, and neither party is bound unless and until the offeree has performed. Because courts generally favor bilateral offers, a unilateral offer must specify that it can be accepted only by performance, otherwise it will be deemed bilateral by a court. If the offer specifies that it can only be accepted by full performance, the contract is not formed until the offeree has performed everything specified in the offer. After this is done, only the offeror needs to perform because the offeree has fully performed. A unilateral offer will implicitly require full performance if it requests the offeree do something dangerous, risky, or unlikely to occur.
+
+**Breakdown:**
 
 Bilateral:
 
 - promise in exchange for promise
-- accceptance happens with return promise
+- acceptance happens with return promise
 - both parties bound when the return promise is made
 
 Unilateral:
 
 - promise in exchange for performance
-- accceptance occurs when offeree renders full performance
+- acceptance occurs when offeree renders full performance
 - no one is bound unless/until offeree performs
 - offer must specify that it can be accepted only by performance
 
-Bilateral vs. unilateral hypos
+**Bilateral vs. unilateral hypos:**
 
 (I) I promise to pay you $30 if you deliver these apples. "Ok." bilateral or unilateral?
 
-Every contract is conditional on someone doing something. Most contracts are bilateral. Just using the word "if" does not make it unilateral. "ok" makes it sound like a promise - makes it sound bilateral. two ways to interpret: one is that "ok" is a promise. Other way is i'll pay you if and only if you deliver these apples. If he had said "I'll pay you when the apples are delivered" it would be unilateral. Would would a reasonable person think? MAJOR GUIDELINE: STRONG PREFERENCE FOR BILATERAL AND STRONG PRESUMPTION THAT THE PARTIES WANTED IT TO BE BILATERAL. Presumption is that a reasonable person would think it were bilateral. Answer: bilateral because not clear that it is unilateral.
+- Answer: bilateral because not clear that it is unilateral. Every contract is conditional on someone doing something. Most contracts are bilateral. Just using the word "if" does not make it unilateral. "ok" makes it sound like a promise - makes it sound bilateral. two ways to interpret: one is that "ok" is a promise. Other way is i'll pay you if and only if you deliver these apples. If he had said "I'll pay you when the apples are delivered" it would be unilateral. Would would a reasonable person think? **MAJOR GUIDELINE: STRONG PREFERENCE FOR BILATERAL AND STRONG PRESUMPTION THAT THE PARTIES WANTED IT TO BE BILATERAL.** Presumption is that a reasonable person would think it were bilateral.
 
 (2) Frank: "I promise to pay you $100 if you paint my fence." Barb: "ok."
 
-Really the same thing as (I). It's unclear. You can make arguments on both sides. But the best answer would take into account the strong preference for bilateral contracts.
+- Really the same thing as (I). It's unclear. You can make arguments on both sides. But the best answer would take into account the strong preference for bilateral contracts.
 
 (3) Frank: "I promise to pay you $100 if you find and return my lost cat." Barb: "ok."
 
-This is the same as (1) and (2) except that it's not. Would a reasonable person be promising to find the cat? The presumption shifts when the offer is for a reward. Finding the cat is unlikely. Not guaranteed. A reasonable person would probably think that she is not promising to find the cat.
+- This is the same as (1) and (2) except that it's not. Would a reasonable person be promising to find the cat? The presumption shifts when the offer is for a reward. Finding the cat is unlikely. Not guaranteed. A reasonable person would probably think that she is not promising to find the cat.
 
 **Typical examples of unilateral contracts**
 
@@ -528,11 +497,9 @@ This is the same as (1) and (2) except that it's not. Would a reasonable person 
 - contest
 - standard insurance contract
 - at will employment
-- Rule: *an offer will implcitly require full performance if it requsts the offeree do something dangerous, risky, or unlikely to occur.*
+- Rule: an offer will implicitly require full performance if it requests the offeree do something dangerous, risky, or unlikely to occur.
 
-What are the implications of characterizing something as unilateral rather than bilateral?
-
-How do you know which is called for?
+What are the implications of characterizing something as unilateral rather than bilateral? How do you know which is called for?
 
 - K interpretation
 - Look at parties' intent
@@ -549,7 +516,7 @@ How do you know which is called for?
 
 ## Acceptance by silence
 
- The general rule is that silence cannot be acceptance. There are three exceptions:
+The general rule is that silence cannot be acceptance. There are three exceptions:
 
 1. when the parties explicitly agree that silence will constitute acceptance (e.g. "if you don't hear from me by Friday you can assume the offer is accepted by us");
 2. when the parties' past dealings have established a practice in which silence conveys acceptance (i.e. when the parties have impliicitly agreed that silence will be accceptance); and
@@ -572,12 +539,13 @@ How do you know which is called for?
 - **Holding:** An offeree may vitiate a contract by a claim of lack of intention to accept an offer when he accepts and retains the benefits offered to him by the offeror, with a positive and affirmative proviso by the offeror that such acceptance of the benefits will, in and of itself, be deemed by the offeror to be an acceptance.
 - **Disposition:** Judgement affirmed as to appelants.
 - **Context (why the case was assigned):** To illustrate acceptance by silence.
+
+## Mass market license agreements
 -
 **Judicial Interpretation of Unread Boilerplate, Shrink Wrap, Click Wrap, and Browse Wrap Contracts**
 
-- **Issue:** whether clicking on "I agree" to terms and conditions on a website is a contract.
+**Issue:** whether clicking on "I agree" to terms and conditions on a website is a contract.
 
-## Mirror image rule
 
 **Nguyen v. Barnes & Noble, Inc.**
 
@@ -774,8 +742,21 @@ Usually:
 Beginning of performance is required, not just mere preparation
 But doesn’t need to be substantial performance – can be just the very start of performance
 
+# Consideration
 
-# IV Consideration
+## Statute of frauds
+
+# B. Reliance theory
+
+Involves promises to give gifts. Seeks to protect those who reasonably rely on others.
+
+**Hypo:** Uncle promises to pay nephew $5000 if he quits drinking and smoking until he turns 21; nephew quits; turns 21; $5000 not paid; nephew sues. Does he have a claim under the bargain principle? (Was the promise part of an exchange or a promise to give a gift?) (illustrates the blurred line between exchange and gift)   
+
+**Kirksey v. Kirksey** (Supreme Court of Alabama 1845)
+
+In Kirksey v. Kirksey, the court ruled that there was no enforceable promise where the plaintiff's brother-in-law promised plaintiff that if she would "come down and see [him], [he would] let [her] have a place to raise [her] family." The court reasoned that because the promise was a gift and not an exchange where the plaintiff did not agree to do anything in exchange for living on defendant's farm, which made the promise a gift. The plaintiff argued that there was exchange because she worked on the defendant's farm, which enriched the defendant. Under the restitution theory, which holds that one ought to pay for any benefit unjustly retained, the promise might be binding because there is an argument that the defendant was unjustly enriched. The plaintiff could also argue that under the reliance theory the promise was binding because she relied on the defendant's promise.
+
+# C. Restitution theory
 
 ## IVa Legal detriment and bargained-for
 
@@ -858,20 +839,6 @@ Would the outcome of Lawrence change if Ethel Lawrence had been a paying patient
 What would have been a more persuasive way for the clinic to make the case that there was no consideration in Lawrence?
 
 ---
-
-## Other theories of Relief
-
-**reliance theory** (involves promises to give gifts. Seeks to protect those who reasonably rely on others.)
-
-**restitution theory** (one ought to pay for any benefit unjustly retained. Goal is to prevent unjust enrichment.)
-
-**Hypo** illustrating the blurred line between exchange and Gift: Uncle promises to pay nephew $5000 if he quits drinking and smoking until he turns 21; nephew quits; turns 21; $5000 not paid; nephew sues. Does he have a claim under the bargain principle? (Was the promise part of an exchange or a promise to give a gift?)   
-
-**Kirksey v. Kirksey** (Supreme Court of Alabama 1845) (plaintiff's brother-in-law (defendant) promised plaintiff that if she would "come down and see [him], [he would] let [her] have a place to raise [her] family.")
-
-- **Holding:** Promise was a gift (no exchange)
-- **Factual arguments in support of that holding:** plaintiff did not agree to do anything in exchange for living on defendant's farm.
-- **Factual counterarguments:** there was exchange because plaintiff worked on defendant's farm. If I wanted to make this more clearly enforceable, I would rephrase the promise as "if she would "come down and see [him], [he would] let [her] have a place to raise [her] family [until a specified time] [in exchange for her doing work on his farm]."  
 
 
 ---
