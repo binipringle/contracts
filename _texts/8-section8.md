@@ -8,6 +8,7 @@ toc:
 - Template from Embry brief
 - Illustration template
 - Illustration template RLM
+- Party would argue template
 - Template from Skills, Summer 2020
 
 ---
@@ -44,6 +45,12 @@ Like in [case name] where the court found [rule] satisfied/not satisfied because
 # Illustration template RLM
 
 In RLM, the court found [...] did/did not satisfy [ASSENT to the terms of the contract] because a reasonable person would think assent to the transfer of distribution rights was implied upon sale of the business based on the conduct and custom/practice in the industry to transfer such rights this way. Therefore, the term was impliedly included in the contract for sale of the business.
+
+---
+
+# Party would argue template
+
+... would argue that ... because ... therefore [OVERALL RULE] is satisfied.
 
 ---
 

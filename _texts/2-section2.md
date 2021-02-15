@@ -72,49 +72,26 @@ Missouri Court of Appeals 105 S.W. 777 (1907) (pp 59-66)
 - Disposition:
 - Context (why the case was assigned):
 
-**Carbolic Smoke Ball** (discussed in Pepsi)
+**Carlill v. Carbolic Smoke Ball Co** (discussed in Pepsi)
 
-- Issue:
-- Facts:
-- I. Uncontested facts:
-- II. Appellant NAME’s factual allegations:
-- III. Respondent NAME’s factual allegations:
-- IV. The appellate court’s resolution of the fact:
-- Procedural History:
-- Court’s Reasoning:
+- Issue: Whether there was an enforceable contract between Carbolic Smoke Ball and the viewers of the ad when Carbolic Smoke Ball when it placed an ad stating that the company would give £100 to anyone who used the product and still got the flu.
 - Rule/Law: Advertisements offering rewards are offers to anyone who does perform the conditions named in the advertisement, and anybody who does perform the condition accepts the offer.  
-- Application:
-Factors:
-Invites performance.
-Extravagant promise: If a person chooses to make extravagant promises, it usually benefits them to make such a promise.
-Communiccates a willingness to commit: I have money in the bank stored away ready to pay you; this is a real offerr beccause ii have money.
-- Policy:
-- Holding:
-- Disposition:
-- Context (why the case was assigned): Law of unilateral offers
+- Application: Factors:
+- Invites performance.
+- Extravagant promise: If a person chooses to make extravagant promises, it usually benefits them to make such a promise.
+- Communicates a willingness to commit: I have money in the bank stored away ready to pay you; this is a real offerr beccause ii have money.
+- Holding/illustration: In Carlill v. Carbolic Smoke Ball Co., the court found that an ad was an offer because by stating that the company would give £100 to anyone who used the product and still got the flu, the advertiser invited performance by inviting the public to prove it wrong and communicated a willingness to commit by promising a reward if they did.
 
-Text pp 87-88, 95-107 (top)
+**United Steelworkers of America, Local 1330 v. U.S. Steel** USDC for the Northern District of Ohio, 492 F. Supp. 1 (1980)
 
-RST § 24
-
----
-
-**Name v. Name** Court, year (kind of court)
-
-- Issue:
-- Facts:
+- Issue: Did U.S. Steel's statements represent a promise made by the corporation on which the workers should have reasonably relied?
+- Facts: U.S. Steel stated that in order to stay open the plants must make profit and that they would close if they were not profitable, but did not state that they would not close if they were profitable. Workers gave up furloughs and extra pay in order to keep the company profitable. The company was profitable but closed anyway.
 - I. Uncontested facts:
-- II. Appellant NAME’s factual allegations:
-- III. Respondent NAME’s factual allegations:
-- IV. The appellate court’s resolution of the fact:
-- Procedural History:
-- Court’s Reasoning:
+- II. Worker’s factual allegations: communications by the company constitute a promise to keep the factory operating if and so long as the mills are profitable.
+- III. U.S. Steel’s factual allegations: U.S. Steel stated that in order to stay open the plants must make profit and that they would close if they were not profitable, but did not state that they would not close if they were profitable. The statement that lack of profitability would close the plants does not imply that the plants will not close if they are profitable.
 - Rule/Law:
-- Application:
-- Policy:
-- Holding:
-- Disposition:
-- Context (why the case was assigned):
+- Holding: U.S. Steel's statements did not represent a promise made by the corporation on which the workers should have reasonably relied.
+- Summary/notes: You can't enforce a promise if not enough detail but there can be implied facts; look at details. Was it reasonable to expect something? Disparate bargaining power. Is it employment context, family context, damages? Look at perspective.
 
 ---
 

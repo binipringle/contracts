@@ -6,24 +6,24 @@ editor: Sabina Pringle
 source: Law in the Market Economy (Contracts) - doctrinal course CUNY School of Law, Professor Zalesne, Spring 2021
 toc:
 - I. Intro to contract law
-- A. Sources of Law
-- B. Bargain Principle
-- Other theories of Relief
-- Other theoretical perspectives
+- A. Sources of law
+- B. Bargain principle
+- C. Other theoretical perspectives
 - II. Objective theory of contract interpretation
-- Terms can be implied
-- Policy
+- A. Objective theory - approach
+- B. Varieties
 - Universal RP test
 - Positioned RP test
 - Factors for positioned RP test
 - Socially situated RP analysis
+- Problems with RP standard
 - Using the objective test
+- B. Subjective theory - approach
+- III. Theories of Relief
+- A. Bargain theory
 - Contract Formation - Elements
 - Assent
-- Offer and acceptance
 - Offer
-- Yes - offers
-- No - not offers
 - Acceptance
 - Mirror image rule
 - Mode of acceptance
@@ -79,7 +79,7 @@ toc:
 
 # I. Intro to contract law
 
-## A. Sources of Law
+## A. Sources of law
 
 - **Common law** determines what constitutes a contract (RST restates common law)
 - **Legislation**
@@ -89,25 +89,11 @@ toc:
 - **Commentary**
 - **Law reviews, treatises, etc.**
 
-## B. Bargain Principle
+## B. Bargain principle
 
-The Bargain theory is a theory of relief where a promise to exchange one thing for another gives rise to mutual obligations. Under the bargain theory, an enforceable promise becomes a contract where there is assent (offer and acceptance) and reciprocity (consideration). Closely related to neo-classical economic theory, the bargain theory values efficiency and profit-making and assumes that bargains are motivated by self-interest and that people act in their own self interest, rationally and with access to perfect information, that people and resources are freely movable and that there are no artificial restrictions to entry to the market.
+The bargain principle includes the central belief that an agreement to exchange one thing for another gives rise to mutual obligations. The motto "a deal is a deal" is a core tenet of the bargain principle. The idea that "a deal is a deal" is highly controversial, and people disagree on whether a deal is really a deal if it was made under conditions of coercion, duress, or inequality of power and resources, and whether these conditions are prevalent in exchange transactions. Rationales that justify the bargain principle include the belief that when two parties enter into a deal both sides are committed, one or both parties will count on the deal and rely on the deal to make a living, commercial exchange is crucial to a capitalist economy, and deals are crucial to a free market system, which in turn is essential to individual freedom.    
 
-# Other theories of Relief
-
-**reliance theory** (involves promises to give gifts. Seeks to protect those who reasonably rely on others.)
-
-**restitution theory** (one ought to pay for any benefit unjustly retained. Goal is to prevent unjust enrichment.)
-
-**Hypo** illustrating the blurred line between exchange and Gift: Uncle promises to pay nephew $5000 if he quits drinking and smoking until he turns 21; nephew quits; turns 21; $5000 not paid; nephew sues. Does he have a claim under the bargain principle? (Was the promise part of an exchange or a promise to give a gift?)   
-
-**Kirksey v. Kirksey** (Supreme Court of Alabama 1845) (plaintiff's brother-in-law (defendant) promised plaintiff that if she would "come down and see [him], [he would] let [her] have a place to raise [her] family.")
-
-- **Holding:** Promise was a gift (no exchange)
-- **Factual arguments in support of that holding:** plaintiff did not agree to do anything in exchange for living on defendant's farm.
-- **Factual counterarguments:** there was exchange because plaintiff worked on defendant's farm. If I wanted to make this more clearly enforceable, I would rephrase the promise as "if she would "come down and see [him], [he would] let [her] have a place to raise [her] family [until a specified time] [in exchange for her doing work on his farm]."  
-
-## Other theoretical perspectives
+## C. Other theoretical perspectives
 
 **Neo-Classical Economics:** Economic theory most closely associated with Bargain Theory (a deal's a deal etc.). Values efficiency and profit-making. Assumptions (pp 37-38):
 
@@ -129,13 +115,9 @@ As social justice lawyers we will consider: how can these assumptions be challen
 
 # II. Objective theory of contract interpretation
 
-The "objective theory" of interpretation provides that words and conduct should be interpreted as a “reasonable person” would interpret them. The reasonable person standard is used to determine (1) whether there was an offer, and (2) whether there was acceptance.
+## A. Objective theory - approach
 
-**Charles R Embry v Hargadine McKittrick Dry Goods Company** Missouri Court of Appeals 105 S.W. 777 (1907)
-
-In McKittrick, the court found Embry did not satisfy the positioned reasonable person standard because it was reasonable for an employee in Embry's position to believe when he heard "go ahead, your are all right, get your men out, don't let that worry you," combined with surrounding circumstances such as the past interactions between employer and employee, that he was contracted by McKittrick for another year. Therefore, there was a contract between McKittrick and Embry. Here, the court will likely find [rule] because [legally relevant facts from exam].
-
-- **Rule:** If the words or acts of two parties would be understood by a reasonable person to manifest the intention of both parties to enter into a contract, a contract is created, regardless of whether a party did not intend to enter into the contract so long as a reasonable person would find that the inner intention is not embodied in the words used by or acts of the parties. (62 4th para)
+The "objective theory" of interpretation provides that words and conduct should be interpreted as a “reasonable person” would interpret them. The “objective theory” assumes that a standard of shared meaning already exists or that one ought to exist. This assumption is controversial. However, for lack of a better system, courts generally use the objective standard to determine the meaning of words, conduct and circumstances from the perspective of a reasonable person. The reasonable person standard is used to determine (1) whether there was an offer, and (2) whether there was acceptance.
 
 ## Terms can be implied
 
@@ -147,11 +129,7 @@ In RLM Dist. Co. v. W.A. Taylor, Inc., the court found found that custom and pra
 
 - **Note:** The very fact that you are using the objective test means that there was no express intent - there was no explicit "I promise to sell you my car."
 
-## Policy
-
-**Differences between objective and subjective tests:** The “objective theory” assumes that a standard of shared meaning already exists or that one ought to exist. This assumption is controversial. However, for lack of a better system, courts generally use the objective standard to determine the meaning of words, conduct and circumstances from the perspective of a reasonable person. Under the "subjective theory" of interpretation the court would evaluate what both people actually thought (by indirect evidence) and the court would only find a contract if there had been a "meeting of the minds."  *This was the approach taken by the trial court in Embry.* Subjective test allows for differences between people. It prevents contracts being formed by accident. The problem with the subjective theory of interpretation is that it is extremely difficult to determine what people actually thought.
-
-The critique of the reasonable person test, whichever way you look at it, is the problem of bias, of essentializing. Race. Gender. Class. The objective test is the test that courts use, because it's more rational than the subjective test. So we have to figure out how to use it in the least harmful way. The key is that either a reasonable person interpreted something in a way or *should have* interpreted it in that way.
+## B. Varieties
 
 ## Universal RP test
 
@@ -184,27 +162,38 @@ What was said? And what would that lead a reasonable person to believe? Use fact
 - **Death of a Salesman Hypo**
 - **Barn-farm hypo**
 
+**Charles R Embry v Hargadine McKittrick Dry Goods Company** Missouri Court of Appeals 105 S.W. 777 (1907)
+
+In McKittrick, the court found Embry did not satisfy the positioned reasonable person standard because it was reasonable for an employee in Embry's position to believe when he heard "go ahead, your are all right, get your men out, don't let that worry you," combined with surrounding circumstances such as the past interactions between employer and employee, that he was contracted by McKittrick for another year. Therefore, there was a contract between McKittrick and Embry. Here, the court will likely find [rule] because [legally relevant facts from exam].
+
+- **Rule:** If the words or acts of two parties would be understood by a reasonable person to manifest the intention of both parties to enter into a contract, a contract is created, regardless of whether a party did not intend to enter into the contract so long as a reasonable person would find that the inner intention is not embodied in the words used by or acts of the parties. (62 4th para)
+
 ## Socially situated RP analysis
 
 - Interprets the meaning of words and conduct according to the understanding of a "universal" observer who is placed in the position of the recipient of the communication but who also has the social identity of the recipient. Draws from the UN CISG, which provides that statements and conduct of contracting parties should be interpreted according to the parties' own shared meanings, but if these cannot be ascertained, then the statements should be interpreted according to the understanding that "a reasonable person *of the same kind* (including nationality, culture, religion and the like) as the other party would have had in the same circumstances." Relevant evidence includes history and circumstances of the communication and also the practices of the parties' trades or communities and their own experiences in negotiations of this sort. Critics of the socially situated theory argue that it is better to challenge class and other bias in the objective theory than to invite judges to indulge in stereotypical versions of others' perspectives. Very essentializing.
 
-**Revisit Local 1330 v. US Steel:**
+## Problems with RP standard
 
-- Workers take wage concessions etc. thinking it will keep steel mills open and save their jobs. Company decides to shut down the steel mills. 4000 workers lost their job. Sued based on alleged promise of company to keep the plants open as long as they remain profitable Workers claimed that there was a promise based on various statements of the company execs. "Your cooperation and assistance is absolutely necessary if our facilities are to continue to operate." Enforceable promise? Both sides could be argued. Here the court took a very narrow focus.
-- If you wanted to say yes there was a promise, you look at the relationships, how people had very little power. Make the caase by putting yourself in the shoes of the workers, what they heard and how they world interrpret it.
+The critique of the reasonable person test, whichever way you look at it, is the problem of bias, of essentializing. Race. Gender. Class. The objective test is the test that courts use, because it's more rational than the subjective test. So we have to figure out how to use it in the least harmful way. The key is that either a reasonable person interpreted something in a way or *should have* interpreted it in that way.
 
 ## Using the objective test
 
-Questions to ask: How did the court determine what a reasonable person would have thought? What facts did the court rely on? What facts support a counterargument that a reasonable person would not think McKittrick was agreeing to renew the contract?
+Questions to ask: How did the court determine what a reasonable person would have thought? What facts did the court rely on? What facts support a counterargument that a reasonable person would have thought in a way?
 
-**Hypo** from Death of a Salesman:
+**United Steelworkers of America, Local 1330 v. U.S. Steel** USDC for the Northern District of Ohio, 492 F. Supp. 1 (1980)
+
+In Local 1330 v. U.S. Steel, the court found that U.S. Steel's statements asking workers to help keep the company open did not represent a promise made by the corporation to not shut the steel mills down if profit increased. The workers alleged that the company had promised to keep the plants open as long as they remain profitable if the workers took wage concessions, which the workers took, thinking this would keep the steel mills open and save their jobs. The workers claimed that there was a promise based on various statements of the company executives. The question was whether the company's statement was an enforceable promise. Here the court took a very narrow focus and held that U.S. Steel's statement that "your cooperation and assistance is absolutely necessary if our facilities are to continue to operate" did not represent a promise made by the corporation on which the workers should have reasonably relied. The court reasoned that the statement made by U.S. Steel was not specific enough to constitute a unilateral contract accepted by workers through full performance of the actions the statement asked them to perform.
+
+- Note: If you wanted to say yes there was a promise, you look at the relationships, how people had very little power. Make the case by putting yourself in the shoes of the workers, what they heard and how they world interrpret it.
+
+**Death of a Salesman Hypo**
 
 1. Willy doesn't want to travel any more. Asks Howard (son of the old owner) for an office job in town.
 2. Suppose that Howard's father said to Willy, "i'm sure when you decide you want to stop traveling, we'll be able to find a place for you here in town."
 3. Would a reasonable person in Willy's shoes think that a promise was made?
 
 - **Willy** would argue that there was a promise because a reasonable person in Willy's shoes who heard the owner of his business say "I'm sure when you decide you want to stop traveling, we'll be able to find a place for you here in town..." would think a promise was made, based on the relationship of owner-employee, industry custom to promise future employment in this type of casual conversation, level of specificity (in town), etc. Therefore, there was an enforceable promise.
-- **Loman** would argue that there was not a promise because a reasonable person in Willy's shoes who heard the ownerr of his business say "I'm sure when you decide you want to stop traveling, we'll be able to find a place for you here in town..." wouldn't think there was a promise of office employment in the future based on the conversation was years ago, not clear, definite or detailed, used the words "I'm sure." Therefore, there was not an enforceable promise. ("I'm sure" is often used colloquially to mean the exact opposite: I'm not sure. Use factors. Statement lacks clarity and definiteness (i.e. "a place"))
+- **Loman** would argue that there was not a promise because a reasonable person in Willy's shoes who heard the owner of his business say "I'm sure when you decide you want to stop traveling, we'll be able to find a place for you here in town..." wouldn't think there was a promise of office employment in the future based on the conversation was years ago, not clear, definite or detailed, used the words "I'm sure." Therefore, there was not an enforceable promise. ("I'm sure" is often used colloquially to mean the exact opposite: I'm not sure. Use factors. Statement lacks clarity and definiteness (i.e. "a place"))
 
 Relationship of the parties. An employee and an employer. An employee asking a question of his employer.
 
@@ -216,9 +205,17 @@ Relationship of the parties. An employee and an employer. An employee asking a q
 
 - People drinking in a bar. One contracts to sell their farm to the other for $50,000. Farm was really worth a lot more. Next day seller refuses to sell saying they didn't really promise (just kidding). Enforceable promise? Yes. Here we don't have facts that say they were incapacitated because they were drunk, so we assume they had capacity.
 
-... would argue that ... because ... therefore [OVERALL RULE] is satisfied.  
+## B. Subjective theory - approach
+
+Under the "subjective theory" of interpretation the court would evaluate what both people actually thought (by indirect evidence) and the court would only find a contract if there had been a "meeting of the minds."  The subjective test allows for differences between people and aims to prevent contracts being formed by accident. The problem with the subjective theory of interpretation is that it is extremely difficult to determine what people actually thought. The subjective theory approach was taken by the trial court in Embry, where the jury was instructed that if they found that both parties expressed the intent to contract with the other party for the plaintiff’s employment for one year, they should find that the parties thereby entered into a contract. At appeal, the court questioned whether this jury instruction was a correct statement of law, asking whether the formation of a contract depended on the intention of the then plaintiff and the then defendant or on the words spoken by both parties. The higher court took the objective theory approach which resulted in a reversal of the lower court's ruling.
 
 ---
+# III. Theories of Relief
+
+## A. Bargain theory
+
+The bargain theory is a theory of relief where a promise to exchange one thing for another gives rise to mutual obligations. Under the bargain theory, an enforceable promise becomes a contract where there is assent (offer and acceptance) and reciprocity (consideration). Closely related to neo-classical economic theory, the bargain  values efficiency and profit-making and assumes that bargains are motivated by self-interest and that people act in their own self interest, rationally and with access to perfect information, that people and resources are freely movable and that there are no artificial restrictions to entry to the market.
+
 # Contract Formation - Elements
 
 ## Assent
@@ -343,7 +340,11 @@ SEE SLIDE FROM CLASS WITH SUB-RULES!!!
 
 **Carbolic Smoke Ball (p 101):** (in Pepsico) 100 pounds to anyone who uses the product and still gets the flu. (The ad in Carbolic Smoke Ball was considered an offer because it invited performance.)
 
-In Carbolic Smoke Ball, the court found that an ad was an offer because by offering 100 pounds to anyone who used the product and still got the flu invited performance. Here, the court will likely find that the ad for [whatever exam ad is for] is an offer because [legally relevant facts from exam].
+**Carlill v. Carbolic Smoke Ball Co** (discussed in Pepsi)
+
+In Carlill v. Carbolic Smoke Ball Co., the court found that an ad was an offer because by stating that the company would give £100 to anyone who used the product and still got the flu, the advertiser invited performance by inviting the public to prove it wrong and communicated a willingness to commit by promising a reward if they did.
+
+- Rule/Law: Advertisements offering rewards are offers to anyone who does perform the conditions named in the advertisement, and anybody who does perform the condition accepts the offer. RST § 24 (I think).
 
 **John D.R. Leonard v. Pepsico, Inc.** U.S. District Court, SDNY (1999)  
 
@@ -855,6 +856,26 @@ The Paula Childress story beginning on p 226 is optional reading. It provides an
 Would the outcome of Lawrence change if Ethel Lawrence had been a paying patient? What does this tell you about who is the least protected by the consideration doctrine?
 
 What would have been a more persuasive way for the clinic to make the case that there was no consideration in Lawrence?
+
+---
+
+## Other theories of Relief
+
+**reliance theory** (involves promises to give gifts. Seeks to protect those who reasonably rely on others.)
+
+**restitution theory** (one ought to pay for any benefit unjustly retained. Goal is to prevent unjust enrichment.)
+
+**Hypo** illustrating the blurred line between exchange and Gift: Uncle promises to pay nephew $5000 if he quits drinking and smoking until he turns 21; nephew quits; turns 21; $5000 not paid; nephew sues. Does he have a claim under the bargain principle? (Was the promise part of an exchange or a promise to give a gift?)   
+
+**Kirksey v. Kirksey** (Supreme Court of Alabama 1845) (plaintiff's brother-in-law (defendant) promised plaintiff that if she would "come down and see [him], [he would] let [her] have a place to raise [her] family.")
+
+- **Holding:** Promise was a gift (no exchange)
+- **Factual arguments in support of that holding:** plaintiff did not agree to do anything in exchange for living on defendant's farm.
+- **Factual counterarguments:** there was exchange because plaintiff worked on defendant's farm. If I wanted to make this more clearly enforceable, I would rephrase the promise as "if she would "come down and see [him], [he would] let [her] have a place to raise [her] family [until a specified time] [in exchange for her doing work on his farm]."  
+
+
+---
+
 
 # V Alternatives to bargain model
 
