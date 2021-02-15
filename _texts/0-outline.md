@@ -5,12 +5,12 @@ author:
 editor: Sabina Pringle
 source: Law in the Market Economy (Contracts) - doctrinal course CUNY School of Law, Professor Zalesne, Spring 2021
 toc:
-- I Intro to contract law
-- Sources of Law
-- Bargain Principle
+- I. Intro to contract law
+- A. Sources of Law
+- B. Bargain Principle
 - Other theories of Relief
 - Other theoretical perspectives
-- Objective theory of contract interpretation
+- II. Objective theory of contract interpretation
 - Terms can be implied
 - Policy
 - Universal RP test
