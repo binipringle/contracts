@@ -724,6 +724,20 @@ But doesn’t need to be substantial performance – can be just the very start 
 
 # Consideration
 
+Contracts should be enforced when the parties agree to exchange one thing for another based on notions of fairness, reliance, and efficiency. Policy is informed by Neo-classical economic theory "when there is an exchange we assume that the parties are acting freely and reaasonably" this is capitalism. Free market economy. The doctrine of consideration is the reason for enforcing promises. Courts don't look at value of exchange. But they do look at motivation of exchange. A fundamental principle in contract law, coming from  of Neo-classical economic theory, is that courts don't like to intervene in the fairness of the deal. Courts assume that both parties are acting rationally and agree on the price.
+
+In the 16th century contracts were enforced when the court could find any motive for entering into a contract. There were reasons. Every time there was an understandable motive for entering into the contract, the contract should be enforced. In the late 1800s and early 1900s consideration doctrine really shifted to look for the inducement. Courts were looking at the benefits and detriments of the contract for the parties. In the benefit-detriment test, both parties have to receive a benefit and incur a detriment. Now it has shifted back to motive. but very specific motive. I sell you a car for money. My motive has to be getting the return promise - the money. Your motive has to be getting the car. Now courts are looking at whether my motive is to be getting the car.
+
+Both parties must promise to do something (or do something) they have a legal right not to do, or promise to refrain from doing something (or refrain from doing something) they have a legal right to do.
+
+**Breakdown:**
+
+- Each promise has to be sought by the promisor in exchange for her promise; and
+- Given by the promisee in exchange for that promise
+- Legal Detriment
+
+(two-step analysis: 1st party has to be making their promise so as to get the return promise; 2nd party has to be making their promise so as to get the return promise)
+
 ## Statute of frauds
 
 # B. Reliance theory

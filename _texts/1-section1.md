@@ -66,42 +66,6 @@ There's an alternative theory called reliancce theory. If he made a promise that
 
 ---
 
-consideration
-
-contracts should be enforced when the parties agree to exchange one thing for another
-based on notions of fairness, reliance, and efficiency - policy is informed by neo-classical economic theory "when there is an exchange we assume that the parties are acting freely and reaasonably" this is capitalism. free market economy.
-doctrine of consideration is reason for enforcing promises
-
-Courts don't look at value of exchange. But they do look at motivation of exchange.
-
-remember fundamental principle that courts don't like to intervene in the fairness of the deal. Neo-classical economic theory. Courts assume that both parties are acting rationally and agree on the price.
-
-There has to be an exchange vs. a gift. Question is, is it a gift or consideration?  
-
-In 16th century contracts were enforced when the court could find any motive for entering into a contract. Had reasons. Every time there was an understandable motive for entering into the contract, the contract should be enforced.
-
-Late 1800s and early 1900s consideration doctrrine really shifted to look for tthte inducement. ccocurts werre looking at the benefits andd detriments of the contract for the partiies. Benefit-detriment test. Both parties have to receive a benefit and incur a detriment.
-
-Now it has shifted baack to motiive. but very speciifiicc motive. i sell you a car for money. my motive has to be getting the return promise - to get the money. your motive has to be getting the car. now ccourts are looking at whether my motive is to be getting the car.
-
-Consideration § 71
-
-Must be Bargained For:
-
-- Each promise has to be sought by the promisor in exchange for her promise; and
-- Given by the promisee in exchange for that promise
-- Legal Detriment
-
-(it's a two-step analysis; 1st partty has tto be making their promise so as to get the return promise; 2nd party has to be making their prormise so as tto get the return promise)
-
-Both parties must promise to do something (or do something) they have a legal right not to do, or promise to refrain from doing something (or refrain from doing something) they have a legal right to do.
-
-both parties must be makiing their promise so as to get tthe return promise.
-
-in the family setting, very often the motive of a promise is gratuitous; not to get the return promise.
-
-let's suppose i promise to give you $5000 if you promiise to make a present to xyd charittable foundatiion.
-
 Consideration Applications
 
 Hamer v. Sidway (p. 193)
