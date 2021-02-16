@@ -220,7 +220,7 @@ U.S. Court of Appeals 9th Circuit 763 F.3d 1171 (2014)
 - IV. The appellate court’s resolution of the fact:
 - Procedural History:
 - Court’s Reasoning:
-- Rule/Law:
+- **Rule/Law:** Courts will not inquire into the adequacy of the consideration.
 - Application:
 - Policy:
 - Holding:
@@ -250,42 +250,44 @@ U.S. Court of Appeals 9th Circuit 763 F.3d 1171 (2014)
 
 ---
 
-## Langer v. Superior Steel Corp   
+## Langer v. Superior Steel Corp.   
 
-**Name v. Name** Court, year (kind of court)
+Superior Court of Pennsylvania 161 A. 571 (1932)
 
-- Issue:
-- Facts:
-- I. Uncontested facts:
-- II. Appellant NAME’s factual allegations:
-- III. Respondent NAME’s factual allegations:
-- IV. The appellate court’s resolution of the fact:
-- Procedural History:
+- **Issue:** Whether a promise of an unsolicited retirement pension to an employee was a gift or an enforceable contract. (was the promise supported by a sufficient consideration?)
+- **Facts:** Langen was retiring from his position in the Annealing Department of the company.[^1] SCC sent Langer a letter saying it would give him a pension for life of $100 a month so long as he did not go work for another competitive company. Langer received payments for four years and then was informed that payments would stop.
+- **Langer alleged** that consideration existed in Langer's *performance* of remaining loyal to SCC and refraining from taking a job withh another company. Langer further argued that the promise was induced by his performance and his performance was induced by the promise, so they were bargained-for.
+- **SCC alleged** that its promise to Langer was not enforceable because it was gratuitous, without consideration.
+- **The appellate court’s resolution of the fact:** Lower court used Kirskey and ruled that the pension was a mere gratuity.
+- **Procedural History:** Langer appealed and filed assumpsit[^2] to recover damages for breach of contract.  
 - Court’s Reasoning:
-- Rule/Law:
-- Application:
-- Policy:
-- Holding:
-- Disposition:
-- Context (why the case was assigned):
+- **Rule/Law:** If the promisor is not benefited by the promise than the promise is more likely a "condition of a gift" than a "consideration of a promise." (Judge Baldridge distinguishing from Kirksey) This line of analysis allows us to distinguish gifts-with-a-condition from promises-with-consideration.
+- **Application:** SSC promised to pay Langer a pension of $100 a month and had a legal right not to pay Langer a pension. Langer promised to refrain from being employed in any competitive occupation, and had a legal right to refrain from being in such employment. There was consideration on the part of SCC because SSC stood to benefit from Langer not working for another company, and therefore wanted Langer's promise that he would not work for another company. There was consideration on the part of Langer because he refrained from getting another job in exchange for the promise of $100 a month. So Langer had legal detriment.
+- **Policy:**
+- **Holding:** Here, the court found that SSC's promise had consideration because there was benefit to be derived by the promisor, and therefore consideration. The court also found that refraining from going to work for another company was legal detriment for Langer so that was his consideration.  
+- **Disposition:** Judgment reversed, defendant given permission to file affidavit of defense to plaintiff's claim.
+
+[^1]:In metallurgy and materials science, annealing is a heat treatment that alters the physical and sometimes chemical properties of a material to increase its ductility and reduce its hardness, making it more workable.
+
+[^2]:1.An express or implied promise, not under seal, by which one person undertakes to do some act or pay something to another *an assumpsit to pay a debt*. 2. A common-law action for breach of such a promise or for breach of a contract *the creditor's assumpsit against the debtor*.
 
 ---
 
 ## White v. Village of Homewood Fire and Police Commission
 
-**Name v. Name** Court, year (kind of court)
+Appellate Court of Illinois 628 N.E. 2d 616 (1993)
 
-- Issue:
+- Issue: Whether an exculpatory contract was an enforceable contract.
 - Facts:
-- I. Uncontested facts:
-- II. Appellant NAME’s factual allegations:
-- III. Respondent NAME’s factual allegations:
+- I. Uncontested facts: Angela White, firefighter, took physical agility test. Before test she signed agreement to waive  liability. White fell. Brought negligence claim. Said agreement was unenforceable because she only signed because she needed the job.
+- II. Appellant Angela White’s factual allegations: the exculpatory agreement is unenforceable because it lacks consideration and violates public policy.
+- III. Respondent Village of Homewood Fire and Police Commission’s factual allegations: In consideration of the exculpatory agreement they administered the physical agility test.
 - IV. The appellate court’s resolution of the fact:
 - Procedural History:
 - Court’s Reasoning:
-- Rule/Law:
+- Rule/Law: The pre-existing duty rule provides that where a party does what it is already legally obligated to do, there is no consideration as there is no detriment.
 - Application:
-- Policy:
+- Policy: under certain circumstances exculpatory contracts may act as a total bar to a plaintiff's negligence claim because public policy favors freedom to contract.
 - Holding:
 - Disposition:
 - Context (why the case was assigned):
