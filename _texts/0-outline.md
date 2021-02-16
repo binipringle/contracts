@@ -8,7 +8,7 @@ toc:
 - I. Intro to Contract Law
 - A. Sources of law
 - B. Bargain principle
-- C. Other theoretical perspectives
+- C. Theoretical perspectives
 - II. Objective theory of contract interpretation
 - A. Objective theory approach
 - B. Varieties
@@ -100,17 +100,17 @@ toc:
 
 The bargain principle includes the central belief that an agreement to exchange one thing for another gives rise to mutual obligations. The motto "a deal is a deal" is a core tenet of the bargain principle. The idea that "a deal is a deal" is highly controversial, and people disagree on whether a deal is really a deal if it was made under conditions of coercion, duress, or inequality of power and resources, and whether these conditions are prevalent in exchange transactions. Rationales that justify the bargain principle include the belief that when two parties enter into a deal both sides are committed, one or both parties will count on the deal and rely on the deal to make a living, commercial exchange is crucial to a capitalist economy, and deals are crucial to a free market system, which in turn is essential to individual freedom.    
 
-## C. Other theoretical perspectives
+## C. Theoretical perspectives
 
-**Neo-Classical Economics:** Economic theory most closely associated with Bargain Theory (a deal's a deal etc.). Values efficiency and profit-making. Assumptions (pp 37-38):
+**Neo-Classical Economics:** Economic theory most closely associated with bargain theory. "A deal's a deal." Values efficiency and profit-making. Assumptions:[^1]
+
+[^1]:As social justice lawyers we will consider: how can these assumptions be challenged?
 
 - people act in their own self interest
 - people act rationally
 - people have access to perfect info
 - people and resources are freely movable
 - there are no artificial restrictions to entry to the market
-
-As social justice lawyers we will consider: how can these assumptions be challenged?
 
 **Socioeconomics (counter economic theory):** Assumes we can't adequately understand economic behavior by the assumptions of autonomy, rationality, and efficiency. Considers social norms, disparate bargaining power, sexism, racism, educational inequalities and other inequalities. Recognizes the capacity for empathy.
 
@@ -128,7 +128,7 @@ The "objective theory" of interpretation provides that words and conduct should 
 
 ## Terms can be implied
 
-**RLM Dist. Co. v. W.A. Taylor, Inc.**
+**R.L.M. Dist. Co. v. W.A. Taylor, Inc.** 723 F. Supp. 421 (D. Ariz. 1988)
 
 In RLM Dist. Co. v. W.A. Taylor, Inc., the court found found that custom and practice in the industry was sufficient to imply an agreement because the custom in the industry was that if you transfer a business you also transfer distribution rights. In RLM, the court found that absent any other facts, it was reasonable to believe that parties were following custom. Therefore, there was an agreement between RLM and Taylor. Here, the court will likely find [rule] because [legally relevant facts from exam].
 
