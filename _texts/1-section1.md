@@ -229,3 +229,162 @@ Was her guaranty necessary to close the loan transaction with the SBA?
 Was there consideration for her promise? (which elements is at issue?)
 Legal detriment?
 Bargained for?
+
+---
+
+Langer
+
+consideration
+
+analyze legal detriment (irac) ... legal right to do, legal right not to do ...
+
+analyze considerationn
+
+something can be a gift and also be bargained for - it can be part bargained and part gift - but both parts are necessary.
+
+"it was part gift and part bargain so there was cocnsideratiion"
+
+bargained for vs. conditiion of gift
+
+if i'm promising to give you the money when you alreaddy gave me tthe painting that's not a bargain; it's past consideration.
+
+Hypo: i promiise to five you these two ttiicckets to the worrldd series if you cocme to my officce by tomorrow to picck them up.
+
+There is a return promise so there's legal detriiment (i promise to give you the ticckets and ii have the legal right not to givem them to you andd you ccome to my officce and have a legal right not to go to my office) - i promise to give you tthe ticckts you promise to come to my officce to picck them up. So we have to look at motive.
+
+kirksey iis sayiing i'm uprooting my family andd moving there iin exchange. now we have anotherr way of looking at itt. the moving there might justt be a cocnditioin of the gift. she cant get the gift without moving there. kirksey is giving sister in law a gift. a cocndition of the gift is her moving there. So kirksey it seems like a condditioin of a gift.
+
+Langer does nott seem like a cocndiition of the gift because its not how youreceive the money, it's thhe actioins i'm seeking in order for ttis to make sense.
+
+sometimes its hard to distinguish. the other factual distiinctiion is that langer is an employee-employer situatioinn and Kirksey is a family situation
+
+the facct that kiirksey is a family situatioin ddoesnt mean thtat iit ccan't be bargained for, but a family siituatiion makes it more likely that its a gift.
+
+Hypo number 1: answer: past consideration
+
+question of motive -
+
+b is giving a the book which she has a legal right not to do and a is giving money as a gift which a has a legal right not to do, so there is legal detriment. However, there is no connection in motive because the motive of the actiion is not to get the return promiise
+
+Hypo number 2:
+A promises to make a ggift... (see slide)
+is there consideration between a and b? answer: no. it's a gift. there's no legal detriment. if i'm promisingg to give you a gift the legal detriment fails beccause you have no
+
+Hypo number 3: is there consideration? answer: no.
+legal detriment fails because i promise to giive you the car iis a lie, so here there iis no car; a is not promising to sell b a car; iit is a false cconsiderationn; easiier thing is tthat the som is promisiing the car to gett the money but the father is not promising to give the money so as to get the car knowiing that there iiis no car (in hypo it iis stated that A desires to make a binding promise to give $1000 to his son).  
+
+Hypo number 4:
+
+clearly nominal consideration
+
+ccourt won't look at the adequacy of an exchange, but it will look at the motivation. Sufficiency.
+
+- can't be nominal (e.g. $1)
+- in name only
+
+it's not that it's unfaiir, but it's that my motive was not to get tthe dollar i sold you the house for; i want to make you a gift; the $1 is in name only, it's fake. i am giiving you the house not in exchange for the money, but my motivation is not  
+
+Hypo number 6:
+where is the threshold? How about a promise to buy a $10 book for $100? How about a promise to buy a $10 book for $20? There is no thresholdd. you have to look at iit case by ccase, andd look at the parties anddd theiir relatioinships and their motivations. In the case of the father and the son and the $1 book for $1000, no reasonable person would believet that the father's motivatiion iiis that he wants the book.
+
+Remember that part bargaiin part gift is a valid consieratoin
+
+COPY FROM SLIDE!!! PROF SAYS THIS **HAS** TO BE IN OUTLINE
+
+Bargained for
+
+*can* be mixed motive
+can't be past consideration
+Can't be condition of a gift
+can't be nominal  
+
+(if in writing ii say sth is nominal i have to say the motive is not to get the return promise, it's a pretext for a gift )
+
+Legal Detriment
+
+can't be a gift
+can't be pre-existing duty
+can't be illusory
+
+Hypo: Housing works. I buy a $10 book for $1000 because I want to support housing works but i also wantt the book. mixed motive.
+
+Pre-exiisting duty
+
+suppose ccity offers a reward to anyone who turns in a criminal
+a police officer findds the criminal and turns him iin
+can she collecct the reward?
+- legal ddetriment? No. The ciity is paying the reward which it has a legal right not to ddo, but the police officer is turning in the criminal and she has a legal obliigation to turn in the ccriminal so she does not have a legal right nottt to turn in the criminal.
+- Bargainedd for? The policce officcer might be partly motivated by getting in the rewardd andd partly by doing her job, but
+- PRE-EXISTING
+
+A promise to do somtehing one is already obligated to ddo is nnot validd. ccocnsideration. No legal detriment. they ddon't have a legal right not to do it. pre-exiisting duty ccan arise from law, contracct or ccustom.
+
+Hypo
+
+Contracctor agrees to construct a building ... SEE SLIDE!
+
+Pre-existing duty arising from contract
+
+This requirement of consideration prevents unfair  ...
+
+Illusory promises (RST § 77)
+
+I promise tto sell you my ccar unless I deccide not to
+I promise to buy as manuy bushels of wheat from you that i want
+I reserve tthe power to terminate the agreement at any time
+i will if i want to
+
+Performance is entirely optional
+promise in form but not in substance
+
+Illusory K hypo 1: SEE SLIDE
+answer: I'm not promising anything
+
+Illusory K hypo 2: I promise to buy from you all the coal that II'll need for the year if you promise to sell me all the ccoal that I order. Yes. Legal detriment
+
+Rules of thumb
+
+"want" is different from "need"
+court will read a promise so that it's not illusory if possible (especially where there's an elaborate agreement)
+court will impose an obligation of good faith: "I promise to buy this ..." SEE SLIDE
+
+Hypo number 2
+
+I promise to buy thiis business from you iif II decide... totally illusory
+
+hypo nnumber 2 revised
+
+im promising but also promising in good faith to use my best efforts to buy the property froom you
+
+Rule of thumb for hypo 2:
+
+if performance is entirely withiin one party's control, iit might be iillusory
+BUT court will impose obligation of best efforts
+"I promise ..." SEE SLIDE
+
+Hypo number 3
+
+I promise to spend as much ... see slide
+probably not illusory. I promise to use good faith to do as much work as is necessary and it's up to me but I have to use good faith and best efforts.
+
+Hypo number 4
+
+I promise to purchase land for a shopping center if I can get leases for future occupanccy that are "satisfactory" to me.
+
+I can't just turn every lease down. Because I promise *in good faith* to look for leases. I have to exerc
+
+PUT THIS IN RULE:
+
+when a party has discretiion, they must exerccise their judgment in good faaith.
+
+words of promise - doesnt sound illusory - oh look at these words now iit looks illusory - look agaiin andd see if the cocurt can read iin the ... goodd faith .
+
+Hypo number 5
+
+terminate at any time without notice
+
+it's illusoory, however:
+
+Hypo number 5 modified
+
+Not illusory because "...on one month's notice"

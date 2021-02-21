@@ -278,7 +278,7 @@ Superior Court of Pennsylvania 161 A. 571 (1932)
 Appellate Court of Illinois 628 N.E. 2d 616 (1993)
 
 - Issue: Whether an exculpatory contract was an enforceable contract.
-- Facts:
+- Facts: White agreed to excculpatory cclause andd basically released them from negligence
 - I. Uncontested facts: Angela White, firefighter, took physical agility test. Before test she signed agreement to waive  liability. White fell. Brought negligence claim. Said agreement was unenforceable because she only signed because she needed the job.
 - II. Appellant Angela White’s factual allegations: the exculpatory agreement is unenforceable because it lacks consideration and violates public policy.
 - III. Respondent Village of Homewood Fire and Police Commission’s factual allegations: In consideration of the exculpatory agreement they administered the physical agility test.
@@ -291,6 +291,10 @@ Appellate Court of Illinois 628 N.E. 2d 616 (1993)
 - Holding:
 - Disposition:
 - Context (why the case was assigned):
+
+White's alleged consideration was to take the test; she promised to sign the exculpatory agreement so that she could take the test. The Village is promising to allow her to take the test but already has a legal obligation to allow her to take the test, so there is no legal detriment. Therefore, White's signing of the exculpatory agreement is a gift. 
+
+Legal detriment fails. Bargained-for also fails, because maybe the town was partly motivated by getting her to sign the agreement, but this doesn't matter beccause legal detriment failed. Legal detriment always fails in pre-existing duty.
 
 ---
 
