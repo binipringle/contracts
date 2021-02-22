@@ -6,8 +6,24 @@ editor: Sabina Pringle
 rights:
 source:
 toc:
+- Kirksey v. Kirksey
 - Charles R Embry v Hargadine McKittrick Dry Goods Company
-- RLM Dist Co v WA Taylor Inc
+- R.L.M. Dist. Co. v. W.A. Taylor, Inc.
+- United Steelworkers of America, Local 1330 v. U.S. Steel
+- John D.R. Leonard v. Pepsico, Inc.
+- Lefkowitz v. Great Minneapolis Surplus
+- Carlill v. Carbolic Smoke Ball Co
+- Panhandle Eastern Pipe Line Co. v. Nowlin Smith, Jr.
+- Russel v. Texas Co.
+- Nguyen v. Barnes and Noble, Inc.
+- Dickenson v. Dodds
+- Drennan v. Star Paving Co.
+- Hamer v. Sidway
+- U.S. v. Betty Jo Meadors
+- Langer v. Superior Steel Corp.
+- White v. Village of Homewood Fire and Police Commission
+- Lawrence v. Ingham Country Health Dept. Family Planning
+-
 ---
 
 ## Kirksey v. Kirksey
@@ -91,20 +107,9 @@ U.S. District Court, SDNY (1999)
 
 (discussed in Pepsi)
 
-- Issue:
-- Facts: Great Minneapolis Surplus Store published advertisement stating that on Saturday at 9 AM sharp 3
-- I. Uncontested facts:
-- II. Appellant NAME’s factual allegations:
-- III. Respondent NAME’s factual allegations:
-- IV. The appellate court’s resolution of the fact:
-- Procedural History:
-- Court’s Reasoning:
+- Facts: Great Minneapolis Surplus Store published advertisement stating that on Saturday at 9 AM sharp 3 coats would be sold at a very low price.
 - Rule/Law: An advertisement may constitute a contract if it is clear, definite and explicit, and leaves nothing open to negotiation.
 - Application: Because the coat ad was clear, definite and explicit, it was an offer. Lefkowitz accepted the offer by going to the store at the specific time with the money.
-- Policy:
-- Holding:
-- Disposition:
-- Context (why the case was assigned):
 
 ## Carlill v. Carbolic Smoke Ball Co
 
@@ -132,22 +137,23 @@ Wyoming Supreme Court 637 P.2d 1020 (1981)
 ---
 ## Russel v. Texas Co.
 
-**Name v. Name** Court, year (kind of court)
+U.S. Court of Appeals for the 9th Circuit, 238 F.2d 636 (1956)
 
-- Issue:
-- Facts:
-- I. Uncontested facts:
-- II. Appellant NAME’s factual allegations:
-- III. Respondent NAME’s factual allegations:
-- IV. The appellate court’s resolution of the fact:
-- Procedural History:
-- Court’s Reasoning:
-- Rule/Law:
-- Application:
-- Policy:
-- Holding:
-- Disposition:
-- Context (why the case was assigned):
+- **Issue:** Whether an offeree may vitiate a contract by a claim of lack of intention to accept an offer when he accepts and retains the benefits offered to him by the offeror, with a positive and affirmative proviso by the offeror that such acceptance of the benefits will, in and of itself, be deemed by the offeror to be an acceptance. (p. 115)
+- **Narrow Issue:** Whether Texas Co. accepted Russel's offer of a revocable license for use of real property section 23.
+- **Facts:**
+- **I. Uncontested facts:** Russell's predecessors acquired section 23 from the Northern Pacific Railway Company through a contract in 1918. In the contract and deed were miniral rights. The Texas Co. conducted operations in section 23 since 1952 under an oil and gas lease granted by Norrthern Pacific Railway Company. The Texas Co. has also made use of the surface of section 23.   
+- **II. Appellant Russel’s factual allegations:** Russel argued that its offer of a license to Texas Co. stated that the continued use of section 23 constituted acceptance.  
+- **III. Respondent Texas Co.’s factual allegations:** Texas Co. argued that it never accepted Russel's offer of a revocable license for the use of section 23 because Texas Co. did not intend to accept this offer.
+- **IV. The appellate court’s resolution of the fact:**
+- **Procedural History:** Russell sued Texas Co. for nonpayment in trial court. The trial court found that Texas Co. had accepted Russel's offer of a revocable contract and ruled that Texas Co. should therefore pay Russell damages. Texas Co. appealed.  
+- **Court’s Reasoning:** See application below.
+- **Rule/Law:** Under RST § 72.2 "Where the offeree exercises dominion over things which are offered to him, such exercise of dominion in the absence of other circumstances showing a contrary intention is an acceptance, though the offeree manifests an intention not to accept.""
+- **Application:** The court applied the reasonable person test which asks whether or not the offeror was led to reasonably believe that the act of the offeree was an acceptance; the court found that in this case, it was. (p. 116)
+- **Policy:**
+- **Holding:** An offeree may vitiate a contract by a claim of lack of intention to accept an offer when he accepts and retains the benefits offered to him by the offeror, with a positive and affirmative proviso by the offeror that such acceptance of the benefits will, in and of itself, be deemed by the offeror to be an acceptance.
+- **Disposition:** Judgement affirmed as to appelants.
+- **Context (why the case was assigned):** To illustrate acceptance by silence.
 
 ---
 
@@ -168,22 +174,30 @@ U.S. Court of Appeals 9th Circuit 763 F.3d 1171 (2014)
 
 ## Dickenson v. Dodds  
 
-**Name v. Name** Court, year (kind of court)
-
-- Issue:
-- Facts:
-- I. Uncontested facts:
-- II. Appellant NAME’s factual allegations:
-- III. Respondent NAME’s factual allegations:
-- IV. The appellate court’s resolution of the fact:
-- Procedural History:
-- Court’s Reasoning:
-- Rule/Law:
-- Application:
-- Policy:
-- Holding:
-- Disposition:
-- Context (why the case was assigned):
+- **Facts:**
+- 6/10:  Offer
+- 6/11 (morning): Dickinson decides to accept
+- 6/11 (afternoon):  Dodds sells property to Allen
+- Later Dickinson was informed that Dodds sold property to Allen
+- 6/11 (evening): Dickinson leaves formal acceptance letter with Dodds’ mother-in-law
+- 6/12 (morning):  Dodds receives Dickinson’s acceptance
+- Dodds made a valid revocation (he actually got lucky).
+- **Notes:**
+- This offer will be left open until 6/12
+- Dickinson tried to accept before 6/12
+- Issue is could he revoke; could he change his mind?
+- Was the promise to keep the offer open until the 12th binding? For something to be binding it needs sth, sth, and consideration
+- If the promise is not binding, I can revoke.
+- Promise could have been binding if the offeree had paid money to offeror for keeping the offer open
+1. Did Dodds have the right to revoke? Yes.
+2. Did Dodds properly revoke the offer before Dickinson acccepted it? Yes.
+- If Dodds didn't revoke it would be a mess. If both accepted Dickinson would have to pay damages to Dickinson
+- the only question is if Dodd revoked before Dickinson accepted, would they have a contract? Even if there was already a contract with allen.
+1. Was there an offer? yes.
+2. Was there acceptance? yes
+- **Rule:** The offeror can revoke at any time before acceptance even if the offeror promises not to revoke. However, the offeror cannot revoke after acceptance. (Contract law doesn't value promises. Contract law only values promises that are an exchange, which makes them a contract.) For an offer to be revoked, the offeree must get actual notice of the revocation, and the notice must be reliable information, but the notice of revocation does not have to come directly from thhe offeror.
+- **Policy:** No one is bound until there is mutuality. Also, at the core of contract law is the exchange of goods valued by the Neoclassical economic theory.
+- **Sloppy rule:** If offeree accepts before offeror revokes, it's too late for the offeror to revoke. If offeror revokes before offeree accepts, offeror can revoke.
 
 ---
 
@@ -292,7 +306,7 @@ Appellate Court of Illinois 628 N.E. 2d 616 (1993)
 - Disposition:
 - Context (why the case was assigned):
 
-White's alleged consideration was to take the test; she promised to sign the exculpatory agreement so that she could take the test. The Village is promising to allow her to take the test but already has a legal obligation to allow her to take the test, so there is no legal detriment. Therefore, White's signing of the exculpatory agreement is a gift. 
+White's alleged consideration was to take the test; she promised to sign the exculpatory agreement so that she could take the test. The Village is promising to allow her to take the test but already has a legal obligation to allow her to take the test, so there is no legal detriment. Therefore, White's signing of the exculpatory agreement is a gift.
 
 Legal detriment fails. Bargained-for also fails, because maybe the town was partly motivated by getting her to sign the agreement, but this doesn't matter beccause legal detriment failed. Legal detriment always fails in pre-existing duty.
 

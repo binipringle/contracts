@@ -98,7 +98,7 @@ toc:
 
 ## B. Bargain principle
 
-The bargain principle includes the central belief that an agreement to exchange one thing for another gives rise to mutual obligations. The motto "a deal is a deal" is a core tenet of the bargain principle. The idea that "a deal is a deal" is highly controversial, and people disagree on whether a deal is really a deal if it was made under conditions of coercion, duress, or inequality of power and resources, and whether these conditions are prevalent in exchange transactions. Rationales that justify the bargain principle include the belief that when two parties enter into a deal both sides are committed, one or both parties will count on the deal and rely on the deal to make a living, commercial exchange is crucial to a capitalist economy, and deals are crucial to a free market system, which in turn is essential to individual freedom.    
+The bargain principle includes the central belief that an agreement to exchange one thing for another gives rise to mutual obligations. The motto "a deal is a deal" is a core tenet of the bargain principle. There is disagreement as to whether a deal is really a deal if it is made under conditions of coercion, duress, or inequality of power and resources. Rationales that justify the bargain principle include the belief that when two parties enter into a deal both sides are committed, one or both parties will count on the deal and rely on the deal to make a living, commercial exchange is crucial to a capitalist economy, deals are crucial to a free market system, and a free market system is essential to individual freedom.      
 
 ## C. Theoretical perspectives
 
@@ -565,52 +565,27 @@ In Nguyen v. Barnes & Noble, Inc., the court found that the mere presence of a l
 
 ## Revocation prior to acceptance
 
-4 ways to terminate an offer
+There are Four ways to terminate an offer. These are:
 
-Rejection - only the offeree can reject - would a rp in the offeree's situation
-Revocation - the offeror can revoke the offer
-Lapse - the offer can lapse. I made offer you said nothingg; it's no longer reasonable to understand the offer is still open. What is a reasonable period of time? If oral offer, the offer lapses as soon as the conversatoin is over. If written, it is a reasonable period of tiime; if it's a big thing it can take longer
-Death or incapacity of either party - an offer is not transferable; if the person who made the offer passes away, the offer is over.
+1. Rejection - only the offeree can reject - would a reasonable person in the offeree's situation ...
+2. Revocation - the offeror can revoke the offer
+3. Lapse - the offer can lapse. I made offer you said nothing; it's no longer reasonable to understand the offer is still open. What is a reasonable period of time? If oral offer, the offer lapses as soon as the conversation is over. If written, it is a reasonable period of time; if it's a big thing it can take longer
+4. Death or incapacity of either party - an offer is not transferable; if the person who made the offer passes away, the offer is over.
 
 Revocation is the tricky one. Starting rule: the offeror can revoke at any time prior to acceptance.
 
 **Dickinson v. Dodds**
 
+- **Facts:**
 - 6/10:  Offer
 - 6/11 (morning): Dickinson decides to accept
 - 6/11 (afternoon):  Dodds sells property to Allen
-- Later Dickinson was informed that Dodds sold prop to Allen
+- Later Dickinson was informed that Dodds sold property to Allen
 - 6/11 (evening): Dickinson leaves formal acceptance letter with Dodds’ mother-in-law
 - 6/12 (morning):  Dodds receives Dickinson’s acceptance
-
-What happened first? If offeree accepts before offeror revokes, it's too late for the offeror to revoke. If offeror revokes before offeree accepts, offeror can revoke.
-
-- This offer will be left open until 6/12
-- Dickinson tried to accept before 6/12
-- What’s the issue?
-- Issue is could he revoke; could he change his mind?
-- Was the promise to keep the offer open until the 12th binding? For something to be bindding it needs sth, sth, and consiideraation
-- If the promise is not binding, I can revoke.
-- Promise could have been binding if the offeree had paid money to offeror for keeping the offer open
-
-1. Did Dodds have the right to revoke?
-2. Did Dodds properly revoke the offer before Dickinson acccepted it?
-
-Rule for revokiing: Offeree must get actual notice (reliable information) – but doesn’t have to come directly from offeror
-
-- If Dodds didn't revoke it would be a mess. If both accepted Dickinson wouldd have to pay damages to Dicckinson
-- the only q is if doddd revoked before dickinson accccepted they wouldd have a ccontracct. even if therre was already a ccontracct wiithh allen.
-- was there an offer? yes. acceptance? yes
-
-dodds has propertty. makes offer to dickinson. ill keep offer open until june 12thh. diickinson thiinksa bout it. Dodds makes offer to allen. allen accepts. binding contract with allen. dickinson
-
-thhe offeror can revoke at any time before accceptance even if the offeror says they wont. even if thhey promise not to. however, thhey cannot revoke after acceptance.
-
-contract law doesn't value promises. contract law only values promises that are an exchange - whiichh makes them a contract.
-
-Policy: No one is bound until there is mutuality - also, at the core of contract law is the exchange of goods - neoclassical economic theory
-
-dodds made a valid revocation (he actually got lucky)
+- Dodds made a valid revocation (he actually got lucky).
+- **Rule:** The offeror can revoke at any time before acceptance even if the offeror promises not to revoke. However, the offeror cannot revoke after acceptance. (Contract law doesn't value promises. Contract law only values promises that are an exchange, which makes them a contract.) For an offer to be revoked, the offeree must get actual notice of the revocation, and the notice must be reliable information, but the notice of revocation does not have to come directly from thhe offeror.
+- **Policy:** No one is bound until there is mutuality. Also, at the core of contract law is the exchange of goods valued by the Neoclassical economic theory.
 
 Revocation made to the public by an ad: 1. the fine print; 2.
 
@@ -660,7 +635,7 @@ Here, there was no revocation because the plaintiff relied on the defendant
 
 From Drennan, if the offeree reasonably relies on the offer to theiir detriment, then the offer becomes irrevocable.
 
-Here, the general contractor had to rely on the subcocntractor's offer to include it in their offer to the schcool. So iif the subconracctor were able to revoke their offer at this late date, then the general cocntracctor would be harmed. they reliied on it and theiir reliance was reasonable.
+Here, the general contractor had to rely on the subcocntractor's offer to include it in their offer to the schcool. So iif the subconracctor were able to revoke their offer at this late date, then the general cocntracctor would be harmed. they reliied on it and their reliance was reasonable.
 
 The plaintifff is a general contractor preparing to make a bid for a school contract. but thhey need to subcontract. they soliciit a subccontractor. the plaintiff willl accept the lowest bid from a subccontracctor and inccorporate that into theiir bid to the school. lowest bid was $7000 and they submit it. General contractor gets the job. Go back to tell the subcontractor I accept your bid. But before they can saay I accept, the defendant (the subccontracctor) revokes. Why didn't the general contractor accept right away? because they were waiting to see if they got the main job they were putting a bid in for.
 
@@ -742,7 +717,7 @@ Both parties must promise to do something (or do something) they have a legal ri
 
 # B. Reliance theory
 
-Involves promises to give gifts. Seeks to protect those who reasonably rely on others.
+The reliance theory involves promises to give gifts, and seeks to protect those who reasonably rely on others. *See the bargain principle for longer rule*
 
 **Hypo:** Uncle promises to pay nephew $5000 if he quits drinking and smoking until he turns 21; nephew quits; turns 21; $5000 not paid; nephew sues. Does he have a claim under the bargain principle? (Was the promise part of an exchange or a promise to give a gift?) (illustrates the blurred line between exchange and gift)   
 
@@ -846,7 +821,11 @@ What would have been a more persuasive way for the clinic to make the case that 
 ---
 
 
-# V Alternatives to bargain model
+# Alternatives to bargain model
+
+## The reliance principle
+
+The reliance principle seeks to protect those who reasonably rely on others. Some maintain that it is reasonable to rely on another person in a variety of different circumstances, while others maintain that it is only reasonable to rely on another person if that person has promised to do something or otherwise voluntarily invited the reliance. As a result of this limitation, the reliance principle in current law emphasizes promises, with the belief that promises should be kept and whether obligation should ever be imposed in the absence of a promise. The reliance principle is corrective or restorative; it holds that a person who has been injured should be compensated for that injury (a corrective or restorative claim). In contrast, the bargain principle is distributive; it holds that the existence of a bargain entitles each person to the benefit he or she expected from the claim (a distributive claim).
 
 A. The Reliance principle: Promissory Estoppel
 
