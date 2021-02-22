@@ -40,13 +40,14 @@ toc:
 - Statute of frauds
 - B. Reliance theory
 - C. Restitution theory
-- IVa Legal detriment and bargained-for
-- IVb Neo-Classical economic theory
-- IVc Critical legal theory
-- V Alternatives to bargain model
-- Va The promise
-- Vb Reasonable reliance
-- Vc The Restitution principle
+- Legal detriment and bargained-for
+- Neo-Classical economic theory
+- Critical legal theory
+- Alternatives to bargain model
+- Promissory Estoppel
+- The promise
+- Reasonable reliance
+- The Restitution principle
 - VI Statute of Frauds
 - VII Defenses Explicit Political Economic Moral Controls
 - VIIa Public policy
@@ -779,7 +780,7 @@ B.    Applications of the Consideration Doctrine: Gift with a Condition, Nominal
 - Factual arguments in support of that holding:
 - Factual counterarguments:
 
-**Wood v. Lucy, Lady Duff-Gordon**
+**Wood v. Lucy, Lady Duff-Gordon** (we didn't read this case)
 
 - Issue:
 - Why issue matters:
@@ -797,29 +798,11 @@ B.    Applications of the Consideration Doctrine: Gift with a Condition, Nominal
 - Factual arguments in support of that holding:
 - Factual counterarguments:
 
-Text pp 205-214 (bottom), 218-219
+## Critical legal theory
 
-Text pp 220-226
-
-Theoretical perspective and Close Case Reading
-
-What is the “primitive stage of formalism” that the Wood court is rejecting? Why is it being rejected?
-
-What is Cardozo telling us about the relationship between the parties in the case? For whose benefit is the term implied?  Who was vulnerable under the contract as written?
-
-## IVc Critical legal theory
-
-The Paula Childress story beginning on p 226 is optional reading. It provides an account of the role of class, race, and poverty in the dehumanization of people who are poor. Does this attitude help explain the devaluation of the claim in the Lawrence case?
-
-Would the outcome of Lawrence change if Ethel Lawrence had been a paying patient? What does this tell you about who is the least protected by the consideration doctrine?
-
-What would have been a more persuasive way for the clinic to make the case that there was no consideration in Lawrence?
+Paula Childress story p 226 (optional reading).
 
 ---
-
-
----
-
 
 # Alternatives to bargain model
 
@@ -827,13 +810,13 @@ What would have been a more persuasive way for the clinic to make the case that 
 
 The reliance principle seeks to protect those who reasonably rely on others. Some maintain that it is reasonable to rely on another person in a variety of different circumstances, while others maintain that it is only reasonable to rely on another person if that person has promised to do something or otherwise voluntarily invited the reliance. As a result of this limitation, the reliance principle in current law emphasizes promises, with the belief that promises should be kept and whether obligation should ever be imposed in the absence of a promise. The reliance principle is corrective or restorative; it holds that a person who has been injured should be compensated for that injury (a corrective or restorative claim). In contrast, the bargain principle is distributive; it holds that the existence of a bargain entitles each person to the benefit he or she expected from the claim (a distributive claim).
 
-## Equitable Estoppel
+## Promissory Estoppel
 
 Under the doctrine of equitable estoppel, if a person makes a representation about a fact, in a situation in which another person is likely to rely on the truth of that fact (sometimes in the context of litigation and sometimes in other contexts), then first person is barred ("estopped") from denying the truth of the fact as he or she stated it. (45)
 
-## Promissory Estoppel
+In Ricketts v. Scothorn, Judge Sullivan applied the idea of equitable estoppel to a promise, instead of a statement of fact. So under Ricketts, if a person says, in effect, "I will do this," in a situation in which reliance is reasonable and foreseeable, he or she may later be estopped from saying "I will not do this" or "my promise is not enforceable."
 
-In Ricketts v. Scothorn, Judge Sullivan applied the idea of equitable estoppel to a promise, instead of a statement of fact. So under Ricketts, if a person says, in effect, "I will do this," in a situation in which reliance is reasonable and foreseeable, he or she may later be estopped from saying "I will not do this" or "my promise is not enforceable." Courts may enforce a promise that is not part of an exchange under the doctrine of promissory estoppel, codified in RST § 90(1) which states that "a promise whiich the promisor should reasonably expect to induce action or forbearance on the part of the promisee or a third person and which does induce such action or forbearance is binding if injustice can be avoided only by enforcement of the promise. The remedy granted for the breacch may be limited as justice requires." The focus of promissory estoppel is on the circumstances of trust, so tthe requirement of a promise is shaped by a court's views about the social dimension of trust. Some courts insist that reliance cannot be expected or reasonable unless the promise is "clear and unambiguous." Other courts find that mere "representations" can be sufficient expressions of commitment to induce expected and reasonable reliance.   
+Courts may enforce a promise that is not part of an exchange under the doctrine of promissory estoppel, codified in RST § 90(1) which states that "A promise which the promisor should reasonably expect to induce action or forbearance on the part of the promisee or a third person and which does induce such action or forbearance is binding if injustice can be avoided only by enforcement of the promise. The remedy granted for the breacch may be limited as justice requires." A promise is "a manifestation of intention to act or refrain from acting in a specified way, so made as to justify a promisee in understanding that a commitment has been made." RST § 2(1). The focus of promissory estoppel is on the circumstances of trust, so tthe requirement of a promise is shaped by a court's views about the social dimension of trust. Some courts insist that reliance cannot be expected or reasonable unless the promise is "clear and unambiguous." Other courts find that mere "representations" can be sufficient expressions of commitment to induce expected and reasonable reliance.   
 
 **Ricketts v. Scothorn**
 
@@ -845,7 +828,7 @@ In Ricketts v. Scothorn, Judge Sullivan applied the idea of equitable estoppel t
 - Policy: By evoking the estoppel doctrine, Judge Sullivan also evokes the residual judicial power to do "equity" within the body of law called "equity," which is characterized by relatively open claims to justice. (45)
 
 
-## Va The promise
+## The promise
 
 **State Bank of Standish v. Curry**
 
@@ -855,7 +838,7 @@ In Ricketts v. Scothorn, Judge Sullivan applied the idea of equitable estoppel t
 - Factual arguments in support of that holding:
 - Factual counterarguments:
 
-## Vb Reasonable reliance
+## Reasonable reliance
 
 **Alden v. Presley**
 
@@ -879,7 +862,9 @@ Working with Rules and Outlining
 
 How will the rule for promise appear in your outline?
 
-## Vc The Restitution principle
+---
+
+## The Restitution principle
 
 **Cotnam v. Wisdom**
 
@@ -904,453 +889,5 @@ How will the rule for promise appear in your outline?
 - Holding:
 - Factual arguments in support of that holding:
 - Factual counterarguments:
-
-Text pp 46-53, 292-303
-
-Outlining
-
-Consider what each case adds to your understanding of the doctrine of Restitution.  Consider the role the cases will ultimately play in your outline of Restitution.
-
-# VI Statute of Frauds
-
-A. When is a Writing Necessary?
-
-**Metz Beverage Co. v. Wyoming Beverages, Inc.**
-
-- Issue:
-- Why issue matters:
-- Holding:
-- Factual arguments in support of that holding:
-- Factual counterarguments:
-
-Text pp 320-327
-
-Consider: SOF Problems posted on TWEN 	
-
-DOCTRINAL FOCUS	READING
-
-ASSIGNMENT	SKILLS FOCUS AND THOUGHT QUESTIONS
-
-# VII Defenses Explicit Political Economic Moral Controls
-
-## VIIa Public policy
-
-**In the Matter of Baby “M"**  (Superior court and supreme court opinions)
-
-- Issue:
-- Why issue matters:
-- Holding:
-- Factual arguments in support of that holding:
-- Factual counterarguments:
-
-Text pp 319, 333-350
-
-RST § 178
-
-Optional reading: Two articles about surrogacy posted on TWEN under “Course Materials”
-
-Consider: Baby M drafting exercise (posted under “class exercises”)
-
-Make a list of policies for and against enforcing the Baby M contract (including the arguments from the case and the other readings).  Factors both favoring and disfavoring enforcement should include contract / law and economic arguments as well as social policy arguments.  	
-
-Working with Facts
-
-Consider the language the lower court used in characterizing the Whiteheads and the Sterns.  What differences are evident in tone and word choice? What language does the appellate court use in characterizing the Whiteheads and the Sterns?  Are there similar differences in tone and word choice?
-
-Consider the role that these choices play in the process of legal analysis and the courts’ decisions.  How do these choices inform your reading of the case?
-
-## VIIai Theoretical perspective
-
-Consider any discomfort you may have with either the lower court or the appellate opinion.  Can you categorize your objection in terms of one or more of the theories we studied?
-
-## VIIb Lack of capacity and who can contract?
-
-**Paula Darlene Hampton v. Dillard Dept. Stores**
-
-- Issue:
-- Why issue matters:
-- Holding:
-- Factual arguments in support of that holding:
-- Factual counterarguments:
-
-## VIIbi Children
-
-**Kim Young v. Phillip Weaver**
-
-- Issue:
-- Why issue matters:
-- Holding:
-- Factual arguments in support of that holding:
-- Factual counterarguments:
-
-## VIIbii Mental incapacity
-
-Legal tests (volitional and cognitive)
-
-Text pp 350-367
-
-RST §§ 12 & 14
-
-Text pp 367-368 (very top), 372
-
-RST § 15
-
-Working with Rules: The Role of Policy in the Rule
-
-Do you think the rule for minority is fair? Whom is the rule trying to protect and from what?  What assumptions does the rule make about minors? Are these assumptions valid?  How are those assumptions challenged empirically by the readings?
-
-Working with Rules: The Role of Policy in the Rule
-
-How is the test for mental capacity different from the test for minority? Why do you suppose the tests are different?  By comparing these rules, we can see that policy is built into each rule. What policy concerns underlie the different rules?
-
-## VIIc Duress and force and threats
-
-**Trane v. Bond**
-
-- Issue:
-- Why issue matters:
-- Holding:
-- Factual arguments in support of that holding:
-- Factual counterarguments:
-
-Text pp 440-452
-
-RST §§ 174 - 176
-
-Working with Rules: Articulating and Elementizing a Rule
-
-What’s the difference between     § 174 and § 175 in substance and in effect?  What elements are required under § 175(1) for a showing of duress by threat by the other party?  Read § 176.  When is a threat improper?  When might a threat be proper?
-
-Note Taking and Outlining
-
-With your study group, prepare answers to the questions about duress posted on TWEN under “Class Exercises.” You should be able to answer these questions from your notes, and some of the questions might help you in the process of converting your notes into an outline.
-14
-
-## VIId Miscommunication
-
-- Mutual Mistake
-- Unilateral Mistake
-- Mistake in Expression
-
-**First Baptist Church v. Barber Contracting**
-
-- Issue:
-- Why issue matters:
-- Holding:
-- Factual arguments in support of that holding:
-- Factual counterarguments:
-
-## VIIe Misunderstanding
-
-**Konic International Corp. v. Spokane Computer Serv.**
-
-- Issue:
-- Why issue matters:
-- Holding:
-- Factual arguments in support of that holding:
-- Factual counterarguments:
-
-Text pp 377, 381-88
-
-RST §§ 151-155
-
-Text pp 389-396
-
-RST § 20
-
-## VIIf Misrepresentation, false statements
-
-**Kang v. Harrington**
-
-- Issue:
-- Why issue matters:
-- Holding:
-- Factual arguments in support of that holding:
-- Factual counterarguments:
-
-**Vokes v. Arthur Murray, Inc.**
-
-- Issue:
-- Why issue matters:
-- Holding:
-- Factual arguments in support of that holding:
-- Factual counterarguments:
-
-Text pp 405-411, 419-428
-
-RST §§ 164, 159-172
-
-Working with Rules:  Elementizing
-
-What are the four elements required for a showing of misrepresentation?  Use §§159-172 to fill in the rules and definitions for each of the four elements.
-
-## VIIg Theoretical perspective
-
-Consider background assumptions the court may have made about women and widows in Vokes.  What role do you think Vokes’s
-gender played in the court’s reasoning? What role do you think race, class, or gender should play in analyzing a party’s behavior? We will use this case and these theoretical issues as the basis of a discussion on competing economic theories about the appropriate role of these characteristics in legal reasoning.
-
-## VIIh Unconscionability
-
-**Williams v. Walker-Thomas Furniture Co.**
-
-- Issue:
-- Why issue matters:
-- Holding:
-- Factual arguments in support of that holding:
-- Factual counterarguments:
-
-Text pp 459-472
-
-Consider: Walker Thomas exercise (posted under “class exercises)
-
-UCC § 2-302
-
-RST § 208
-
-Working with Rules
-
-What is the difference between the doctrines of void as against public policy and unconscionability?
-
-Issue Spotting
-
-Consider any other contract defenses that might have been available to Williams.  What key fact or facts are necessary to implicate each of those possible defenses?
-
-# VIII Changes After Contract Formation
-
-## VIIIa Impracticability
-
-## VIIIb Agreed Modifications
-
-**Alaska Packers’ Ass’n v. Domenico et al.**
-
-- Issue:
-- Why issue matters:
-- Holding:
-- Factual arguments in support of that holding:
-- Factual counterarguments:
-
-**Quigley v. Wilson**
-
-- Issue:
-- Why issue matters:
-- Holding:
-- Factual arguments in support of that holding:
-- Factual counterarguments:
-
-Text pp 485-486, 493, 497 (note)
-Additional reading may be posted
-
-Text pp 511-520
-
-Consider: Alaska Packers drafting exercise (posted under “class exercises”)
-
-UCC § 2-209
-
-RST § 89
-
-Practice Point: Drafting
-
-Draft a modification to the Alaska Packers contract that would be more immune to challenge.  
-
-## VIIIc Neo-Classical economics and Socioeconomics
-
-What neo-classical economic assumptions does the court make in Alaska Packers that may have influenced the outcome of the case?  How might you challenge those assumptions?
-
-# IX Content of the Contract
-
-## IXa Interpretation
-
-## IXai Implied Terms
-
-- Good faith
-- Missing terms / Gap filling
-
-**Nanakuli Paving and Rock Co. v. Shell Oil Co.**
-
-- Issue:
-- Why issue matters:
-- Holding:
-- Factual arguments in support of that holding:
-- Factual counterarguments:
-
-**Fisher v. Congregation B’nai Yitzhok**
-
-- Issue:
-- Why issue matters:
-- Holding:
-- Factual arguments in support of that holding:
-- Factual counterarguments:
-
-## IXaii Express Terms
-
-- Objective Theory revisited
-- Maxims of Interpretation
-- When is meaning "plain"?
-
-**Pacific Gas and Electric Co. v. H.W. Thomas Drayage & Rigging Co.**
-
-- Issue:
-- Why issue matters:
-- Holding:
-- Factual arguments in support of that holding:
-- Factual counterarguments:
-
-Text pp 527-541, 562 (“Note”)
-
-UCC §§1-201(3), (11), (19) & (20), §§ 1-203, 1-205, 1-208,  2-306
-
-RST §§ 205, 219-223
-
-Text pp 587-590, 593-597
-
-UCC § 201-203, 206-207
-
-## IXb Formalism and Legal Realism
-
-Was Nanakuli decided from a Formalist / Classical Contract Law perspective or a Legal Realist perspective? What clues does the court give of its Theoretical perspective? How might the outcome have changed had the judge adopted a different Theoretical perspective?
-
-What about Pacific Gas?
-
-## IXc Parol evidence rule
-
-**Betaco, Inc. v. Cessna Aircraft Co.**
-
-- Issue:
-- Why issue matters:
-- Holding:
-- Factual arguments in support of that holding:
-- Factual counterarguments:
-
-Text pp 568-580
-
-UCC § 2-202
-
-RST §§ 209, 210, 214-216
-
-Practice Point: Drafting
-
-What is a “merger” clause?  Why should a lawyer include it when drafting a contract?  Must a lawyer include it?  
-
-# X Breach of Contract
-
-## Xa Constructive conditions and substantial performance
-
-**Jacob & Youngs, Inc. v. Kent**
-
-- Issue:
-- Why issue matters:
-- Holding:
-- Factual arguments in support of that holding:
-- Factual counterarguments:
-
-Text pp 615-627, 653-54
-
-UCC § 2-601
-
-## Xb Theoretical perspective on result in Jacob and Youngs
-
-Do you agree or disagree with the result in Jacob & Youngs?  Can you characterize your opinion about the case in theoretical terms?
-
-# XI Remedies
-
-## XIa Specific performance
-
-**Sokoloff v. Harriman Estates Development Corp.**
-
-- Issue:
-- Why issue matters:
-- Holding:
-- Factual arguments in support of that holding:
-- Factual counterarguments:
-
-**Beverly Glen v. Warner Communications and Anita Baker**
-
-- Issue:
-- Why issue matters:
-- Holding:
-- Factual arguments in support of that holding:
-- Factual counterarguments:
-
-Text pp 675-684
-
-## XIb Gendered context in Lumley rule
-
-## XIc Expectation and reliance damages, non-pecuniary loss, punitive damages
-
-**Sullivan v. O’Connor**
-
-- Issue:
-- Why issue matters:
-- Holding:
-- Factual arguments in support of that holding:
-- Factual counterarguments:
-
-**American Standard v. Schectman**
-
-- Issue:
-- Why issue matters:
-- Holding:
-- Factual arguments in support of that holding:
-- Factual counterarguments: 	
-
-Text pp 684-692, 699-705 (top)
-
-Issue Spotting
-
-Consider what other doctrinal areas outside of Contract law are implicated by the facts of Sullivan.
-
-## XId Limitation on damages
-
-1. Certainty
-
-**Halliburton Co. v. Eastern Cement Corp.**
-
-- Issue:
-- Why issue matters:
-- Holding:
-- Factual arguments in support of that holding:
-- Factual counterarguments:
-
-2. Foreseeability
-
-**Hadley v. Baxendale**
-
-- Issue:
-- Why issue matters:
-- Holding:
-- Factual arguments in support of that holding:
-- Factual counterarguments:
-
-3. Mitigation
-
-**Parker v. Twentieth Century-Fox Film Corp.**
-
-- Issue:
-- Why issue matters:
-- Holding:
-- Factual arguments in support of that holding:
-- Factual counterarguments:
-
-Text pp 711 (just the paragraph under #3), 716-720
-
-RST § 352
-
-Text pp 720-722
-
-RST § 351
-
-Text pp 725-733
-
-RST § 350
-
-Working with Rules: Identifying Rule Structures
-
-Locate the rule for foreseeability in Hadley.  What is the rule structure of that rule? Now read RST § 351.  Describe the similarities and differences between the two rules.  Identify the overall rule structure for foreseeability.
-
-What is the difference between the two kinds of cases described in Hadley (“ordinary” and “special” circumstances cases)? Which kind of case is Hadley?
-
-## XIe Feminist Legal Theory
-
-Consider what role, if any, you think gender played in Parker.
 
 ---
