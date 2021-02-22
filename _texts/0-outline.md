@@ -44,10 +44,11 @@ toc:
 - Neo-Classical economic theory
 - Critical legal theory
 - Alternatives to bargain model
-- Promissory Estoppel
+- The reliance principle
+- Promissory estoppel
 - The promise
 - Reasonable reliance
-- The Restitution principle
+- The restitution principle
 - VI Statute of Frauds
 - VII Defenses Explicit Political Economic Moral Controls
 - VIIa Public policy
@@ -810,7 +811,7 @@ Paula Childress story p 226 (optional reading).
 
 The reliance principle seeks to protect those who reasonably rely on others. Some maintain that it is reasonable to rely on another person in a variety of different circumstances, while others maintain that it is only reasonable to rely on another person if that person has promised to do something or otherwise voluntarily invited the reliance. As a result of this limitation, the reliance principle in current law emphasizes promises, with the belief that promises should be kept and whether obligation should ever be imposed in the absence of a promise. The reliance principle is corrective or restorative; it holds that a person who has been injured should be compensated for that injury (a corrective or restorative claim). In contrast, the bargain principle is distributive; it holds that the existence of a bargain entitles each person to the benefit he or she expected from the claim (a distributive claim).
 
-## Promissory Estoppel
+## Promissory estoppel
 
 Under the doctrine of equitable estoppel, if a person makes a representation about a fact, in a situation in which another person is likely to rely on the truth of that fact (sometimes in the context of litigation and sometimes in other contexts), then first person is barred ("estopped") from denying the truth of the fact as he or she stated it. (45)
 
@@ -864,7 +865,7 @@ How will the rule for promise appear in your outline?
 
 ---
 
-## The Restitution principle
+## The restitution principle
 
 **Cotnam v. Wisdom**
 
