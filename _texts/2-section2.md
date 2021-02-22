@@ -337,22 +337,20 @@ Legal detriment fails. Bargained-for also fails, because maybe the town was part
 
 ## Ricketts v. Scothorn
 
-**Name v. Name** Court, year (kind of court)
+Supreme Court of Nebraska, 77 N.W. 365 (1898)
 
 - Issue:
 - Facts:
-- I. Uncontested facts:
-- II. Appellant NAME’s factual allegations:
-- III. Respondent NAME’s factual allegations:
-- IV. The appellate court’s resolution of the fact:
-- Procedural History:
-- Court’s Reasoning:
-- Rule/Law:
+- **I. Uncontested facts:** J.C. Ricketts died. Andrew D. Ricketts was executor of his will. J.C. Ricketts left a promissory note saying "I promise to pay Katie Scothorn on demand, $2,000, to be at 6 per cent per annum. J.C. Ricketts." Katie Scothorn was J.C. Ricketts's granddaughter.
+- **II. Plaintiff Katie Scothorn’s factual allegations:** Katie Scothorn alleges that J.C. Ricketts promised to pay her the $2,000 at 6% per annum so that she could leave her job as bookkeeper for Mayer Bros and stop working for a living. Scothorn's witness said he saw J.C. Ricketts give note to granddaughter and granddaughter stopped working but later took another job as bookkeeper for Mayer Bros because her grandfather was unable to pay the interest, but told granddaughter that if he could sell a farm he would be able to pay her the interest and she could stop working.
+- **III. Defendant Andrew D. Ricketts’s factual allegations:** Katie Scothorn's allegations are untrue
+- **IV. The court’s resolution of the fact:**
+- **Court’s Reasoning:** The $2,000 at 6% per annum so that Scothorn could leave her job as bookkeeper for Mayer Bros and stop working for a living was a consideration, not a condition of an exchange. The promissory note was a gratuity because J.C. Ricketts wanted nothing in exchange. Ms. Schothorn's abandonment of her position as bookkeeper was voluntary.
+- **Rule/Law:** Ordinarily, a promise to make a gift does not have consideration, but "if expenditures or obligations are incurred on the faith of the gift, the expenditure of money or assumption of liability by the donee on the faith of the promise constitutes a valuable and sufficient consideration." (44) "Equitable estoppel is the effect of the voluntary conduct of a party whereby he is absolutely precluded, both at law and in equity, from asserting rights which might, perhaps, have otherwise existed, either of property, of contract, or of remedy, as against another person who in good faith and who on his part acquires some corresponding right, either of property, of contract, or of remedy.""
 - Application:
-- Policy:
-- Holding:
-- Disposition:
-- Context (why the case was assigned):
+- **Policy:** "This is based on the equitable principle that, after allowing the donee to incur obligations on the faith that the note would be paid, the donor would be estopped from pleading want of consideration."
+- **Holding:**
+- **Disposition:** Judgement in favor of Katie Scothorn affirmed. The money had to be paid in full to Katie Scothorn. *Reliance was a reason to enforce the promise, but it was not a measure of the injury (the injury was more?).*
 
 ---
 

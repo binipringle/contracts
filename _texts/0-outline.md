@@ -827,7 +827,13 @@ What would have been a more persuasive way for the clinic to make the case that 
 
 The reliance principle seeks to protect those who reasonably rely on others. Some maintain that it is reasonable to rely on another person in a variety of different circumstances, while others maintain that it is only reasonable to rely on another person if that person has promised to do something or otherwise voluntarily invited the reliance. As a result of this limitation, the reliance principle in current law emphasizes promises, with the belief that promises should be kept and whether obligation should ever be imposed in the absence of a promise. The reliance principle is corrective or restorative; it holds that a person who has been injured should be compensated for that injury (a corrective or restorative claim). In contrast, the bargain principle is distributive; it holds that the existence of a bargain entitles each person to the benefit he or she expected from the claim (a distributive claim).
 
-A. The Reliance principle: Promissory Estoppel
+## Equitable Estoppel
+
+Under the doctrine of equitable estoppel, if a person makes a representation about a fact, in a situation in which another person is likely to rely on the truth of that fact (sometimes in the context of litigation and sometimes in other contexts), then first person is barred ("estopped") from denying the truth of the fact as he or she stated it. (45)
+
+## Promissory Estoppel
+
+In Ricketts v. Scothorn, Judge Sullivan applied the idea of equitable estoppel to a promise, instead of a statement of fact. So under Ricketts, if a person says, in effect, "I will do this," in a situation in which reliance is reasonable and foreseeable, he or she may later be estopped from saying "I will not do this" or "my promise is not enforceable." Courts may enforce a promise that is not part of an exchange under the doctrine of promissory estoppel, codified in RST § 90(1) which states that "a promise whiich the promisor should reasonably expect to induce action or forbearance on the part of the promisee or a third person and which does induce such action or forbearance is binding if injustice can be avoided only by enforcement of the promise. The remedy granted for the breacch may be limited as justice requires." The focus of promissory estoppel is on the circumstances of trust, so tthe requirement of a promise is shaped by a court's views about the social dimension of trust. Some courts insist that reliance cannot be expected or reasonable unless the promise is "clear and unambiguous." Other courts find that mere "representations" can be sufficient expressions of commitment to induce expected and reasonable reliance.   
 
 **Ricketts v. Scothorn**
 
@@ -836,6 +842,7 @@ A. The Reliance principle: Promissory Estoppel
 - Holding:
 - Factual arguments in support of that holding:
 - Factual counterarguments:
+- Policy: By evoking the estoppel doctrine, Judge Sullivan also evokes the residual judicial power to do "equity" within the body of law called "equity," which is characterized by relatively open claims to justice. (45)
 
 
 ## Va The promise
