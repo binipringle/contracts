@@ -8,8 +8,8 @@ source:
 toc:
 - Kirksey v. Kirksey
 - Charles R Embry v Hargadine McKittrick Dry Goods Company
-- R.L.M. Dist. Co. v. W.A. Taylor, Inc.
-- United Steelworkers of America, Local 1330 v. U.S. Steel
+- R.L.M Dist Co v W.A. Taylor Inc
+- United Steelworkers of America Local 1330 v U.S. Steel
 - John D.R. Leonard v. Pepsico, Inc.
 - Lefkowitz v. Great Minneapolis Surplus
 - Carlill v. Carbolic Smoke Ball Co
@@ -19,10 +19,11 @@ toc:
 - Dickenson v. Dodds
 - Drennan v. Star Paving Co.
 - Hamer v. Sidway
-- U.S. v. Betty Jo Meadors
+- U.S. v Betty Jo Meadors
 - Langer v. Superior Steel Corp.
 - White v. Village of Homewood Fire and Police Commission
 - Lawrence v. Ingham Country Health Dept. Family Planning
+- Ricketts v. Scothorn
 -
 ---
 
@@ -58,7 +59,7 @@ Missouri Court of Appeals 105 S.W. 777 (1907) (pp 59-66)
 
 ---
 
-## R.L.M. Dist. Co. v. W.A. Taylor, Inc.
+## R.L.M Dist Co v W.A. Taylor Inc
 
 723 F. Supp. 421 (D. Ariz. 1988)
 
@@ -68,7 +69,7 @@ Missouri Court of Appeals 105 S.W. 777 (1907) (pp 59-66)
 
 ---
 
-## United Steelworkers of America, Local 1330 v. U.S. Steel
+## United Steelworkers of America Local 1330 v U.S. Steel
 
 USDC for the Northern District of Ohio, 492 F. Supp. 1 (1980)
 
@@ -243,7 +244,7 @@ U.S. Court of Appeals 9th Circuit 763 F.3d 1171 (2014)
 
 ---
 
-## U.S. v. Betty Jo Meadors
+## U.S. v Betty Jo Meadors
 
 **Name v. Name** Court, year (kind of court)
 
