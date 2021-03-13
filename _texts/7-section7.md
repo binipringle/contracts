@@ -50,9 +50,9 @@ Does the transaction involve a contract for the sale of movable goods? Identify:
 
 ## STEP TWO
 
-<p style="margin-left:5%; margin-right:10%;"><b>(1) UCC or Common Law (small IRAC)</b></p>
-<p style="margin-left:5%; margin-right:10%;"><b>(2) Formation (three IRACs)</b> Was there a contact formed (bargain theory via common law or UCC rules?)?</p>
-<p style="margin-left:10%; margin-right:10%;"><b>(1) Offer?</b> (If no offer say, “assuming that the court finds acceptance to be satisfied, we move onto acceptance”)</p>
+<p style="margin-left:5%; margin-right:10%;"><b>1. UCC or Common Law (small IRAC)</b></p>
+<p style="margin-left:5%; margin-right:10%;"><b>2. Formation (three IRACs)</b> Was there a contact formed (bargain theory via common law or UCC rules?)?</p>
+<p style="margin-left:10%; margin-right:10%;"><b>i. Offer?</b> (If no offer say, “assuming that the court finds acceptance to be satisfied, we move onto acceptance”)</p>
 <p style="margin-left:15%; margin-right:10%;"><b>Termination</b> (can go here or in acceptance) (small IRAC)</p>
 <p style="margin-left:15%; margin-right:10%;">Rule: Ways to terminate an offer</p>
 <p style="margin-left:20%; margin-right:10%;">Only offeree can reject</p>
@@ -80,17 +80,15 @@ Does the transaction involve a contract for the sale of movable goods? Identify:
 <p style="margin-left:15%; margin-right:10%;"><b>Part performance of unilateral contract.</b> Any time you start performing on a unilateral contract makes it irrevocable by the offeror (Bodacious Brownie Sundae hypo [slide/video from 2 13 21 skills]). </p>
 <p style="margin-left:20%; margin-right:10%;">Difference between mere preparation and beginning performance; rule for drawing line is (remember Home Depot) - you just have to start performance; you don’t have to substantially perform. If you buy paint at home depot and drive to job, this is mere preparation. If paint two slats, this is beginning performance.</p>
 
-<p style="margin-left:5%; margin-right:10%;"><b>(2) Acceptance? (Or counteroffer?) UCC rules? (If UCC no mirror image rule in acceptance)</b></p>
-<p style="margin-left:5%; margin-right:10%;"><b>(3) Consideration?</b></p>
-
-**If no contract,** lay out all the rules saying what could have happened that would have made it a contract. Do this in IRACs structured in the same way. Then IRAC alternative remedies (the one[s] that could be applied)
-
+<p style="margin-left:5%; margin-right:10%;"><b>ii. Acceptance? (Or counteroffer?) UCC rules? (If UCC no mirror image rule in acceptance)</b></p>
+<p style="margin-left:5%; margin-right:10%;"><b>iii. Consideration?</b></p>
+<p style="margin-left:10%; margin-right:10%;"><b>If no contract,</> lay out all the rules saying what could have happened that would have made it a contract. Do this in IRACs structured in the same way. Then IRAC alternative remedies (the one[s] that could be applied)</p>
 <p style="margin-left:15%; margin-right:10%;"><b>Alternative remedies</b> (can go here or in acceptance) (small IRAC)</p>
 <p style="margin-left:15%; margin-right:10%;">Rule: general rule alternative remedies</p>
 <p style="margin-left:20%; margin-right:10%;"><b>Promissory estoppel</b> IRAC</p>
 <p style="margin-left:20%; margin-right:10%;"><b>Promise for a past benefit</b> IRAC</p>
 <p style="margin-left:20%; margin-right:10%;"><b>Restitution</b> IRAC</p>
 
-<p style="margin-left:5%; margin-right:10%;"><b>If yes consideration</b></p>
+<p style="margin-left:5%; margin-right:10%;"><b>If yes consideration, IRAC consideration.</b></p>
 
 ---
