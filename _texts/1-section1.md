@@ -388,3 +388,5 @@ it's illusoory, however:
 Hypo number 5 modified
 
 Not illusory because "...on one month's notice"
+
+---
