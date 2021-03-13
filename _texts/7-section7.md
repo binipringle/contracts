@@ -81,7 +81,8 @@ Does the transaction involve a contract for the sale of movable goods? Identify:
 
 ---
 
-<p style="margin-left:5%; margin-right:10%;"><b>II. Acceptance? (Or counteroffer?) UCC rules? (If UCC no mirror image rule in acceptance)</b></p>
+<p style="margin-left:5%; margin-right:10%;"><b>II. Acceptance</b></p>
+<p style="margin-left:5%; margin-right:10%;">(Or counteroffer?) UCC rules? (If UCC no mirror image rule in acceptance)</p>
 <p style="margin-left:50%; margin-right:10%;"><b>If YES</b></p>
 <p style="margin-left:50%; margin-right:10%;">1. Issues with TERMS?</p>
 <p style="margin-left:50%; margin-right:10%;">2. Breach</p>
@@ -95,7 +96,7 @@ Does the transaction involve a contract for the sale of movable goods? Identify:
 
 ---
 
-<p style="margin-left:5%; margin-right:10%;"><b>III. Consideration?</b></p>
+<p style="margin-left:5%; margin-right:10%;"><b>III. Consideration</b></p>
 <p style="margin-left:10%; margin-right:10%;"><b>If no contract,</b> lay out all the rules saying what could have happened that would have made it a contract. Do this in IRACs structured in the same way. Then IRAC alternative remedies (the one[s] that could be applied)</p>
 <p style="margin-left:15%; margin-right:10%;"><b>Alternative remedies</b> (can go here or in acceptance) (small IRAC)</p>
 <p style="margin-left:15%; margin-right:10%;">Rule: general rule alternative remedies</p>
