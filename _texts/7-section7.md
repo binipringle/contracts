@@ -79,17 +79,21 @@ Does the transaction involve a contract for the sale of movable goods? Identify:
 <p style="margin-left:15%; margin-right:10%;"><b>Reasonable reliance</b> (Drennan case) - if the offerer reasonably knew or could infer that the offeror would reasonably rely on the offer, it becomes binding.</p>
 <p style="margin-left:15%; margin-right:10%;"><b>Part performance of unilateral contract.</b> Any time you start performing on a unilateral contract makes it irrevocable by the offeror (Bodacious Brownie Sundae hypo [slide/video from 2 13 21 skills]). Difference between mere preparation and beginning performance; rule for drawing line is (remember Home Depot) - you just have to start performance; you don’t have to substantially perform. If you buy paint at home depot and drive to job, this is mere preparation. If paint two slats, this is beginning performance.</p>
 
-<p style="margin-left:5%; margin-right:10%;"><b>II. Acceptance? (Or counteroffer?) UCC rules? (If UCC no mirror image rule in acceptance)</b></p>
-<p style="margin-left:30%; margin-right:10%;"><b>If YES</b></p>
-<p style="margin-left:30%; margin-right:10%;">1. Issues with TERMS?</p>
-<p style="margin-left:30%; margin-right:10%;">2. Breach</p>
-<p style="margin-left:30%; margin-right:10%;">3. DEFENSES to Formation?</p>
-<p style="margin-left:30%; margin-right:10%;">4. Damages</p>
+---
 
-<p style="margin-left:10%; margin-right:10%;"><b>If NO</b></p>
-<p style="margin-left:10%; margin-right:10%;">Alternative theories?</p>
-<p style="margin-left:10%; margin-right:10%;">Reliance</p>
-<p style="margin-left:10%; margin-right:10%;">Restitution</p>
+<p style="margin-left:5%; margin-right:10%;"><b>II. Acceptance? (Or counteroffer?) UCC rules? (If UCC no mirror image rule in acceptance)</b></p>
+<p style="margin-left:50%; margin-right:10%;"><b>If YES</b></p>
+<p style="margin-left:50%; margin-right:10%;">1. Issues with TERMS?</p>
+<p style="margin-left:50%; margin-right:10%;">2. Breach</p>
+<p style="margin-left:50%; margin-right:10%;">3. DEFENSES to Formation?</p>
+<p style="margin-left:50%; margin-right:10%;">4. Damages</p>
+
+<p style="margin-left:30%; margin-right:10%;"><b>If NO</b></p>
+<p style="margin-left:30%; margin-right:10%;">Alternative theories?</p>
+<p style="margin-left:30%; margin-right:10%;">Reliance</p>
+<p style="margin-left:30%; margin-right:10%;">Restitution</p>
+
+---
 
 <p style="margin-left:5%; margin-right:10%;"><b>III. Consideration?</b></p>
 <p style="margin-left:10%; margin-right:10%;"><b>If no contract,</b> lay out all the rules saying what could have happened that would have made it a contract. Do this in IRACs structured in the same way. Then IRAC alternative remedies (the one[s] that could be applied)</p>
