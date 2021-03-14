@@ -787,6 +787,23 @@ Laura didn't paint the painting so as to get Prof Z's return promise of $500 bec
 
 Prof. Z didn't promise the give $500 to Laura so as to get Laura's return promise of painting the painting because Laura had already painted the painting before Prof Z. promised to give Laura $500.
 
+SUB-RULE 1: Courts do not examine **adequacy** of consideration. However, **nominal** consideration is not good consideration. While consideration must be **sufficient**, courts do not look at adequacy.
+
+SUB-RULE 1, LONGER AND MORE COMPLETE: Courts do not examine **adequacy** of consideration. However, **nominal** consideration is not good consideration. While consideration must be **sufficient**, courts do not look at adequacy because their policy is based on neo-classical economic theory, which assumes that parties are acting rationally in their own best interests, and further assumes that the assumption that parties are acting rationally in their own best interests encourages the free flow of commerce. The bargain theory thus permits sellers to charge what the market will "bear" even if it means charging higher prices for goods in poor neighborhoods, charging women more than men, or charging BIPOC more than Whites, assuming that if individuals from these groups agree to pay more for goods this is because they want to, not because they have limited choice and need the goods.  
+
+- Adequate (gross inadequacy however is potentially a way in which the courts might invalidate a contract)
+- Nominal (a pretext; a lie)
+- Sufficient (means that it's bargained for; that both parties are doing the action - making the promises - to get the other thing)
+
+Things that will potentially destroy consideration:
+
+- Mixed motive
+- Past consideration
+- Gift
+- Nominal
+- Pre-existing duty rule (police officer returning a person who was whatever)
+- Illusory promises
+
 GO TO ALTERNATIVE REMEDIES
 
 ## Statute of frauds
