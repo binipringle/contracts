@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: Section Five
+title: Assignment 3
 author:
 editor: Sabina Pringle
 rights:
