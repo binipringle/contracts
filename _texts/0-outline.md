@@ -699,13 +699,17 @@ Usually:
 Beginning of performance is required, not just mere preparation
 But doesn’t need to be substantial performance – can be just the very start of performance
 
+---
+
 # Consideration
 
-Contracts should be enforced when the parties agree to exchange one thing for another based on notions of fairness, reliance, and efficiency. Policy is informed by Neo-classical economic theory "when there is an exchange we assume that the parties are acting freely and reaasonably" this is capitalism. Free market economy. The doctrine of consideration is the reason for enforcing promises. Courts don't look at value of exchange. But they do look at motivation of exchange. A fundamental principle in contract law, coming from  of Neo-classical economic theory, is that courts don't like to intervene in the fairness of the deal. Courts assume that both parties are acting rationally and agree on the price.
+Under the bargain theory contracts should be enforced when the parties agree to exchange one thing for another based on notions of fairness, reliance, and efficiency. The doctrine of consideration centers on the reason for enforcing promises. Courts don't look at the value of an exchange. Instead, they look at the motivation for the exchange. A fundamental principle in contract law, coming from  of Neo-classical economic theory, is that courts don't like to intervene in the fairness of the deal. Courts assume that both parties are acting rationally and agree on the price. Policy is informed by Neo-classical economic theory "when there is an exchange we assume that the parties are acting freely and reasonably."
 
-In the 16th century contracts were enforced when the court could find any motive for entering into a contract. There were reasons. Every time there was an understandable motive for entering into the contract, the contract should be enforced. In the late 1800s and early 1900s consideration doctrine really shifted to look for the inducement. Courts were looking at the benefits and detriments of the contract for the parties. In the benefit-detriment test, both parties have to receive a benefit and incur a detriment. Now it has shifted back to motive. but very specific motive. I sell you a car for money. My motive has to be getting the return promise - the money. Your motive has to be getting the car. Now courts are looking at whether my motive is to be getting the car.
+In the 16th century contracts were enforced when the court could find any motive for entering into a contract. Every time there was an understandable motive for entering into the contract, the contract should be enforced. In the late 1800s and early 1900s consideration doctrine shifted to look for the inducement. Courts were looking at the benefits and detriments of the contract for the parties. In the benefit-detriment test, both parties have to receive a benefit and incur a detriment. Now it has shifted back to motive, but to the very specific motive of getting the return promise. For example, if I sell you a car for money, my motive (or my consideration) has to be getting the money. Your motive has to be getting the car.
 
-Both parties must promise to do something (or do something) they have a legal right not to do, or promise to refrain from doing something (or refrain from doing something) they have a legal right to do.
+**RULE:** Both parties must promise to do something (or do something) they have a legal right not to do, or promise to refrain from doing something (or refrain from doing something) they have a legal right to do.
+
+Consideration is the standard analysis for both common law and UCC.
 
 **Breakdown:**
 
@@ -714,6 +718,76 @@ Both parties must promise to do something (or do something) they have a legal ri
 - Legal Detriment
 
 (two-step analysis: 1st party has to be making their promise so as to get the return promise; 2nd party has to be making their promise so as to get the return promise)
+
+## Consideration steps of analysis
+
+Two elements:
+
+1. Legal detriment (IRAC)
+2. Bargained-for (IRAC)
+
+NOW WE ARE CALLING OFFEROR AND OFFEREE PROMISSOR AND PROMISSEE!
+
+---
+
+### 1. Legal Detriment
+
+I: The first sub-issue is whether there was legal detriment.
+
+R: For there to be legal detriment, both parties must promise to do something (or do something) they have a legal right not to do, or promise to refrain from doing something (or refrain from doing something) they have a legal right to do.
+
+Sub-Rule 1: Legal detriment can take several forms [only write the sub-rule I am going to apply]:
+
+- A promise to do something you have a legal right not to do.
+- Presently doing something you have a legal right not to do [this would be in a unilateral contract situation - make sure analyzed unilateral in acceptance].
+- Promising to forbear from doing something you have a legal right to do.
+- Forbearing from something you have a legal right to do.
+- Abandoning a legal right
+- Limiting freedom of action in future (e.g., renouncing the right to sue, entering into covenants)
+- Promise to a third party is included
+
+Sub-rule 2: Both parties must incur a legal detriment.
+
+[Analyze legal detriment from both sides!!!!!]
+
+**Landmark case for legal detriment:** *Hamer v. Sidway*   
+
+*Hamer v. Sidway* is no longer good law in part 2 because they use the benefit-detriment test (now we use the bargained-for test), but it is excellent law in part 1 (legal detriment).
+
+In *Hamer v. Sidway,* there was legal detriment to Nephew because he promised not to drink or smoke until he turned 21, which Nephew had a legal right to do. [facts make this a promise to forbear from sub-rule 1] In *Hamer v. Sidway,* there was legal detriment to Uncle because he promised to give Nephew $5,000 if he not drink or smoke until age 21, which Uncle had a legal right not to do. In this analysis, both parties are promisors and promisees.
+
+### 2. Bargained-For
+
+I can think of bargained-for as having two very small IRACs
+
+RST Section 71
+
+Must be bargained for:
+
+- sought by the promisor in exchange for her promise; and
+- given by the promisee in exchange for that promise
+- both parties must be making their promise so as to get the return promise
+
+1. Party A has to be making their promise so as to get Party B's return promise.
+2. Party B also has to be making their promise so as to get Party A's return promise.  
+
+1. [Party A] made/didn't make their promise [to do something] so as to get [Party B's] return promise of [doing something].
+2. [Party B] made/didn't make their promise [to do something] so as to get [Party A's] return promise of [doing something].
+
+**Or, if unilateral:**
+
+1. [Party A] made/didn't make their promise [to do something or to do their performance] so as to get [Party B's] return promise of [doing something or performance of something] [because [facts]].
+2. [Party B] made/didn't make their promise [to do something or to do their performance] so as to get [Party A's] return promise of [doing something or performance of something] [because [facts]].
+
+If consideration fails the contract is not enforceable.
+
+**Example hypo from skills**
+
+Laura didn't paint the painting so as to get Prof Z's return promise of $500 because Laura gave Prof. Z the painting before Prof. Z. promised to give Laura $500.
+
+Prof. Z didn't promise the give $500 to Laura so as to get Laura's return promise of painting the painting because Laura had already painted the painting before Prof Z. promised to give Laura $500.
+
+GO TO ALTERNATIVE REMEDIES
 
 ## Statute of frauds
 
