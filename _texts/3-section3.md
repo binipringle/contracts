@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: Assignment 1
+title: Assignment 1 Pearl Mountain
 author:
 editor: Sabina Pringle
 rights:

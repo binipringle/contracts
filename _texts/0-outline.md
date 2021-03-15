@@ -37,15 +37,15 @@ toc:
 - End User License Agreements (EULAs)
 - Revocation prior to acceptance
 - Consideration
-- Statute of frauds
-- B. Reliance theory
-- C. Restitution theory
-- Legal detriment and bargained-for
+- Reliance principle
+- Reliance theory
+- Promissory estoppel
+- Rule for Recovery Under Reliance Theory
+= Strict view and flexible approach
+- Restitution theory
 - Neo-Classical economic theory
 - Critical legal theory
 - Alternatives to bargain model
-- The reliance principle
-- Promissory estoppel
 - The promise
 - Reasonable reliance
 - The restitution principle
@@ -748,15 +748,15 @@ Sub-Rule 1: Legal detriment can take several forms [only write the sub-rule I am
 - Limiting freedom of action in future (e.g., renouncing the right to sue, entering into covenants)
 - Promise to a third party is included
 
-Sub-rule 2: Both parties must incur a legal detriment.
-
-[Analyze legal detriment from both sides!!!!!]
+Sub-rule 2: Both parties must incur a legal detriment.[Analyze legal detriment from both sides!!!!!]
 
 **Landmark case for legal detriment:** *Hamer v. Sidway*   
 
 *Hamer v. Sidway* is no longer good law in part 2 because they use the benefit-detriment test (now we use the bargained-for test), but it is excellent law in part 1 (legal detriment).
 
 In *Hamer v. Sidway,* there was legal detriment to Nephew because he promised not to drink or smoke until he turned 21, which Nephew had a legal right to do. [facts make this a promise to forbear from sub-rule 1] In *Hamer v. Sidway,* there was legal detriment to Uncle because he promised to give Nephew $5,000 if he not drink or smoke until age 21, which Uncle had a legal right not to do. In this analysis, both parties are promisors and promisees.
+
+**U.S. v. Betty Jo Meadors** 	
 
 ### 2. Bargained-For
 
@@ -806,21 +806,115 @@ Things that will potentially destroy consideration:
 - Pre-existing duty rule (police officer returning a person who was whatever)
 - Illusory promises
 
-GO TO ALTERNATIVE REMEDIES
+Legal detriment can take several forms. Legal detriment is not satisfied where there is a **pre-existing duty.** A promise to do something one is already obligated to do is not valid consideration because there is no legal detriment because the promisor does not have a legal right not to do it. Pre-existing duty can arise from law. In *Angela White v. Homewood,* the town not promising to administer the physical fitness test did not satisfy legal detriment because the town did not have a legal right not to administer the test. White’s alleged consideration was to take the test; she promised to sign an exculpatory agreement so that she could take the test. The Village promised to allow her to take the test but already had a legal obligation to allow her to take the test, so there is no legal detriment. Therefore, White’s signing of the exculpatory agreement was a gift, and legal detriment fails. Bargained-for also fails, because maybe the town was partly motivated by getting White to sign the agreement, but this doesn’t matter because legal detriment failed. Legal detriment always fails in pre-existing duty.
 
-## Statute of frauds
+Legal detriment can take several forms. Legal detriment is not satisfied where there is an **illusory promise**, by which performance is entirely optional. An illusory promise is a promise in form but not in substance. For example, phrases like “I promise to sell you my car unless I decide not to,” “I promise to buy as many bushels of wheat from you as I want,” “I reserve the power to terminate the agreement at any time,” “I will if I want to.” Anything you can imagine that would remove the obligation of the promisor is an illusory promise.  Rules of thumb: “Want” is different from “need” If performance is entirely within one party’s control, it might be illusory, but court will impose obligation of best efforts such as “I promise to use my best efforts to try to get a lease on the property.”
 
-# B. Reliance theory
+**Restatement §77:** A promise or apparent promise is NOT consideration if by its terms the promisor or purported promisor reserves a choice of alternative performances [retaining right to end “promise” at any time without notice hypo].
 
-The reliance theory involves promises to give gifts, and seeks to protect those who reasonably rely on others. *See the bargain principle for longer rule*
+IF NO CONSIDERATION, GO TO ALTERNATIVE REMEDIES
 
-**Hypo:** Uncle promises to pay nephew $5000 if he quits drinking and smoking until he turns 21; nephew quits; turns 21; $5000 not paid; nephew sues. Does he have a claim under the bargain principle? (Was the promise part of an exchange or a promise to give a gift?) (illustrates the blurred line between exchange and gift)   
+---
+
+**Langer v. Superior Steel Corp.**
+
+- The court held that Langer’s act of refraining from seeking competitive employment constitutes sufficient consideration for an enforceable contract with Superior. Sufficient consideration for an enforceable contract exists when one party agrees to do something or refrains from doing anything that he has a right to do, regardless of whether doing so causes any actual detriment to him or confers any actual benefit upon the other party. [employer awarded $100 pension upon retirement with condition to refrain from competitive employment].
+
+**White v. Village of Homewood (Fire and Police Commission)**  
+
+- The court held that a pre-existing legal duty is not sufficient consideration for a binding contract. Exculpatory contracts/releases are generally enforceable if supported by actual consideration. Consideration cannot consist of an obligation that a party is already legally required to perform and in the present case, the village was legally obligated to administer the test that plaintiff took and sustained injuries from.
+
+---
+
+# The reliance principle
+
+The reliance principle seeks to protect those who reasonably rely on others. Some maintain that it is reasonable to rely on another person in a variety of different circumstances, while others maintain that it is only reasonable to rely on another person if that person has promised to do something or otherwise voluntarily invited the reliance. As a result of this limitation, the reliance principle in current law emphasizes promises, with the belief that promises should be kept and whether obligation should ever be imposed in the absence of a promise. The reliance principle is corrective or restorative; it holds that a person who has been injured should be compensated for that injury (a corrective or restorative claim). In contrast, the bargain principle is distributive; it holds that the existence of a bargain entitles each person to the benefit he or she expected from the claim (a distributive claim).
+
+---
+
+# Reliance theory
+
+The reliance theory involves promises to give gifts, and seeks to protect those who reasonably rely on others. *See the reliance principle for longer rule and below for other rule*
+
+Reliance Theory is an alternative ground for recovery when there’s no exchange or no consideration.  Remember that the idea underlying the bargain theory and the doctrine of consideration is based on exchange and the marketplace. In contracts law, the question of whether a promise to give a gift should ever be enforceable is controversial. If we say yes, we’re risking undermining the basis of the bargain theory. One’s view of the bargain theory is really one’s view of consideration; if your view is that consideration is very important, you’re not going to think much of reliance theory. However, if you think that consideration is not always a valid basis for enforcing promises because sometimes although there is no consideration, people might rely on a promise and that’s valuable.  
+
+The family context is very private so that’s a place the court might not intervene – but there’s a whole school of thought that says that promises even in the family sphere and in the private sphere have value and should be enforced.  
+
+Reliance Theory based on:
+
+1. A person who is injured ought to be compensated for that injury (in some cases)
+2. One who causes harm ought to be accountable for it
+
+Assumptions
+
+- People do rely on each other
+- Such reliance is morally and politically valuable
+- Reliance theory doesn’t protect promises – it protects reliance. – (not all promises are enforceable; the rules are not protecting promises; however, once the other party reasonably relies on the promise, you can’t take it back)
+
+### Rule for Recovery Under Reliance Theory
+
+(Promissory estoppel) (§ 90)** (these are Zalesne’s elements - Elements (section 90 is not worded in this way).
+
+1. PROMISE (objective test) – rule is objective test; would a reasonable person think they were making a promise
+2. RELIANCE - on the promise (change of position) – change of position because of the promise – I wasn’t going to go to college but you made a promise so based on promise I’m going to go. –
+3. REASONABLE - Reliance must be REASONABLE (context/factors) - Factors – context – who parties are -
+4. HARM - Reliance must have caused HARM (beyond not getting the thing promised) – harm can’t be I promise to give you 5000 dollars and then you feel harmed when you don’t have 5000 dollars. But if you can show that because of the reliance you were harmed. Say I promise you 5000 dollars and you go buy a car – must show that you’re worse off than you were before the promise.
+
+---
+
+## Promissory estoppel
+
+Under the doctrine of equitable estoppel, if a person makes a representation about a fact, in a situation in which another person is likely to rely on the truth of that fact (sometimes in the context of litigation and sometimes in other contexts), then the first person is barred ("estopped") from denying the truth of the fact as he or she stated it. (45)
+
+Courts may enforce a promise that is not part of an exchange under the doctrine of promissory estoppel, codified in RST § 90(1) which states that "a promise which the promisor should reasonably expect to induce action or forbearance on the part of the promisee or a third person and which does induce such action or forbearance is binding if injustice can be avoided only by enforcement of the promise. The remedy granted for the breach may be limited as justice requires." A promise is defined as "a manifestation of intention to act or refrain from acting in a specified way, so made as to justify a promisee in understanding that a commitment has been made." RST § 2(1). The focus of promissory estoppel is on the circumstances of trust, so the requirement of a promise is shaped by a court's views about the social dimension of trust. Some courts insist that reliance cannot be expected or reasonable unless the promise is "clear and unambiguous." Other courts find that mere "representations" can be sufficient expressions of commitment to induce expected and reasonable reliance.   
+
+## Flexible approach and strict view
+
+**Flexible approach**
+
+- Promise triggering reliance doesn’t have to be as comprehensive as an offer.
+- Parties don’t always expressly state things, but reasonable people might still rely.
+- The contract model is inadequate to evaluate trust in situations of power inequity / dependency
+
+**Strict Approach** (fear that the reliance theory will take over the bargain theory)
+
+- Promise must be as definite, comprehensive, and unequivocal as an offer.
+- If there’s no offer, then there’s no promise.
+- As Promissory estoppel is an alternative theory, we don’t want to allow it to completely negate the requirement of consideration.
+
+To really understand promissory estoppel, you have to look at the interplay between the bargain theory and reliance theory. We saw a real limitation to the bargain theory in Childess, where ... *State Bank of Standish v. Curry* is the perfect example of the power dynamics between the bank and the family farm. There is a huge imbalance where the Bank says “we’ll take care of you” and the farmers have to trust. A flexible court sees the value of trust – the importance of trust when there is a power imbalance – and that is the approach the court took in Standish.  
+
+Flexible Approach is most commonly seen in cases of deals-that-never-happen. In these cases, each side pays its own reliance costs. The court has to make sure reliance is reasonable when there is reliance despite the lack of a deal (when a deal is anticipated). The court looks at the words, and the relations of the parties. Lender-borrower; banker-farmer: dependency, trust, stronger party, weaker party. In Standish, the bank should really expect that the Currys would think that the bank was making a promise where in direct response to the Stanfords’ questions the bank said “don’t worry, we will support you;” this is similar to Embry, where Embry asked whether he still had a job and McKittrich said, “don’t worry, get your men out.” In Standish the bank similarly didn’t use direct words of promise but spoke in direct response to the Currys' question, and in the context of a year after year relationship where they always rolled over from year to year so the terms were generally understood.
+
+## Steps of analysis reliance theory
+
+Four elements – argue from one perspective, argue from another, and then the more complicated is the approach – flexible or strict.
+
+---
+
+### Cases
+
+**Ricketts v. Scothorn**
+
+In Ricketts v. Scothorn, Judge Sullivan applied the idea of equitable estoppel to a promise, instead of a statement of fact. So under Ricketts, if a person says, in effect, "I will do this," in a situation in which reliance is reasonable and foreseeable, he or she may later be estopped from saying "I will not do this" or "my promise is not enforceable."
+
+Facts and finding: In Ricketts, a grandfather promised granddaughter he’d pay her $2000 + 6% interest, The granddaughter quit her job and didn’t work for a year. A year later she got another job. The Grandfather passed away and had only paid one year’s interest on the note. The court found that the bargain principle does not apply and that there was no contract because there was no quid pro quo.  “Mr. Ricketts made no condition, requirement … nothing in return”
+
+Policy: By evoking the estoppel doctrine, Judge Sullivan also evokes the residual judicial power to do "equity" within the body of law called "equity," which is characterized by relatively open claims to justice. (45)
 
 **Kirksey v. Kirksey** (Supreme Court of Alabama 1845) *also in restitution theory!*
 
 In Kirksey v. Kirksey, the court ruled that there was no enforceable promise where the plaintiff's brother-in-law promised plaintiff that if she would "come down and see [him], [he would] let [her] have a place to raise [her] family." The court reasoned that because the promise was a gift and not an exchange where the plaintiff did not agree to do anything in exchange for living on defendant's farm, which made the promise a gift. The plaintiff argued that there was exchange because she worked on the defendant's farm, which enriched the defendant. Under the reliance theory the promise would have been binding because she relied on the defendant's promise.
 
-# C. Restitution theory
+**State Bank of Standish v. Curry**
+
+- In *State Bank of Standish v. Curry*, the Currys been borrowing from the bank for ten years. 1983 to 1993. Had outstanding balance of $167,000. Government started buy out program. This would have allowed them to pay their debts if they won the bids. They asked bank if the bank would continue to give them yearly loan. Bank said: “the Currys were doing a great job and had made all their payments and that there was no reason to worry about their future in the dairy business because the bank would support them.” (244) The Bank sues for money owed and Currys sue for promissory estoppel.
+- The Currys didn’t bring their case as bargain theory because there was really no offer. The bank’s language was too vague; there were no specific terms. There was only a promise to make an offer in the future. It’s different from I promise to give you a loan for this much if you promise to pay me interest.
+- So court says is there is no offer, but there might be a promise. – some courts will use it in a very narrow way. Two views.
+
+---
+
+# Restitution theory
 
 **Kirksey v. Kirksey** (Supreme Court of Alabama 1845) *also in reliance theory!*
 
@@ -828,35 +922,57 @@ In Kirksey v. Kirksey, the court ruled that there was no enforceable promise whe
 
 **Fluffy white dog hypo:** Assume that one day when you were walking, you found a little white dog lying under a tree. The dog appeared ill so you took it home and gave it some water and food. The next day, you decided to take the dog to the vet. The vet examined the dog and told you the dog had pneumonia and it will cost over $500 to treat the dog. You approved treatment and spent your entire savings to pay for the vet bill. The next week, you see a sign that someone has lost a white dog. You take the dog back to its owner and mention the expenses you have incurred in caring for the pet. It turns out that the dog is registered and is a valuable show dog with all kinds of medals.
 
-- **Answer/rule:** Under the restitution theory, tthe owner would have to repay me for the out-of-pocket costs I incurred because when somebody confers a benefit on someone else's dog is there an obligation to compensate because the dog owner was unjustly enriched.
+- **Answer/rule:** Under the restitution theory, the owner would have to repay me for the out-of-pocket costs I incurred because when somebody confers a benefit on someone else's dog there is an obligation to compensate because the dog owner was unjustly enriched.
 
-## IVa Legal detriment and bargained-for
+---
 
-**Hamer v. Sidway**
+# Statute of Frauds
 
-- Issue:
-- Why issue matters:
-- Holding:
-- Factual arguments in support of that holding:
-- Factual counterarguments:
+Writing need not be formal, but must contain:
 
-**U.S. v. Betty Jo Meadors** 	
+If I’m suing you, you have to have signed it. I obviously believe a contract exists because I’m suing you. The question is whether a contract exists. Your signature can be a signature in a very loose context, such as an x, a letterhead, an email, whatever.
 
-- Issue:
-- Why issue matters:
-- Holding:
-- Factual arguments in support of that holding:
-- Factual counterarguments:
+The statute of frauds goes back to 16th century England perjury - it aims to stop people from bringing false claims. If words are in writing, you can still commit forgery, but it’s harder to do than perjury. In England, people could not testify on their own behalf. They would get other people to go on the stand, so there was perjury, and the statute of frauds was designed to prevent it. Now people can go on the stand and testify on their own behalf, so in England they felt they didn’t need the statute of frauds and got rid of it. We still have the statute of frauds in the U.S. (with UCC article 2 the statute of frauds in amendments kept being taken out and then being put back in).
 
-Text pp 185-205 (top)
+The purpose of the statute of frauds is to put things in writing. Also, it’s supposed to prevent compulsive purchases, such as real estate, to encourage people to think before making a really big purchase. The following fall within the statute of frauds (Prof. Zalesne not going to talk about 1 and 3)
 
-Read the text of RST § 71 and all the comments and illustrations carefully.
+2. Ks of suretyship (surety is a person liable for the duty of another person. Both principle and surety are liable to a third person [principal is the original debtor; creditor is the person to whom debt is owned; surety is the promise to pay creditor). A surety contract doesn’t have to be in writing except when there is no consideration. The time that it needs to be in writing is when you agree to guarantee someone. You have to put it in writing because it’s a bit thing to guarantee someone else.
+4. K for the sale of land and/or real estate (real property house and land)
+6. K for the sale of goods for more than $500 (in the UCC this is the rule and then there are a bunch of exceptions)
+5. K for the sale of goods that can’t be performed in one year from the making of the contract (if a promise of either party cannot be performed within one year, the contract has to be in writing. Courts hate this one and if there’s any way to perform this that does not require writing courts will use that.  
 
-## IVb Neo-Classical economic theory
+**Hypos**
 
-It is said that courts won’t look at the adequacy or fairness of the consideration. Should sellers be permitted to charge what the market will bear in all cases?  What if that means charging higher prices for goods in poor neighborhoods?  What if it means charging women more than men or BIPOC consumers more than white consumers? Should it matter if members of those groups agree to pay more?
+1.	Ten month employment K. Does it need to be in writing? It depends because we don’t know when the contract was signed. If the employment is going to start in September, then its a ten month contract starting in September and if its signed today then the contract is for more than 12 months. It only depends because we didn’t get enough information about when the contract will start; not because things can happen in the future.
+2.	K to be performed at a the death of a person. No, doesn’t have to be in writing because a contract that is indefinite in terms does not have to be in writing. (If you want it to be required to be in writing you can make it two years)
+3.	A promises to work for B for the rest of A’s life (or the rest of B’s life). Does it need to be in writing? This hypo is identical to the last one. It does not have to be in writing because there is the possibly that a person will die within a year.
+4.	Comfort Arms promises to care for Betty for 18 months. Does it need to be in writing? Yes. If Betty passes away before 18 months, contract still exists; performance can be excused, but this does need to be in writing because it can’t be performed in less than a year.
+5.	K to build a full-scale replica of empire state building. Does it need to be in writing? No because if a zillion people build it it could be done in less than a year.
+6.	K for permanent employment - Does it need to be in writing? if it means until you’re 65 yes you need writing if more vague no
+7.	Two year K to sell all the grain you shall need for $100/barrel. Does it need to be in writing? The two-year rule does not apply because it’s the sale of goods. No, because it’s sale of goods and the grain may be sold for less than $500 (person might need fewer than 5 barrels) - there’s no guarantee that I will need at least 5 barrels of grain so no, it probably doesn’t have to be in writing. Because it’s about the sale of goods, the UCC applies. None of the other rules apply. However, some courts might say that based on history, you will need more than 5 barrels so yes, writing is required.
+8.	Eight-month K subject to renewal. Does it need to be in writing? No, because at the time of entering contract as the hypo stands, it is less than a year. Other relevant conditions are unknown and could change the facts and analysis.
 
-B.    Applications of the Consideration Doctrine: Gift with a Condition, Nominal Consideration, the Pre-Existing Duty Rule, and Illusory Promises
+**EXCEPTION**
+
+Party is estopped from asserting the SOF if full performance (some courts only require partial)
+
+**Hypo: relationship to promissory estoppel**
+
+- P (landlord) and D (tenant) enter into a K
+- 2 year lease
+- P promises to make renovations first - necessary before D will sign contract
+- P makes renovations
+- D never moved in and refuses to pay
+- No writing. P sues
+- What result under bargain theory?
+- What result under restitution theory?
+- What result under reliance theory?
+- The first question is is there an enforceable contract
+- The first sub-question is is a writing required? Yes
+- Can landlord sue under restitution theory? The landlord can’t sue under restitution because was fixing own property; tenant never moved in so landlord never conferred a benefit on tenant.
+What result under reliance theory? The landlord is saying that the tenant promised to live in the apartment and pay rent. Tenant says doesn’t apply because not in writing. That would have worked under bargain theory. The question under reliance theory is landlord saying you promised to live here, I relied on it. I made the renovations. I’m harmed. (Maybe not harmed). Here landlord could say I made the renovations in reliance on your promise. In a strict court you would lose anyway. You didn’t put it in writing. A flexible court would say that the bargain theory failed because the tenant promised that if landlord did renovations, they would sign contract, so the landlord had to do renovations.
+
+---
 
 **Langer v. Superior Steel Corp.**
 
@@ -898,30 +1014,6 @@ Paula Childress story p 226 (optional reading).
 
 ---
 
-# Alternatives to bargain model
-
-## The reliance principle
-
-The reliance principle seeks to protect those who reasonably rely on others. Some maintain that it is reasonable to rely on another person in a variety of different circumstances, while others maintain that it is only reasonable to rely on another person if that person has promised to do something or otherwise voluntarily invited the reliance. As a result of this limitation, the reliance principle in current law emphasizes promises, with the belief that promises should be kept and whether obligation should ever be imposed in the absence of a promise. The reliance principle is corrective or restorative; it holds that a person who has been injured should be compensated for that injury (a corrective or restorative claim). In contrast, the bargain principle is distributive; it holds that the existence of a bargain entitles each person to the benefit he or she expected from the claim (a distributive claim).
-
-## Promissory estoppel
-
-Under the doctrine of equitable estoppel, if a person makes a representation about a fact, in a situation in which another person is likely to rely on the truth of that fact (sometimes in the context of litigation and sometimes in other contexts), then first person is barred ("estopped") from denying the truth of the fact as he or she stated it. (45)
-
-In Ricketts v. Scothorn, Judge Sullivan applied the idea of equitable estoppel to a promise, instead of a statement of fact. So under Ricketts, if a person says, in effect, "I will do this," in a situation in which reliance is reasonable and foreseeable, he or she may later be estopped from saying "I will not do this" or "my promise is not enforceable."
-
-Courts may enforce a promise that is not part of an exchange under the doctrine of promissory estoppel, codified in RST § 90(1) which states that "A promise which the promisor should reasonably expect to induce action or forbearance on the part of the promisee or a third person and which does induce such action or forbearance is binding if injustice can be avoided only by enforcement of the promise. The remedy granted for the breacch may be limited as justice requires." A promise is "a manifestation of intention to act or refrain from acting in a specified way, so made as to justify a promisee in understanding that a commitment has been made." RST § 2(1). The focus of promissory estoppel is on the circumstances of trust, so tthe requirement of a promise is shaped by a court's views about the social dimension of trust. Some courts insist that reliance cannot be expected or reasonable unless the promise is "clear and unambiguous." Other courts find that mere "representations" can be sufficient expressions of commitment to induce expected and reasonable reliance.   
-
-**Ricketts v. Scothorn**
-
-- Issue:
-- Why issue matters:
-- Holding:
-- Factual arguments in support of that holding:
-- Factual counterarguments:
-- Policy: By evoking the estoppel doctrine, Judge Sullivan also evokes the residual judicial power to do "equity" within the body of law called "equity," which is characterized by relatively open claims to justice. (45)
-
-
 ## The promise
 
 **State Bank of Standish v. Curry**
@@ -941,20 +1033,6 @@ Courts may enforce a promise that is not part of an exchange under the doctrine 
 - Holding:
 - Factual arguments in support of that holding:
 - Factual counterarguments:
-
-Text pp 40-46
-
-RST § 90
-
-RST § 2
-
-Text pp 241-261
-
-Text pp 277-281
-
-Working with Rules and Outlining
-
-How will the rule for promise appear in your outline?
 
 ---
 

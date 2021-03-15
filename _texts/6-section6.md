@@ -9,6 +9,22 @@ toc:
 
 ---
 
+Prof Zalesne thought it might be fun to do a little challenge for extra credit.
+
+Six possible arguments that the court could have used saying that there is no consideration
+
+If I can come up with at least three arguments similar to hers
+
+Guidelines: there are no guidelines. No deadline. Does not have to be IRAC – write out just enough to explain what the sixth thing
+
+1.	No consideration because
+2.	no legal detriment because
+3.	no bargain because
+
+not all are super strong arguments
+
+---
+
 ## January 20, 2021
 
 What promises should the law enforce? (problem posted on TWEN)
