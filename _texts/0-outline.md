@@ -39,9 +39,10 @@ toc:
 - Consideration
 - Reliance principle
 - Reliance theory
-- Promissory estoppel
 - Rule for Recovery Under Reliance Theory
-= Strict view and flexible approach
+- Promissory estoppel
+- Strict view and flexible approach
+- Steps of analysis reliance theory
 - Restitution theory
 - Neo-Classical economic theory
 - Critical legal theory
@@ -826,7 +827,7 @@ IF NO CONSIDERATION, GO TO ALTERNATIVE REMEDIES
 
 ---
 
-# The reliance principle
+# Reliance principle
 
 The reliance principle seeks to protect those who reasonably rely on others. Some maintain that it is reasonable to rely on another person in a variety of different circumstances, while others maintain that it is only reasonable to rely on another person if that person has promised to do something or otherwise voluntarily invited the reliance. As a result of this limitation, the reliance principle in current law emphasizes promises, with the belief that promises should be kept and whether obligation should ever be imposed in the absence of a promise. The reliance principle is corrective or restorative; it holds that a person who has been injured should be compensated for that injury (a corrective or restorative claim). In contrast, the bargain principle is distributive; it holds that the existence of a bargain entitles each person to the benefit he or she expected from the claim (a distributive claim).
 
