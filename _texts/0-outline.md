@@ -5,22 +5,21 @@ author:
 editor: Sabina Pringle
 source: Law in the Market Economy (Contracts) - doctrinal course CUNY School of Law, Professor Zalesne, Spring 2021
 toc:
-- I. Intro to Contract Law
-- A. Sources of law
-- B. Bargain principle
-- C. Theoretical perspectives
-- II. Objective theory of contract interpretation
-- A. Objective theory approach
-- B. Varieties
+- Sources of law
+- Bargain principle
+- Theoretical perspectives
+- Objective theory of contract interpretation
+- Objective theory approach
+- Varieties
 - Universal RP test
 - Positioned RP test
 - Factors for positioned RP test
 - Socially situated RP analysis
 - Problems with RP standard
 - Using the objective test
-- B. Subjective theory of interpretation
-- III. Theories of Relief
-- A. Bargain theory
+- Subjective theory of interpretation
+- Theories of Relief
+- Bargain theory
 - Contract Formation Elements
 - Assent
 - Offer
@@ -51,9 +50,9 @@ toc:
 
 [Glossary](https://binipringle.github.io/contracts/texts/glossary/)
 
-# I. Intro to Contract Law
+---
 
-## A. Sources of law
+## Sources of law
 
 - **Common law** determines what constitutes a contract (RST restates common law)
 - **Legislation**
@@ -63,11 +62,11 @@ toc:
 - **Commentary**
 - **Law reviews, treatises, etc.**
 
-## B. Bargain principle
+## Bargain principle
 
 The bargain principle includes the central belief that an agreement to exchange one thing for another gives rise to mutual obligations. The motto "a deal is a deal" is a core tenet of the bargain principle. There is disagreement as to whether a deal is really a deal if it is made under conditions of coercion, duress, or inequality of power and resources. Rationales that justify the bargain principle include the belief that when two parties enter into a deal both sides are committed, one or both parties will count on the deal and rely on the deal to make a living, commercial exchange is crucial to a capitalist economy, deals are crucial to a free market system, and a free market system is essential to individual freedom.      
 
-## C. Theoretical perspectives
+## Theoretical perspectives
 
 **Neo-Classical Economics:** Economic theory most closely associated with bargain theory. "A deal's a deal." Values efficiency and profit-making. Assumptions:[^1]
 
@@ -87,13 +86,11 @@ The bargain principle includes the central belief that an agreement to exchange 
 
 ---
 
-# II. Objective theory of contract interpretation
+# Objective theory of contract interpretation
 
-## A. Objective theory approach
+## Objective theory approach
 
 The "objective theory" of interpretation provides that words and conduct should be interpreted as a “reasonable person” would interpret them. The “objective theory” assumes that a standard of shared meaning already exists or that one ought to exist. This assumption is controversial. However, for lack of a better system, courts generally use the objective standard to determine the meaning of words, conduct and circumstances from the perspective of a reasonable person. The reasonable person standard is used to determine (1) whether there was an offer, and (2) whether there was acceptance.
-
-## Terms can be implied
 
 **R.L.M. Dist. Co. v. W.A. Taylor, Inc.** 723 F. Supp. 421 (D. Ariz. 1988)
 
@@ -103,7 +100,7 @@ In RLM Dist. Co. v. W.A. Taylor, Inc., the court found found that custom and pra
 
 - **Note:** The very fact that you are using the objective test means that there was no express intent - there was no explicit "I promise to sell you my car."
 
-## B. Varieties
+## Varieties
 
 ## Universal RP test
 
@@ -128,8 +125,6 @@ In RLM Dist. Co. v. W.A. Taylor, Inc., the court found found that custom and pra
 - Etc.
 
 What was said? And what would that lead a reasonable person to believe? Use factors.
-
-## Cases
 
 **Charles R Embry v Hargadine McKittrick Dry Goods Company** Missouri Court of Appeals 105 S.W. 777 (1907)
 
@@ -170,7 +165,7 @@ The critique of the reasonable person test, whichever way you look at it, is the
 Questions to ask: How did the court determine what a reasonable person would have thought? What facts did the court rely on? What facts support a counterargument that a reasonable person would have thought in a way?
 
 
-## B. Subjective theory of interpretation
+## Subjective theory of interpretation
 
 Under the "subjective theory" of interpretation the court would evaluate what both people actually thought (by indirect evidence) and the court would only find a contract if there had been a "meeting of the minds."  The subjective test allows for differences between people and aims to prevent contracts being formed by accident. The problem with the subjective theory of interpretation is that it is extremely difficult to determine what people actually thought. The subjective theory approach was taken by the trial court in Embry, where the jury was instructed that if they found that both parties expressed the intent to contract with the other party for the plaintiff’s employment for one year, they should find that the parties thereby entered into a contract. At appeal, the court questioned whether this jury instruction was a correct statement of law, asking whether the formation of a contract depended on the intention of the then plaintiff and the then defendant or on the words spoken by both parties. The higher court took the objective theory approach which resulted in a reversal of the lower court's ruling.
 
@@ -301,30 +296,20 @@ Generally, an advertisement is not an offer because it is usually addressed to a
 2. Invites performance, e.g. offer for a reward, prove me wrong, or prizes for skill and luck (I've only got one cat so I've limited the number of people, and I've induced performance); they're not worried about the number of people who will... *Carbolic Smoke Ball*
 3. Communicates willingness to commit
 
-## Cases
+---
 
 **Carlill v. Carbolic Smoke Ball Co.** (discussed in Pepsi)
 
-In Carlill v. Carbolic Smoke Ball Co., the court found that an ad was an offer because it invited performance by stating that the company would give £100 to anyone who used the product and still got the flu, the advertiser invited performance by calling on the public to prove it wrong and communicated a willingness to commit by promising a reward if they did.
-
+- In *Carlill v. Carbolic Smoke Ball Co.*, the court found that an ad was an offer because it invited performance by stating that the company would give £100 to anyone who used the product and still got the flu, the advertiser invited performance by calling on the public to prove it wrong and communicated a willingness to commit by promising a reward if they did.
 - Rule/Law: Advertisements offering rewards are offers to anyone who does perform the conditions named in the advertisement, and anybody who does perform the condition accepts the offer. RST § 24 (I think).
 
 **John D.R. Leonard v. Pepsico, Inc.** U.S. District Court, SDNY (1999)  
 
-In Pepsico, the court found that a TV ad displaying a person redeeming Pepsi points in exchange for a Harrier jet was not an offer because it did not have clear, definite and explicit terms and because the details of the offer were reserved by Pepsico to a separate writing in its catalogue.
+- In Pepsico, the court found that a TV ad displaying a person redeeming Pepsi points in exchange for a Harrier jet was not an offer because it did not have clear, definite and explicit terms and because the details of the offer were reserved by Pepsico to a separate writing in its catalogue.
 
-In Pepsico, the court found that a TV ad displaying a person redeeming Pepsi points in exchange for a Harrier jet was not an offer because a reasonable person in appellant Leonard's position would have understood that the commercial stating that the Harrrier jet could be purchased with 7,000,000 Pepsi Stuff points was a joke.  
+- In Pepsico, the court found that a TV ad displaying a person redeeming Pepsi points in exchange for a Harrier jet was not an offer because a reasonable person in appellant Leonard's position would have understood that the commercial stating that the Harrrier jet could be purchased with 7,000,000 Pepsi Stuff points was a joke.  
 
 - **Rule/Law:** For an advertisement to be an offer, there must be some language of commitment or some invitation to take action without further communication (could this invitation to take action be an order form?). (99) Advertisements are mere requests to consider and examine and negotiate unless the circumstances are exceptional and the words used are very plain and clear. (99) An advertisement is not transformed into an enforceable offer merely by a potential offeree's expression of willingness to accept the offer through, among other means, completion of an order form. (99) Advertisements and the completion of order forms are mere notices and solicitations for offers. (99) Purchase orders are not enforceable contracts until they are accepted by the seller (99-100). RST § 26 states that "[a] manifestation of willingness to enter into a bargain is not an offer if the person to whom it is addressed knows or has reason to know that the person making it does not intend to conclude a bargain until he has madde a further manifestation of assent" (100).
-
-**Lefkowitz v. Great Minneapolis Surplus** (discussed in Pepsi)
-
-- Issue:
-- Why issue matters:
-- Holding:
-- Factual arguments in support of that holding:
-- Factual counterarguments:
-
 
 Arguments that Pepsico was not an offer: It was just an advertisement; this was an ad on TV; TV ads are exactly the kind of ad that are generally not considered an offer.
 
@@ -348,6 +333,8 @@ Arguments that Pepsico WAS an offer:
 Apply socially situated RP test - court says ad is targeting younger generation - the Pepsi generation - you might say that a reasonable teenager doesn't know that it is a fighter jet.
 
 *Based on the court’s holding, use the facts that the Pepsico court consider important in determining whether an offer had been made to construct a rule that future courts can use to determine whether there was an offer.*  
+
+**Lefkowitz v. Great Minneapolis Surplus** (discussed in Pepsi)
 
 ---
 
@@ -380,13 +367,15 @@ Sub-rules from this case (Panhandle?) (see slides for rule):
 - still an acceptance if "mere request"
 - still an acceptance if offeree expresses dissatisfaction with the offer but still manifests intent to accept ("grumbling acceptance")
 
-## Cases
+---
 
 **Panhandle Eastern Pipe Line Co. v. Nowlin Smith, Jr.** Wyoming Supreme Court 637 P.2d 1020 (1981) *Panhandle also in manner or mode of acceptance!*
 
 In Panhandle v. Smith, the court found that Smith accepted Panhandle's offer to withdraw Smith's discharge even though Smith added words to the letter of discharge because the notes that Smith wrote on the letter were "grumbling" and were not a modification of the offer. The court found that the term added by Smith that he be able to view his personnel file were implicit in the offer because by CBA all employees had a right to view their personnel file. Therefore, this condition was not a new term that modified the contract and was thus not a counteroffer.
 
 - **Rule/Law:** (2) An acceptance is still effective if the addition only asks for something that would be implied from the offer and is therefore immaterial. (p. 109)
+
+---
 
 ## Mode or manner of Acceptance
 
@@ -410,13 +399,15 @@ In Panhandle v. Smith, the court found that Smith accepted Panhandle's offer to 
 
 Note: UCC acceptance rule is identical to the common law. The only time we need to know is when the mirror image rule does not apply (when between merchants)
 
-## Cases
+---
 
 **Panhandle Eastern Pipe Line Co. v. Nowlin Smith, Jr.** Wyoming Supreme Court 637 P.2d 1020 (1981) *Panhandle also in counteroffer!*
 
 In Panhandle v. Smith, the court found that Smith accepted Panhandle's offer to withdraw Smith's discharge even though Smith added words to Pandandle's letter of discharge because Panhandle did not specify that the mode of acceptance of its offer excluded all other modes of acceptance including writing any words on the letter of discharge. The court found that the requirement that Smith not write on the letter is unreasonable because the only reason the court surmised that Panhandle could have for stipulating that Smith not write on the letter was "an inordinate fondness for tidy sheets of paper." Unreasonable requirements must be specified in the communicated offer.
 
 - **Rule/Law:** (1) An offeror has the right to accept an exclusive mode of acceptance from an offeree. An exclusive mode of acceptance can be unreasonable or difficult if it clearly excludes all other modes of acceptance, and this intention is expressed in the communicated offer itself.
+
+---
 
 ## Bilateral v uniletaral contracts
 
@@ -476,6 +467,8 @@ What are the implications of characterizing something as unilateral rather than 
 2. Sometimes an offer will expressly require acceptance by promise or accceptance by full performance as an exclusive mode of acceptancce.
 3. If the offer requests that the offeree do something dangerous, risky or unlikely to occur, the offer will implicitly require full performance. (p. 111)
 
+---
+
 ## Acceptance by silence
 
 The general rule is that silence cannot be acceptance. There are three exceptions:
@@ -501,6 +494,8 @@ The general rule is that silence cannot be acceptance. There are three exception
 - **Holding:** An offeree may vitiate a contract by a claim of lack of intention to accept an offer when he accepts and retains the benefits offered to him by the offeror, with a positive and affirmative proviso by the offeror that such acceptance of the benefits will, in and of itself, be deemed by the offeror to be an acceptance.
 - **Disposition:** Judgement affirmed as to appelants.
 - **Context (why the case was assigned):** To illustrate acceptance by silence.
+
+---
 
 ## End User License Agreements (EULAs)
 
@@ -529,6 +524,8 @@ In Nguyen v. Barnes & Noble, Inc., the court found that the mere presence of a l
 - **Issue:** Are these additional terms part of the contract? (is he limited to arbitration?) Customer says he didn't agree to arbitration because he didn't have access to those terms when he bought the software. Using traditional offer and acceptance analysis the customer would say terms occurred when customer bought software from Gateway over the phone. That was the contract.  
 - **Did a party make an offer?** Gateway made an offer when they said what they were selling, the customer said they'd purchase it, and Gateway said they'd send it. Customer calls in and gateway makes the offer by saying we promise to sell you the software for x amount of money - the mode of acceptance is exclusive - basically by using the goods/exercising dominion over the goods - or by silence over 30 days. The way courts interpret this is that the only way to accept is to use the software or be silent for 30 days (the way these shrink wrap agreements work is there is a conspicuous notice on the outside of the software that says that the terms are inside the package).
 - **Policy:** Gateway would argue that in terms of policy this is reasonable because if these 30 days did not constitute acceptance we would be in a perpetual state of uncertainty as to whether the products were sold; this is what is necessary for markets to function. Gateway would argue that providing terms and conditions over the phone is not good policy because nobody is going to wait on the phone while Gateway reads the contract. Thirty days contracts tend to be waivers of warranty, limitation of liability, mandatory arbitration. These type of shrink wrap contracts might not be enforceable if our societies decided that they were not wanted. Courts make an argument with thirty day acceptance based on policy.
+
+---
 
 ## Revocation prior to acceptance
 
