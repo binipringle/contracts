@@ -44,44 +44,8 @@ toc:
 - Strict view and flexible approach
 - Steps of analysis reliance theory
 - Restitution theory
-- Neo-Classical economic theory
-- Critical legal theory
-- Alternatives to bargain model
-- The promise
-- Reasonable reliance
-- The restitution principle
-- VI Statute of Frauds
-- VII Defenses Explicit Political Economic Moral Controls
-- VIIa Public policy
-- VIIai Theoretical perspective
-- VIIb Lack of capacity and who can contract?
-- VIIbi Children
-- VIIbii Mental incapacity
-- VIIc Duress and force and threats
-- VIId Miscommunication
-- VIIe Misunderstanding
-- VIIf Misrepresentation, false statements
-- VIIg Theoretical perspective
-- VIIh Unconscionability
-- VIII Changes After Contract Formation
-- VIIIa Impracticability
-- VIIIb Agreed Modifications
-- VIIIc Neo-Classical economics and Socioeconomics
-- IX Content of the Contract
-- IXa Interpretation
-- IXai Implied Terms
-- IXaii Express Terms
-- IXb Formalism and Legal Realism
-- IXc Parol evidence rule
-- X Breach of Contract
-- Xa Constructive conditions and substantial performance
-- Xb Theoretical perspective on result in Jacob and Youngs
-- XI Remedies
-- XIa Specific performance
-- XIb Gendered context in Lumley rule
-- XIc Expectation and reliance damages, non-pecuniary loss, punitive damages
-- XId Limitation on damages
-- XIe Feminist Legal Theory
+- Statute of Frauds
+
 
 ---
 
@@ -974,6 +938,12 @@ Party is estopped from asserting the SOF if full performance (some courts only r
 What result under reliance theory? The landlord is saying that the tenant promised to live in the apartment and pay rent. Tenant says doesn’t apply because not in writing. That would have worked under bargain theory. The question under reliance theory is landlord saying you promised to live here, I relied on it. I made the renovations. I’m harmed. (Maybe not harmed). Here landlord could say I made the renovations in reliance on your promise. In a strict court you would lose anyway. You didn’t put it in writing. A flexible court would say that the bargain theory failed because the tenant promised that if landlord did renovations, they would sign contract, so the landlord had to do renovations.
 
 ---
+
+I took these out of toc - maybe put back in
+
+- The promise
+- Reasonable reliance
+- The restitution principle
 
 **Langer v. Superior Steel Corp.**
 
