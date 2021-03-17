@@ -36,8 +36,8 @@ toc:
 - End User License Agreements (EULAs)
 - Revocation prior to acceptance
 - Consideration
-- Reliance principle
-- Reliance theory
+- Reliance Principle
+- Reliance Theory
 - Rule for Recovery Under Reliance Theory
 - Promissory estoppel
 - Strict view and flexible approach
@@ -788,17 +788,19 @@ IF NO CONSIDERATION, GO TO ALTERNATIVE REMEDIES
 
 ---
 
-# Reliance principle
+# Reliance Principle
 
 The reliance principle seeks to protect those who reasonably rely on others. Some maintain that it is reasonable to rely on another person in a variety of different circumstances, while others maintain that it is only reasonable to rely on another person if that person has promised to do something or otherwise voluntarily invited the reliance. As a result of this limitation, the reliance principle in current law emphasizes promises, with the belief that promises should be kept and whether obligation should ever be imposed in the absence of a promise. The reliance principle is corrective or restorative; it holds that a person who has been injured should be compensated for that injury (a corrective or restorative claim). In contrast, the bargain principle is distributive; it holds that the existence of a bargain entitles each person to the benefit he or she expected from the claim (a distributive claim).
 
 ---
 
-# Reliance theory
+# Reliance Theory
 
 The reliance theory involves promises to give gifts, and seeks to protect those who reasonably rely on others. *See the reliance principle for longer rule and below for other rule*
 
-Reliance Theory is an alternative ground for recovery when there’s no exchange or no consideration.  Remember that the idea underlying the bargain theory and the doctrine of consideration is based on exchange and the marketplace. In contracts law, the question of whether a promise to give a gift should ever be enforceable is controversial. If we say yes, we’re risking undermining the basis of the bargain theory. One’s view of the bargain theory is really one’s view of consideration; if your view is that consideration is very important, you’re not going to think much of reliance theory. However, if you think that consideration is not always a valid basis for enforcing promises because sometimes although there is no consideration, people might rely on a promise and that’s valuable.  
+Reliance Theory is an alternative ground for recovery when there’s no exchange or no consideration.  Reliance theory is based on the belief that (1) in some cases, a person who is injured ought to be compensated for that injury, and (2) a person who causes injury or harm ought to be accountable for it. Reliance theory assumes that people do rely on each other and that such reliance is morally and politically valuable. Reliance theory doesn't protect *promises*; it protects reliance.
+
+In contrast, the idea underlying the bargain theory and the doctrine of consideration values exchange and the marketplace. This is why the question of whether a promise to give a gift should ever be enforceable is controversial. If we say yes, we’re risking undermining the basis of the bargain theory. One’s view of the bargain theory is really one’s view of consideration; if your view is that consideration is very important, you’re not going to think much of reliance theory. However, if you think that consideration is not always a valid basis for enforcing promises because sometimes although there's no consideration, people might rely on a promise and that’s valuable.   
 
 The family context is very private so that’s a place the court might not intervene – but there’s a whole school of thought that says that promises even in the family sphere and in the private sphere have value and should be enforced.  
 
@@ -813,6 +815,8 @@ Assumptions
 - Such reliance is morally and politically valuable
 - Reliance theory doesn’t protect promises – it protects reliance. – (not all promises are enforceable; the rules are not protecting promises; however, once the other party reasonably relies on the promise, you can’t take it back)
 
+---
+
 ### Rule for Recovery Under Reliance Theory
 
 (Promissory estoppel) (§ 90)** (these are Zalesne’s elements - Elements (section 90 is not worded in this way).
@@ -826,11 +830,23 @@ Assumptions
 
 ## Promissory estoppel
 
-Under the doctrine of equitable estoppel, if a person makes a representation about a fact, in a situation in which another person is likely to rely on the truth of that fact (sometimes in the context of litigation and sometimes in other contexts), then the first person is barred ("estopped") from denying the truth of the fact as he or she stated it. (45)
+Promissory estoppel comes from the doctrine of equitable estoppel, where if a person makes a representation about a fact, in a situation in which another person is likely to rely on the truth of that fact (sometimes in the context of litigation and sometimes in other contexts), then the first person is barred ("estopped") from denying the truth of the fact as he or she stated it. (45) In *Ricketts v. Scothorn*, Judge Sullivan applied the idea of equitable estoppel to a promise, instead of a statement of fact. So under Ricketts, if a person says, in effect, "I will do this," in a situation in which reliance is reasonable and foreseeable, he or she may later be estopped from saying "I will not do this" or "my promise is not enforceable."
+
+To really understand promissory estoppel, you have to look at the interplay between the bargain theory and reliance theory. We saw a real limitation to the bargain theory in Childess, where ... *State Bank of Standish v. Curry* is the perfect example of the power dynamics between the bank and the family farm. There is a huge imbalance where the Bank says “we’ll take care of you” and the farmers have to trust. A flexible court sees the value of trust – the importance of trust when there is a power imbalance – and that is the approach the court took in Standish.  
 
 Courts may enforce a promise that is not part of an exchange under the doctrine of promissory estoppel, codified in RST § 90(1) which states that "a promise which the promisor should reasonably expect to induce action or forbearance on the part of the promisee or a third person and which does induce such action or forbearance is binding if injustice can be avoided only by enforcement of the promise. The remedy granted for the breach may be limited as justice requires." A promise is defined as "a manifestation of intention to act or refrain from acting in a specified way, so made as to justify a promisee in understanding that a commitment has been made." RST § 2(1). The focus of promissory estoppel is on the circumstances of trust, so the requirement of a promise is shaped by a court's views about the social dimension of trust. Some courts insist that reliance cannot be expected or reasonable unless the promise is "clear and unambiguous." Other courts find that mere "representations" can be sufficient expressions of commitment to induce expected and reasonable reliance.   
 
-## Flexible approach and strict view
+Flexible Approach is most commonly seen in cases of deals-that-never-happen. In these cases, each side pays its own reliance costs. The court has to make sure reliance is reasonable when there is reliance despite the lack of a deal (when a deal is anticipated). The court looks at the words, and the relations of the parties. Lender-borrower; banker-farmer: dependency, trust, stronger party, weaker party. In Standish, the bank should really expect that the Currys would think that the bank was making a promise where in direct response to the Stanfords’ questions the bank said “don’t worry, we will support you;” this is similar to Embry, where Embry asked whether he still had a job and McKittrich said, “don’t worry, get your men out.” In Standish the bank similarly didn’t use direct words of promise but spoke in direct response to the Currys' question, and in the context of a year after year relationship where they always rolled over from year to year so the terms were generally understood.
+
+---
+
+## Flexible approach and strict approach
+
+**Strict Approach** (fear that the reliance theory will take over the bargain theory)
+
+- Promise must be as definite, comprehensive, and unequivocal as an offer.
+- **If there’s no offer, then there’s no promise. If there's no promise, there's no promisory estoppel. It sucks.**
+- As Promissory estoppel is an alternative theory, we don’t want to allow it to completely negate the requirement of consideration.
 
 **Flexible approach**
 
@@ -838,15 +854,8 @@ Courts may enforce a promise that is not part of an exchange under the doctrine 
 - Parties don’t always expressly state things, but reasonable people might still rely.
 - The contract model is inadequate to evaluate trust in situations of power inequity / dependency
 
-**Strict Approach** (fear that the reliance theory will take over the bargain theory)
 
-- Promise must be as definite, comprehensive, and unequivocal as an offer.
-- If there’s no offer, then there’s no promise.
-- As Promissory estoppel is an alternative theory, we don’t want to allow it to completely negate the requirement of consideration.
-
-To really understand promissory estoppel, you have to look at the interplay between the bargain theory and reliance theory. We saw a real limitation to the bargain theory in Childess, where ... *State Bank of Standish v. Curry* is the perfect example of the power dynamics between the bank and the family farm. There is a huge imbalance where the Bank says “we’ll take care of you” and the farmers have to trust. A flexible court sees the value of trust – the importance of trust when there is a power imbalance – and that is the approach the court took in Standish.  
-
-Flexible Approach is most commonly seen in cases of deals-that-never-happen. In these cases, each side pays its own reliance costs. The court has to make sure reliance is reasonable when there is reliance despite the lack of a deal (when a deal is anticipated). The court looks at the words, and the relations of the parties. Lender-borrower; banker-farmer: dependency, trust, stronger party, weaker party. In Standish, the bank should really expect that the Currys would think that the bank was making a promise where in direct response to the Stanfords’ questions the bank said “don’t worry, we will support you;” this is similar to Embry, where Embry asked whether he still had a job and McKittrich said, “don’t worry, get your men out.” In Standish the bank similarly didn’t use direct words of promise but spoke in direct response to the Currys' question, and in the context of a year after year relationship where they always rolled over from year to year so the terms were generally understood.
+---
 
 ## Steps of analysis reliance theory
 
@@ -890,7 +899,13 @@ In Kirksey v. Kirksey, the court ruled that there was no enforceable promise whe
 
 # Statute of Frauds
 
-Writing need not be formal, but must contain:
+If we can say yes, yes, yes to the three elements of contract formation, we go to statute of frauds. The statute of frauds is a sort of threshold for the bargain theory. We have to go through it to make a contract enforceable.
+
+Does the statute of frauds apply? Is the statute of frauds satisfied?
+
+**If the statute of frauds is not satisfied, we go back to promissory estoppel or restitution.**
+
+**If the statute of frauds is satisfied, we go to a bunch of other rules.**
 
 If I’m suing you, you have to have signed it. I obviously believe a contract exists because I’m suing you. The question is whether a contract exists. Your signature can be a signature in a very loose context, such as an x, a letterhead, an email, whatever.
 

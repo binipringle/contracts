@@ -107,3 +107,46 @@ Does the transaction involve a contract for the sale of movable goods? Identify:
 <p style="margin-left:5%; margin-right:10%;"><b>If yes consideration, IRAC consideration.</b></p>
 
 ---
+
+If we can say yes, yes, yes to the three elements of contract formation, we go to statute of frauds. The statute of frauds is a sort of threshold for the bargain theory. We have to go through it to make a contract enforceable.
+
+Does the statute of frauds apply? Is the statute of frauds satisfied?
+
+**If the statute of frauds is not satisfied, we go back to promissory estoppel or restitution.**
+
+**If the statute of frauds is satisfied, we go to a bunch of other rules.**
+---
+
+## Reliance IRAC
+
+I: Whether reliance theory will be a good basis for recovery
+
+R: Elements (4); policy; strict v. flexible approach.
+
+A: [strict v. flexible analysis; then mini-IRACs]
+
+i: The first sub-issue is whether there was a promise [objective test]
+
+r: Under the objective theory, courts examine...
+
+a: Here ... because ... [any counterargument?]
+
+c: Therefore, ...
+
+i: The second sub-issue is whether there was reliance on the promise [change of position]
+
+r: To satisfy this element there has to be a change of position, and there has to be a causal connection between the change of position and the promise and
+
+a: Here, ... because ...
+
+c: Therefore, ...
+
+i: The third sub-issue is whether the reliance was reasonable [context/factors]
+
+rac
+
+i: The fourth sub-issue is whether the reliance caused harm [beyond not getting the thing promised]
+
+rac
+
+C: Conclusion.
