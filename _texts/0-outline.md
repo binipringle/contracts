@@ -982,12 +982,12 @@ The next issue is whether any defenses prevent enforcement.
 <p style="margin-left:10%; margin-right:10%;">(a) Children</p>
 <p style="margin-left:10%; margin-right:10%;">(b) Mental Incapacity</p>
 <p style="margin-left:15%; margin-right:10%;">(i) Volitional</p>
-<p style="margin-left:15%; margin-right:10%;">Cognitive</p>
-<p style="margin-left:5%; margin-right:10%;">Duress</p>
-<p style="margin-left:5%; margin-right:10%;">Mistake</p>
-<p style="margin-left:5%; margin-right:10%;">Misunderstanding</p>
-<p style="margin-left:5%; margin-right:10%;">Impracticability</p>
-<p style="margin-left:5%; margin-right:10%;">Unconscionability</p>
+<p style="margin-left:15%; margin-right:10%;">(ii) Cognitive</p>
+<p style="margin-left:5%; margin-right:10%;">3. Duress</p>
+<p style="margin-left:5%; margin-right:10%;">4. Mistake</p>
+<p style="margin-left:5%; margin-right:10%;">5. Misunderstanding</p>
+<p style="margin-left:5%; margin-right:10%;">6. Impracticability</p>
+<p style="margin-left:5%; margin-right:10%;">7. Unconscionability</p>
 
 *No defenses work? Change in circumstances to warrant K modification?*
 
@@ -1014,6 +1014,8 @@ What damages is P entitled to?
 The next issue is whether extrinsic evidence is admissible.
 
 **General rule for ...:**
+
+**SEE HYPO FOR WRITING ASSIGNMENT 4**
 
 - Formalism v Realism
 - TU, CD, CP
