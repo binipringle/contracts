@@ -44,7 +44,29 @@ toc:
 - Steps of analysis reliance theory
 - Restitution theory
 - Statute of Frauds
-
+-	Rest of the semester after midterm
+-	Flow Chart from Skills
+-	Seven Defenses
+-	Illegality
+-	Public Policy
+-	Capacity
+-	Duress
+-	Mistake
+-	Misunderstanding
+-	Impracticability
+-	Unconscionability
+-	Modification
+-	Interpretation
+-	Parol Evidence Rule
+-	Interpretation Steps of Analysis
+-	Damages
+-	Measuring Expectation
+-	Measuring Reliance Damages
+-	Measuring Expectation in Construction Contracts
+-	Measuring Restitution Damages
+-	Punitive damages
+-	Foreseeability
+-	Mitigation
 
 ---
 
@@ -1027,7 +1049,9 @@ The next issue is whether extrinsic evidence is admissible.
 
 ---
 
-## Defenses
+## Seven Defenses
+
+There are seven defenses (illegality goes with public policy)
 
 ## Illegality
 
@@ -1071,7 +1095,7 @@ Policies tend to be grounded in moral values, economic notions and the protectio
 
 ---
 
-## Lack of capacity
+## Capacity
 
 The first issue is whether Marie can disaffirm the contract.
 
@@ -1137,18 +1161,17 @@ A contract is voidable in the following instances: (1) If a party's manifestatio
 
 Under RST § 175(1), if a party's manifestation of assent is induced by an improper threat by the other party that leaves the victim no reasonable alternative, the contract is voidable by the victim. This can be broken down into four elements. (1) There must be a threat; (2) the threat must be improper; (3) the threat must induce victim’s manifestation of assent; (4) there must be no reasonable alternative (threat must be sufficiently grave to justify the victim’s assent / irreparable harm).
 
-**Element 1:** Under RST § 175 a threat is a manifestation of intent to inflict some loss or harm on another. A threat may be inferred from words or conduct.
-
-**Element 2:** Under RST § 176, a threat is improper when (1) (a) what is threatened is a crime or a tort, ... (b) what is threatened is a criminal prosecution, (c) what is threatened is civil prosecution made in bad faith, or (d) the threat is a breach of contract made in bad faith. (2) A threat is improper if the resulting exchange is not on fair terms, **AND** (a) the threatened act would harm the recipient and would not significantly benefit the party making the threat, **OR** (b) the effectiveness of the threat in inducing the manifestation of assent is significantly increased by prior unfair dealing by the party making the threat, **OR** (c) what is threatened is otherwise a use of power for illegitimate ends. Restatement (Second) of Contracts § 176 (1981).
-
-**Element 3:** Courts apply a subjective test to determine whether the threat induced the victim's manifestation of assent. In applying this test the court considers the age, background, and relationship of the parties, and asks whether (A) the parties were going to sign anyway (whether they are not signing because of the threat); or (B) they weren’t going to sign but decided to after the threat.
-
-**Element 4:** The next sub-issue is whether the victim had no reasonable alternative to manifesting assent because the threat was sufficiently severe to justify assent. In determining whether the victim had no reasonable alternative to manifesting assent, courts look at the seriousness of the threat by examining (A) the nature of the threat and the severity of the thing being threatened, and (B) the likelihood of the person following through, as well as (C) whether there were alternatives such as the person just walking away and suing.
+- **Element 1:** Under RST § 175 a threat is a manifestation of intent to inflict some loss or harm on another. A threat may be inferred from words or conduct.
+- **Element 2:** Under RST § 176, a threat is improper when (1) (a) what is threatened is a crime or a tort, ... (b) what is threatened is a criminal prosecution, (c) what is threatened is civil prosecution made in bad faith, or (d) the threat is a breach of contract made in bad faith. (2) A threat is improper if the resulting exchange is not on fair terms, **AND** (a) the threatened act would harm the recipient and would not significantly benefit the party making the threat, **OR** (b) the effectiveness of the threat in inducing the manifestation of assent is significantly increased by prior unfair dealing by the party making the threat, **OR** (c) what is threatened is otherwise a use of power for illegitimate ends. Restatement (Second) of Contracts § 176 (1981).
+- **Element 3:** Courts apply a subjective test to determine whether the threat induced the victim's manifestation of assent. In applying this test the court considers the age, background, and relationship of the parties, and asks whether (A) the parties were going to sign anyway (whether they are not signing because of the threat); or (B) they weren’t going to sign but decided to after the threat.
+- **Element 4:** The next sub-issue is whether the victim had no reasonable alternative to manifesting assent because the threat was sufficiently severe to justify assent. In determining whether the victim had no reasonable alternative to manifesting assent, courts look at the seriousness of the threat by examining (A) the nature of the threat and the severity of the thing being threatened, and (B) the likelihood of the person following through, as well as (C) whether there were alternatives such as the person just walking away and suing.
 
 **Four Elements of RST §175(2)**  
 
-Under RST § 175(2), if a party's manifestation of assent is induced by a third party, the contract is voidable by the victim unless the other [third] party to the transaction in good faith and without reason to know of the duress either gives value or relies materially on the transaction. This can be broken down into four elements. (1) There must be a threat; (2) the
-There are three exceptions. (1) if the third party acted in good faith; (2) if the third party didn't know of the duress, **AND** (3) either gives value or relies materially on the transaction. The contract is voidable unless the other party is innocent and harmed.
+Under RST § 175(2), if a party's manifestation of assent is induced by a third party, the contract is voidable by the victim unless the other [third] party to the transaction in good faith and without reason to know of the duress either gives value or relies materially on the transaction. There are four elements. (1) Unfair terms AND (2) No benefit to party making threat OR (3) Prior unfair dealing OR (4) Use of dominant bargaining power for illegitimate ends.
+
+Exceptions are (1) if the third party acted in good faith; (2) the third party didn't know of the duress, **OR** (3) the other party either gives value or relies materially on the transaction. The contract is voidable unless the other party is innocent and harmed.
+
 
 **Lorna Bond Rule**
 
@@ -1351,7 +1374,19 @@ Harrington is example of how to work out whether oral or written agmnt should be
 
 ---
 
-Unconscionability
+## Misunderstanding
+
+Will not be on test
+
+---
+
+## Impracticability
+
+This will be on test
+
+---
+
+## Unconscionability
 
 **Ora Lee Williams v. Walker-Thomas Furniture Company, William Thorne et al. v. Walker-Thomas Furniture Company** U.S. Court of Appeals for The District of Columbia Circuit 350 F.2d 445 (1965)
 
@@ -1798,7 +1833,7 @@ substantive fairness is not required for a modification, but the court is lookin
 
 4-7-21
 
-Interpretation:
+## Interpretation
 
 Implied terms
 
@@ -2194,7 +2229,8 @@ I THINK I PROB MISSED SOMETHING HERE - A CLASS OR SOMETHING
 
 ---
 
-Parol Evidence Rule
+# Parol Evidence Rule
+
 Default is that evidence of prior statements leading up to the K is not admissible.
 
 Based on assumption everything the parties agreed to prior to signing the K is embodied in the written agreement.
@@ -2292,7 +2328,7 @@ does the extrinsic evidence supplement the K?
 betaco is saying that we agreed to all the terms in the k and we also agreed w the terms in the cover letter. additional term. admissable unless k fully integrated.
 
 ---
-## Interpretation Primer
+## Interpretation Steps of Analysis
 
 Any time there’s an interpretation question:
 
@@ -2676,6 +2712,14 @@ Jacob and Youngs?
 •	Harm to D?
 •	Fault?
 
+---
+
+## Measuring Restitution Damages
+
+Something should go here. See also writing assignment 3.
+
+---
+
 ## Punitive damages
 
 - Generally not recoverable
@@ -2900,6 +2944,8 @@ Plaintiff servant told the clerk that the mill stopped and that the shaft should
 legal scholars say that that sentence was written by the court reporter.
 
 ---
+
+## Mitigation
 
 Mitigation § 350
 •	Court won’t compensate injured party for loss they could have avoided with reasonable effort / due diligence… or without undue risk, burden, or humiliation.
