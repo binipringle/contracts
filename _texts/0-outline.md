@@ -965,9 +965,67 @@ What result under reliance theory? The landlord is saying that the tenant promis
 
 ---
 
-# Defenses to Formation of K
+# Flow Chart from Skills
 
-Sometimes a defense can be that a contract should be voided because it should not have been formed for a specific reason. These reasons include Illegality / Public Policy, Lack of capacity, Duress / Undue Influence, Mistake, Misunderstanding, Misrepresentation and Unconscionability.
+UCC or common law? Sale of goods? Brief analysis at beginning.
+
+If statute of frauds doesn't prevent enforcement, move on to defenses.
+
+### Defenses
+
+The next issue is whether any defenses prevent enforcement.
+
+**General rule for defenses, listing possible defenses in this fact pattern and general policy behind defenses**
+
+<p style="margin-left:5%; margin-right:10%;">1. Public policy</p>
+<p style="margin-left:5%; margin-right:10%;">2. Lack of capacity</p>
+<p style="margin-left:10%; margin-right:10%;">(a) Children</p>
+<p style="margin-left:10%; margin-right:10%;">(b) Mental Incapacity</p>
+<p style="margin-left:15%; margin-right:10%;">(i) Volitional</p>
+<p style="margin-left:15%; margin-right:10%;">Cognitive</p>
+<p style="margin-left:5%; margin-right:10%;">Duress</p>
+<p style="margin-left:5%; margin-right:10%;">Mistake</p>
+<p style="margin-left:5%; margin-right:10%;">Misunderstanding</p>
+<p style="margin-left:5%; margin-right:10%;">Impracticability</p>
+<p style="margin-left:5%; margin-right:10%;">Unconscionability</p>
+
+*No defenses work? Change in circumstances to warrant K modification?*
+
+### Modification
+
+The next issue is whether modification of the contract will be allowed.
+
+**General rule for modification:**
+
+### Breach and damages
+
+Did both parties perform as the contract required?
+
+<p style="margin-left:5%; margin-right:10%;">Constructive conditions</p>
+<p style="margin-left:10%; margin-right:10%;">Perfect Tender Rule for goods</p>
+<p style="margin-left:10%; margin-right:10%;">Substantial Performance for services</p>
+
+What damages is P entitled to?
+
+*Is there a dispute over meaning of terms?*
+
+### Implied Terms
+
+The next issue is whether extrinsic evidence is admissible.
+
+**General rule for ...:**
+
+- Formalism v Realism
+- TU, CD, CP
+- Good faith & best efforts
+
+### Express Terms
+
+- Parol Evidence Rule
+
+---
+
+## Defenses
 
 ## Illegality
 
@@ -1005,11 +1063,48 @@ Policies tend to be grounded in moral values, economic notions and the protectio
 **Commodification arguments:**
 
 - Pure commodification:  The belief that real welfare is always promoted by permitting exchange.  Everything can be commodified (made available on open markets and therefore the subjects of contracts)
-- Critique: Certain things (with emotional content) should not be contactable or commodifiabe. (e.g., not right to treat children the same as goods)
+- Critique: Certain things (with emotional content) should not be contactable or commodifiable. (e.g., not right to treat children the same as goods)
 
+---
 
+## Lack of capacity
 
+The first issue is whether Marie can disaffirm the contract.
 
+Under Restatement, all contracts with minors ... exceptions ...
+
+Here ... Therefore ...
+
+The next issue is whether Marie will have to pay restitution.
+
+Under restatement, minors do not have to pay restitution except 1, 2, 3
+
+Here ... Therefore ...
+
+---
+
+## Duress
+
+---
+
+## Mistake
+
+The issue is whether the defense of unilateral mistake will prevent enforcement of the contract.
+R: Under the Restatement Second, [RULE w/elements] + POLICY
+
+The first issue is whether BASIC ASSUMPTION
+
+R:
+
+A: Here, ... Like in [case name], where the court found [rule] satisfied/not satisfied because [legally relevant facts from precedential case]. Here, the court will likely find [rule] satisfied/not satisfied because [legally relevant facts from exam].
+
+The next issue is whether MATERIAL MISTAKE
+
+The next issue is whether the party seeking relief assumed risk.
+
+The last issue is whether unconsionable or had reason to know
+
+Therefore, unilateral mistake satisfied/not satisfied.
 
 ---
 
@@ -2178,7 +2273,7 @@ There are three Theories of Contract Damages
 
 | What I expected to get out of the K | + | What I ended up spending |
 
-| Revenues expected minus expected cost of performance | + | Anticipated costs incurred plus unanticipated costs incurred |
+| Revenues expected minus expected cost of performance (equivalent to profit expected) | + | Anticipated costs incurred plus unanticipated costs incurred (lost profits are cost incurred)|
 
 **Buyer's damages:**
 
@@ -2225,48 +2320,44 @@ Expectation element (when builder breaches) = value of performance (expected) - 
 
 ---
 
-4-20-21
+# Damages
 
-Damages
-Can be money damages OR
-Specific performance
+Can be money damages OR specific performance
 
-Money damages: Three theories
-•	Expectation: Put plaintiff in as good a position as they would have been in had contract been fully performed.
-•	Reliance: Put the plaintiff back in the position they would have been in had there been no contract.
-•	Restitution: Put the defendant back in the position they would have been in had there been no contract.
+## Money damages Three theories
+
+- Expectation: Put plaintiff in as good a position as they would have been in had contract been fully performed.
+- Reliance: Put the plaintiff back in the position they would have been in had there been no contract.
+- Restitution: Put the defendant back in the position they would have been in had there been no contract.
 
 Hypo
-•	One year rental agreement: $1,000/mth rent
-•	Comparable apt is $1,200/mth
-•	Tenant pays $1,000 deposit
-•	Tenant buys $825 worth of furniture
-•	Landlord breaches before tenant moves in
 
-What damages?
+- One year rental agreement: $1,000/mth rent
+- Comparable apt is $1,200/mth
+- Tenant pays $1,000 deposit
+- Tenant buys $825 worth of furniture
+- Landlord breaches before tenant moves in
 
-expectation damages:
-
-reliance damages:
-
-restitution damages:
+What damages? calculate under each theory
 
 ---
 
 **RULE:**  
 
 Specific performance
-•	Injunction ordering the defendant to perform the actual contractual obligation
 
-•	Exceptional remedy (maybe the landlord )
+- Injunction ordering the defendant to perform the actual contractual obligation
 
-•	Available only when monetary damages would be inadequate
+- Exceptional remedy (maybe the landlord )
+
+- Available only when monetary damages would be inadequate
 
 ---
 
 Why exceptional remedy?
-•	Policy against involuntary servitude
-•	Efficient breach
+
+- Policy against involuntary servitude
+- Efficient breach
 
 Money is supposed to compensate non- breaching party, and usually does.
 
@@ -2279,122 +2370,34 @@ Always argue policy! *always include policy in your argument*
 **RULE:**
 
 How do you show money damages would be inadequate?
-•	Goods/services are unique -- no established market for them (money can’t buy substitute)
 
-*can money buy you a substitute apartment? Can tenant move in somewhere else that would be a substitute apartment?* maybe. right now we are just looking at whether the apartment is unique or can be substituted. historically, land has been considered unique. typically and historically a sale of land or house is considered unique.
+- Goods/services are unique - no established market for them (money can’t buy substitute)
 
-•	Subject of contract involves matters of taste or sentiment (money can’t buy substitute)
+*can money buy you a substitute apartment? Can tenant move in somewhere else that would be a substitute apartment?* Maybe. right now we are just looking at whether the apartment is unique or can be substituted. Historically, land has been considered unique. typically and historically a sale of land or house is considered unique.
 
-•	Consider difficulty of proving expectation damages with reasonable certainty
+- Subject of contract involves matters of taste or sentiment (money can’t buy substitute)
 
----
-
-Money damages: Three theories
-
-•	Expectation: Put plaintiff in as good a position as they would have been in had contract been fully performed.
-•	Reliance: Put the plaintiff back in the position they would have been in had there been no contract.
-•	Restitution: Put the defendant back in the position they would have been in had there been no contract.
-
-Measuring Expectation
+- Consider difficulty of proving expectation damages with reasonable certainty
 
 ---
 
-Net Benefit	+	All Costs actually expected
-
-Net Benefit	(amount by which the tenant expected to be better off) (here, 200x12 [they're getting a 1200 apartment for 1000 a month for a year]) +	All Costs actually Expected
-
-(expectation)
-
-+	incurred (1000 deposit + 825 I spent on furniture - but furniture can maybe be returned; or maybe can be used in next apartment)
-
-*aside: damages is numbers; looking at numbers and plugging them in, but also discussing it, and arguing both sides; the answer is a discussion; it's an argument; a
-
-(Reliance)
-
-Left Side
-What I expected to get out of the contract
-
-Revenues expected minus expected cost of performance
-
-Equivalent to profit expected
-
-Right Side
-•	What I ended up spending
-
-•	Anticipated costs incurred plus unanticipated costs incurred
-
-Restitution is often a lower amount than expectation and reliance because restitution is just what I paid out of pocket. so here it would be $1000.
+There are three theories for measuring money damages. These are expectation, reliance and restitution. The choice of which measure of damages is within the court’s discretion, but there are guidelines. *always remember that the court has discretion with damages* it's in the court's discretion but there are guidelines and they're pretty useful. The starting point is courts always want to award damages whenever they can, because that's supposed to mirror exactly what happened if the contract had not been breached. Expectation damages and reliance damages are forward looking because they are trying to put the parties in the position they would have been in had the contract not been breached. Expectation is the goal and usually awarded. However, a court is likely to award reliance damages when ... A court is likely to award restitution damages when ...
 
 ---
 
-Sullivan v. O’Connor -
-Issue in this case is how to determine which measure of damages court will use
+Another kind of damages are non-pecuniary damages (Pain and suffering). These are generally not recoverable because they are hard to measure.
 
-Choice of which measure of damages is within the court’s discretion, but there are guidelines… *always remember that the court has discretion with damages* it's in the court's discretion but there are guidelines and they're pretty useful. the starting point is courts always want to award damages whenever they can, because that's supposed to mirror exactly what happened if the contract had not been breached - it's forward looking because it's trying to put the parties in the position they would have been in had the contract not been breached.
+- If theres a contract you're going expectations damages
+- If too speculative, reliance
+- If there's no contract or if the contract is unenforceable, restitution damages
 
----
+In Sullivan, one of the things she's asking for is non-pecuniary damages for pain and suffering. These are generally not recoverable (hard to measure) unless the contract involves non-pecuniary values. if k involves subject matter that is expected to be emotional. you have to look at k and ask if its foreseeable that k will lead to emotional harm. the typical sale of goods does not involve non-pecuniary damages. Are non-pecuniary damages recoverable in Sullivan? yes. Sullivan involves surgery and physical appearance and these are the kinds of things that involve physical pain and emotional pain and suffering. You have to make the case based on the facts that the case involves emotional values
 
-SEE DAMAGES HANDOUT POSTED IN TWEN - 4 PAGES ABOUT DAMAGES - LITTLE REFERENCE GUIDE
-
-Three reasons given for when courts won’t award expectation damages
-
-•	(1)
-•	(2)
-•	(3)
-
-If Expectation is the goal and usually awarded:
-
-•	When is court likely to award reliance damages?
-
-•	When is court likely to award restitution damages?
+**Where does emotional pain appear in the formula? costs incurred. in sullivan case unanticipated and anticipated -**
 
 ---
 
-Non-pecuniary damages (Pain and suffering)
-•	Generally not recoverable (hard to measure)
-•	unless the contract involves non-pecuniary values.
-
-•	Recoverable in Sullivan?
-
-•	Where in the formula?
-
----
-
-Reason number one why court does not give expectations damages in Sullivan is because you can't put a value on happiness in having a nose you like more. It's subjective. The net benefit - the amount she expected to be better off - is too hard to calculate. it's subjective.
-
-Reason number 2 why court doesnt give expectations damages is because excessive. The doctor was not negligent. The court said the doctor performed according to custom and no malpractice. there was simply no guarantee. however, the doctor promised he'd give sullivan a perfect nose, and didn't deliver. so there was a breach of contract.
-
-Reason number three is plaintiff didn't ask for expectation damages.
-
-If plaintiff doesn't get expectation damages that leaves us with reliance or restitution.
-
-In this case restitution would have been too meager. restoration of the benefit conferred on the D (you get back the doctor fee and no other costs incurred - court says too meager)
-
-Reliance is just right. says the court.
-
-the three types of damages are not automatically equivalent to the three theories of contracts - bargain theory reliance theory restitution theory - damages are loosely related but they are not quite the same.
-
-if theres a contract you're going expectations Damages
-
-if too speculative, reliance
-
-if there's no contract or if contract unenforceable, restitution damages
-
-final thing in case: one of the things she's asking for is non-pecuniary damages for pain and suffering.
-
-generally not recoverable (hard to measure)
-
-unless the contract involves non-pecuniary values. if k involves subject matter that is expected to be emotional. you have to look at k and ask if its foreseeable that k will lead to emotional harm. the typical sale of goods does not involve non-pecuniary damages.
-
-recoverable in Sullivan? yes. Sullivan involves surgery and physical appearance and these are the kinds of things that involve physical pain and emotional pain and suffering.
-
-you have to make the case based on the facts that the case involves emotional values
-
-Where does emotional pain appear in the formula? costs incurred. in sullivan case unanticipated and anticipated -  
-
----
-
-Example #1
+Example 1
 I have a bike worth $90
 I contract to sell it to you for $110
 I will have to pay $10 transportation costs to get it to you You breach before the bike is delivered
@@ -2417,13 +2420,13 @@ class 4-22-21
 
 WATCH OUT BECAUSE PPT SLIDES HEADINGS DID NOT COPY SO GO BACK TO
 
-Example #2
+Example 2
 Builder contracts with Owner to construct a factory Builder will be paid $1 million upon completion Owner breaches
 Builder already spent $500,000
 Would cost $400,000 to complete the job What are Builder’s expectation damages? What are Builder’s restitution damages?
 What are Builder’s reliance damages?
 
-Example #3
+Example 3
 You contract to build me a fence You expect to get paid $100
 Your total cost of performance is expected to be $80
 You already spent $10 on materials I breach (before you start building)
@@ -2436,9 +2439,10 @@ Net Benefit	+	All costs actually Expected		Incurred
 
 ---
 
-prof started here
+## Construction contracts
 
 Measuring Expectation Damages in Construction Contracts (when builder breaches)
+
 Still: Net benefit + Costs Incurred
 
 Two ways to measure net benefit side (left side). Under both ways:
