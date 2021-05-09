@@ -44,29 +44,30 @@ toc:
 - Steps of analysis reliance theory
 - Restitution theory
 - Statute of Frauds
--	Rest of the semester after midterm
--	Flow Chart from Skills
--	Seven Defenses
--	Illegality
--	Public Policy
--	Capacity
--	Duress
--	Mistake
--	Misunderstanding
--	Impracticability
--	Unconscionability
--	Modification
--	Interpretation
--	Parol Evidence Rule
--	Interpretation Steps of Analysis
--	Damages
--	Measuring Expectation
--	Measuring Reliance Damages
--	Measuring Expectation in Construction Contracts
--	Measuring Restitution Damages
--	Punitive damages
--	Foreseeability
--	Mitigation
+- Rest of the semester after midterm
+- Flow Chart from Skills
+- Seven Defenses
+- Illegality
+- Public Policy
+- Capacity
+- Duress
+- Mistake
+- Misunderstanding
+- Impracticability
+- Unconscionability
+- Modification
+- Interpretation
+- Parol Evidence Rule
+- Interpretation Steps of Analysis
+- Damages
+- Measuring Expectation
+- Measuring Reliance Damages
+- Measuring Expectation in Construction Contracts
+- Measuring Restitution Damages
+- Punitive damages
+- Foreseeability
+- Mitigation
+
 
 ---
 
