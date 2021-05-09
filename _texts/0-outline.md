@@ -1042,7 +1042,9 @@ Generally, a contract or contract term that is illegal (violates a statute) or i
 
 ## Public Policy
 
-Sometimes if a contract violates public policy it will not be enforced. When determining whether a contract should not be enforced for public policy reasons, courts look at competing private values of individual freedom vs. public values of social regulation. Often these competing values are expressed as the private interest in freedom of choice competing against a public interest in some other policy, or as free market economic notions competing against moral values.
+In general, parties may contract as they wish, and courts will enforce their agreements without passing on their substance. Sometimes, however, a court will decide that the interest in freedom of contract is outweighed by some overriding interest of society and will refuse to enforce a promise or other term on grounds of public policy. Such a decision is based on a reluctance to aid the promisee rather than on solicitude for the promisor as such. Two reasons lie behind this reluctance. First, a refusal to enforce the promise may be an appropriate sanction to discourage undesirable conduct, either by the parties themselves or by others. Second, enforcement of the promise may be an inappropriate use of the judicial process in carrying out an unsavory transaction. The decision in a particular case will often turn on a delicate balancing of these considerations against those that favor supporting transactions freely entered into by the parties. This Chapter states the rules by which courts are guided in making such decisions. Restatement (Second) of Contracts 8 Intro. Note (1981).
+
+When determining whether a contract should not be enforced for public policy reasons, courts look at competing private values of individual freedom vs. public values of social regulation. Often these competing values are expressed as the private interest in freedom of choice competing against a public interest in some other policy, or as free market economic notions competing against moral values.
 
 Under the RST § 179, a public policy against the enforcement of promises or other terms may be derived by the court from (a) legislation relevant to such a policy, or (b) the need to protect some aspect of the public welfare, as is the case for the judicial policies against, for example (i) restraint of trade (§§ 186-188), (ii) impairment of family relations (§§ 189-191), and (iii) interference with other protected interests (§§ 192-196, 356).
 
@@ -1073,19 +1075,99 @@ Policies tend to be grounded in moral values, economic notions and the protectio
 
 The first issue is whether Marie can disaffirm the contract.
 
-Under Restatement, all contracts with minors ... exceptions ...
+Under Restatement Second § 20, capacity means the legal power which a normal person would have under the same circumstances. Incapacity may be total, as in cases where extreme physical or mental disability prevents manifestation of assent to the transaction, or in cases of mental illness after a guardian has been appointed. Often, however, lack of capacity merely renders contracts voidable. See § 7. Incapacity sometimes relates only to particular types of transactions; on the other hand, persons whose capacity is limited in most circumstances may be bound by particular types of transactions. In cases of partial disability, the law of mistake or of misrepresentation, duress and undue influence may be relevant. See Chapters 6 and 7, particularly §§ 153, 157, 161(d), 163, 164, 167, 169(c) and 177, Comment b to § 172 and Comment c to § 175. The principal categories of natural persons having no capacity or limited capacity to contract include minors and the mentally ill.
+
+Historically, the categories were married women, infants, and insane persons. Those formerly referred to as insane are included in the more modern phrase “mentally ill,” and mentally defective persons are treated similarly. Statutes sometimes authorize the appointment of guardians for habitual drunkards, narcotics addicts, spendthrifts, aged persons or convicts as in cases of mental illness. Even without the appointment of a guardian, civil powers of convicts may be suspended in whole or in part during imprisonment; and American Indians are for some purposes treated as wards of the United States government. The contractual powers of convicts and Indians are beyond the scope of the Restatement of this Subject. As to convicts, see Model Penal Code § 306.5. Restatement (Second) of Contracts § 12 (1981).
+
+The risks of undoing a contract if one party is unable to understand the terms include causing a lack of stability of contractual relations by forfeiture, the perpetuation of stereotypes, the perpetuation of parentalistic stances, and taking away agency of a contracting party (for example, a victim of domestic violence being portrayed as lacking agency due to diminished capacity). Subordination and discrimination can deprive people of the right to contract and limit market activity of particular groups; the legacy of contractual incapacity produces implicit and systemic bias, disparate pricing, and racial stereotyping. The capacity doctrine can take away agency of certain groups, either intentionally or not.
+
+Courts seek a balance between the stability of contract relations and the protection of people who cannot protect themselves. Although courts generally do not look at the fairness of contracts (neo-classical economic theory assumes that parties are acting in their own best interest and are fully informed), in questions of capacity they do look at unfairness to some extent when they attempt to determine whether a person is unable to negotiate their own best interest. In the course of making this determination, courts distinguish between procedural and substantive unfairness.
+
+Procedural unfairness is unfairness in the bargaining process where there is an imbalance of power and one of the parties takes advantage of their superior bargaining power. Substantive unfairness is unfairness in the resulting terms. Courts are more likely to police the bargain if there’s been procedural unfairness.
+
+## Minority
+
+The question is whether minor can disaffirm the contract.
+
+The general rule is that all contracts with minors are voidable (§ 14). Exceptions to the general rule are Emancipation by marriage, military service or when the minor is living apart and independently from parents (requires judicial proceeding). Generally, when a minor disaffirms, they don't have to pay restitution. Generally, when a minor disaffirms, they don’t have to pay restitution. They must return the property but can get all their money back, and don’t have to pay for use or depreciation or any damage to the goods. Exceptions to restitution rule are misrepresentation, tortious damage to property, or willful destruction of property. Minors are less protected when buying necessities. A minor can avoid a contract for necessities but still has to pay for the loss of value of the goods.
+
+**See Writing Assignment 3**
+
+## Mental Incapacity
+
+There are two tests for mental incapacity. (RST § 15(1)). Cognitive test: (traditional test): Unable to understand in a reasonable manner the nature and consequences of the transaction. Volitional test: Unable to act in a reasonable manner in relation to the transaction and the other party has reason to know of his condition
+
+Restitution is required in full to the extent of any benefit received unless the other party had knowledge of the incompetency. POLICY CONCERNS LOOK IN OTHER OUTLINE.
+
+## Intoxication
+
+Drunk people are able to avoid a contract. RST § 16.
+
+**Steps of analysis**
+
+The issue is whether [party] lacked capacity to act in their own best interest when entering into a contract with [party] where ...
+
+Rule for capacity, procedural or substantive
+
+Here ...
+
+Therefore ...
+
+The next issue is whether [party] will have to pay restitution.
+
+Under restatement, [kind of party] do not have to pay restitution except 1, 2, 3
 
 Here ... Therefore ...
 
-The next issue is whether Marie will have to pay restitution.
-
-Under restatement, minors do not have to pay restitution except 1, 2, 3
-
-Here ... Therefore ...
+In conclusion ...
 
 ---
 
 ## Duress
+
+**§ 174:  Duress by Physical Compulsion. Void**
+
+Formation of a Contract is prevented if conduct that appears to be a manifestation of assent by a party who does not intend to engage in that conduct is physically compelled by duress, the conduct is not effective as a manifestation of assent. Restatement (Second) of Contracts § 174 (1981).
+
+**§ 175:  Duress by Threat. Voidable**
+
+A contract is voidable in the following instances: (1) If a party's manifestation of assent is induced by an improper threat by the other party that leaves the victim no reasonable alternative, the contract is voidable by the victim; or (2) If a party's manifestation of assent is induced by one who is not a party to the transaction, the contract is voidable by the victim unless the other party to the transaction in good faith and without reason to know of the duress either gives value or relies materially on the transaction. Restatement (Second) of Contracts § 175 (1981).
+
+**Four Elements of RST §175(1)**
+
+Under RST § 175(1), if a party's manifestation of assent is induced by an improper threat by the other party that leaves the victim no reasonable alternative, the contract is voidable by the victim. This can be broken down into four elements. (1) There must be a threat; (2) the threat must be improper; (3) the threat must induce victim’s manifestation of assent; (4) there must be no reasonable alternative (threat must be sufficiently grave to justify the victim’s assent / irreparable harm).
+
+**Element 1:** Under RST § 175 a threat is a manifestation of intent to inflict some loss or harm on another. A threat may be inferred from words or conduct.
+
+**Element 2:** Under RST § 176, a threat is improper when (1) (a) what is threatened is a crime or a tort, ... (b) what is threatened is a criminal prosecution, (c) what is threatened is civil prosecution made in bad faith, or (d) the threat is a breach of contract made in bad faith. (2) A threat is improper if the resulting exchange is not on fair terms, **AND** (a) the threatened act would harm the recipient and would not significantly benefit the party making the threat, **OR** (b) the effectiveness of the threat in inducing the manifestation of assent is significantly increased by prior unfair dealing by the party making the threat, **OR** (c) what is threatened is otherwise a use of power for illegitimate ends. Restatement (Second) of Contracts § 176 (1981).
+
+**Element 3:** Courts apply a subjective test to determine whether the threat induced the victim's manifestation of assent. In applying this test the court considers the age, background, and relationship of the parties, and asks whether (A) the parties were going to sign anyway (whether they are not signing because of the threat); or (B) they weren’t going to sign but decided to after the threat.
+
+**Element 4:** The next sub-issue is whether the victim had no reasonable alternative to manifesting assent because the threat was sufficiently severe to justify assent. In determining whether the victim had no reasonable alternative to manifesting assent, courts look at the seriousness of the threat by examining (A) the nature of the threat and the severity of the thing being threatened, and (B) the likelihood of the person following through, as well as (C) whether there were alternatives such as the person just walking away and suing.
+
+**Four Elements of RST §175(2)**  
+
+Under RST § 175(2), if a party's manifestation of assent is induced by a third party, the contract is voidable by the victim unless the other [third] party to the transaction in good faith and without reason to know of the duress either gives value or relies materially on the transaction. This can be broken down into four elements. (1) There must be a threat; (2) the
+There are three exceptions. (1) if the third party acted in good faith; (2) if the third party didn't know of the duress, **AND** (3) either gives value or relies materially on the transaction. The contract is voidable unless the other party is innocent and harmed.
+
+**Lorna Bond Rule**
+
+Bond court broadened RST § 174. More situations where a contract might be void. Under the Lorna Bond rule, a contract is void if there was (1) duress by actual physical compulsion; **OR**  (2) duress by threat of physical violence in such magnitude as to cause a reasonable person to fear (i) loss of life; (ii) serious physical injury; **OR** (iii) actual imprisonment. There is no requirement that the other party knew of the threats.
+
+**Economic duress**
+
+One party threatens to breach the agreement unless the other party agrees to some further demand. “I won’t perform under this existing contract unless you pay me more money.”
+
+*To show economic duress:*
+
+- Must meet all the elements of duress
+- Element 2 is met by threat to breach the contract if other party doesn’t give in to demands (§ 176(1)(d): must be “breach of duty of good faith and fair dealing under a contract”).
+- Element 4 must show that breach will result in irreparable harm and there are no reasonable alternatives. Irreparable harm could be that (a) goods are scarce; (b) need is desperate; (c) price is exorbitant; (d) there are no reasonable alternatives.
+
+Example of economic duress: Two parties enter into an agreement to build a house. Upon satisfactory performance (house is built), builder demands payment but owner refuses.
+Owner knows builder is in dire financial need. “Negotiates” a settlement and release agreement below the contract price. E.g., owner owes builder $1 million.  I won’t pay you unless you lower it to $800,000. **Not enough to show threatened breach of contract**
+
+Another example of economic duress: Tenant is renting an apartment for $500/month (year lease). Midyear: I’ll only continue to rent you this apartment if you pay me $700/month for the rest of the lease. There’s a shortage of decent affordable housing. Tenant has no choice but to agree.
 
 ---
 
