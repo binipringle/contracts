@@ -951,99 +951,65 @@ What result under reliance theory? The landlord is saying that the tenant promis
 
 ---
 
-I took these out of toc - maybe put back in
+# Rest of the semester after midterm
 
-- The promise
-- Reasonable reliance
-- The restitution principle
-
-**Langer v. Superior Steel Corp.**
-
-- Issue:
-- Why issue matters:
-- Holding:
-- Factual arguments in support of that holding:
-- Factual counterarguments:
-
-**White v. Village of Homewood Fire and Police Commission**
-
-- Issue:
-- Why issue matters:
-- Holding:
-- Factual arguments in support of that holding:
-- Factual counterarguments:
-
-**Wood v. Lucy, Lady Duff-Gordon** (we didn't read this case)
-
-- Issue:
-- Why issue matters:
-- Holding:
-- Factual arguments in support of that holding:
-- Factual counterarguments:
-
-*To use as a practice problem outside of class:*
-
-**Lawrence v. Ingham Country Health Department Family Planning**
-
-- Issue:
-- Why issue matters:
-- Holding:
-- Factual arguments in support of that holding:
-- Factual counterarguments:
-
-## Critical legal theory
-
-Paula Childress story p 226 (optional reading).
+- **Changed circumstances:**
+- Impracticability
+- Modification
+- **Content of the contract:**
+- Interpretation of implied terms
+- Interpretation of express terms
+- Parol evidence rule
+- **Breach (substantial performance)**
+- **Remedies**
 
 ---
 
-## The promise
+# Defenses to Formation of K
 
-**State Bank of Standish v. Curry**
+Sometimes a defense can be that a contract should be voided because it should not have been formed for a specific reason. These reasons include Illegality / Public Policy, Lack of capacity, Duress / Undue Influence, Mistake, Misunderstanding, Misrepresentation and Unconscionability.
 
-- Issue:
-- Why issue matters:
-- Holding:
-- Factual arguments in support of that holding:
-- Factual counterarguments:
+## Illegality
 
-## Reasonable reliance
+Generally, a contract or contract term that is illegal (violates a statute) or is against public policy will not be enforced. However, not every violation of a statute will create a policy concern strong enough to deny enforcement of an otherwise valid contract. When determining whether a contract which violates a statute should be enforced, courts consider
 
-**Alden v. Presley**
+- What the relevant fault of the two parties was.
+- What degree of harm was caused by the violation of the statutory scheme
+- Whether the entire contract was illegal or just one part of it
+- Whether one party will be harmed in a way that’s disproportionate to the harm done by violating the statute
+- Whether enforcing the contract will encourage people to violate the law
+- Whether refusing to enforce the contract will deter illegal conduct
 
-- Issue:
-- Why issue matters:
-- Holding:
-- Factual arguments in support of that holding:
-- Factual counterarguments:
+## Public Policy
 
----
+Sometimes if a contract violates public policy it will not be enforced. When determining whether a contract should not be enforced for public policy reasons, courts look at competing private values of individual freedom vs. public values of social regulation. Often these competing values are expressed as the private interest in freedom of choice competing against a public interest in some other policy, or as free market economic notions competing against moral values.
 
-## The restitution principle
+Under the RST § 179, a public policy against the enforcement of promises or other terms may be derived by the court from (a) legislation relevant to such a policy, or (b) the need to protect some aspect of the public welfare, as is the case for the judicial policies against, for example (i) restraint of trade (§§ 186-188), (ii) impairment of family relations (§§ 189-191), and (iii) interference with other protected interests (§§ 192-196, 356).
 
-**Cotnam v. Wisdom**
+Policies tend to be grounded in moral values, economic notions and the protection of government institutions.
 
-- Issue:
-- Why issue matters:
-- Holding:
-- Factual arguments in support of that holding:
-- Factual counterarguments:
+### Framework for Public Policy
 
-**Bailey v. West**
+**Arguments to enforce:**
 
-- Issue:
-- Why issue matters:
-- Holding:
-- Factual arguments in support of that holding:
-- Factual counterarguments:  
+- Freedom of choice, assent
+- Protect justified expectations
+- Other policy arguments in favor of the subject matter of the contract
 
-**Toalson v. Arch Madison**
+**Arguments not to enforce:**
 
-- Issue:
-- Why issue matters:
-- Holding:
-- Factual arguments in support of that holding:
-- Factual counterarguments:
+1. What policies?
+2. Who is the court protecting?
+3. What interests? (moral, economic, etc.)
+
+**Commodification arguments:**
+
+- Pure commodification:  The belief that real welfare is always promoted by permitting exchange.  Everything can be commodified (made available on open markets and therefore the subjects of contracts)
+- Critique: Certain things (with emotional content) should not be contactable or commodifiabe. (e.g., not right to treat children the same as goods)
+
+
+
+
 
 ---
 
@@ -2147,20 +2113,50 @@ does the extrinsic evidence supplement the K?
 betaco is saying that we agreed to all the terms in the k and we also agreed w the terms in the cover letter. additional term. admissable unless k fully integrated.
 
 ---
+## Interpretation Primer
 
-INCORPORATE MOTT'S SLIDES FROM 4-12-21 BECAUSE SUPER important
+Any time there’s an interpretation question:
+
+### Is there an express term to interpret?
+
+- If so, follow the framework for express terms
+- PER: Evidence is always admissible to interpret an express term (exception to PER)
+- *Sometimes you need implied terms to interpret an express term!*
+
+### If there is no express term
+
+- Follow the framework for interpreting implied terms
+- Is someone trying to introduce extrinsic evidence of additional terms of the contract?
+- Is it TU, CD, CP (implied terms)? (**Always admissible as long as it doesn’t contradict the contract**)
+- Is it some other kind of evidence (conversation, other writing…)? (**Only admissible if contract is not fully integrated**)
 
 ---
 
-Is there a dispute over the meaning of terms?
+## Framework for Interpreting Express Terms
 
-go to > Framework for interpreting express terms
+Is there a dispute over the meaning of terms? go to > Framework for interpreting express terms
 
 1. What term or clause is at Issue
 2. what's the issue? (vague, ambiguous)
 3. what are the possible interpretations?
 4. What evidence is being introduced?
-5. Assess the evidence (does it amount to ...) INCORPORATE THIS INTO OUTLINE!!!
+5. Assess the evidence (does it amount to TU, CD, CP etc.)
+6. Will the evidence be admissible in the jurisdiction at hand? (discuss Formalist vs. Contextualist approaches)
+7. Is the evidence admissible under the PER? (yes, to interpret)
+8. Do any rules of construction apply?
+
+---
+
+## Framework for Interpreting Implied Terms
+
+1. What evidence is being introduced?
+2. Assess the evidence (does it amount to TU, CD, CP etc.)
+3. Is the evidence admissible under the PER? (Evidence of TU, CD, CP is admissible unless it contradicts) (other evidence admissible unless the contract is fully integrated)
+
+---
+
+
+INCORPORATE MOTT'S SLIDES FROM 4-12-21 BECAUSE SUPER important
 
 ---
 
