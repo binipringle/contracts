@@ -1042,13 +1042,9 @@ Generally, a contract or contract term that is illegal (violates a statute) or i
 
 ## Public Policy
 
-In general, parties may contract as they wish, and courts will enforce their agreements without passing on their substance. Sometimes, however, a court will decide that the interest in freedom of contract is outweighed by some overriding interest of society and will refuse to enforce a promise or other term on grounds of public policy. Such a decision is based on a reluctance to aid the promisee rather than on solicitude for the promisor as such. Two reasons lie behind this reluctance. First, a refusal to enforce the promise may be an appropriate sanction to discourage undesirable conduct, either by the parties themselves or by others. Second, enforcement of the promise may be an inappropriate use of the judicial process in carrying out an unsavory transaction. The decision in a particular case will often turn on a delicate balancing of these considerations against those that favor supporting transactions freely entered into by the parties. This Chapter states the rules by which courts are guided in making such decisions. Restatement (Second) of Contracts 8 Intro. Note (1981).
+In general, parties may contract as they wish, and courts will enforce their agreements without passing on their substance. Sometimes, however, a court will decide that the interest in freedom of contract is outweighed by some overriding interest of society and will refuse to enforce a promise or other term on grounds of public policy. (RST Second 8 Intro). When determining whether a contract should not be enforced for public policy reasons, courts look at competing private values of individual freedom vs. public values of social regulation. Often these competing values are expressed as the private interest in freedom of choice competing against a public interest in some other policy, or as free market economic notions competing against moral values.
 
-When determining whether a contract should not be enforced for public policy reasons, courts look at competing private values of individual freedom vs. public values of social regulation. Often these competing values are expressed as the private interest in freedom of choice competing against a public interest in some other policy, or as free market economic notions competing against moral values.
-
-Under the RST § 179, a public policy against the enforcement of promises or other terms may be derived by the court from (a) legislation relevant to such a policy, or (b) the need to protect some aspect of the public welfare, as is the case for the judicial policies against, for example (i) restraint of trade (§§ 186-188), (ii) impairment of family relations (§§ 189-191), and (iii) interference with other protected interests (§§ 192-196, 356).
-
-Policies tend to be grounded in moral values, economic notions and the protection of government institutions.
+Under the RST § 179, a public policy against the enforcement of promises or other terms may be derived by the court from (a) legislation relevant to such a policy, or (b) the need to protect some aspect of the public welfare, as is the case for the judicial policies against, for example (i) restraint of trade (§§ 186-188), (ii) impairment of family relations (§§ 189-191), and (iii) interference with other protected interests (§§ 192-196, 356). Policies tend to be grounded in moral values, economic notions and the protection of government institutions.
 
 ### Framework for Public Policy
 
@@ -1075,9 +1071,7 @@ Policies tend to be grounded in moral values, economic notions and the protectio
 
 The first issue is whether Marie can disaffirm the contract.
 
-Under Restatement Second § 20, capacity means the legal power which a normal person would have under the same circumstances. Incapacity may be total, as in cases where extreme physical or mental disability prevents manifestation of assent to the transaction, or in cases of mental illness after a guardian has been appointed. Often, however, lack of capacity merely renders contracts voidable. See § 7. Incapacity sometimes relates only to particular types of transactions; on the other hand, persons whose capacity is limited in most circumstances may be bound by particular types of transactions. In cases of partial disability, the law of mistake or of misrepresentation, duress and undue influence may be relevant. See Chapters 6 and 7, particularly §§ 153, 157, 161(d), 163, 164, 167, 169(c) and 177, Comment b to § 172 and Comment c to § 175. The principal categories of natural persons having no capacity or limited capacity to contract include minors and the mentally ill.
-
-Historically, the categories were married women, infants, and insane persons. Those formerly referred to as insane are included in the more modern phrase “mentally ill,” and mentally defective persons are treated similarly. Statutes sometimes authorize the appointment of guardians for habitual drunkards, narcotics addicts, spendthrifts, aged persons or convicts as in cases of mental illness. Even without the appointment of a guardian, civil powers of convicts may be suspended in whole or in part during imprisonment; and American Indians are for some purposes treated as wards of the United States government. The contractual powers of convicts and Indians are beyond the scope of the Restatement of this Subject. As to convicts, see Model Penal Code § 306.5. Restatement (Second) of Contracts § 12 (1981).
+Under Restatement Second § 20, capacity means the legal power which a normal person would have under the same circumstances. Incapacity may be total, as in cases where extreme physical or mental disability prevents manifestation of assent to the transaction, or in cases of mental illness after a guardian has been appointed. Often, however, lack of capacity merely renders contracts voidable. See § 7. Incapacity sometimes relates only to particular types of transactions; on the other hand, persons whose capacity is limited in most circumstances may be bound by particular types of transactions. In cases of partial disability, the law of mistake or of misrepresentation, duress and undue influence may be relevant. See Chapters 6 and 7, particularly §§ 153, 157, 161(d), 163, 164, 167, 169(c) and 177, Comment b to § 172 and Comment c to § 175. The principal categories of natural persons having no capacity or limited capacity to contract include minors and the mentally ill. (Historically, the categories were married women, infants, and what were formerly referred to as insane persons [RST Second § 12])
 
 The risks of undoing a contract if one party is unable to understand the terms include causing a lack of stability of contractual relations by forfeiture, the perpetuation of stereotypes, the perpetuation of parentalistic stances, and taking away agency of a contracting party (for example, a victim of domestic violence being portrayed as lacking agency due to diminished capacity). Subordination and discrimination can deprive people of the right to contract and limit market activity of particular groups; the legacy of contractual incapacity produces implicit and systemic bias, disparate pricing, and racial stereotyping. The capacity doctrine can take away agency of certain groups, either intentionally or not.
 
@@ -1172,12 +1166,57 @@ Another example of economic duress: Tenant is renting an apartment for $500/mont
 
 ## Mistake
 
-The issue is whether the defense of unilateral mistake will prevent enforcement of the contract.
+**§ 151 Mistake Defined**
+
+A mistake is a belief that is not in accord with the facts. Restatement (Second) of Contracts § 151 (1981).
+
+**§ 152 When Mistake of Both Parties Makes a Contract Voidable**
+
+(1) Where a mistake of both parties at the time a contract was made as to a basic assumption on which the contract was made has a material effect on the agreed exchange of performances, the contract is voidable by the adversely affected party unless he bears the risk of the mistake under the rule stated in § 154. (2) In determining whether the mistake has a material effect on the agreed exchange of performances, account is taken of any relief by way of reformation, restitution, or otherwise. Restatement (Second) of Contracts § 152 (1981)
+
+**§ 153 When Mistake of One Party Makes a Contract Voidable**
+
+Where a mistake of one party at the time a contract was made as to a basic assumption on which he made the contract has a material effect on the agreed exchange of performances that is adverse to him, the contract is voidable by him if he does not bear the risk of the mistake under the rule stated in § 154, and (a) the effect of the mistake is such that enforcement of the contract would be unconscionable, or (b) the other party had reason to know of the mistake or his fault caused the mistake. Restatement (Second) of Contracts § 153 (1981).
+
+**§ 154 When a Party Bears the Risk of a Mistake**
+
+A party bears the risk of a mistake when (a) the risk is allocated to him by agreement of the parties, or (b) he is aware, at the time the contract is made, that he has only limited knowledge with respect to the facts to which the mistake relates but treats his limited knowledge as sufficient, or (c) the risk is allocated to him by the court on the ground that it is reasonable in the circumstances to do so. The issue is whether the defense of unilateral mistake will prevent enforcement of the contract. Restatement (Second) of Contracts § 154 (1981).
+
+**§ 155 When Mistake of Both Parties as to Written Expression Justifies Reformation**
+
+Where a writing that evidences or embodies an agreement in whole or in part fails to express the agreement because of a mistake of both parties as to the contents or effect of the writing, the court may at the request of a party reform the writing to express the agreement, except to the extent that rights of third parties such as good faith purchasers for value will be unfairly affected. Restatement (Second) of Contracts § 155 (1981).
+
+**§ 156 Mistake as to Contract Within the Statute of Frauds**
+
+If reformation of a writing is otherwise appropriate, it is not precluded by the fact that the contract is within the Statute of Frauds. Restatement (Second) of Contracts § 156 (1981).
+
+**§ 157 Effect of Fault of Party Seeking Relief**
+
+A mistaken party's fault in failing to know or discover the facts before making the contract does not bar him from avoidance or reformation under the rules stated in this Chapter, unless his fault amounts to a failure to act in good faith and in accordance with reasonable standards of fair dealing. Restatement (Second) of Contracts § 157 (1981).
+
+**§ 158 Relief Including Restitution**
+
+(1) In any case governed by the rules stated in this Chapter, either party may have a claim for relief including restitution under the rules stated in §§ 240 and 376. (2) In any case governed by the rules stated in this Chapter, if those rules together with the rules stated in Chapter 16 will not avoid injustice, the court may grant relief on such terms as justice requires including protection of the parties' reliance interests. Restatement (Second) of Contracts § 158 (1981)
+
+---
+
+## Steps of analysis
+
 R: Under the Restatement Second, [RULE w/elements] + POLICY
 
-The first issue is whether BASIC ASSUMPTION
+I: The question is whether there was a mistake where ...
 
-R:
+R: Under the Restatement Second, a mistake is "a belief that is not in accord with the facts" (§ 151). The mistaken assumption must be a type of mistake covered by the mistake doctrine. The types of mistake covered in this doctrine are mistake of fact, mistake of law, misunderstanding/interpretation, improvident act, mistaken prediction about the future, and mistake in expression.
+
+I: The first sub-issue is whether the mistake was a mistake of fact.
+
+R: Where § 151 of the Restatement Second defines mistake as "a belief that is not in accord with the facts," the mistake must relate to the facts as they exist at the time of entering into the contract.
+
+A: Here, there was/was not a mistake of fact where ... because ...
+
+C: Therefore,
+
+
 
 A: Here, ... Like in [case name], where the court found [rule] satisfied/not satisfied because [legally relevant facts from precedential case]. Here, the court will likely find [rule] satisfied/not satisfied because [legally relevant facts from exam].
 
@@ -1188,6 +1227,10 @@ The next issue is whether the party seeking relief assumed risk.
 The last issue is whether unconsionable or had reason to know
 
 Therefore, unilateral mistake satisfied/not satisfied.
+
+---
+
+
 
 ---
 
