@@ -1582,7 +1582,11 @@ R: Substantive unfairness is unfairness in the terms of the contract. To determi
 
 A: Here, ...
 
-C: Therefore, ...
+C: Therefore, there is/is not substantive unfairness.
+
+C: Therefore, there is unconscionability because there is procedural unfairness and substantive unfaireness.
+
+---
 
 Procedural Unfairness
 
