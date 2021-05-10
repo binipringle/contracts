@@ -1502,58 +1502,94 @@ Will not be on test
 
 ## Impracticability
 
-This will be on test
+**§ 261 Discharge by Supervening Impracticability** Where, after a contract is made, a party's performance is made impracticable without his fault by the occurrence of an event the non-occurrence of which was a basic assumption on which the contract was made, his duty to render that performance is discharged, unless the language or the circumstances indicate the contrary.
+
+I: The question is whether the contract should be voided because of impracticability.
+
+R: Under the Restatement Second, a contract can be voided due to impracticability is when events following contract formation are different from assumptions the parties made when the contract was made. Like Mistake, the doctrine of impracticability deals with situations where the exchange turned out very different from what was expected. Unlike mistake, with impracticability there was no factual error at the time of contracting. Instead, the supervening event happens after contracting. The older common law rule was impossibility, which contemplated a situation where an event completely defeated the ability to perform, such as when a person died or an object was destroyed. The scope of the doctrine has broadened to include situations where performance is technically possible but has become extremely burdensome.
+
+For a duty to render performance to be discharged because of impracticability, four elements have to be satisfied. These elements are (1) an event must have occurred, the nonoccurrence of which was a basic assumption of the contract (§§ 262-264); (2) the event must have made performance impracticable (unduly burdensome – not impossible); (3) impracticability cannot be either party’s fault; and (4) the party seeking relief must not have assumed the risk.
+
+A:
+
+I: The first issue is whether an event whose non-occurrence was a basis on which the contract was made occurred.
+
+R: Under the Restatement Second of Contracts, for performance of a contract to become impracticable, an event must have occurred, the non-occurrence of which was a basic assumption of the contract. This event (i) does not have to be unforeseeable; it is sufficient that it be unforeseen (not likely to occur) or unexpected; and (ii) the event must not have been foreseen as a real possibility. Examples of this kind of event are war, natural disaster, a strike, a change in the law, the death of a person, destruction of property, and perhaps a global pandemic.
+
+A: Here, ...
+
+C: Therefore, the element of the occurrence of an event is satisfied.
+
+I: The second issue is whether the event made performance impracticable.
+
+R: For an event to make performance impracticable, performance must have become unduly burdensome but not necessarily impossible, and the effort required to perform must be substantial, extreme, or very burdensome. The event must have not just sowed inconvenience, but must have made performance vitally different from what was anticipated.
+
+A: Here, ...
+
+C: Therefore, the element of performance having become impracticable is satisfied.
+
+I: The third issue is whether either of the parties caused the event to become impracticable.
+
+R: For an event to have made performance impracticable, the impracticability of performance cannot be either party’s fault.
+
+A: Here, ...
+
+C: Therefore, the element of fault is satisfied.
+
+I: The fourth issue is whether either of the parties assumed the risk.
+
+R: For an event to have made performance impracticable, neither party can have assumed the risk. To determine whether a party assumed risk, courts look for express language in the contract such as a force majeure clause, and may consider surrounding context and normal practices and expectations. Sometimes court will allocate risk to one party.
+
+A: Here, ... (consider what would parties have bargained for had they anticipated the extraordinary event)
+
+C: Therefore, the element of risk is satisfied.
+
+C: Therefore, the contract should be voided because of impracticability because all of the elements of impracticability are satisfied.
 
 ---
 
 ## Unconscionability
 
-**Ora Lee Williams v. Walker-Thomas Furniture Company, William Thorne et al. v. Walker-Thomas Furniture Company** U.S. Court of Appeals for The District of Columbia Circuit 350 F.2d 445 (1965)
-
-Terms of a retail Purchase Agreement
-
-The amount of each periodic installment payment to be made by the [purchaser]  to the Company under this present lease shall be inclusive of and not in addition to the amount of each installment payment to be made by [purchaser] under such prior leases, bills or accounts; and all payments now and hereafter made by [purchaser] shall be credited pro rata on all outstanding leases, bills and accounts due the Company by [purchaser] at the time each such payment is made.
-
 Can this be written more succinctly? More clearly? I don't know. There's a lot of critique of this clause in class and by the professor.
 
-3 Definitions of Unconscionability
+**3 Definitions of Unconscionability (look at other outline to see difference between RST and UCC)**
 
 - UCC § 2-302 (and comment), RST § 208
 
-- Williams v. Walker Thomas (this is THE landmark case for unconsionability)
+- Williams v. Walker Thomas (this is THE landmark case for unconsionability) (U.S. Court of Appeals for D.C. Circuit [1965]. Terms of a retail Purchase Agreement: "The amount of each periodic installment payment to be made by the [purchaser]  to the Company under this present lease shall be inclusive of and not in addition to the amount of each installment payment to be made by [purchaser] under such prior leases, bills or accounts; and all payments now and hereafter made by [purchaser] shall be credited pro rata on all outstanding leases, bills and accounts due the Company by [purchaser] at the time each such payment is made.")
 
 - Procedural and Substantive unconscionability
 
-*Only defense that looks at substantive fairness*
+*This is the only defense that looks at substantive fairness* Substantive unfairness is really unfairness of the terms. We saw that everything up until now courts will not look at the adequacy of consideration, because the more important principle is assent; if we're dealing with two parties with full capacity who look like they know what they're doing, the court doesn't care. It goes back to the presumption of neo-classical economic theory, and the court doesn't care if the terms are unfair. The court doesn't look at fairness. It looks for lack of assent. The doctrine of unconscionability is looking at really unfair terms. Really unfair terms are what trigger the doctrine. At the core unconsionability is about bad behavior. The core is not whether a person was sophisticated or educated enough to understand. It's about whether a person took advantage of it. If we change the way we think about defenses (especially unconscionability), can we take the focus off human frailties and inadequacies of the person seeking to avoid the contract and put the focus on the limits we must or should place on the use of power? If we did this all of these defenses would still work. But we would change the focus to the limits on the use of power.
 
-Substantive unfairness is really unfairness of the terms.
+I: The question is whether there was unconscionability where ...
 
-We saw that everything up until now courts will not look at the adequacy of consideration, because the more important principle is assent; if we're dealing with two parties with full capacity who look like they know what they're doing, the court doesn't care. It goes back to the presumption of neo-classical economic theory, and we don't care if the terms are unfair. We don't look at fairness. We look for lack of assent.
+R: For a court to find that there was unconscionability there must be an “absence of meaningful choice on the part of one of the parties together with contract terms that are unreasonably favorable to the other party.” The two kinds of unfairness are procedural unfairness and substantive unfairness; the more there is of one the less is needed of the other. Generally, the doctrine calls for some of both. Courts are more inclined to find unconscionability where there is procedural unfairness than where there is substantive unfairness.
 
-Here we're looking at really unfair terms. Really unfair terms are what trigger the doctrine.
+A:
 
-Unconscionability (the two elements:) Requires:
+I: The first issue is whether there is procedural unfairness.
 
-“Absence of meaningful choice on the part of one of the parties together with contract terms that are unreasonably favorable to the other party.”
+R: Procedural unfairness is unfairness is in the bargaining process (who took advantage of whom). In determining whether there was procedural unfairness, courts look at (i) status - who the parties are and what is the balance of power of the two parties (i.e. gross inequality of bargaining power), and (2) whether someone took advantage of the known disparity in bargaining power. Courts look at factors such as the relationship between the parties, wealth and financial insecurity, education levels of the parties, knowledge of subject matter, absence of meaningful choice, whether there is a monopoly (e.g., no choice of other sellers), whether the contract is an adhesion contract (a take it or leave it situation), whether the subject of the contract is a necessity item (no option to walk away), and the culture and/or language of the parties. In terms of behavior, a court may look at whether a party is taking advantage of known disparity in power; whether there are deceptive sales practices, such as rushing or pressure to sign; whether the parties have access to other advice or to a lawyer; fine print; convoluted terms; long sentences; legalese; or the burying of important information.
 
-Procedural Unfairness and Substantive Unfairness: the more you have of one the less you need of the other.
+A: Here, ...
 
-Generally, you do need some of both.
+C: Therefore, there is/is not procedural unfairness.
 
-Procedural unfairness is unfairness is in the bargaining process (who took advantage of whom and so on). Two categories of things i should consider: 1. status - who the parties are and what is the balance of power of the two parties; we're looking for gross inequality of bargaining power, and 2. whether someone took advantage of that superior bargaining power - taking advantage of the known disparity in bargaining power; overreach
+I: The second issue is whether there is substantive unfairness.
 
-Substantive unfairness is unfairness in the terms.
+R: Substantive unfairness is unfairness in the terms of the contract. To determine whether there is substantive unfairness, courts consider factors such as whether the contract is shockingly one-sided; whether the contract shocks the conscience of the court; and whether the contract is extreme in light of its commercial setting.
+
+A: Here, ...
+
+C: Therefore, ...
 
 Procedural Unfairness
 
 Unfairness in the bargaining process
 
-Status: Gross inequality in bargaining power
-
-Behavior: overreaching, taking advantage of known disparity in bargaining power.
-
-Status (disparity in bargaining power)
-
+- Status: Gross inequality in bargaining power
+- Status (disparity in bargaining power)
 - Relationship between the parties
 - Wealth / financial insecurity
 - Education level
@@ -1582,170 +1618,13 @@ Substantive unfairness
 - Shocks the conscience of the court
 - Extreme in light of commercial setting
 
-Williams v. Walker Thomas (p 460)
+**Williams v. Walker Thomas (p 460)**
 
-What procedural unfairness present?
-Status
-Behavior
-What substantive unfairness?
-
-Can you argue the contract should be enforced? (respond to arguments above)
-
-What’s best result?
-
-What’s the seller supposed to do?
-
+- What procedural unfairness present?
+- What substantive unfairness?
 - Should seller have a duty not to sell to people who are at higher risk of defaulting?
 - Should they not extend credit?
 - Try to talk someone out of buying?
-
-At the core its about bad behavior. The core is not whether a person was sophisticated or educated enough to understand. It's about whether a person took advantage of it.
-
-Consider
-
-What would happen if we change the way we think about defenses (especially unconscionability)?
-
-Can we take the focus off human frailties and inadequacies of the person seeking to avoid the contract and put the focus on the limits we must or should place on the use of power?
-
-If we did this all of these defenses would still work. But change the focus to the limits on the use of power.
-
-Hypo (Issue spotting)(to consider outside of class)
-
-- What other defenses could Williams have used?
-- What are the limitations of the other defenses under these facts?
-
-Sorta someone being threatened but not duress, sorta misrepresentation but doesn't quite rise to the level. A lot of bad behavior but none that fit into one of the
-
-Public policy would be the best defense. Dragnet clauses are against public policy. Remember that if a clause is against public policy that contract is void.
-
-If it's unconscionable the contract could be enforced in some circumstances and not others (if a billionaire is buying a yacht it's not unconscionable because billionaire can have lawyer read contract and can not buy the yacht).
-
-You can make the idea of duress because there is an implied threat and only maybe that the furniture store could tell social worker that williams had failed to pay for furniture.
-
-A Loaf of Bread (p 465)
-
-Is the $.55 Green charged Reed at the end of the story a fair price?
-Is it ever morally unjust to charge what the market will bear?
-
----
-
-IMPRACTICABILITY
-
-When events following contract formation are different from assumptions the parties made
-
-Like Mistake
-
-Dealing with situations where the exchange turned out very different from what was expected
-
-But no factual error at the time of contracting
-
-Supervening event happens after contracting
-
-Hypo
-
-You’re buying beachfront property
-Unknown to both parties, a tidal wave swept the cabin into the sea
-Mistake: Just a few hours before signing the contract
-Impracticability: A few hours after signing the contract
-
----
-
-Impossibility (dont use this term - this is the old term)
-
-Older common law rule.
-If event completely defeated the ability to perform
-E.g., Person died or object destroyed
-
-Scope of doctrine has broadened to include situations where performance is technically possible but has become extremely burdensome
-
----
-
-Compare
-
-Imposs:	Co contracts to sell original Picasso to buyer for $1 million
-		Painting is destroyed in a fire
-		Performance is impossible
-
-Impract:	In mid 60’s Co contracts to sell uranium over next 20 yrs to 		utility co
-		Price of $10/lb
-		In mid 70’s price goes up to $40/lb	(oil embargo)
-		Seller doesn’t want to honor its K
-
----
-
-Typically
-
-Promisor bears the risk of increased difficulty of performance
-That’s a risk you take when you enter the contract
-But when … (4 elements)
-
----
-
-4 Requirements
-
-(1)  Event must have occurred, the nonoccurrence of which was a
-       basic assumption of the contract	(see secs. 262-264)
-
-When I signed the contract I did not expect that I would go bankrupt, and a reasonable person would not have expected me to go bankrupt because all the stocks my money was invested in were very high.
-
-(2)  Event must have made performance impracticable (unduly burdensome – not impossible)
-
-The event of my becoming bankrupt makes it impossible for me to ship the things
-
-(3)  Impracticability can’t be either party’s fault
-
-It was not my fault that the stocks plummeted; they plummeted because there was a pandemic and most of the stocks I had invested in were hospitality and tourism.  
-
-(4)  Party seeking relief must not have assumed the risk
-
-I'm not very clear about this.
-
----
-
-Element #1: Event must have occurred, the nonoccurrence of which was a basic assumption of the contract
-
-Doesn’t have to be unforeseeable
-Just unforeseen (not likely to occur) or unexpected
-Must not have been foreseen as a real possibility
-Examples: War, natural disaster, strike, change in the law, death of a person, destruction of property.
-Global pandemic?
-
----
-
-Element #2: Event must have made performance impracticable
-
-Performance must be unduly burdensome – not impossible
-Must be substantial, extreme, or very burdensome
-Not just a sowing of inconvenience
-Vitally different from what was anticipated
-
----
-
-Element #3: Impracticability can’t be either party’s fault
-
----
-
-Element #4: Party can’t have assumed the risk
-
-Contract interpretation
-Look for express language in the contract
-Force majeure clause
-Consider surrounding context and normal practices and expectations
-Sometimes court will allocate risk to one party
-
-Consider: What would parties have bargained for had they anticipated the extraordinary event?
-
----
-
-Hypo (for practice outside class): (argue both sides for each element)
-
-In mid 60’s Co contracts to sell 80 million pounds of uranium over next 20 yrs to 27 utility companies
-Price of $10/lb
-In mid 70’s price goes up to $40/lb	(oil embargo)
-Seller doesn’t want to honor its K
-Utility companies sue
-Sellers argue: Performance is commercially impracticable – price rise was unforeseeable
-Go through elements…
 
 ---
 
