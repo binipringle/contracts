@@ -991,7 +991,6 @@ The next issue is whether any defenses prevent enforcement.
 
 *No defenses work? Change in circumstances to warrant K modification?*
 
----
 
 ## Modification
 
@@ -999,7 +998,7 @@ The next issue is whether modification of the contract will be allowed.
 
 **General rule for modification:**
 
----
+*I think no modification might lead us to breach*
 
 ## Breach and damages
 
@@ -1013,7 +1012,6 @@ What damages is P entitled to?
 
 *Is there a dispute over meaning of terms?*
 
----
 
 ## Implied Terms
 
@@ -1027,17 +1025,21 @@ The next issue is whether extrinsic evidence is admissible.
 - TU, CD, CP
 - Good faith & best efforts
 
->>> 
+*If there is no dispute the terms are probably express terms*
 
 ## Express Terms
 
 - Parol Evidence Rule
+
+*Then I think we end up in damages; don't forget limitations*
 
 ---
 
 # Seven Defenses
 
 There are seven defenses (illegality goes with public policy)
+
+---
 
 ## Illegality
 
@@ -1049,6 +1051,8 @@ Generally, a contract or contract term that is illegal (violates a statute) or i
 - Whether one party will be harmed in a way that’s disproportionate to the harm done by violating the statute
 - Whether enforcing the contract will encourage people to violate the law
 - Whether refusing to enforce the contract will deter illegal conduct
+
+---
 
 ## Public Policy
 
@@ -1129,13 +1133,9 @@ In conclusion ...
 
 ## Duress
 
-**§ 174:  Duress by Physical Compulsion. Void**
+Statutes are below
 
-Formation of a Contract is prevented if conduct that appears to be a manifestation of assent by a party who does not intend to engage in that conduct is physically compelled by duress, the conduct is not effective as a manifestation of assent. Restatement (Second) of Contracts § 174 (1981).
-
-**§ 175:  Duress by Threat. Voidable**
-
-A contract is voidable in the following instances: (1) If a party's manifestation of assent is induced by an improper threat by the other party that leaves the victim no reasonable alternative, the contract is voidable by the victim; or (2) If a party's manifestation of assent is induced by one who is not a party to the transaction, the contract is voidable by the victim unless the other party to the transaction in good faith and without reason to know of the duress either gives value or relies materially on the transaction. Restatement (Second) of Contracts § 175 (1981).
+---
 
 **Four Elements of RST §175(1)**
 
@@ -1150,11 +1150,7 @@ Under RST § 175(1), if a party's manifestation of assent is induced by an impro
 
 Under RST § 175(2), if a party's manifestation of assent is induced by one who is not a party to the transaction, the contract is voidable by the victim unless (1) the other party (the "other party" is the contracting party who is not the "victim" under duress) acted in good faith; (2) the other party didn't know of the duress, **AND** (3) the other party either gives value or relies materially on the transaction. The other party must establish all three elements to escape a claim of duress by a third party. *The two keys are did the other party know and did the other party rely*
 
-**Lorna Bond Rule**
-
-Bond court broadened RST § 174. More situations where a contract might be void. Under the Lorna Bond rule, a contract is void if there was (1) duress by actual physical compulsion; **OR**  (2) duress by threat of physical violence in such magnitude as to cause a reasonable person to fear (i) loss of life; (ii) serious physical injury; **OR** (iii) actual imprisonment. There is no requirement that the other party knew of the threats.
-
-**Economic duress**
+## Economic duress
 
 One party threatens to breach the agreement unless the other party agrees to some further demand. “I won’t perform under this existing contract unless you pay me more money.”
 
@@ -1168,6 +1164,20 @@ Example of economic duress: Two parties enter into an agreement to build a house
 Owner knows builder is in dire financial need. “Negotiates” a settlement and release agreement below the contract price. E.g., owner owes builder $1 million.  I won’t pay you unless you lower it to $800,000. **Not enough to show threatened breach of contract**
 
 Another example of economic duress: Tenant is renting an apartment for $500/month (year lease). Midyear: I’ll only continue to rent you this apartment if you pay me $700/month for the rest of the lease. There’s a shortage of decent affordable housing. Tenant has no choice but to agree.
+
+## Statutes
+
+**§ 174:  Duress by Physical Compulsion. Void**
+
+Formation of a Contract is prevented if conduct that appears to be a manifestation of assent by a party who does not intend to engage in that conduct is physically compelled by duress, the conduct is not effective as a manifestation of assent. Restatement (Second) of Contracts § 174 (1981).
+
+**§ 175:  Duress by Threat. Voidable**
+
+A contract is voidable in the following instances: (1) If a party's manifestation of assent is induced by an improper threat by the other party that leaves the victim no reasonable alternative, the contract is voidable by the victim; or (2) If a party's manifestation of assent is induced by one who is not a party to the transaction, the contract is voidable by the victim unless the other party to the transaction in good faith and without reason to know of the duress either gives value or relies materially on the transaction. Restatement (Second) of Contracts § 175 (1981).
+
+**Lorna Bond Rule**
+
+Bond court broadened RST § 174. More situations where a contract might be void. Under the Lorna Bond rule, a contract is void if there was (1) duress by actual physical compulsion; **OR**  (2) duress by threat of physical violence in such magnitude as to cause a reasonable person to fear (i) loss of life; (ii) serious physical injury; **OR** (iii) actual imprisonment. There is no requirement that the other party knew of the threats.
 
 ---
 
@@ -1643,11 +1653,13 @@ Substantive unfairness
 
 # Modification
 
-Involves changed circumstances – parties want to change the terms of their contract.
+Involves changed circumstances – parties want to change the terms of their contract. With impracticability, circumstances materially change after the parties sign the contract so court excuses performance. Here, change in circumstances might not be material enough to excuse performance (original contract may still be enforceable), but parties want to modify terms.The next issue is whether modification of the contract will be allowed.
 
-With impracticability, circumstances materially change after the parties sign the contract so court excuses performance.
+**§ 89 Modification of Executory Contract** A promise modifying a duty under a contract not fully performed on either side is binding (a) if the modification is fair and equitable in view of circumstances not anticipated by the parties when the contract was made; or (b) to the extent provided by statute; or (c) to the extent that justice requires enforcement in view of material change of position in reliance on the promise.
 
-Here, change in circumstances might not be material enough to excuse performance (original contract may still be enforceable), but parties want to modify terms.
+Prof Z reply to Leora's question in forum: 1. If there's a question where one party is claiming that the contract was modified, then the second IRAC would be a parol evidence rule IRAC (which could be really short). It would basically need to say that under one of the exceptions, the parol evidence rule does not bar evidence to prove a modification (so the evidence would be admissible).
+
+In Nanakuli, the evidence did not modify the contract -- the extrinsic evidence in that case was TU and CP evidence which the court considered to be (an implied) part of the contract when signed, not a modification of the signed contract.
 
 ---
 
@@ -1662,17 +1674,9 @@ Is there consideration for the modification?
 
 ---
 
-Pre-Existing Duty Rule
+**Pre-Existing Duty Rule**
 
 A promise to do something you’re already obligated to do can’t be sufficient consideration for a return promise.
-
-	Used to be: K modification not valid unless both parties agree to something additional (additional consideration on both sides)
-Reason for that old rule? (watch video at 7:06)
-Criticism?
-
----
-
-we had a contract for 100. we modified the contract where you agreed to give me 130 and i agreed to do the same thing i had originally agreed. if this was the result of economic duress this wouldn't be possible.
 
 some modifications in good faith, others in bad. if in bad faith covered by duress and k not enforceable.
 
@@ -1680,44 +1684,19 @@ this bike sale would fall under ucc because sale of goods.
 
 ucc wanted to make the code more flexible. these are the legal realists saying you know, sometimes people make mistakes, miscalculate. see ucc numbers below.
 
----
-
 used to be that a modification was not valid without something new being exchanged (watch recording just before break at 7:06 because phone rang and this was interesting)
 
 there used to be no duress
-
----
 
 Now
 
 New rules take into account good faith reasons to modify
 
-UCC § 2-209:
-An agreement modifying a contract needs no consideration to be valid.  Just need:
- signed writing and
- mutual assent
-(No reason for modification needed)
+**UCC § 2-209:** An agreement modifying a contract needs no consideration to be valid.  Just need: signed writing and mutual assent (No reason for modification needed)
 
-RST § 89:
-Generally, still need consideration unless (need all of the following):
-Good faith / voluntary
-Unexpected change in circumstances (reason for modification)
-Signed writing
-Mutual assent
+**RST § 89:** Generally, still need consideration unless (need all of the following): Good faith / voluntary; Unexpected change in circumstances (reason for modification) **something must have happened that must have made the contract impracticable**; Signed writing; Mutual assent
 
----
-
-when looking at modification cases, look first for consideration. if there's consideration the modification will be valid and there will be no need for further analysis
-
-if no consideration and its movable goods, if theres a signed writing and mutual assent, the modification is valid.
-
----
-
-Cultural Attitudes Towards Contract Law: Japan and US Compared
-
-Japan: If in the future a dispute arises, “the parties will confer in good faith” or “the parties will settle the dispute harmoniously by consultation.”
-US: Less flexibility in contractual relationships
-The more flexible rules of the UCC have similar goals to Japanese contracting – emphasizing cooperative and supportive aspects of contractual relationships rather than competitive and antagonistic
+When looking at modification cases, look first for consideration. if there's consideration the modification will be valid and there will be no need for further analysis. If no consideration and it's movable goods, if there's a signed writing and mutual assent, the modification is valid.
 
 ---
 
@@ -1757,32 +1736,6 @@ this case is consistent with the neo classical economic theory in that the court
 
 ---
 
-Consideration
-
-What was Alaska Packers’ reason for not paying the $100/season?
-ISSUES:
-Was there consideration for the modification?
-Is consideration required?
-
-see above
-
----
-
-Neo-Classical Perspective
-
-What assumptions does the court make about the parties and about their relationship?
-
-How can those assumptions be challenged? What’s another valid reading of the case?
-
-see above
-
----
-
-Did the court say that modification without 	consideration is NEVER valid?
-
-
----
-
 Quigley (p 518)
 
 Quigley sold farm to Wilsons
@@ -1807,16 +1760,6 @@ the court said there was no consideration - ? - there was some talk about waiver
 ---
 
 **big thing here is that the code requires no consideration**
-
----
-
-RST § 89
-
-Modification needs consideration unless:
-Fair and equitable (voluntary / good faith)
-Unanticipated Circumstances **something must have happened that must have made the contract impracticable**
-Signed writing
-(mutual assent)
 
 ---
 
@@ -2172,17 +2115,13 @@ Sale of farm together with “cattle, hogs, and other animals.”  Does that inc
 
 ---
 
-expressio unius est exclusio alterius  
 
-sui generis - ask Zalesne about this again (or ask Mott) - has to be animals of its own kind?
 
 ---
 
 Rules of interpretation
 
-The expression of one thing is the exclusion of another
-
-Of the same kind
+expressio unius est exclusio alterius  (The expression of one thing is the exclusion of another)
 
 ---
 
@@ -2382,36 +2321,116 @@ Is there a dispute over the meaning of terms? go to > Framework for interpreting
 
 ---
 
-
-INCORPORATE MOTT'S SLIDES FROM 4-12-21 BECAUSE SUPER important
-
----
-
 # Breach aka substantial performance
 
-There are two questions. The questions are (1) whether there was a breach where Seller agreed to provide a house (“Premises”) where “the bedroom and living areas shall have ceilings at approximately 9’6” height” but provided Premises where the bedrooms and living area ceilings were approximately 8’7” in height, and (2) if there was a breach, how much damages Seller should pay to Buyer. First, I will discuss breach, and second, I will discuss damages.
+I: When addressing a contract dispute, the first question a court needs to ask is whether the contract involved the sale of movable goods, services, construction, property, or something else.
 
-I.	Breach of contract
+R: This is because depending on what the contract is for, different laws apply. Contracts for the sale of movable goods over $500 are governed by the Uniform Commercial Code (UCC), while pretty much everything else is governed by common law as codified into the Restatement Second of Contracts (RST).
 
-I: The first issue is whether there was a breach.
+A: The contract in question here is a contract for ... , which is a ....   
 
-R: Courts allow parties to breach contracts because forcing them to remain in a contract they no longer want to be in would amount to forcing them into involuntary servitude. When one party says there was a breach and the other party says that there wasn’t a breach, to determine whether there was a breach, courts interpret the contract to see whether any terms of the contract were breached.
+C: Therefore, the UCC/RST applies.
+
+Here there are two questions. (1) and (2). First, I will discuss ... , and second, I will discuss damages.
+
+I: The first question is whether both parties performed as the terms of the contract required.
+
+R: Courts allow parties to breach contracts because forcing them to remain in a contract they no longer want to be in would amount to forcing them into involuntary servitude. When one party says the other party breached by not performing as the terms of the contract required, and the other party says that there wasn’t a breach, to determine whether there was a breach, courts interpret the contract to see whether any terms of the contract were breached.
+
 A:
-I: The first sub issue is what term or clause is at issue.  
+
+I: The first sub issue is what term or clause is at issue.
+
 R: The terms of an agreement can be in express or implied terms. Express terms are terms that were specifically mentioned and agreed upon by both parties at the time the contract is made. They can either be oral or in writing.
-A: Here, there were express terms in writing where the agreement stated that the premises shall include items listed in a “Summary of Features” including “high ceilings and expansive room arrangements” and specifying that “the bedroom and living areas shall have ceilings at approximately 9’6” height” and “some slight ceiling height variation may result in these areas to conceal ductwork, sprinkler piping, electrical conduit and wiring, structural beams, drain piping, terrace insulation and to address other conditions as required by the construction documents and field conditions.”
+
+A: Here, there were express terms in writing where ...
+
 C: Therefore, the court would interpret express terms.
 
 I: The second sub-issue is whether the express terms were clear and unambiguous.
-R: When terms are ambiguous or unclear, specific provisions generally control over general provisions, but courts will favor interpretations that give meaning to the whole contract, because it results in a fairer bargain.  When a preliminary consideration of all credible evidence offered to prove the intent of the parties still leaves contractual terms fairly susceptible to at least two rational interpretations, extrinsic evidence relevant to prove either of these meanings is admissible.
-A: Here, the seller would argue that “slight variation” is a plain text meaning of common English usage which is not unclear. Seller would argue that because the difference in height between the desired height of approximately 9’6” and the actual height of approximately 8’7” is only 0’9”, a plain text interpretation would show that this is a slight ceiling height variation which does not contradict the terms of the written agreement, which stated that “some slight ceiling height variation may result in these areas to conceal ductwork, sprinkler piping, electrical conduit and wiring, structural beams, drain piping, terrace insulation and to address other conditions as required by the construction documents and field conditions.” The buyer would argue that height of 8’7” in the bedroom and living areas is not a slight variation on the agreed ceiling height because the whole ceilings of those areas have the same height. Because the term of “slight ceiling height variation” is unclear, the court would likely allow extrinsic evidence of trade usage in the industry to determine whether 0’9” is a slight variation and, if so, whether this variation in the bedroom and living area ceilings was necessary “to conceal ductwork, sprinkler piping, electrical conduit and wiring, structural beams, drain piping, terrace insulation and to address other conditions as required by the construction documents and field conditions.” If Seller provided extrinsic evidence that showed that the variation in height of the bedroom and living areas was a slight variation per industry trade usage and was necessary to address conditions as required by the construction documents and field conditions, the court would likely find that Seller did not breach. If Buyer showed that the difference in ceiling height in the bedroom and living areas was not a slight variation and was not necessary, the court would likely find that Seller breached.
-C: Therefore, a court may find that Seller breached express terms.
 
-II.	Damages
+R: When terms are ambiguous or unclear, specific provisions generally control over general provisions, but courts will favor interpretations that give meaning to the whole contract, because it results in a fairer bargain. When a preliminary consideration of all credible evidence offered to prove the intent of the parties still leaves contractual terms fairly susceptible to at least two rational interpretations, extrinsic evidence relevant to prove either of these meanings is admissible.
 
-I: Assuming that the court finds that Seller breached the contract with buyer to provide a house with bedroom and living areas with an approximate ceiling height of 9’6”, the next question is what damages Buyer is entitled to.
-R: When a party breaches a contract, courts often find that the breaching party must pay damages. Damages are not to punish a party for breaching but to compensate the other party for their loss; damages need to be foreseeable and proved to a reasonable certainty, and the loss must arise naturally from breach or reasonably be in the contemplation of the parties. In construction contracts, when calculating how much damages the non-breaching party is entitled to, the court looks at whether there was substantial performance. The remedy of specific performance, which is an injunction for the breaching party to perform the actual contractual obligation, is an exceptional remedy available only when monetary damages would be inadequate, and which the court would not use here because here monetary damages would suffice.
+A: Here, the breaching party would argue that ... The non-breaching party would argue that ... The court would likely find that ...  breached.
 
+C: Therefore, ... breached express terms where ...
+
+Terms at issue:
+Explain Formalist vs. Contextualist approaches  
+Under either approach, terms are probably vague and both approaches would consider extrinsic evidence to explain.  
+PER:  Implied terms like TU, CD, or CP would be admissible to explain.
+Depends on what the evidence is. Is there a custom surrounding these terms?
+How it’s interpreted could go either way.*  
+
+---
+
+**Constructive conditions rule**
+
+R: When performance can be exchanged simultaneously, promises must be performed simultaneously (the presumption is that promises are dependent). These are constructive conditions.
+
+**Substantial performance rule**
+
+R: When performance cannot be rendered at the same time, as is the case with employment or service contracts that take time to complete, performance requiring a longer period of time must be rendered first. This is called substantial performance. The doctrine of substantial performance gives some protection to the person who has to perform first, because they have more to lose. Substantial performance usually involves construction or service contracts, but never the sale of goods. In the event that there has been substantial performance by one party, (1) performance by the other party is due, and (2) damages are diminution/difference in value as opposed to cost of completion (I will discuss damages later).
+
+A: Here, the contract is for ... so ...
+
+C: Therefore, this contract requires substantial performance.
+
+I: The next sub-issue is whether one of the parties breached by failing to substantially perform.
+
+R: To determine whether one of the parties breached by failing to substantially perform, courts consider (i) whether there was harm to the injured party; (ii) whether there was harm to the breaching party; and (iii) whether the failure to substantially perform was the fault of the breaching party.
+
+A:
+
+I: The first question is whether there was harm to the injured party.
+
+R: Courts calculate harm to the injured party by looking at the extent of non-performance and the extent to which the injured party received the benefit it expected from the bargain. Deficiency cannot be so substantial as to frustrate the purpose of the contract.
+
+A: Here, ...
+
+C: Therefore, ...
+
+I: The second question is whether there was harm to the breaching party.
+
+R: When measuring harm to the breaching party, courts consider various factors including (a) the extent of forfeiture the party in breach will suffer if the court finds no substantial performance and they have to redo the work already done, (b) the cruelty of enforcing strict adherence, (c) the cost of curing a deficiency, and (d) economic waste.
+
+A: Here, ...
+
+C: Therefore, ...
+
+I: The third question is whether the failure to substantially perform was the fault of the breaching party.
+
+R: To determine what remedies are appropriate in cases where a party breached by performing substantially less than the contract required, courts examine (a) whether the breach was willful or made in bad faith and (b) the breaching party's excuse for deviating from the letter of the contract. Negligence is generally a justified reason for breaching, and even a conscious departure from contract specifications will not always be found to be the breaching party's fault. The breaching party is most likely to be found to be at fault when they breached because they intentionally tried to cut corners.
+
+A: Here, ...
+
+C: Therefore, ...
+
+**Perfect Tender Rule for goods**
+
+I: The first question is whether both parties performed as the terms of the contract required.
+
+R: Under the Uniform Commercial Code § 2-601, the Perfect Tender Rule requires that parties to a contract involving the sale of goods exercise strict compliance with the terms of the contract. If the goods fail to conform to the contract in any respect (even if minor), the buyer can reject the goods. The Perfect Tender Rule is harsher than common law because unlike Substantial Performance, there is not the same need to protect a party who has to perform first.
+
+A: Here, the contract is for ... so ...
+
+C: Therefore, this contract is governed by the Perfect Tender Rule.
+
+**Specific Performance rule**
+
+R: The remedy of specific performance, which is an injunction for the breaching party to perform the actual contractual obligation, is an exceptional remedy available only when monetary damages would be inadequate, and which the court would not use here because here monetary damages would suffice.
+
+---
+
+## Damages
+
+I: Assuming that the court finds that ... breached the contract with ... to provide ... the next question is what remedy the court should apply.
+
+R: When a party breaches a contract, courts often find that the breaching party must pay damages. Damages are not to punish a party for breaching but to compensate the other party for their loss; damages need to be foreseeable and proved to a reasonable certainty, and the loss must arise naturally from breach or reasonably be in the contemplation of the parties.
+
+**Damages rules to tack on to general damages rule:**
+
+**Construction contracts damages rule**
 
 For breach of a construction contract, the injured party may generally recover all damages that are direct, natural, and immediate consequences of the breach and were reasonably within the parties' contemplation at the time they entered the contract. If the contractor fails to perform or incompletely performs, damages should be measured by the reasonable cost of replacement or completion [cutting corners-did not grade land below surface].
 
