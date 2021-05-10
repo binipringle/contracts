@@ -1136,12 +1136,9 @@ Under RST § 175(1), if a party's manifestation of assent is induced by an impro
 - **Element 3:** Courts apply a subjective test to determine whether the threat induced the victim's manifestation of assent. In applying this test the court considers the age, background, and relationship of the parties, and asks whether (A) the parties were going to sign anyway (whether they are not signing because of the threat); or (B) they weren’t going to sign but decided to after the threat.
 - **Element 4:** The next sub-issue is whether the victim had no reasonable alternative to manifesting assent because the threat was sufficiently severe to justify assent. In determining whether the victim had no reasonable alternative to manifesting assent, courts look at the seriousness of the threat by examining (A) the nature of the threat and the severity of the thing being threatened, and (B) the likelihood of the person following through, as well as (C) whether there were alternatives such as the person just walking away and suing.
 
-**Four Elements of RST §175(2)**  
+**Three Elements of RST §175(2)**  
 
-Under RST § 175(2), if a party's manifestation of assent is induced by a third party, the contract is voidable by the victim unless the other [third] party to the transaction in good faith and without reason to know of the duress either gives value or relies materially on the transaction. There are four elements. (1) Unfair terms AND (2) No benefit to party making threat OR (3) Prior unfair dealing OR (4) Use of dominant bargaining power for illegitimate ends.
-
-Exceptions are (1) if the third party acted in good faith; (2) the third party didn't know of the duress, **OR** (3) the other party either gives value or relies materially on the transaction. The contract is voidable unless the other party is innocent and harmed.
-
+Under RST § 175(2), if a party's manifestation of assent is induced by one who is not a party to the transaction, the contract is voidable by the victim unless (1) the other party (the "other party" is the contracting party who is not the "victim" under duress) acted in good faith; (2) the other party didn't know of the duress, **AND** (3) the other party either gives value or relies materially on the transaction. The other party must establish all three elements to escape a claim of duress by a third party. *The two keys are did the other party know and did the other party rely*
 
 **Lorna Bond Rule**
 
@@ -1200,53 +1197,202 @@ A mistaken party's fault in failing to know or discover the facts before making 
 
 ---
 
+## Types of mistakes
+
+- Mistake of fact
+- Mistake of law
+- Misunderstanding / Interpretation *will not be on final*
+- Improvident act
+- Mistaken prediction about the future
+- Mistake in expression
+
+---
+
 ## Steps of analysis
 
 R: Under the Restatement Second, [RULE w/elements] + POLICY
 
-I: The question is whether there was a mistake where ...
+I: The question is whether the contract is voidable where there was a mistake.  
 
-R: Under the Restatement Second, a mistake is "a belief that is not in accord with the facts" (§ 151). The mistaken assumption must be a type of mistake covered by the mistake doctrine. The types of mistake covered in this doctrine are mistake of fact, mistake of law, misunderstanding/interpretation, improvident act, mistaken prediction about the future, and mistake in expression.
+R: Under the Restatement Second, a mistake can make a contract voidable. A mistake is "a belief that is not in accord with the facts" (§ 151). The mistake must relate to the facts as they exist at the time of entering into the contract, and the mistaken assumption must be a type of mistake covered by the mistake doctrine. The types of mistake covered in this doctrine are mistake of fact, mistake of law, misunderstanding/interpretation, improvident act, mistaken prediction about the future, and mistake in expression. The mistake can be mutual or unilateral.
 
-I: The first sub-issue is whether the mistake was a mistake of fact.
+A: Here, there was a mistake and it was a [type of mistake] because ...
 
-R: Where § 151 of the Restatement Second defines mistake as "a belief that is not in accord with the facts," the mistake must relate to the facts as they exist at the time of entering into the contract.
+C: Therefore, the contract may be voidable because there was a [type of mistake]
 
-A: Here, there was/was not a mistake of fact where ... because ...
+I: The next issue is whether the mistake was mutual or unilateral.
 
-C: Therefore,
+**IF MUTUAL**
 
+R: Under Restatement Second § 152, a mistake mutually made by both parties at the time a contract is made is voidable if (1) the mistake was made as to a basic assumption on which the contract was made (2) the mistake has a material effect on the agreed exchange of performances, **AND** (3), the party seeking relief did not assume the risk of the mistake.
 
+A:
 
-A: Here, ... Like in [case name], where the court found [rule] satisfied/not satisfied because [legally relevant facts from precedential case]. Here, the court will likely find [rule] satisfied/not satisfied because [legally relevant facts from exam].
+I: The first sub-issue is whether the mistake was mutually made.
 
-The next issue is whether MATERIAL MISTAKE
+R: A mistake is mutual if both parties did not have independent knowledge of the true facts.
 
-The next issue is whether the party seeking relief assumed risk.
+A: Here, there was a mutual mistake because both parties did not have independent knowledge of the true facts where ...
 
-The last issue is whether unconsionable or had reason to know
+C: Therefore, the mistake is mutual.
 
-Therefore, unilateral mistake satisfied/not satisfied.
+**IF UNILATERAL**
 
----
+Under Restatement Second § 153, a mistake made unilaterally (by one party) makes the contract voidable if (1) the mistake was made as to a basic assumption on which the contract was made (2) the mistake has a material effect on the agreed exchange of performances, **AND** (3), the party seeking relief did not assume the risk of the mistake.
 
+A:
 
+I: The first sub-issue is whether the mistake was made by only one party.
+
+R: When the mistake is unilateral, the mistake only makes the contract voidable if (a) the other party (the party not under the mistaken belief) knows the true fact; OR (b) the other party has no belief or independent knowledge of the true fact (when, for example, the other party gets their knowledge from the first party).
+
+A: Here, the mistake was unilateral because all of the information came from [one of the parties] where ... and … like in …
+
+C: Therefore, the mistake is unilateral.
+
+**BASIC ASSUMPTION**
+
+I: The next issue is what facts the mistake was about.
+
+R: Under Restatement Second of Contracts, for a mistake to make a contract voidable the mistake must be made as to a basic assumption on which the contract was made.
+
+A: Here, ...
+
+Therefore, ...
+
+**MATERIAL MISTAKE**
+
+I: The next sub-issue is whether the mistake was a material mistake.
+
+R: Under Restatement Second of Contracts, for a mistake to make a contract voidable the mistake must have a material effect on the agreed exchange of performances. Courts determine materiality by looking at facts such as price disparity.
+
+A: Here, ...
+
+C: Therefore, ...
+
+**RISK**  
+
+I: The next issue is whether the party seeking relief assumed risk.
+
+R: Under Restatement Second § 154, a party bears the risk of a mistake when (a) the risk is allocated to her by agreement of the parties, **OR** (b) she is aware, at the time the contract is made, that she has only limited knowledge with respect to the facts to which the mistake relates but treats her limited knowledge as sufficient (conscious ignorance), **OR** (c) the risk is allocated to her by the court. Courts apply the objective test to the terms of the agreement, asking whether a reasonable person would have been aware of the risk.
+
+A: Here,
+
+C: Therefore, the party did/did not bear the risk.
+
+*IF MUTUAL:* C: Therefore, mutual mistake is satisfied/not satisfied.
+
+**ADDITIONAL REQUIREMENT FOR UNILATERAL MISTAKE: UNCONSCIONABLE**
+
+I: The last issue is whether the other party was unconscionable or had reason to know of the mistake.
+
+R: If a court finds that the other party should have known that the first party was making a mistake but was unconscious of the mistake through inattention or negligence, the other party is assumed to know of the first party's mistake, which makes the mistake mutual. To determine whether the other party acted unconscionably, the court applies the objective test (what would a reasonable person in the other party's position have assumed). The policy reason for this requirement is that the other party should not be able to profit from the first party’s innocent mistake. If one party knows of the interpretation of the other party, the court will enforce the contract on the terms assigned by the innocent party.
+
+A: Here, ...
+
+C: Therefore, unilateral mistake satisfied/not satisfied.
+
+C: Therefore, a court would likely find that ...
 
 ---
 
 # Misrepresentation
 
-What’s the difference between sections
-163 and 164?
+**§ 159 Misrepresentation Defined** A misrepresentation is an assertion that is not in accord with the facts.
 
-Misrepresentation § 164
+**§ 160 When Action is Equivalent to an Assertion (Concealment)** Action intended or known to be likely to prevent another from learning a fact is equivalent to an assertion that the fact does not exist.
+
+**§ 161 When Non-Disclosure Is Equivalent to an Assertion** A person's non-disclosure of a fact known to him is equivalent to an assertion that the fact does not exist in the following cases only: (a) where he knows that disclosure of the fact is necessary to prevent some previous assertion from being a misrepresentation or from being fraudulent or material. (b) where he knows that disclosure of the fact would correct a mistake of the other party as to a basic assumption on which that party is making the contract and if non-disclosure of the fact amounts to a failure to act in good faith and in accordance with reasonable standards of fair dealing. (c) where he knows that disclosure of the fact would correct a mistake of the other party as to the contents or effect of a writing, evidencing or embodying an agreement in whole or in part. (d) where the other person is entitled to know the fact because of a relation of trust and confidence between them
+
+**§ 162 When a Misrepresentation Is Fraudulent or Material** (1) A misrepresentation is fraudulent if the maker intends his assertion to induce a party to manifest his assent and the maker (a) knows or believes that the assertion is not in accord with the facts, or (b) does not have the confidence that he states or implies in the truth of the assertion, or (c) knows that he does not have the basis that he states or implies for the assertion. (2) A misrepresentation is material if it would be likely to induce a reasonable person to manifest his assent, or if the maker knows that it would be likely to induce the recipient to do so.
+
+**§ 163 When a Misrepresentation Prevents Formation of a Contract** If a misrepresentation as to the character or essential terms of a proposed contract induces conduct that appears to be a manifestation of assent by one who neither knows nor has reasonable opportunity to know of the character or essential terms of the proposed contract, his conduct is not effective as a manifestation of assent.
+
+**§ 164 When a Misrepresentation Makes a Contract Voidable** (1) If a party's manifestation of assent is induced by either a fraudulent or a material misrepresentation by the other party upon which the recipient is justified in relying, the contract is voidable by the recipient. (2) If a party's manifestation of assent is induced by either a fraudulent or a material misrepresentation by one who is not a party to the transaction upon which the recipient is justified in relying, the contract is voidable by the recipient, unless the other party to the transaction in good faith and without reason to know of the misrepresentation either gives value or relies materially on the transaction.
+
+*What’s the difference between sections 163 and 164?*
+
+**§ 167 When a Misrepresentation Is an Inducing Cause** A misrepresentation induces a party's manifestation of assent if it substantially contributes to his decision to manifest his assent.
+
+**§ 168 Reliance on Assertions of Opinion** (1) An assertion is one of opinion if it expresses only a belief, without certainty, as to the existence of a fact or expresses only a judgment as to quality, value, authenticity, or similar matters. (2) If it is reasonable to do so, the recipient of an assertion of a person's opinion as to facts not disclosed and not otherwise known to the recipient may properly interpret it as an assertion (a) that the facts known to that person are not incompatible with his opinion, or (b) that he knows facts sufficient to justify him in forming it.
+
+**§ 169 When Reliance on an Assertion of Opinion Is Not Justified** To the extent that an assertion is one of opinion only, the recipient is not justified in relying on it unless the recipient (a) stands in such a relation of trust and confidence to the person whose opinion is asserted that the recipient is reasonable in relying on it, or (b) reasonably believes that, as compared with himself, the person whose opinion is asserted has special skill, judgment or objectivity with respect to the subject matter, or (c) is for some other special reason particularly susceptible to a misrepresentation of the type involved.
+
+**§ 171 When Reliance on an Assertion of Intention Is Not Justified** (1) To the extent that an assertion is one of intention only, the recipient is not justified in relying on it if in the circumstances a misrepresentation of intention is consistent with reasonable standards of dealing. (2) If it is reasonable to do so, the promisee may properly interpret a promise as an assertion that the promisor intends to perform the promise.
+
+**§ 172 When Fault Makes Reliance Unjustified** A recipient's fault in not knowing or discovering the facts before making the contract does not make his reliance unjustified unless it amounts to a failure to act in good faith and in accordance with reasonable standards of fair dealing.
+
+---
+
+## Steps of analysis
+
+I: The question is whether misrepresentation makes the contract voidable where ...
+
+R: Under the Restatement Second, a contract can be voidable if (1) it contains an assertion that is not in accord with the facts. For a court to find that such an assertion amounts to misrepresentation, the assertion must (2) be material or fraudulent, (3) have induced the other party to enter into the contract, and (4) justified reliance on the contract.
+
+A:
+
+I: The first issue is whether the [assertion in the contract] misrepresents the facts.
+
+R: The Restatement Second § 159 defines misrepresentation as "an assertion that is not in accord with the facts." The misrepresentation cannot be an opinion or a half-truth, but it can be a non-disclosure or concealment of a fact. An action intended or known to be likely to prevent another from learning a fact is equivalent to an assertion that the fact does not exist.
+
+A: Here, the assertion ... is not in accord with the facts because .... The assertion is not an opinion because ... nor is it a half-truth because ... Like Vokes, where ... , [the party]'s assertion was not a half-truth because ... . Here, the misrepresentation is a non-disclosure/concealment of a fact because ...
+
+C: Therefore, the [assertion] is a misrepresentation.
+
+I: The second issue is whether the misrepresentation is material or fraudulent.
+
+R: Under the Restatement Second, a misrepresentation is material or fraudulent if (1) it is intended to mislead, and (2) likely to induce a reasonable person. Courts apply the positioned reasonable person test to determine whether a party is likely to be misled.
+
+A:
+
+I: The first sub-issue is whether the intention of the misrepresenting party intended to mislead.
+
+R: Intention is assessed by the courts by looking at the surrounding circumstances.(? not sure about this)
+
+A: Here, the assertion that [assertion] is clearly intended to mislead because ...
+
+C: Therefore, the [assertion] satisfies the first requirement for material or fraudulent.
+
+I: The second sub-issue is whether the misrepresentation induced [the party] to enter into the contract.
+
+R: To determine whether a party would likely be induced, courts ask whether a reasonable person in the other party's position would have been induced.
+
+A: Here, the other party was likely induced to enter into a contract because a reasonable person in the position of [party] would have ...
+
+C: Therefore, the second requirement for material or fraudulent is satisfied.
+
+C: Therefore, the [assertion] is material or fraudulent because both requirements for material or fraudelent are satisfied.
+
+I: The third issue is whether the misrepresentation actually induced assent.  
+
+R: For a court to find that a misrepresentation induced assent, the misrepresentation does not have to be the sole or even predominant reason why the party assented to an offer, but it must have substantially contributed to the party's decision.
+
+A: Here, although [the party's] assertion that ... was not the sole reason why [the party] assented, it contributed substantially to the party assenting because ...
+
+C: Therefore, the element of actually inducing assent is satisfied.
+
+I: The fourth issue is whether reliance on the misrepresentation was justified.
+
+R: Reliance on a misrepresentation is justified if the misrepresentation was reasonably credible. It is not reasonable to rely on a misrepresention if it was obviously false or if it was just an opinion, nor is it reasonable to rely on a misrespresentation through a failure to read or a failure to investigate the misrepresentative assertion. Normally there is a duty to read, but when an oral statement conflicts with a written contract, courts ask whether reliance on the oral statement was reasonable. To determine whether the reliance was reasonable, courts consider context, asking who relied on what and why.
+
+A: Here, ...
+
+C: Therefore, the element of reliance is satisfied.
+
+C: Therefore, the contract is voidable because there was misrepresentation.
+
+**There is also a duty to disclose (see below). Not sure where to put it. Maybe in element 1.**
+---
+
+## Summary of Four Elements
 
 1. Misrepresentation (§ 159)
 2. Material or fraudulent (§ 162)
 3. Induced other party to accept       (§ 167)
 4. Justified reliance (§§ 169, 171, 172)
 
-## No. 1 Misrepresentation
+**Element 1: Misrepresentation**
 
 - Definition § 159
 - Can’t be opinion (§§ 168, 169)
@@ -1254,19 +1400,18 @@ Misrepresentation § 164
 - Can be non-disclosure (§ 161)
 - Can be concealment (§ 160)
 
-## No. 2 Fraudulent or Material
+**Element 2: Fraudulent or Material**
 
-Fraudulent § 162(1): Intended to mislead
+- Fraudulent § 162(1): Intended to mislead
+- Material § 162(2):Likely to induce a reasonable person.
 
-Material § 162(2):Likely to induce a reasonable person.
-
-## No. 3 Actually induce assent
+**Element 3: Actually induce assent**
 
 - Doesn’t need to be sole or even predominant reason
 - Must have substantially contributed to party’s decision
 - Triggering facts?
 
-## No. 4 Was reliance justified
+**Element 4: Was reliance justified**
 
 Not reasonable to rely if
 
@@ -1274,12 +1419,11 @@ Not reasonable to rely if
 - Misrep was just an opinion
 - Failure to read or investigate
 
-Vokes v Arthur Murray (p 438)
+---
 
+Vokes v Arthur Murray (p 438): Arthur Murray was providing lonely people a place to dance and have fun.  What’s wrong with that?...
 
-Arthur Murray was providing lonely people a place to dance and have fun.  What’s wrong with that?...
-
-Which element was at issue in this case?
+---
 
 ## Puffing
 
@@ -1287,7 +1431,7 @@ Which element was at issue in this case?
 - Generalized statements, not making specific claims
 - General claim of superiority over a comparable product that is so vague it would be understood as mere opinion.
 
-### Puffing Hypos
+**Puffing Hypo**
 
 - Papa Johns runs a series of ads claiming it makes “better pizza” and touting the “superiority” of its sauce and its dough
 - Does consumer assume its sauce is made from fresh and vine-ripened tomatoes – not remanufactured tomato paste
@@ -1321,19 +1465,6 @@ Could the Vokes case be rewritten to protect Vokes from predatory behavior witho
 
 ## Duty to disclose
 
-What requirement does the law make for disclosing facts in the bargaining context?
-
-**Duty to Disclose Hypo**
-
-An honest man has imported a large cargo of grain during time of famine.  Several other importers are coming with more grain.
-
-Should/can he sell the grain at very high prices, or should he tell the buyers the other grain is coming and sell at competitive prices?
-
-Policy arguments to disclose nothing?
-Policy arguments to disclose all?
-
-Duty to Disclose:
-
 - Normally no duty to disclose
 - Parties should be able to deal at arms length
 - Duty to investigate / ask questions
@@ -1350,30 +1481,23 @@ Duty to Disclose:
 
 Action intended or known to be likely to prevent another from learning a fact is equivalent to an assertion that the fact does not exist.
 
+**Duty to Disclose Hypo**
+
+An honest man has imported a large cargo of grain during time of famine.  Several other importers are coming with more grain. Should/can he sell the grain at very high prices, or should he tell the buyers the other grain is coming and sell at competitive prices?
+
 ## Kang v. Harrington (p 425)
 
 - This case is about the responsibility the law places on the “innocent” party
 - Duty to read / duty to investigate, discover…
-- What element is implicated by this discussion?
-
-Kang v. Harrington
-
 - Dolly Won rented a house to Dewey Harrington
-- They agreed to a one-year lease with an option to renew for an additional year.      $400 security deposit.
+- They agreed to a one-year lease with an option to renew for an additional year. $400 security deposit.
 - Letter of intent had errors: Included the wrong address and said the $400 security deposit was the first month’s rent (rather than the security deposit).
 - The lease was typed up by Harrington.
-
-## Problem with lease
-
-The lease included an additional provision (that they hadn’t agreed to) giving Harrington a perpetual option to rent the property at $400/month (rather than a one-year option)
-
-Did she agree to the perpetual option?
-
+- Problem with lease: the lease included an additional provision (that they hadn’t agreed to) giving Harrington a perpetual option to rent the property at $400/month (rather than a one-year option)
+- Did she agree to the perpetual option?
 - Argue yes
 - Argue no
-
-Won sues Harrington
-
+- Won sues Harrington
 - Under what theory?
 - What’s his defense?
 - Holding?
