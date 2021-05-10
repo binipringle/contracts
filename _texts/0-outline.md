@@ -27,6 +27,7 @@ toc:
 - Capacity
 - Duress
 - Mistake
+- Misrepresentation
 - Misunderstanding
 - Impracticability
 - Unconscionability
@@ -1163,37 +1164,7 @@ Another example of economic duress: Tenant is renting an apartment for $500/mont
 
 ## Mistake
 
-**§ 151 Mistake Defined**
-
-A mistake is a belief that is not in accord with the facts. Restatement (Second) of Contracts § 151 (1981).
-
-**§ 152 When Mistake of Both Parties Makes a Contract Voidable**
-
-(1) Where a mistake of both parties at the time a contract was made as to a basic assumption on which the contract was made has a material effect on the agreed exchange of performances, the contract is voidable by the adversely affected party unless he bears the risk of the mistake under the rule stated in § 154. (2) In determining whether the mistake has a material effect on the agreed exchange of performances, account is taken of any relief by way of reformation, restitution, or otherwise. Restatement (Second) of Contracts § 152 (1981)
-
-**§ 153 When Mistake of One Party Makes a Contract Voidable**
-
-Where a mistake of one party at the time a contract was made as to a basic assumption on which he made the contract has a material effect on the agreed exchange of performances that is adverse to him, the contract is voidable by him if he does not bear the risk of the mistake under the rule stated in § 154, and (a) the effect of the mistake is such that enforcement of the contract would be unconscionable, or (b) the other party had reason to know of the mistake or his fault caused the mistake. Restatement (Second) of Contracts § 153 (1981).
-
-**§ 154 When a Party Bears the Risk of a Mistake**
-
-A party bears the risk of a mistake when (a) the risk is allocated to him by agreement of the parties, or (b) he is aware, at the time the contract is made, that he has only limited knowledge with respect to the facts to which the mistake relates but treats his limited knowledge as sufficient, or (c) the risk is allocated to him by the court on the ground that it is reasonable in the circumstances to do so. The issue is whether the defense of unilateral mistake will prevent enforcement of the contract. Restatement (Second) of Contracts § 154 (1981).
-
-**§ 155 When Mistake of Both Parties as to Written Expression Justifies Reformation**
-
-Where a writing that evidences or embodies an agreement in whole or in part fails to express the agreement because of a mistake of both parties as to the contents or effect of the writing, the court may at the request of a party reform the writing to express the agreement, except to the extent that rights of third parties such as good faith purchasers for value will be unfairly affected. Restatement (Second) of Contracts § 155 (1981).
-
-**§ 156 Mistake as to Contract Within the Statute of Frauds**
-
-If reformation of a writing is otherwise appropriate, it is not precluded by the fact that the contract is within the Statute of Frauds. Restatement (Second) of Contracts § 156 (1981).
-
-**§ 157 Effect of Fault of Party Seeking Relief**
-
-A mistaken party's fault in failing to know or discover the facts before making the contract does not bar him from avoidance or reformation under the rules stated in this Chapter, unless his fault amounts to a failure to act in good faith and in accordance with reasonable standards of fair dealing. Restatement (Second) of Contracts § 157 (1981).
-
-**§ 158 Relief Including Restitution**
-
-(1) In any case governed by the rules stated in this Chapter, either party may have a claim for relief including restitution under the rules stated in §§ 240 and 376. (2) In any case governed by the rules stated in this Chapter, if those rules together with the rules stated in Chapter 16 will not avoid injustice, the court may grant relief on such terms as justice requires including protection of the parties' reliance interests. Restatement (Second) of Contracts § 158 (1981)
+Statutes are at the end of this section.
 
 ---
 
@@ -1210,7 +1181,7 @@ A mistaken party's fault in failing to know or discover the facts before making 
 
 ## Steps of analysis
 
-R: Under the Restatement Second, [RULE w/elements] + POLICY
+R: Under the Restatement Second, [RULE w/elements] **+ POLICY!!! (I don't have enough policy in my rules)**
 
 I: The question is whether the contract is voidable where there was a mistake.  
 
@@ -1296,31 +1267,45 @@ C: Therefore, a court would likely find that ...
 
 ---
 
+## Statutes
+
+**§ 151 Mistake Defined**
+
+A mistake is a belief that is not in accord with the facts. Restatement (Second) of Contracts § 151 (1981).
+
+**§ 152 When Mistake of Both Parties Makes a Contract Voidable**
+
+(1) Where a mistake of both parties at the time a contract was made as to a basic assumption on which the contract was made has a material effect on the agreed exchange of performances, the contract is voidable by the adversely affected party unless he bears the risk of the mistake under the rule stated in § 154. (2) In determining whether the mistake has a material effect on the agreed exchange of performances, account is taken of any relief by way of reformation, restitution, or otherwise. Restatement (Second) of Contracts § 152 (1981)
+
+**§ 153 When Mistake of One Party Makes a Contract Voidable**
+
+Where a mistake of one party at the time a contract was made as to a basic assumption on which he made the contract has a material effect on the agreed exchange of performances that is adverse to him, the contract is voidable by him if he does not bear the risk of the mistake under the rule stated in § 154, and (a) the effect of the mistake is such that enforcement of the contract would be unconscionable, or (b) the other party had reason to know of the mistake or his fault caused the mistake. Restatement (Second) of Contracts § 153 (1981).
+
+**§ 154 When a Party Bears the Risk of a Mistake**
+
+A party bears the risk of a mistake when (a) the risk is allocated to him by agreement of the parties, or (b) he is aware, at the time the contract is made, that he has only limited knowledge with respect to the facts to which the mistake relates but treats his limited knowledge as sufficient, or (c) the risk is allocated to him by the court on the ground that it is reasonable in the circumstances to do so. The issue is whether the defense of unilateral mistake will prevent enforcement of the contract. Restatement (Second) of Contracts § 154 (1981).
+
+**§ 155 When Mistake of Both Parties as to Written Expression Justifies Reformation**
+
+Where a writing that evidences or embodies an agreement in whole or in part fails to express the agreement because of a mistake of both parties as to the contents or effect of the writing, the court may at the request of a party reform the writing to express the agreement, except to the extent that rights of third parties such as good faith purchasers for value will be unfairly affected. Restatement (Second) of Contracts § 155 (1981).
+
+**§ 156 Mistake as to Contract Within the Statute of Frauds**
+
+If reformation of a writing is otherwise appropriate, it is not precluded by the fact that the contract is within the Statute of Frauds. Restatement (Second) of Contracts § 156 (1981).
+
+**§ 157 Effect of Fault of Party Seeking Relief**
+
+A mistaken party's fault in failing to know or discover the facts before making the contract does not bar him from avoidance or reformation under the rules stated in this Chapter, unless his fault amounts to a failure to act in good faith and in accordance with reasonable standards of fair dealing. Restatement (Second) of Contracts § 157 (1981).
+
+**§ 158 Relief Including Restitution**
+
+(1) In any case governed by the rules stated in this Chapter, either party may have a claim for relief including restitution under the rules stated in §§ 240 and 376. (2) In any case governed by the rules stated in this Chapter, if those rules together with the rules stated in Chapter 16 will not avoid injustice, the court may grant relief on such terms as justice requires including protection of the parties' reliance interests. Restatement (Second) of Contracts § 158 (1981)
+
+---
+
 # Misrepresentation
 
-**§ 159 Misrepresentation Defined** A misrepresentation is an assertion that is not in accord with the facts.
-
-**§ 160 When Action is Equivalent to an Assertion (Concealment)** Action intended or known to be likely to prevent another from learning a fact is equivalent to an assertion that the fact does not exist.
-
-**§ 161 When Non-Disclosure Is Equivalent to an Assertion** A person's non-disclosure of a fact known to him is equivalent to an assertion that the fact does not exist in the following cases only: (a) where he knows that disclosure of the fact is necessary to prevent some previous assertion from being a misrepresentation or from being fraudulent or material. (b) where he knows that disclosure of the fact would correct a mistake of the other party as to a basic assumption on which that party is making the contract and if non-disclosure of the fact amounts to a failure to act in good faith and in accordance with reasonable standards of fair dealing. (c) where he knows that disclosure of the fact would correct a mistake of the other party as to the contents or effect of a writing, evidencing or embodying an agreement in whole or in part. (d) where the other person is entitled to know the fact because of a relation of trust and confidence between them
-
-**§ 162 When a Misrepresentation Is Fraudulent or Material** (1) A misrepresentation is fraudulent if the maker intends his assertion to induce a party to manifest his assent and the maker (a) knows or believes that the assertion is not in accord with the facts, or (b) does not have the confidence that he states or implies in the truth of the assertion, or (c) knows that he does not have the basis that he states or implies for the assertion. (2) A misrepresentation is material if it would be likely to induce a reasonable person to manifest his assent, or if the maker knows that it would be likely to induce the recipient to do so.
-
-**§ 163 When a Misrepresentation Prevents Formation of a Contract** If a misrepresentation as to the character or essential terms of a proposed contract induces conduct that appears to be a manifestation of assent by one who neither knows nor has reasonable opportunity to know of the character or essential terms of the proposed contract, his conduct is not effective as a manifestation of assent.
-
-**§ 164 When a Misrepresentation Makes a Contract Voidable** (1) If a party's manifestation of assent is induced by either a fraudulent or a material misrepresentation by the other party upon which the recipient is justified in relying, the contract is voidable by the recipient. (2) If a party's manifestation of assent is induced by either a fraudulent or a material misrepresentation by one who is not a party to the transaction upon which the recipient is justified in relying, the contract is voidable by the recipient, unless the other party to the transaction in good faith and without reason to know of the misrepresentation either gives value or relies materially on the transaction.
-
-*What’s the difference between sections 163 and 164?*
-
-**§ 167 When a Misrepresentation Is an Inducing Cause** A misrepresentation induces a party's manifestation of assent if it substantially contributes to his decision to manifest his assent.
-
-**§ 168 Reliance on Assertions of Opinion** (1) An assertion is one of opinion if it expresses only a belief, without certainty, as to the existence of a fact or expresses only a judgment as to quality, value, authenticity, or similar matters. (2) If it is reasonable to do so, the recipient of an assertion of a person's opinion as to facts not disclosed and not otherwise known to the recipient may properly interpret it as an assertion (a) that the facts known to that person are not incompatible with his opinion, or (b) that he knows facts sufficient to justify him in forming it.
-
-**§ 169 When Reliance on an Assertion of Opinion Is Not Justified** To the extent that an assertion is one of opinion only, the recipient is not justified in relying on it unless the recipient (a) stands in such a relation of trust and confidence to the person whose opinion is asserted that the recipient is reasonable in relying on it, or (b) reasonably believes that, as compared with himself, the person whose opinion is asserted has special skill, judgment or objectivity with respect to the subject matter, or (c) is for some other special reason particularly susceptible to a misrepresentation of the type involved.
-
-**§ 171 When Reliance on an Assertion of Intention Is Not Justified** (1) To the extent that an assertion is one of intention only, the recipient is not justified in relying on it if in the circumstances a misrepresentation of intention is consistent with reasonable standards of dealing. (2) If it is reasonable to do so, the promisee may properly interpret a promise as an assertion that the promisor intends to perform the promise.
-
-**§ 172 When Fault Makes Reliance Unjustified** A recipient's fault in not knowing or discovering the facts before making the contract does not make his reliance unjustified unless it amounts to a failure to act in good faith and in accordance with reasonable standards of fair dealing.
+Statutes are towards the end of this section.
 
 ---
 
@@ -1421,10 +1406,6 @@ Not reasonable to rely if
 
 ---
 
-Vokes v Arthur Murray (p 438): Arthur Murray was providing lonely people a place to dance and have fun.  What’s wrong with that?...
-
----
-
 ## Puffing
 
 - Exaggerated claims on which no reasonable person would rely
@@ -1450,9 +1431,7 @@ Vokes v Arthur Murray (p 438): Arthur Murray was providing lonely people a place
 - What theoretical perspective (economic) was the case decided from?
 - How would the case be decided under alternative approach?
 
-**Neo-classical economic approach**
-
-Argue for the enforcement of the K; Use policy arguments in the analysis of each of the four elements
+**Neo-classical economic approach** Argue for the enforcement of the K; **Use policy arguments in the analysis of each of the four elements**
 
 1. Just an opinion… (What must the court have assumed about Vokes? Challenge those assumptions)
 2. Not fraudulent or material…
@@ -1477,43 +1456,41 @@ Could the Vokes case be rewritten to protect Vokes from predatory behavior witho
 - To correct a mistake of the other party as to the terms of the writing
 - When fiduciary relationship
 
-## Concealment § 160
-
-Action intended or known to be likely to prevent another from learning a fact is equivalent to an assertion that the fact does not exist.
-
 **Duty to Disclose Hypo**
 
 An honest man has imported a large cargo of grain during time of famine.  Several other importers are coming with more grain. Should/can he sell the grain at very high prices, or should he tell the buyers the other grain is coming and sell at competitive prices?
 
 ## Kang v. Harrington (p 425)
 
-- This case is about the responsibility the law places on the “innocent” party
-- Duty to read / duty to investigate, discover…
-- Dolly Won rented a house to Dewey Harrington
-- They agreed to a one-year lease with an option to renew for an additional year. $400 security deposit.
-- Letter of intent had errors: Included the wrong address and said the $400 security deposit was the first month’s rent (rather than the security deposit).
-- The lease was typed up by Harrington.
-- Problem with lease: the lease included an additional provision (that they hadn’t agreed to) giving Harrington a perpetual option to rent the property at $400/month (rather than a one-year option)
-- Did she agree to the perpetual option?
-- Argue yes
-- Argue no
-- Won sues Harrington
-- Under what theory?
-- What’s his defense?
-- Holding?
-- Did she have a duty to read?
-
-# No. 4 Duty to read
-
-- Normally there’s a duty to read
-- But when oral statement conflicts with written contract, was reliance on oral statement reasonable?
-- Consider context:  Who, What? Why?
-
-Is it logical to assume she read and understood terms? Did one party take advantage?
+This case is about the responsibility the law places on the “innocent” party. Duty to read / duty to investigate, discover… Dolly Won rented a house to Dewey Harrington. They agreed to a one-year lease with an option to renew for an additional year. $400 security deposit. Letter of intent had errors: Included the wrong address and said the $400 security deposit was the first month’s rent (rather than the security deposit). The lease was typed up by Harrington. Problem with lease: the lease included an additional provision (that they hadn’t agreed to) giving Harrington a perpetual option to rent the property at $400/month (rather than a one-year option). Did she agree to the perpetual option? Did she have a duty to read?
 
 ---
 
-Harrington is example of how to work out whether oral or written agmnt should be respected if the two are different.
+## Statutes
+
+**§ 159 Misrepresentation Defined** A misrepresentation is an assertion that is not in accord with the facts.
+
+**§ 160 When Action is Equivalent to an Assertion (Concealment)** Action intended or known to be likely to prevent another from learning a fact is equivalent to an assertion that the fact does not exist.
+
+**§ 161 When Non-Disclosure Is Equivalent to an Assertion** A person's non-disclosure of a fact known to him is equivalent to an assertion that the fact does not exist in the following cases only: (a) where he knows that disclosure of the fact is necessary to prevent some previous assertion from being a misrepresentation or from being fraudulent or material. (b) where he knows that disclosure of the fact would correct a mistake of the other party as to a basic assumption on which that party is making the contract and if non-disclosure of the fact amounts to a failure to act in good faith and in accordance with reasonable standards of fair dealing. (c) where he knows that disclosure of the fact would correct a mistake of the other party as to the contents or effect of a writing, evidencing or embodying an agreement in whole or in part. (d) where the other person is entitled to know the fact because of a relation of trust and confidence between them
+
+**§ 162 When a Misrepresentation Is Fraudulent or Material** (1) A misrepresentation is fraudulent if the maker intends his assertion to induce a party to manifest his assent and the maker (a) knows or believes that the assertion is not in accord with the facts, or (b) does not have the confidence that he states or implies in the truth of the assertion, or (c) knows that he does not have the basis that he states or implies for the assertion. (2) A misrepresentation is material if it would be likely to induce a reasonable person to manifest his assent, or if the maker knows that it would be likely to induce the recipient to do so.
+
+**§ 163 When a Misrepresentation Prevents Formation of a Contract** If a misrepresentation as to the character or essential terms of a proposed contract induces conduct that appears to be a manifestation of assent by one who neither knows nor has reasonable opportunity to know of the character or essential terms of the proposed contract, his conduct is not effective as a manifestation of assent.
+
+**§ 164 When a Misrepresentation Makes a Contract Voidable** (1) If a party's manifestation of assent is induced by either a fraudulent or a material misrepresentation by the other party upon which the recipient is justified in relying, the contract is voidable by the recipient. (2) If a party's manifestation of assent is induced by either a fraudulent or a material misrepresentation by one who is not a party to the transaction upon which the recipient is justified in relying, the contract is voidable by the recipient, unless the other party to the transaction in good faith and without reason to know of the misrepresentation either gives value or relies materially on the transaction.
+
+*What’s the difference between sections 163 and 164?*
+
+**§ 167 When a Misrepresentation Is an Inducing Cause** A misrepresentation induces a party's manifestation of assent if it substantially contributes to his decision to manifest his assent.
+
+**§ 168 Reliance on Assertions of Opinion** (1) An assertion is one of opinion if it expresses only a belief, without certainty, as to the existence of a fact or expresses only a judgment as to quality, value, authenticity, or similar matters. (2) If it is reasonable to do so, the recipient of an assertion of a person's opinion as to facts not disclosed and not otherwise known to the recipient may properly interpret it as an assertion (a) that the facts known to that person are not incompatible with his opinion, or (b) that he knows facts sufficient to justify him in forming it.
+
+**§ 169 When Reliance on an Assertion of Opinion Is Not Justified** To the extent that an assertion is one of opinion only, the recipient is not justified in relying on it unless the recipient (a) stands in such a relation of trust and confidence to the person whose opinion is asserted that the recipient is reasonable in relying on it, or (b) reasonably believes that, as compared with himself, the person whose opinion is asserted has special skill, judgment or objectivity with respect to the subject matter, or (c) is for some other special reason particularly susceptible to a misrepresentation of the type involved.
+
+**§ 171 When Reliance on an Assertion of Intention Is Not Justified** (1) To the extent that an assertion is one of intention only, the recipient is not justified in relying on it if in the circumstances a misrepresentation of intention is consistent with reasonable standards of dealing. (2) If it is reasonable to do so, the promisee may properly interpret a promise as an assertion that the promisor intends to perform the promise.
+
+**§ 172 When Fault Makes Reliance Unjustified** A recipient's fault in not knowing or discovering the facts before making the contract does not make his reliance unjustified unless it amounts to a failure to act in good faith and in accordance with reasonable standards of fair dealing.
 
 ---
 
