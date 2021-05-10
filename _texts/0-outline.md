@@ -35,6 +35,7 @@ toc:
 - Interpretation
 - Parol Evidence Rule
 - Interpretation Steps of Analysis
+- Breach aka substantial performance
 - Damages
 - Measuring Expectation
 - Measuring Reliance Damages
@@ -970,7 +971,7 @@ UCC or common law? Sale of goods? Brief analysis at beginning.
 
 If statute of frauds doesn't prevent enforcement, move on to defenses.
 
-### Defenses
+## Defenses
 
 The next issue is whether any defenses prevent enforcement.
 
@@ -990,13 +991,17 @@ The next issue is whether any defenses prevent enforcement.
 
 *No defenses work? Change in circumstances to warrant K modification?*
 
-### Modification
+---
+
+## Modification
 
 The next issue is whether modification of the contract will be allowed.
 
 **General rule for modification:**
 
-### Breach and damages
+---
+
+## Breach and damages
 
 Did both parties perform as the contract required?
 
@@ -1008,7 +1013,9 @@ What damages is P entitled to?
 
 *Is there a dispute over meaning of terms?*
 
-### Implied Terms
+---
+
+## Implied Terms
 
 The next issue is whether extrinsic evidence is admissible.
 
@@ -1020,13 +1027,15 @@ The next issue is whether extrinsic evidence is admissible.
 - TU, CD, CP
 - Good faith & best efforts
 
-### Express Terms
+>>> 
+
+## Express Terms
 
 - Parol Evidence Rule
 
 ---
 
-## Seven Defenses
+# Seven Defenses
 
 There are seven defenses (illegality goes with public policy)
 
@@ -2378,7 +2387,69 @@ INCORPORATE MOTT'S SLIDES FROM 4-12-21 BECAUSE SUPER important
 
 ---
 
+# Breach aka substantial performance
+
+There are two questions. The questions are (1) whether there was a breach where Seller agreed to provide a house (“Premises”) where “the bedroom and living areas shall have ceilings at approximately 9’6” height” but provided Premises where the bedrooms and living area ceilings were approximately 8’7” in height, and (2) if there was a breach, how much damages Seller should pay to Buyer. First, I will discuss breach, and second, I will discuss damages.
+
+I.	Breach of contract
+
+I: The first issue is whether there was a breach.
+
+R: Courts allow parties to breach contracts because forcing them to remain in a contract they no longer want to be in would amount to forcing them into involuntary servitude. When one party says there was a breach and the other party says that there wasn’t a breach, to determine whether there was a breach, courts interpret the contract to see whether any terms of the contract were breached.
+A:
+I: The first sub issue is what term or clause is at issue.  
+R: The terms of an agreement can be in express or implied terms. Express terms are terms that were specifically mentioned and agreed upon by both parties at the time the contract is made. They can either be oral or in writing.
+A: Here, there were express terms in writing where the agreement stated that the premises shall include items listed in a “Summary of Features” including “high ceilings and expansive room arrangements” and specifying that “the bedroom and living areas shall have ceilings at approximately 9’6” height” and “some slight ceiling height variation may result in these areas to conceal ductwork, sprinkler piping, electrical conduit and wiring, structural beams, drain piping, terrace insulation and to address other conditions as required by the construction documents and field conditions.”
+C: Therefore, the court would interpret express terms.
+
+I: The second sub-issue is whether the express terms were clear and unambiguous.
+R: When terms are ambiguous or unclear, specific provisions generally control over general provisions, but courts will favor interpretations that give meaning to the whole contract, because it results in a fairer bargain.  When a preliminary consideration of all credible evidence offered to prove the intent of the parties still leaves contractual terms fairly susceptible to at least two rational interpretations, extrinsic evidence relevant to prove either of these meanings is admissible.
+A: Here, the seller would argue that “slight variation” is a plain text meaning of common English usage which is not unclear. Seller would argue that because the difference in height between the desired height of approximately 9’6” and the actual height of approximately 8’7” is only 0’9”, a plain text interpretation would show that this is a slight ceiling height variation which does not contradict the terms of the written agreement, which stated that “some slight ceiling height variation may result in these areas to conceal ductwork, sprinkler piping, electrical conduit and wiring, structural beams, drain piping, terrace insulation and to address other conditions as required by the construction documents and field conditions.” The buyer would argue that height of 8’7” in the bedroom and living areas is not a slight variation on the agreed ceiling height because the whole ceilings of those areas have the same height. Because the term of “slight ceiling height variation” is unclear, the court would likely allow extrinsic evidence of trade usage in the industry to determine whether 0’9” is a slight variation and, if so, whether this variation in the bedroom and living area ceilings was necessary “to conceal ductwork, sprinkler piping, electrical conduit and wiring, structural beams, drain piping, terrace insulation and to address other conditions as required by the construction documents and field conditions.” If Seller provided extrinsic evidence that showed that the variation in height of the bedroom and living areas was a slight variation per industry trade usage and was necessary to address conditions as required by the construction documents and field conditions, the court would likely find that Seller did not breach. If Buyer showed that the difference in ceiling height in the bedroom and living areas was not a slight variation and was not necessary, the court would likely find that Seller breached.
+C: Therefore, a court may find that Seller breached express terms.
+
+II.	Damages
+
+I: Assuming that the court finds that Seller breached the contract with buyer to provide a house with bedroom and living areas with an approximate ceiling height of 9’6”, the next question is what damages Buyer is entitled to.
+R: When a party breaches a contract, courts often find that the breaching party must pay damages. Damages are not to punish a party for breaching but to compensate the other party for their loss; damages need to be foreseeable and proved to a reasonable certainty, and the loss must arise naturally from breach or reasonably be in the contemplation of the parties. In construction contracts, when calculating how much damages the non-breaching party is entitled to, the court looks at whether there was substantial performance. The remedy of specific performance, which is an injunction for the breaching party to perform the actual contractual obligation, is an exceptional remedy available only when monetary damages would be inadequate, and which the court would not use here because here monetary damages would suffice.
+
+
+For breach of a construction contract, the injured party may generally recover all damages that are direct, natural, and immediate consequences of the breach and were reasonably within the parties' contemplation at the time they entered the contract. If the contractor fails to perform or incompletely performs, damages should be measured by the reasonable cost of replacement or completion [cutting corners-did not grade land below surface].
+
+Limitations on damages are (i) Certainty (reasonable), (ii) Foreseeability, (iii) Mitigation.  Certainty should amount to a reasonable certainty not mathematical precision and the yardstick is estimated from standard or similar business in that area; profit history, etc.
+
+The non-breaching party must prove a causal connection with reasonable certainty between the loss or damages caused by the breach. The causal connection cannot be too remote or theoretical.
+
+I: The first sub issue is whether there was substantial performance.
+R: For a court to find that there was substantial performance, the beginning of performance is required, not just mere preparation.
+A: Here, Seller substantially performed where it reconstructed the condominium unit it had agreed to reconstruct for Buyer.
+C: Therefore, there was substantial performance.
+
+---
+
 # Damages
+
+
+I: The second sub issue is how damages for breach of the substantially performed contract should be calculated.
+R: The three theories of contract damages which courts use to calculate damages are the expectation theory, the reliance theory and the restitution theory.
+A:
+I: The first question is how much damages Buyer would be entitled to under the Expectation theory.
+R: The expectation theory of contract damages aims to put the plaintiff in as good a position as she would have been in had the contract been performed. When applying the expectation theory, courts calculate …
+A: Here,
+C: Therefore, Buyer would be entitled to … under the expectation theory.
+
+I: The second question is how much damages Buyer would be entitled to under the reliance theory.
+R: The reliance theory of contract damages aims to put the plaintiff back in the position she would have been in had there been no contract (the plaintiff gets back all expenses incurred in reliance on the contract). When applying the expectation theory, courts calculate …
+A: Here,
+C: Therefore, Buyer would be entitled to … under the reliance theory.
+
+I: The third question is how much damages Buyer would be entitled to under the restitution theory.
+R: The restitution theory of contract damages aims to prevent unjust enrichment by putting the defendant back in the position he would have been in had there been no contract (plaintiff gets back all benefits conferred on defendant). When applying the restitution theory, courts calculate …
+A: Here,
+C: Therefore, Buyer would be entitled to … under the restitution theory.
+
+C: Therefore, Buyer would be entitled to … damages under the expectation theory, … damages under the reliance theory, and … damages under the restitution theory. A court would likely grant … damages under the expectation theory because the expectation theory is generally what courts prefer.
+
+---
 
 There are three Theories of Contract Damages
 
