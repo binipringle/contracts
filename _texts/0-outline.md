@@ -2452,9 +2452,7 @@ R: The remedy of specific performance, which is an injunction for the breaching 
 
 I: Assuming that the court finds that ... breached the contract with ... to provide ... the next question is what remedy the court should apply.
 
-R: When a party breaches a contract, courts often find that the breaching party must pay damages. Damages are not to punish a party for breaching but to compensate the other party for their loss; damages need to be foreseeable and proved to a reasonable certainty, and the loss must arise naturally from breach or reasonably be in the contemplation of the parties. The non-breaching party must prove a causal connection with reasonable certainty between the loss or damages caused by the breach. The causal connection cannot be too remote or theoretical. Limitations on damages are (i) Certainty (reasonable), (ii) Foreseeability, (iii) Mitigation.  Certainty should amount to a reasonable certainty not mathematical precision and the yardstick is estimated from standard or similar business in that area; profit history, etc.
-
-There are three theories for measuring money damages. These are expectation, reliance and restitution. The choice of which measure of damages is within the court’s discretion, but there are guidelines. The starting point is courts always want to award damages whenever they can, because that is supposed to mirror exactly what happened if the contract had not been breached.
+R: For a court to assign damages, the damages need to be foreseeable and proved to a reasonable certainty, and the loss must arise naturally from breach or reasonably be in the contemplation of the parties. The non-breaching party must prove a causal connection with reasonable certainty between the loss or damages caused by the breach. The causal connection cannot be too remote or theoretical. Limitations on damages are (i) Certainty (reasonable), (ii) Foreseeability, (iii) Mitigation.  Certainty should amount to a reasonable certainty not mathematical precision and the yardstick is estimated from standard or similar business in that area, including profit history. Damages are not to punish a party for breaching but to compensate the other party for their loss. Courts use three theories for measuring money damages. These are expectation, reliance and restitution. The choice of which measure of damages is within the court’s discretion, but there are guidelines. The starting point is courts always want to award damages whenever they can, because that is supposed to mirror exactly what happened if the contract had not been breached.
 
 Expectation damages and reliance damages are forward looking because they are trying to put the parties in the position they would have been in had the contract not been breached. Expectation is the goal and usually awarded. However, a court is likely to award reliance damages when the contract is too speculative for expectation damages. A court is likely to award restitution damages when there's no contract or if the contract is unenforceable. Another kind of damages are non-pecuniary damages (Pain and suffering). These are generally not recoverable because they are hard to measure.
 
@@ -2595,6 +2593,102 @@ In Sullivan, one of the things she's asking for is non-pecuniary damages for pai
 **Where does emotional pain appear in the formula? costs incurred. in sullivan case unanticipated and anticipated -**
 
 ---
+
+## Punitive damages
+
+- Generally not recoverable
+- Based on notions of efficient breach:
+- Breaching party may gain more from breaching
+- Non-breaching party is compensated through damages
+- Society better off when goods are used in their most productive manner
+- Punitive damages could encourage performance in cases where breach is more socially desirable
+
+Hypo where prof Z rents apartment for a year and then decides to go to california. punishing prof Z for breaching does not make sense. prof z will be better off in california. prof z will have to compensate landlord - prof z will be better off by breaching.
+
+Look at the non breaching party. are they better off? probably not. prof z is paying damages. months where apartment unrented - difference in amount if you rent it for a lower rent. you might be better off; you might get a new tenant who pays more. if you're better off, (I'm better off if i move; you're better off if you rent it for more money)
+
+Only awarded where Egregious behavior (malice / willfulness/ recklessness…) or fraudulent conduct. When conduct is motivated by malicious intent or callous indifference to the right of others.
+
+•	Not enough that the beach is “intentional”
+
+•	Policy is not to deter breach, but to deter morally culpable conduct
+
+damages may be awarded
+
+Common example where punitive damages may be awarded
+
+•	Violation of the Civil Rights Act
+
+---
+
+When arguing expectations. Plug in all costs incurred in equation.
+
+all costs incurred. All
+
+then perform analysis. look at limitations. nose in sullivan case. she said she would feel better. yes but can you calculate that with reasonable certainty. no. so that's a limitation.
+
+if rain comes in because of hole in ceiling - is it foreseeable that carpet gets damaged? yes. is it foreseeable that the birds would come in? yes. it is foreseeable that i have a priceless picasso? maybe not. this has to be foreseeable to the breaching party. breaching party has to know that there might be a priceless picasso. is it foreseeable that i lose my job because of the hole in the ceiling? probably not.
+
+---
+
+limitations
+
+court wont compensate injured party for:
+
+loss he could have reasonably avoided (mitigation) ...
+
+Halliburton -
+
+PROF Z IS GOING TO POST NEW SLIDES - THESE ARE NOT THE RIGHT SLIDES
+
+---
+
+Limitations
+
+Court won’t compensate injured party for:
+
+Loss he could have reasonably avoided (mitigation) (§ 350)
+Damages the breaching party did not have reason to foresee as a probable result of the breach at the time of contracting (§ 351)
+Damages that can not be proved with reasonable certainty (§ 352)
+
+---
+
+"Lost profits" go under costs incurred
+
+lost profits must be reasonably certain and foreseeable
+
+---
+
+Halliburton (Certainty)
+
+Buyer claims if the goods had been as warranted, they would have bought four more additional systems, entered the containerized cargo business, and made $24 million.
+Buyer seeking to recover those lost profits
+Where do lost profits fall on the equation?
+To recover lost profits they must be reasonably certain (and foreseeable…) [foreseeable is in parenthesis because in Halliburton case not about foreseeability but could have been]
+
+**you have to be reasonably certain that the damages were caused by a breach.**
+
+If you're arguing for the damages it doesn't have to be 100 percent precise. mathematical precision not required. if you're arguing against damages you say yeah you don't have to have mathematical precision but you don't even have reasonable certainty  
+
+---
+
+lost profits are tricky because ...
+
+courts don't mind giving lost profits for lost business but they don't like to give lost profits for new businesses (they want to base a prediction on some data from the past - doesn't have to be mathematically precise - must be a yard stick)
+
+---
+
+damages
+
+start with three theories
+
+goal is ... WATCH START OF VIDEO
+
+- expectation (net benefit plus cost incurred) (look at the big picture and take all of the amounts the plaintiff is asking for, plug everything in, and then talk about whether any limitations apply to each of the numbers I plugged in - sometimes you cant plug in a number because i can't quantify some cost incurred - do analysis and say damages might not be awarded because i can't count them)
+
+
+---
+
 
 Example 1
 I have a bike worth $90
@@ -2797,101 +2891,6 @@ Jacob and Youngs?
 ## Measuring Restitution Damages
 
 Something should go here. See also writing assignment 3.
-
----
-
-## Punitive damages
-
-- Generally not recoverable
-- Based on notions of efficient breach:
-- Breaching party may gain more from breaching
-- Non-breaching party is compensated through damages
-- Society better off when goods are used in their most productive manner
-- Punitive damages could encourage performance in cases where breach is more socially desirable
-
-Hypo where prof Z rents apartment for a year and then decides to go to california. punishing prof Z for breaching does not make sense. prof z will be better off in california. prof z will have to compensate landlord - prof z will be better off by breaching.
-
-Look at the non breaching party. are they better off? probably not. prof z is paying damages. months where apartment unrented - difference in amount if you rent it for a lower rent. you might be better off; you might get a new tenant who pays more. if you're better off, (I'm better off if i move; you're better off if you rent it for more money)
-
-Only awarded where Egregious behavior (malice / willfulness/ recklessness…) or fraudulent conduct. When conduct is motivated by malicious intent or callous indifference to the right of others.
-
-•	Not enough that the beach is “intentional”
-
-•	Policy is not to deter breach, but to deter morally culpable conduct
-
-damages may be awarded
-
-Common example where punitive damages may be awarded
-
-•	Violation of the Civil Rights Act
-
----
-
-When arguing expectations. Plug in all costs incurred in equation.
-
-all costs incurred. All
-
-then perform analysis. look at limitations. nose in sullivan case. she said she would feel better. yes but can you calculate that with reasonable certainty. no. so that's a limitation.
-
-if rain comes in because of hole in ceiling - is it foreseeable that carpet gets damaged? yes. is it foreseeable that the birds would come in? yes. it is foreseeable that i have a priceless picasso? maybe not. this has to be foreseeable to the breaching party. breaching party has to know that there might be a priceless picasso. is it foreseeable that i lose my job because of the hole in the ceiling? probably not.
-
----
-
-limitations
-
-court wont compensate injured party for:
-
-loss he could have reasonably avoided (mitigation) ...
-
-Halliburton -
-
-PROF Z IS GOING TO POST NEW SLIDES - THESE ARE NOT THE RIGHT SLIDES
-
----
-
-Limitations
-
-Court won’t compensate injured party for:
-
-Loss he could have reasonably avoided (mitigation) (§ 350)
-Damages the breaching party did not have reason to foresee as a probable result of the breach at the time of contracting (§ 351)
-Damages that can not be proved with reasonable certainty (§ 352)
-
----
-
-"Lost profits" go under costs incurred
-
-lost profits must be reasonably certain and foreseeable
-
----
-
-Halliburton (Certainty)
-
-Buyer claims if the goods had been as warranted, they would have bought four more additional systems, entered the containerized cargo business, and made $24 million.
-Buyer seeking to recover those lost profits
-Where do lost profits fall on the equation?
-To recover lost profits they must be reasonably certain (and foreseeable…) [foreseeable is in parenthesis because in Halliburton case not about foreseeability but could have been]
-
-**you have to be reasonably certain that the damages were caused by a breach.**
-
-If you're arguing for the damages it doesn't have to be 100 percent precise. mathematical precision not required. if you're arguing against damages you say yeah you don't have to have mathematical precision but you don't even have reasonable certainty  
-
----
-
-lost profits are tricky because ...
-
-courts don't mind giving lost profits for lost business but they don't like to give lost profits for new businesses (they want to base a prediction on some data from the past - doesn't have to be mathematically precise - must be a yard stick)
-
----
-
-damages
-
-start with three theories
-
-goal is ... WATCH START OF VIDEO
-
-- expectation (net benefit plus cost incurred) (look at the big picture and take all of the amounts the plaintiff is asking for, plug everything in, and then talk about whether any limitations apply to each of the numbers I plugged in - sometimes you cant plug in a number because i can't quantify some cost incurred - do analysis and say damages might not be awarded because i can't count them)
-
 ---
 
 Halliburton
