@@ -2452,7 +2452,7 @@ R: The remedy of specific performance, which is an injunction for the breaching 
 
 I: Assuming that the court finds that ... breached the contract with ... to provide ... the next question is what remedy the court should apply.
 
-R: When a party breaches a contract, courts often find that the breaching party must pay damages. Damages are not to punish a party for breaching but to compensate the other party for their loss; damages need to be foreseeable and proved to a reasonable certainty, and the loss must arise naturally from breach or reasonably be in the contemplation of the parties.
+R: When a party breaches a contract, courts often find that the breaching party must pay damages. Damages are not to punish a party for breaching but to compensate the other party for their loss; damages need to be foreseeable and proved to a reasonable certainty, and the loss must arise naturally from breach or reasonably be in the contemplation of the parties. There are three theories for measuring money damages. These are expectation, reliance and restitution. The choice of which measure of damages is within the court’s discretion, but there are guidelines. The starting point is courts always want to award damages whenever they can, because that is supposed to mirror exactly what happened if the contract had not been breached. Expectation damages and reliance damages are forward looking because they are trying to put the parties in the position they would have been in had the contract not been breached. Expectation is the goal and usually awarded. However, a court is likely to award reliance damages when the contract is too speculative for expectation damages. A court is likely to award restitution damages when there's no contract or if the contract is unenforceable. Another kind of damages are non-pecuniary damages (Pain and suffering). These are generally not recoverable because they are hard to measure.
 
 **Damages rules to tack on to general damages rule:**
 
@@ -2465,31 +2465,42 @@ Limitations on damages are (i) Certainty (reasonable), (ii) Foreseeability, (iii
 The non-breaching party must prove a causal connection with reasonable certainty between the loss or damages caused by the breach. The causal connection cannot be too remote or theoretical.
 
 I: The first sub issue is whether there was substantial performance.
+
 R: For a court to find that there was substantial performance, the beginning of performance is required, not just mere preparation.
+
 A: Here, Seller substantially performed where it reconstructed the condominium unit it had agreed to reconstruct for Buyer.
+
 C: Therefore, there was substantial performance.
-
----
-
-# Damages
 
 
 I: The second sub issue is how damages for breach of the substantially performed contract should be calculated.
+
 R: The three theories of contract damages which courts use to calculate damages are the expectation theory, the reliance theory and the restitution theory.
+
 A:
+
 I: The first question is how much damages Buyer would be entitled to under the Expectation theory.
+
 R: The expectation theory of contract damages aims to put the plaintiff in as good a position as she would have been in had the contract been performed. When applying the expectation theory, courts calculate …
+
 A: Here,
+
 C: Therefore, Buyer would be entitled to … under the expectation theory.
 
 I: The second question is how much damages Buyer would be entitled to under the reliance theory.
+
 R: The reliance theory of contract damages aims to put the plaintiff back in the position she would have been in had there been no contract (the plaintiff gets back all expenses incurred in reliance on the contract). When applying the expectation theory, courts calculate …
+
 A: Here,
+
 C: Therefore, Buyer would be entitled to … under the reliance theory.
 
 I: The third question is how much damages Buyer would be entitled to under the restitution theory.
+
 R: The restitution theory of contract damages aims to prevent unjust enrichment by putting the defendant back in the position he would have been in had there been no contract (plaintiff gets back all benefits conferred on defendant). When applying the restitution theory, courts calculate …
+
 A: Here,
+
 C: Therefore, Buyer would be entitled to … under the restitution theory.
 
 C: Therefore, Buyer would be entitled to … damages under the expectation theory, … damages under the reliance theory, and … damages under the restitution theory. A court would likely grant … damages under the expectation theory because the expectation theory is generally what courts prefer.
@@ -2588,16 +2599,6 @@ How do you show money damages would be inadequate?
 
 ---
 
-There are three theories for measuring money damages. These are expectation, reliance and restitution. The choice of which measure of damages is within the court’s discretion, but there are guidelines. *always remember that the court has discretion with damages* it's in the court's discretion but there are guidelines and they're pretty useful. The starting point is courts always want to award damages whenever they can, because that's supposed to mirror exactly what happened if the contract had not been breached. Expectation damages and reliance damages are forward looking because they are trying to put the parties in the position they would have been in had the contract not been breached. Expectation is the goal and usually awarded. However, a court is likely to award reliance damages when ... A court is likely to award restitution damages when ...
-
----
-
-Another kind of damages are non-pecuniary damages (Pain and suffering). These are generally not recoverable because they are hard to measure.
-
-- If theres a contract you're going expectations damages
-- If too speculative, reliance
-- If there's no contract or if the contract is unenforceable, restitution damages
-
 In Sullivan, one of the things she's asking for is non-pecuniary damages for pain and suffering. These are generally not recoverable (hard to measure) unless the contract involves non-pecuniary values. if k involves subject matter that is expected to be emotional. you have to look at k and ask if its foreseeable that k will lead to emotional harm. the typical sale of goods does not involve non-pecuniary damages. Are non-pecuniary damages recoverable in Sullivan? yes. Sullivan involves surgery and physical appearance and these are the kinds of things that involve physical pain and emotional pain and suffering. You have to make the case based on the facts that the case involves emotional values
 
 **Where does emotional pain appear in the formula? costs incurred. in sullivan case unanticipated and anticipated -**
@@ -2673,6 +2674,7 @@ Mkt price expected	-	Mkt price received
 ---
 
 American Standard (p 700)
+
 •	What were the contract terms?
 •	What did defendant promise to do?
 •	In what way did defendant breach?
