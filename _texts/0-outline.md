@@ -249,7 +249,7 @@ A court will weigh and balance a series of factors when considering whether ther
 
 **Offer Factors:** these are some of the factors we would use to see if there was an offer in the rancher test. It's similar to the factors in the objective test. This list is a bit particular to offers.
 
-- **Language** – words of promise or commitment? For there to be an offer there doesn't have to be words of promise; but if there are that makes it more likely that there is an offer.
+- **Language** - words of promise or commitment? For there to be an offer there doesn't have to be words of promise; but if there are that makes it more likely that there is an offer.
 - **Level of detail:** in Rancher hypo not much detail in first convo, but in letter a lot more, and the more detail the more like an offer.
 - **Number of people to whom addressed (and does it name a party or parties?):** in Rancher four people; that's not infinite, very finite, but still more thhan hhe could accommodate. Also did Rancher name people? Yes, neighbors, so more liikeley offer
 - **Trade usage / custom:**  
@@ -641,7 +641,7 @@ What constitutes part performance?
 
 Usually:
 Beginning of performance is required, not just mere preparation
-But doesn’t need to be substantial performance – can be just the very start of performance
+But doesn’t need to be substantial performance - can be just the very start of performance
 
 Once you have painted at least one slat, then you have tried to accept and I have to give you time to fully acccept with full performance.
 
@@ -659,7 +659,7 @@ What constitutes part performance?
 
 Usually:
 Beginning of performance is required, not just mere preparation
-But doesn’t need to be substantial performance – can be just the very start of performance
+But doesn’t need to be substantial performance - can be just the very start of performance
 
 ---
 
@@ -802,7 +802,7 @@ Reliance Theory is an alternative ground for recovery when there’s no exchange
 
 In contrast, the idea underlying the bargain theory and the doctrine of consideration values exchange and the marketplace. This is why the question of whether a promise to give a gift should ever be enforceable is controversial. If we say yes, we’re risking undermining the basis of the bargain theory. One’s view of the bargain theory is really one’s view of consideration; if your view is that consideration is very important, you’re not going to think much of reliance theory. However, if you think that consideration is not always a valid basis for enforcing promises because sometimes although there's no consideration, people might rely on a promise and that’s valuable.   
 
-The family context is very private so that’s a place the court might not intervene – but there’s a whole school of thought that says that promises even in the family sphere and in the private sphere have value and should be enforced.  
+The family context is very private so that’s a place the court might not intervene - but there’s a whole school of thought that says that promises even in the family sphere and in the private sphere have value and should be enforced.  
 
 Reliance Theory based on:
 
@@ -813,7 +813,7 @@ Assumptions
 
 - People do rely on each other
 - Such reliance is morally and politically valuable
-- Reliance theory doesn’t protect promises – it protects reliance. – (not all promises are enforceable; the rules are not protecting promises; however, once the other party reasonably relies on the promise, you can’t take it back)
+- Reliance theory doesn’t protect promises - it protects reliance. - (not all promises are enforceable; the rules are not protecting promises; however, once the other party reasonably relies on the promise, you can’t take it back)
 
 ---
 
@@ -821,10 +821,10 @@ Assumptions
 
 (Promissory estoppel) (§ 90)** (these are Zalesne’s elements - Elements (section 90 is not worded in this way).
 
-1. PROMISE (objective test) – rule is objective test; would a reasonable person think they were making a promise
-2. RELIANCE - on the promise (change of position) – change of position because of the promise – I wasn’t going to go to college but you made a promise so based on promise I’m going to go. –
-3. REASONABLE - Reliance must be REASONABLE (context/factors) - Factors – context – who parties are -
-4. HARM - Reliance must have caused HARM (beyond not getting the thing promised) – harm can’t be I promise to give you 5000 dollars and then you feel harmed when you don’t have 5000 dollars. But if you can show that because of the reliance you were harmed. Say I promise you 5000 dollars and you go buy a car – must show that you’re worse off than you were before the promise.
+1. PROMISE (objective test) - rule is objective test; would a reasonable person think they were making a promise
+2. RELIANCE - on the promise (change of position) - change of position because of the promise - I wasn’t going to go to college but you made a promise so based on promise I’m going to go. -
+3. REASONABLE - Reliance must be REASONABLE (context/factors) - Factors - context - who parties are -
+4. HARM - Reliance must have caused HARM (beyond not getting the thing promised) - harm can’t be I promise to give you 5000 dollars and then you feel harmed when you don’t have 5000 dollars. But if you can show that because of the reliance you were harmed. Say I promise you 5000 dollars and you go buy a car - must show that you’re worse off than you were before the promise.
 
 ---
 
@@ -832,7 +832,7 @@ Assumptions
 
 Promissory estoppel comes from the doctrine of equitable estoppel, where if a person makes a representation about a fact, in a situation in which another person is likely to rely on the truth of that fact (sometimes in the context of litigation and sometimes in other contexts), then the first person is barred ("estopped") from denying the truth of the fact as he or she stated it. (45) In *Ricketts v. Scothorn*, Judge Sullivan applied the idea of equitable estoppel to a promise, instead of a statement of fact. So under Ricketts, if a person says, in effect, "I will do this," in a situation in which reliance is reasonable and foreseeable, he or she may later be estopped from saying "I will not do this" or "my promise is not enforceable."
 
-To really understand promissory estoppel, you have to look at the interplay between the bargain theory and reliance theory. We saw a real limitation to the bargain theory in Childess, where ... *State Bank of Standish v. Curry* is the perfect example of the power dynamics between the bank and the family farm. There is a huge imbalance where the Bank says “we’ll take care of you” and the farmers have to trust. A flexible court sees the value of trust – the importance of trust when there is a power imbalance – and that is the approach the court took in Standish.  
+To really understand promissory estoppel, you have to look at the interplay between the bargain theory and reliance theory. We saw a real limitation to the bargain theory in Childess, where ... *State Bank of Standish v. Curry* is the perfect example of the power dynamics between the bank and the family farm. There is a huge imbalance where the Bank says “we’ll take care of you” and the farmers have to trust. A flexible court sees the value of trust - the importance of trust when there is a power imbalance - and that is the approach the court took in Standish.  
 
 Courts may enforce a promise that is not part of an exchange under the doctrine of promissory estoppel, codified in RST § 90(1) which states that "a promise which the promisor should reasonably expect to induce action or forbearance on the part of the promisee or a third person and which does induce such action or forbearance is binding if injustice can be avoided only by enforcement of the promise. The remedy granted for the breach may be limited as justice requires." A promise is defined as "a manifestation of intention to act or refrain from acting in a specified way, so made as to justify a promisee in understanding that a commitment has been made." RST § 2(1). The focus of promissory estoppel is on the circumstances of trust, so the requirement of a promise is shaped by a court's views about the social dimension of trust. Some courts insist that reliance cannot be expected or reasonable unless the promise is "clear and unambiguous." Other courts find that mere "representations" can be sufficient expressions of commitment to induce expected and reasonable reliance.   
 
@@ -859,7 +859,7 @@ Flexible Approach is most commonly seen in cases of deals-that-never-happen. In 
 
 ## Steps of analysis reliance theory
 
-Four elements – argue from one perspective, argue from another, and then the more complicated is the approach – flexible or strict.
+Four elements - argue from one perspective, argue from another, and then the more complicated is the approach - flexible or strict.
 
 ---
 
@@ -881,7 +881,7 @@ In Kirksey v. Kirksey, the court ruled that there was no enforceable promise whe
 
 - In *State Bank of Standish v. Curry*, the Currys been borrowing from the bank for ten years. 1983 to 1993. Had outstanding balance of $167,000. Government started buy out program. This would have allowed them to pay their debts if they won the bids. They asked bank if the bank would continue to give them yearly loan. Bank said: “the Currys were doing a great job and had made all their payments and that there was no reason to worry about their future in the dairy business because the bank would support them.” (244) The Bank sues for money owed and Currys sue for promissory estoppel.
 - The Currys didn’t bring their case as bargain theory because there was really no offer. The bank’s language was too vague; there were no specific terms. There was only a promise to make an offer in the future. It’s different from I promise to give you a loan for this much if you promise to pay me interest.
-- So court says is there is no offer, but there might be a promise. – some courts will use it in a very narrow way. Two views.
+- So court says is there is no offer, but there might be a promise. - some courts will use it in a very narrow way. Two views.
 
 ---
 
@@ -1420,7 +1420,7 @@ Not reasonable to rely if
 **Puffing Hypo**
 
 - Papa Johns runs a series of ads claiming it makes “better pizza” and touting the “superiority” of its sauce and its dough
-- Does consumer assume its sauce is made from fresh and vine-ripened tomatoes – not remanufactured tomato paste
+- Does consumer assume its sauce is made from fresh and vine-ripened tomatoes - not remanufactured tomato paste
 - Dough is fresh, not frozen etc.?
 
 **Burger King Commercial**
@@ -1513,7 +1513,7 @@ I: The question is whether the contract should be voided because of impracticabi
 
 R: Under the Restatement Second, a contract can be voided due to impracticability is when events following contract formation are different from assumptions the parties made when the contract was made. Like Mistake, the doctrine of impracticability deals with situations where the exchange turned out very different from what was expected. Unlike mistake, with impracticability there was no factual error at the time of contracting. Instead, the supervening event happens after contracting. The older common law rule was impossibility, which contemplated a situation where an event completely defeated the ability to perform, such as when a person died or an object was destroyed. The scope of the doctrine has broadened to include situations where performance is technically possible but has become extremely burdensome.
 
-For a duty to render performance to be discharged because of impracticability, four elements have to be satisfied. These elements are (1) an event must have occurred, the nonoccurrence of which was a basic assumption of the contract (§§ 262-264); (2) the event must have made performance impracticable (unduly burdensome – not impossible); (3) impracticability cannot be either party’s fault; and (4) the party seeking relief must not have assumed the risk.
+For a duty to render performance to be discharged because of impracticability, four elements have to be satisfied. These elements are (1) an event must have occurred, the nonoccurrence of which was a basic assumption of the contract (§§ 262-264); (2) the event must have made performance impracticable (unduly burdensome - not impossible); (3) impracticability cannot be either party’s fault; and (4) the party seeking relief must not have assumed the risk.
 
 A:
 
@@ -1625,7 +1625,7 @@ Substantive unfairness
 
 # Modification
 
-Involves changed circumstances – parties want to change the terms of their contract. With impracticability, circumstances materially change after the parties sign the contract so court excuses performance. Here, change in circumstances might not be material enough to excuse performance (original contract may still be enforceable), but parties want to modify terms.The next issue is whether modification of the contract will be allowed.
+Involves changed circumstances - parties want to change the terms of their contract. With impracticability, circumstances materially change after the parties sign the contract so court excuses performance. Here, change in circumstances might not be material enough to excuse performance (original contract may still be enforceable), but parties want to modify terms.The next issue is whether modification of the contract will be allowed.
 
 **§ 89 Modification of Executory Contract** A promise modifying a duty under a contract not fully performed on either side is binding (a) if the modification is fair and equitable in view of circumstances not anticipated by the parties when the contract was made; or (b) to the extent provided by statute; or (c) to the extent that justice requires enforcement in view of material change of position in reliance on the promise.
 
@@ -1737,7 +1737,7 @@ the court said there was no consideration - ? - there was some talk about waiver
 
 Examples of changed circumstances
 
-Not just absence of coercion – need to show some reason (unanticipated circumstances):
+Not just absence of coercion - need to show some reason (unanticipated circumstances):
 
 Market fluctuations
 Performance becomes more difficult
@@ -1841,7 +1841,7 @@ Terms implied in every contract
 
 Course of dealing: § 1-303(b):
 
-How have parties dealt with each other in the past – look at prior contracts between same parties.
+How have parties dealt with each other in the past - look at prior contracts between same parties.
 
 now we have a k between z and lm - we look at all of their past contracts; how have they agreed on contracting in the past; this is their private custom; because we have always done this in the past, it is fair to assume that the delivery will happen on Friday.
 
@@ -1863,7 +1863,7 @@ Implied obligations of good faith and best efforts (people do expect each other 
 
 Emphasizes faithfulness to an agreed common purpose and consistency with justified expectations of the other party
 
-When one party has discretion, there’s an implied obligation to use reasonable efforts in light of their ability / means / expectations – can’t act arbitrarily or 	irrationally (We saw this with contracts that appear to be illusory)
+When one party has discretion, there’s an implied obligation to use reasonable efforts in light of their ability / means / expectations - can’t act arbitrarily or 	irrationally (We saw this with contracts that appear to be illusory)
 
 ---
 
@@ -1887,7 +1887,7 @@ if you read contract very closely you can argue that shell
 
 Price protection
 
-Requires Shell to hold the price on the tonnage Nanakuli had already committed – Nanakuli had already incorporated that price into bids put out
+Requires Shell to hold the price on the tonnage Nanakuli had already committed - Nanakuli had already incorporated that price into bids put out
 
 Express term vs Implied terms
 
@@ -2136,78 +2136,78 @@ Gives integrity and weight to the written contract.
 PER says when such evidence is admissible
 
 PER § 2-202, RST § 215, 216
-•	Terms in writing
-–	May not be contradicted
-–	But may be supplemented or explained by
-– TU, CD, CP
-– Consistent Additional Terms, UNLESS the K was fully integrated
+- 	Terms in writing
+-	May not be contradicted
+-	But may be supplemented or explained by
+- TU, CD, CP
+- Consistent Additional Terms, UNLESS the K was fully integrated
 
 Integration
-•	Partial integration: Document is final as to what’s written but not complete
+- 	Partial integration: Document is final as to what’s written but not complete
 
 
 
-•	Full integration: Document is complete and final expression of the parties’ agreement
+- 	Full integration: Document is complete and final expression of the parties’ agreement
 
-•	If partially integrated: Consistent add’l terms are admissible
-•	If fully integrated: Consistent add’l terms are not admissible
+- 	If partially integrated: Consistent add’l terms are admissible
+- 	If fully integrated: Consistent add’l terms are not admissible
 
 Parts of rule restated differently
-•	Extrinsic evidence can never contradict the K (but can partially negate a term – see
+- 	Extrinsic evidence can never contradict the K (but can partially negate a term - see
 Nanakuli)
 
-•	TU, CD, CP are always admissible unless they contradict the K
+- 	TU, CD, CP are always admissible unless they contradict the K
 
-•	Consistent additional terms are never admissible unless the K is not fully integrated
+- 	Consistent additional terms are never admissible unless the K is not fully integrated
 
 Exceptions
-•	Extrinsic evidence is always admissible to explain or interpret a term when that term is ambiguous or unclear
+- 	Extrinsic evidence is always admissible to explain or interpret a term when that term is ambiguous or unclear
 
-•	PER doesn’t apply to modifications or subsequent agreements
+- 	PER doesn’t apply to modifications or subsequent agreements
 
-•	PER doesn’t exclude evidence to establish a defense to K formation
-
-Betaco (p 570)
-•	What was the alleged breach?
+- 	PER doesn’t exclude evidence to establish a defense to K formation
 
 Betaco (p 570)
-•	Alleged express warranty: “The new Citation Jet is much faster, more efficient and has more range than the Citation I”
-•	Is there any dispute that the cover letter said that?
-•	Did the Citation Jet have greater range than the Citation 1?
-•	Then what’s the issue?
+- 	What was the alleged breach?
+
+Betaco (p 570)
+- 	Alleged express warranty: “The new Citation Jet is much faster, more efficient and has more range than the Citation I”
+- 	Is there any dispute that the cover letter said that?
+- 	Did the Citation Jet have greater range than the Citation 1?
+- 	Then what’s the issue?
 
 Issue
-•	Is extrinsic evidence (cover letter) admissible to interpret the purchase agreement?
+- 	Is extrinsic evidence (cover letter) admissible to interpret the purchase agreement?
 
-•	Go through each step of the rule…
+- 	Go through each step of the rule…
 
 Sub-Issues
-•	Does the extrinsic evidence contradict the contract?
+- 	Does the extrinsic evidence contradict the contract?
 
-•	Is it evidence of TU, CD, or CP?
+- 	Is it evidence of TU, CD, or CP?
 
-•	Is it a consistent additional term?
+- 	Is it a consistent additional term?
 
-•	Was the contract fully integrated?
+- 	Was the contract fully integrated?
 (How will court determine whether the K is fully integrated?)
 
 How will court determine whether the K is fully integrated?
-•	Look at intention of parties (through their words and actions)
+- 	Look at intention of parties (through their words and actions)
 
-•	Look first for merger clause
-–	Is the merger clause valid?
-•	Then look for other circumstances surrounding the transaction
+- 	Look first for merger clause
+-	Is the merger clause valid?
+- 	Then look for other circumstances surrounding the transaction
 
 Merger clause (or Integration clause)
 
-•	Clause stating the parties intend the signed contract to be a complete and final statement of their agreement.
+- 	Clause stating the parties intend the signed contract to be a complete and final statement of their agreement.
 
-•	Example (Betaco): “This is the only agreement controlling this purchase.”
+- 	Example (Betaco): “This is the only agreement controlling this purchase.”
 
 stronger merger clause would say this is the only agreement controlling this purchase and this clause is final.
 
 So…
-•	If the contract is fully integrated, where does that leave us? Is that the end of the analysis?
+- 	If the contract is fully integrated, where does that leave us? Is that the end of the analysis?
 
 ---
 
@@ -2446,7 +2446,7 @@ C: Therefore, this contract is governed by the Perfect Tender Rule.
 
 **Specific Performance rule**
 
-R: The remedy of specific performance, which is an injunction for the breaching party to perform the actual contractual obligation, is an exceptional remedy available only when monetary damages would be inadequate, and which the court would not use here because here monetary damages would suffice.
+R: The remedy of specific performance, which is an injunction for the breaching party to perform the actual contractual obligation, is an exceptional remedy available only when monetary damages would be inadequate. Courts find that money damages are inadequate where (1) goods or services are unique -- no established market for them (money can’t buy substitute); (2) subject of contract involves matters of taste or sentiment (money can’t buy substitute); and (3) consider difficulty of proving expectation damages with reasonable certainty.
 
 ---
 
@@ -2551,17 +2551,153 @@ Expectation element (when builder breaches) = value of performance (expected) - 
 
 ---
 
-**RULE:**  
+## Limitations
+
+I: The next issue is whether any limitations apply to the damages.
+
+R: Courts will not compensate an injured party for (1) loss she could have reasonably avoided (mitigation) (§ 350); (2) damages the breaching party did not have reason to foresee as a probable result of the breach at the time of contracting (§ 351); or (3) damages that cannot be proved with reasonable certainty (§ 352). If the Breach caused harm but no one could have foreseen it, the limitation of foreseeability does not apply and the recovery of damages is possible. The loss must Loss must arise naturally from the breach, **OR** reasonably be in the contemplation of the parties (Hadley). Under the Restatement Second of Contracts, the loss must follow in the ordinary course of events **OR** if not in the ordinary course then the breaching party must have reason to know that the loss was likely to occur. (RST§ 351).
+
+A: Here, ...
+
+C: Therefore, ...
+
+## Foreseeability
+
+**Lost profits**
+
+I: The next sub-issue is whether the loss of profits was foreseeable.
+
+R: There is no breach if the event that caused the breach was foreseeable at time of contracting. For a breach to be foreseeable it does not have to be foreseeable that the breach would occur - just that the loss would occur if the breach occurred. In other words, the breach must be reasonably foreseeable (not actually foreseen); the breach need only be the probable result, not the certain result.
+
+A: Here, ...
+
+C: Therefore, ...
+
+## Certainty
+
+I: The next sub-issue is whether there was certainty about the amount of lost profits and the cause of the lost profits.
+
+R: To recover lost profits they must be must be certain in amount and in causation. These are two different issues.
+
+A:
+
+I: The first question is whether the lost profits were certain in amount.
+
+R: The amount (1) does not have to be proved with mathematical precision, but just with reasonable certainty (In Sullivan, ...). (2) Courts often have issues with allocating lost profits to new businesses, and generally do not find lost profits recoverable for new businesses. (3) Courts look for a yardstick or some standard to determine damages in a given area.
+
+A: Here, ...
+
+C: Therefore, ...
+
+I: The second question is whether the lost profits were caused by the breach.
+
+R: The injured party must prove a causal connection with reasonable certainty. For example, they must be reasonably certain they would have earned the profits had there not been a breach. A causal connection cannot be too remote or theoretical.
+
+A: Here, ...
+
+C: Therefore, ...
+
+## Mitigation
+
+I: The next issue is whether the injured party could have mitigated the loss/breach.
+
+R: Courts place a limitation on damages where the injured party could have avoided the loss with reasonable effort or due diligence, or without undue risk, burden, or humiliation.
+The injured party does not have to succeed in mitigating; they can recover damages if they made reasonable but unsuccessful efforts to mitigate. The policy here is based on notions of fairness and aims to encourage socially responsible behavior and prevent waste. The assumption is that a party should not be punished for breaching because breaching is not in and of itself a bad thing (sometimes breaching is better for everyone).
+
+A: Here, ...
+
+C: Therefore, ...
+
+*WHEN DOING CALCULATION MITIGATION GOES ON LEFT SIDE*
+
+Need to subtract out the expected cost of performance OR subtract any expected mitigation (this is built in to the equation)
+
+- I could sell the car to someone else so subtract what I could have gotten from someone else.
+- I could have rented the apartment to someone else so subtract rent I could have gotten from someone else.
+- I could have been in another movie so subtract the salary I could have gotten from the other movie.
+
+---
+## Non-Pecuniary Damages
+
+- Usually not awarded
+- Not foreseeable
+- Can’t calculate with reasonable certainty
+- Only awarded if contract involves non-pecuniary values
+- In those cases, it is foreseeable
+- Lack of certainty will be overlooked
+
+In Sullivan, one of the things she's asking for is non-pecuniary damages for pain and suffering. These are generally not recoverable (hard to measure) unless the contract involves non-pecuniary values. if k involves subject matter that is expected to be emotional. you have to look at k and ask if its foreseeable that k will lead to emotional harm. the typical sale of goods does not involve non-pecuniary damages. Are non-pecuniary damages recoverable in Sullivan? yes. Sullivan involves surgery and physical appearance and these are the kinds of things that involve physical pain and emotional pain and suffering. You have to make the case based on the facts that the case involves emotional values
+
+**Where does emotional pain appear in the formula? costs incurred. in sullivan case unanticipated and anticipated -**
+
+---
+
+## Punitive damages
+
+- Generally not recoverable
+- Based on notions of efficient breach:
+- Breaching party may gain more from breaching
+- Non-breaching party is compensated through damages
+- Society better off when goods are used in their most productive manner
+- Punitive damages could encourage performance in cases where breach is more socially desirable
+
+Punitive damages are only awarded where Egregious behavior (malice / willfulness/ recklessness…) or fraudulent conduct.  When conduct is motivated by malicious intent or callous indifference to the right of others. Not enough that the beach is “intentional.” Policy is not to deter breach, but to deter morally culpable conduct.
+
+Hypo where prof Z rents apartment for a year and then decides to go to california. punishing prof Z for breaching does not make sense. prof z will be better off in california. prof z will have to compensate landlord - prof z will be better off by breaching.
+
+Look at the non breaching party. are they better off? probably not. prof z is paying damages. months where apartment unrented - difference in amount if you rent it for a lower rent. you might be better off; you might get a new tenant who pays more. if you're better off, (I'm better off if i move; you're better off if you rent it for more money)
+
+Only awarded where Egregious behavior (malice / willfulness/ recklessness…) or fraudulent conduct. When conduct is motivated by malicious intent or callous indifference to the right of others.
+
+- 	Not enough that the beach is “intentional”
+
+- 	Policy is not to deter breach, but to deter morally culpable conduct
+
+damages may be awarded
+
+Common example where punitive damages may be awarded
+
+- 	Violation of the Civil Rights Act
+
+When arguing expectations. Plug in all costs incurred in equation.
+
+all costs incurred. All
+
+then perform analysis. look at limitations. nose in sullivan case. she said she would feel better. yes but can you calculate that with reasonable certainty. no. so that's a limitation.
+
+if rain comes in because of hole in ceiling - is it foreseeable that carpet gets damaged? yes. is it foreseeable that the birds would come in? yes. it is foreseeable that i have a priceless picasso? maybe not. this has to be foreseeable to the breaching party. breaching party has to know that there might be a priceless picasso. is it foreseeable that i lose my job because of the hole in the ceiling? probably not.
+
+---
+
+**Halliburton (Certainty)**
+
+Buyer claims if the goods had been as warranted, they would have bought four more additional systems, entered the containerized cargo business, and made $24 million.
+Buyer seeking to recover those lost profits
+Where do lost profits fall on the equation?
+To recover lost profits they must be reasonably certain (and foreseeable…) [foreseeable is in parenthesis because in Halliburton case not about foreseeability but could have been]
+
+**you have to be reasonably certain that the damages were caused by a breach.**
+
+If you're arguing for the damages it doesn't have to be 100 percent precise. mathematical precision not required. if you're arguing against damages you say yeah you don't have to have mathematical precision but you don't even have reasonable certainty  
+
+---
+
+lost profits are tricky because ...
+
+courts don't mind giving lost profits for lost business but they don't like to give lost profits for new businesses (they want to base a prediction on some data from the past - doesn't have to be mathematically precise - must be a yard stick)
+
+---
+
+
+---
+
+**RULE:**
 
 Specific performance
 
 - Injunction ordering the defendant to perform the actual contractual obligation
-
 - Exceptional remedy (maybe the landlord )
-
 - Available only when monetary damages would be inadequate
-
----
 
 Why exceptional remedy?
 
@@ -2587,107 +2723,6 @@ How do you show money damages would be inadequate?
 - Subject of contract involves matters of taste or sentiment (money can’t buy substitute)
 
 - Consider difficulty of proving expectation damages with reasonable certainty
-
----
-
-In Sullivan, one of the things she's asking for is non-pecuniary damages for pain and suffering. These are generally not recoverable (hard to measure) unless the contract involves non-pecuniary values. if k involves subject matter that is expected to be emotional. you have to look at k and ask if its foreseeable that k will lead to emotional harm. the typical sale of goods does not involve non-pecuniary damages. Are non-pecuniary damages recoverable in Sullivan? yes. Sullivan involves surgery and physical appearance and these are the kinds of things that involve physical pain and emotional pain and suffering. You have to make the case based on the facts that the case involves emotional values
-
-**Where does emotional pain appear in the formula? costs incurred. in sullivan case unanticipated and anticipated -**
-
----
-
-## Punitive damages
-
-- Generally not recoverable
-- Based on notions of efficient breach:
-- Breaching party may gain more from breaching
-- Non-breaching party is compensated through damages
-- Society better off when goods are used in their most productive manner
-- Punitive damages could encourage performance in cases where breach is more socially desirable
-
-Hypo where prof Z rents apartment for a year and then decides to go to california. punishing prof Z for breaching does not make sense. prof z will be better off in california. prof z will have to compensate landlord - prof z will be better off by breaching.
-
-Look at the non breaching party. are they better off? probably not. prof z is paying damages. months where apartment unrented - difference in amount if you rent it for a lower rent. you might be better off; you might get a new tenant who pays more. if you're better off, (I'm better off if i move; you're better off if you rent it for more money)
-
-Only awarded where Egregious behavior (malice / willfulness/ recklessness…) or fraudulent conduct. When conduct is motivated by malicious intent or callous indifference to the right of others.
-
-•	Not enough that the beach is “intentional”
-
-•	Policy is not to deter breach, but to deter morally culpable conduct
-
-damages may be awarded
-
-Common example where punitive damages may be awarded
-
-•	Violation of the Civil Rights Act
-
----
-
-When arguing expectations. Plug in all costs incurred in equation.
-
-all costs incurred. All
-
-then perform analysis. look at limitations. nose in sullivan case. she said she would feel better. yes but can you calculate that with reasonable certainty. no. so that's a limitation.
-
-if rain comes in because of hole in ceiling - is it foreseeable that carpet gets damaged? yes. is it foreseeable that the birds would come in? yes. it is foreseeable that i have a priceless picasso? maybe not. this has to be foreseeable to the breaching party. breaching party has to know that there might be a priceless picasso. is it foreseeable that i lose my job because of the hole in the ceiling? probably not.
-
----
-
-limitations
-
-court wont compensate injured party for:
-
-loss he could have reasonably avoided (mitigation) ...
-
-Halliburton -
-
-PROF Z IS GOING TO POST NEW SLIDES - THESE ARE NOT THE RIGHT SLIDES
-
----
-
-Limitations
-
-Court won’t compensate injured party for:
-
-Loss he could have reasonably avoided (mitigation) (§ 350)
-Damages the breaching party did not have reason to foresee as a probable result of the breach at the time of contracting (§ 351)
-Damages that can not be proved with reasonable certainty (§ 352)
-
----
-
-"Lost profits" go under costs incurred
-
-lost profits must be reasonably certain and foreseeable
-
----
-
-Halliburton (Certainty)
-
-Buyer claims if the goods had been as warranted, they would have bought four more additional systems, entered the containerized cargo business, and made $24 million.
-Buyer seeking to recover those lost profits
-Where do lost profits fall on the equation?
-To recover lost profits they must be reasonably certain (and foreseeable…) [foreseeable is in parenthesis because in Halliburton case not about foreseeability but could have been]
-
-**you have to be reasonably certain that the damages were caused by a breach.**
-
-If you're arguing for the damages it doesn't have to be 100 percent precise. mathematical precision not required. if you're arguing against damages you say yeah you don't have to have mathematical precision but you don't even have reasonable certainty  
-
----
-
-lost profits are tricky because ...
-
-courts don't mind giving lost profits for lost business but they don't like to give lost profits for new businesses (they want to base a prediction on some data from the past - doesn't have to be mathematically precise - must be a yard stick)
-
----
-
-damages
-
-start with three theories
-
-goal is ... WATCH START OF VIDEO
-
-- expectation (net benefit plus cost incurred) (look at the big picture and take all of the amounts the plaintiff is asking for, plug everything in, and then talk about whether any limitations apply to each of the numbers I plugged in - sometimes you cant plug in a number because i can't quantify some cost incurred - do analysis and say damages might not be awarded because i can't count them)
-
 
 ---
 
@@ -2762,11 +2797,11 @@ Mkt price expected	-	Mkt price received
 
 American Standard (p 700)
 
-•	What were the contract terms?
-•	What did defendant promise to do?
-•	In what way did defendant breach?
-•	What was defendant’s reason for that breach? (or are they arguing they didn’t breach?)
-•	What measure of damages is each party arguing for?
+- 	What were the contract terms?
+- 	What did defendant promise to do?
+- 	In what way did defendant breach?
+- 	What was defendant’s reason for that breach? (or are they arguing they didn’t breach?)
+- 	What measure of damages is each party arguing for?
 
 ... is basically equating it to jacob and reeeves - *the court does not punish a breach; the court compensates the party damaged by the breath*
 
@@ -2775,30 +2810,30 @@ all going to depend on whether the court is going to ask one party to give up al
 the court says there was no substantial performance. awards cost of completion BECAUSE no substantial performance.
 
 American Standard
-•	D argues for diminution in value. Under that theory, what would damages be?
+- 	D argues for diminution in value. Under that theory, what would damages be?
 
-•	P argues for cost of completion. Under that theory, what would damages be?
+- 	P argues for cost of completion. Under that theory, what would damages be?
 
 Net benefit expected
-•	What I expected to get	-	What I got
+- 	What I expected to get	-	What I got
 
-•	Full fair market value	-	Market value expected		as is
+- 	Full fair market value	-	Market value expected		as is
 
-•	Land with no	-	Land with subsurface structures		subsurf structures
+- 	Land with no	-	Land with subsurface structures		subsurf structures
 
 How does court decide which to award?
-•	Which is the default calculation?
-•	Why?
-•	When is the other calculation used?
+- 	Which is the default calculation?
+- 	Why?
+- 	When is the other calculation used?
 
 Factually how would you distinguish
 American Standard from
 Jacob and Youngs?
 
-•	Harm to P? minimum. did they want no structures below surface; no, they really wanted the surface clear so they can resell it. what different with jacob and youngs? the difference is that in jacob and youngs it cost a lot because they had to pull down and redo; here there is no economic waste because the construction co had not done anything. american standard case is about freedom of contract.
+- 	Harm to P? minimum. did they want no structures below surface; no, they really wanted the surface clear so they can resell it. what different with jacob and youngs? the difference is that in jacob and youngs it cost a lot because they had to pull down and redo; here there is no economic waste because the construction co had not done anything. american standard case is about freedom of contract.
 in jacob and youngs it was an innocent mistake. here it was not an innocent mistake. the construction company knew. in jacob and youngs they... what the court is looking at is cutting corners. they dont have to dig underground -
-•	Harm to D?
-•	Fault?
+- 	Harm to D?
+- 	Fault?
 
 ---
 
@@ -2839,54 +2874,52 @@ Two ways to measure net benefit side (left side). Under both ways:
 
 What you expected to get minus what you actually got. Value of performance expected minus value received
 
+Two ways to figure "value"
 
-
-•	Diminution in value:
+- 	Diminution in value:
 Mkt price expected	-	Mkt price received
 
 (Used when substantial performance)
 
-•	Cost of Completion
+- 	Cost of Completion
 (used when no substantial performance)
 
-
-
-•	What were the contract terms?
-•	What did defendant promise to do?
-•	In what way did defendant breach?
-•	What was defendant’s reason for that breach? (or are they arguing they didn’t breach?)
-•	What measure of damages is each party arguing for?
-
-
-
-•	D argues for diminution in value. Under that theory, what would damages be?
-
-•	P argues for cost of completion. Under that theory, what would damages be?
+- 	What were the contract terms?
+- 	What did defendant promise to do?
+- 	In what way did defendant breach?
+- 	What was defendant’s reason for that breach? (or are they arguing they didn’t breach?)
+- 	What measure of damages is each party arguing for?
 
 
 
+- 	D argues for diminution in value. Under that theory, what would damages be?
 
-•	What I expected to get	-	What I got
+- 	P argues for cost of completion. Under that theory, what would damages be?
 
 
 
 
-•	Full fair market value	-	Market value expected		as is
+- 	What I expected to get	-	What I got
 
-•	Land with no	-	Land with subsurface structures		subsurf structures
+
+
+
+- 	Full fair market value	-	Market value expected		as is
+
+- 	Land with no	-	Land with subsurface structures		subsurf structures
 
 How does court decide which to award?
-•	Which is the default calculation?
-•	Why?
-•	When is the other calculation used?
+- 	Which is the default calculation?
+- 	Why?
+- 	When is the other calculation used?
 
 Factually how would you distinguish
 American Standard from
 Jacob and Youngs?
 
-•	Harm to P?
-•	Harm to D?
-•	Fault?
+- 	Harm to P?
+- 	Harm to D?
+- 	Fault?
 
 ---
 
@@ -2976,18 +3009,6 @@ this is the landmark case for foreseeability - which is strange because in other
 
 grift mill broken crank shaft - carrier took the crank shaft somewhere to be fixed and instead of it taking ten days it took fifteen days. every day mill was closed mill lost lots of money. carrier said we didn't know your mill would be closed or you would lose all those profits - we were just carrying your goods.
 
----
-
-which theory/type of damages? expectation - there might not even have been expectations damages
-
-where do lost profits fit in? take the amount of loss and plug it in - certainty not an issue; something else not an issue; the question is were the damages foreseeable
-
-court said not foreseeable
-
----
-
-## Foreseeability
-
 **RULE FROM HADLEY + RESTATEMENT**
 
 Hadley: loss must
@@ -3029,103 +3050,113 @@ legal scholars say that that sentence was written by the court reporter.
 ## Mitigation
 
 Mitigation § 350
-•	Court won’t compensate injured party for loss they could have avoided with reasonable effort / due diligence… or without undue risk, burden, or humiliation.
-•	Can recover if they made reasonable but unsuccessful efforts.
+
+- 	Court won’t compensate injured party for loss they could have avoided with reasonable effort / due diligence… or without undue risk, burden, or humiliation.
+- 	Can recover if they made reasonable but unsuccessful efforts.
 
 Policy
-–	Notions of fairness
-–	Encourage socially responsible behavior
-–	Prevent waste
-–	A party shouldn’t be punished for breaching – not in and of itself a bad thing (sometimes better for everyone)
+
+-	Notions of fairness
+-	Encourage socially responsible behavior
+-	Prevent waste
+-	A party shouldn’t be punished for breaching - not in and of itself a bad thing (sometimes better for everyone)
 
 Examples
-•	Roofer breaches by leaving gaping hole in the roof. Homeowner knows it’s going to rain and doesn’t cover the hole or move valuables away.
-•	Tenant breaches a one year lease. Landlord lets the apartment sit vacant for a year and then sues for the rent.
+
+- 	Roofer breaches by leaving gaping hole in the roof. Homeowner knows it’s going to rain and doesn’t cover the hole or move valuables away.
+- 	Tenant breaches a one year lease. Landlord lets the apartment sit vacant for a year and then sues for the rent.
 
 What part of the expectation formula is at issue in each example?
 
-the roofer breaches by leaving a hole - costs incurred
-tenant breaches a one year lease - net benefit (failure to get what you expected to get under the contract) - but then did the landlord fail to mitigate? yes. if tried to re-rent then no, but yeah.
+- the roofer breaches by leaving a hole - costs incurred
+- tenant breaches a one year lease - net benefit (failure to get what you expected to get under the contract) - but then did the landlord fail to mitigate? yes. if tried to re-rent then no, but yeah.
 
 ---
 
 Is this correct?
-•	I tendered the apartment (it was available for the year) so I’m entitled to the full rent. - no; you're entitled to the full rent minus the rent i got
-•	I tendered the car (I was ready to hand it over when you breached) so I’m entitled to the full contract price for the car. no; we don't tell the buyer to buy the whole car; that's forcing the buyer to buy the car; that would be saying you cant breach; courts cant say that; you can breach, but you must pay damages. and the seller must try to sell the car to someone else. If i sell the car to someone else for 5000 you escape breach. thats fine; everybody's happy because everybody got what they want.
-•	I was ready to perform/act in the movie, so I’m entitled to the full contract price (salary expected) no, normally you breached; i dont get my full salary; i have to find another job, but if i get another job for one hundred thousand dollars and you were going to give me one hundred and ten thousand dollars damages are ten thousand dollars. I only get that difference. generally.
+
+- I tendered the apartment (it was available for the year) so I’m entitled to the full rent. - no; you're entitled to the full rent minus the rent i got
+- I tendered the car (I was ready to hand it over when you breached) so I’m entitled to the full contract price for the car. no; we don't tell the buyer to buy the whole car; that's forcing the buyer to buy the car; that would be saying you cant breach; courts cant say that; you can breach, but you must pay damages. and the seller must try to sell the car to someone else. If i sell the car to someone else for 5000 you escape breach. thats fine; everybody's happy because everybody got what they want.
+- I was ready to perform/act in the movie, so I’m entitled to the full contract price (salary expected) no, normally you breached; i dont get my full salary; i have to find another job, but if i get another job for one hundred thousand dollars and you were going to give me one hundred and ten thousand dollars damages are ten thousand dollars. I only get that difference. generally.
 
 Mitigation issues on Net Benefit side (mitigation is basically built into the equation because net benefit means the value of the thing I was expecting minus the value of the the thing I got;)
-•	Need to subtract out the expected cost of performance OR subtract any expected mitigation (this is built in to the equation) - if you made reasonable efforts and you can show you made reasonable efforts -
-–	I could sell the car to someone else so subtract what I could have gotten from someone else.
-–	I could have rented the apartment to someone else so subtract rent I could have gotten from someone else.
-–	I could have been in another movie so subtract the salary I could have gotten from the other movie.
+
+- Need to subtract out the expected cost of performance OR subtract any expected mitigation (this is built in to the equation) - if you made reasonable efforts and you can show you made reasonable efforts -
+- I could sell the car to someone else so subtract what I could have gotten from someone else.
+-	I could have rented the apartment to someone else so subtract rent I could have gotten from someone else.
+-	I could have been in another movie so subtract the salary I could have gotten from the other movie.
 
 ---
 
 Shirley MacLaine (p 725)
-•	P entered K to be the lead in D’s movie, Bloomer Girl. Would be paid $53,000/week for 14 weeks (total $750,000).
-•	D breached – decided not to produce the film.
-•	P sues. Seeks $750,000 salary. (wait, you're not making the movie; are you saying you should get the whole salary?)
-•	The issue is whether she failed to mitigate.
-•	But first, consider the entire equation and what damages look like before limitations.
+
+- P entered K to be the lead in D’s movie, Bloomer Girl. Would be paid $53,000/week for 14 weeks (total $750,000).
+- D breached - decided not to produce the film.
+- P sues. Seeks $750,000 salary. (wait, you're not making the movie; are you saying you should get the whole salary?)
+- The issue is whether she failed to mitigate.
+- But first, consider the entire equation and what damages look like before limitations.
 
 Damages
-•	What type of damages does Maclaine seek? expectation damages
-•	How do you calculate net benefit?	when its an employment contract and you have a wrongfully discharged employee, you look at the salary she expect minus the salary she got.
+
+- What type of damages does Maclaine seek? expectation damages
+- How do you calculate net benefit?	when its an employment contract and you have a wrongfully discharged employee, you look at the salary she expect minus the salary she got.
 
 ---
 
 Net benefit for wrongfully discharged employees
-•	How much did employee expect to be better off by taking this job (instead of some other job)
 
-•	Agreed upon salary MINUS
-•	Amount employee earned from other employment (or could have earned with reasonable effort)
+- How much did employee expect to be better off by taking this job (instead of some other job)
+- Agreed upon salary MINUS
+- Amount employee earned from other employment (or could have earned with reasonable effort)
 
 Employee not required to take just any job
 
-•	Must show:
-–	Same field / same general line of work
-–	Comparable / substantially similar
-
-•	Can’t be:
-–	Substantially different OR
-–	Inferior
+- Must show:
+-	Same field / same general line of work
+-	Comparable / substantially similar
+- Can’t be:
+-	Substantially different OR
+-	Inferior
 
 Shirley MacLaine said she didn't want the other movie the producer offered her. MacLaine's lawyers had to argue that she second movie offered to her was substantially different from the first. The two movies were very different in many ways. Musical - Western; California - somewhere else; strong female character - subordinate character.
 
-Argument she should get the full
-$750,000 (didn’t fail to mitigate)
-•	BCBM was substantially different
-•	BCBM was inferior
-•	Policy
+Argument she should get the full $750,000 (didn’t fail to mitigate)
+
+- 	BCBM was substantially different
+- 	BCBM was inferior
+- 	Policy
 
 Substantially different
-•	Bloomer Girl:
-–	Musical
-–	Filmed in California
-–	Based on life of 19thc feminist / abolitionist
-•	BCBM:
-–	Dramatic Western
-–	Filmed in Australia
-–	Female character usually subordinated to cowboy hero
+
+- Bloomer Girl:
+-	Musical
+-	Filmed in California
+-	Based on life of 19thc feminist / abolitionist
+- BCBM:
+-	Dramatic Western
+-	Filmed in Australia
+-	Female character usually subordinated to cowboy hero
 
 Inferior
-•	K terms were inferior because eliminated director and screenplay approvals
-•	Role was inferior
 
-•	Policy: Freedom of Contract
+- 	K terms were inferior because eliminated director and screenplay approvals
+- 	Role was inferior
+- 	Policy: Freedom of Contract
 
 Argument she shouldn’t get the full $750,000 (she failed to mitigate)
-•	BCBM was NOT substantially different
-•	BCBM was NOT inferior
-•	Policy
+
+- 	BCBM was NOT substantially different
+- 	BCBM was NOT inferior
+- 	Policy
 
 Not substantially different
-•	Same salary
-•	Terms and conditions of employment generally the same
-•	Same general line of work
-•	Other differences weren’t that important to the employee
+
+- 	Same salary
+- 	Terms and conditions of employment generally the same
+- 	Same general line of work
+- 	Other differences weren’t that important to the employee
 
 Policy
-•	Result is excessive. Waste.
-•	She’ll get $750,000 for doing nothing
+
+- 	Result is excessive. Waste.
+- 	She’ll get $750,000 for doing nothing
