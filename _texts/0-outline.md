@@ -2362,6 +2362,8 @@ A: Here, ... does not contradict... because ... A formalist court would ... and 
 
 C: Therefore, ...
 
+## Parol Evidence Rule
+
 I: The next issue is whether extrinsic evidence is admissible under the Parol Evidence Rule.
 
 R: Under the Parol Evidence Rule, terms in writing may not be contradicted but may be supplemented or explained by trade usage, course of delivery or course of performance. Consistent additional terms are admissible if the contract is partially integrated (the document is final as to what is written but not complete) but are not admissible if the contract is fully integrated. A contract is fully integrated where the document is the complete and final expression of the parties’ agreement. The assumption is that everything the parties agreed to prior to signing the contract is embodied in the written agreement, as this gives integrity and weight to the written contract. Exceptions to the parol evidence rule are (1) extrinsic evidence is always admissible to explain or interpret a term when that term is ambiguous or unclear; (2) the parol evidence rule does not apply to modifications or subsequent agreements; and (3) the parol evidence rule does not exclude evidence to establish a defense to contract formation.
@@ -2375,8 +2377,6 @@ R: Courts determine whether a contract is fully integrated by looking at the int
 A: Here, ...
 
 C: Therefore, the contract is fully integrated.
-
-## Parol Evidence Rule
 
 I: The next sub-issue is whether any of the exceptions to the parol evidence rule apply.
 
