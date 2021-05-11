@@ -971,9 +971,7 @@ UCC or common law? Sale of goods? Brief analysis at beginning.
 
 If statute of frauds doesn't prevent enforcement, move on to defenses.
 
-## Defenses
-
-The next issue is whether any defenses prevent enforcement.
+**Defenses:** The next issue is whether any defenses prevent enforcement.
 
 **General rule for defenses, listing possible defenses in this fact pattern and general policy behind defenses**
 
@@ -991,18 +989,13 @@ The next issue is whether any defenses prevent enforcement.
 
 *No defenses work? Change in circumstances to warrant K modification?*
 
+**Modification:** The next issue is whether modification of the contract will be allowed.
 
-## Modification
-
-The next issue is whether modification of the contract will be allowed.
-
-**General rule for modification:**
+General rule for modification
 
 *I think no modification might lead us to breach*
 
-## Breach and damages
-
-Did both parties perform as the contract required?
+**Breach and damages:** Did both parties perform as the contract required?
 
 <p style="margin-left:5%; margin-right:10%;">Constructive conditions</p>
 <p style="margin-left:10%; margin-right:10%;">Perfect Tender Rule for goods</p>
@@ -1012,14 +1005,7 @@ What damages is P entitled to?
 
 *Is there a dispute over meaning of terms?*
 
-
-## Implied Terms
-
-The next issue is whether extrinsic evidence is admissible.
-
-**General rule for ...:**
-
-**SEE HYPO FOR WRITING ASSIGNMENT 4**
+**Implied Terms:** The next issue is whether extrinsic evidence is admissible.
 
 - Formalism v Realism
 - TU, CD, CP
@@ -1027,7 +1013,7 @@ The next issue is whether extrinsic evidence is admissible.
 
 *If there is no dispute the terms are probably express terms*
 
-## Express Terms
+**Express Terms**
 
 - Parol Evidence Rule
 
@@ -1056,7 +1042,7 @@ Generally, a contract or contract term that is illegal (violates a statute) or i
 
 ## Public Policy
 
-In general, parties may contract as they wish, and courts will enforce their agreements without passing on their substance. Sometimes, however, a court will decide that the interest in freedom of contract is outweighed by some overriding interest of society and will refuse to enforce a promise or other term on grounds of public policy. (RST Second 8 Intro). When determining whether a contract should not be enforced for public policy reasons, courts look at competing private values of individual freedom vs. public values of social regulation. Often these competing values are expressed as the private interest in freedom of choice competing against a public interest in some other policy, or as free market economic notions competing against moral values.
+In general, parties may contract as they wish, and courts will enforce their agreements without passing on their substance. Sometimes, however, a court will decide that the interest in freedom of contract is outweighed by some overriding interest of society and will refuse to enforce a promise or other term on grounds of public policy. When determining whether a contract should not be enforced for public policy reasons, courts look at competing private values of individual freedom vs. public values of social regulation. Often these competing values are expressed as the private interest in freedom of choice competing against a public interest in some other policy, or as free market economic notions competing against moral values.
 
 Under the RST § 179, a public policy against the enforcement of promises or other terms may be derived by the court from (a) legislation relevant to such a policy, or (b) the need to protect some aspect of the public welfare, as is the case for the judicial policies against, for example (i) restraint of trade (§§ 186-188), (ii) impairment of family relations (§§ 189-191), and (iii) interference with other protected interests (§§ 192-196, 356). Policies tend to be grounded in moral values, economic notions and the protection of government institutions.
 
@@ -2339,28 +2325,119 @@ R: Courts allow parties to breach contracts because forcing them to remain in a 
 
 A:
 
+## Interpretation
+
+The question is whether the court should admit extrinsic evidence of trade usage as part of the agreement between Fiber Industries (seller) and Salem Carpet (buyer) where Salem bought fiber from Fiber but refused to pay.
+
+The first sub-issue is what term or clause is at issue. Terms in a contract can be express or implied. Express terms are terms that are written in the contract. Implied terms are terms not written in the contract but may be admissible by implication from other circumstances including course of dealing, usage of trade, or course of performance. A formalist interpretation of contracts does not admit implied terms but sticks to only terms within the four corners of the document. A contextualist approach looks outside the four corners of the document and allows implied terms. Here, the contract is silent as to the question of trade usage that the buyer is trying to introduce. Therefore, the term at issue is an implied term.
+
+
+
+**IF EXPRESS TERMS**
+
 I: The first sub issue is what term or clause is at issue.
 
-R: The terms of an agreement can be in express or implied terms. Express terms are terms that were specifically mentioned and agreed upon by both parties at the time the contract is made. They can either be oral or in writing.
+R: The terms of an agreement can be in express or implied terms. Express terms are terms that were specifically mentioned and agreed upon by both parties at the time the contract is made, either orally or in writing. Implied terms are terms not written in the contract but may be admissible by implication from other circumstances including course of dealing, usage of trade, or course of performance.
 
-A: Here, there were express terms in writing where ...
+A: Here, there were ... terms in writing where ...
 
-C: Therefore, the court would interpret express terms.
+C: Therefore, the court would interpret ... terms.
 
-I: The second sub-issue is whether the express terms were clear and unambiguous.
+The next issue is whether this evidence of carpet industry trade usage is admissible under the Parol Evidence Rule. Under the Parol Evidence Rule, terms in writing may not be contradicted but may be supplemented or explained by trade usage, course of delivery or course of performance. However, consistent additional terms are not admissable if the contract is fully integrated. A contract is fully integrated where the document is the complete and final expression of the parties’ agreement. Courts determine whether a contract is fully integrated by looking at the intention of the parties through their words and actions, and whether there is a merger clause. Here, the evidence of carpet industry trade usage is trade usage that does not contradict the terms in writing because the contract is silent on the issue. The contract is fully integrated because it contains a merger clause which provides that the contract “contains all the terms and conditions of the purchase agreement and shall constitute the complete and exclusive agreement between Seller and Purchaser.” Therefore, the evidence of carpet industry trade usage is admissible because it is trade usage, supplements or explains the terms in writing, and is not an additional term.
+
+Therefore, the court should admit extrinsic evidence of trade usage as part of the agreement between Fiber and Salem.
+
+I: The second sub-issue is whether the terms are clear and unambiguous.
 
 R: When terms are ambiguous or unclear, specific provisions generally control over general provisions, but courts will favor interpretations that give meaning to the whole contract, because it results in a fairer bargain. When a preliminary consideration of all credible evidence offered to prove the intent of the parties still leaves contractual terms fairly susceptible to at least two rational interpretations, extrinsic evidence relevant to prove either of these meanings is admissible.
 
-A: Here, the breaching party would argue that ... The non-breaching party would argue that ... The court would likely find that ...  breached.
+A: Here, the breaching party would argue that... The non-breaching party would argue that ... The court would likely find that ...  breached.
 
-C: Therefore, ... breached express terms where ...
+C: Therefore, the extrinsic evidence is admissable because the terms are unclear.
+
+**IF IMPLIED TERMS**
+
+I: The first sub issue is what term or clause is at issue.
+
+R: The terms of an agreement can be in express or implied terms. Express terms are terms that were specifically mentioned and agreed upon by both parties at the time the contract is made, either orally or in writing. Implied terms are terms not written in the contract but may be admissible by implication from other circumstances including course of dealing, usage of trade, or course of performance. Every contract also implies obligations of good faith and best efforts. These obligations emphasize faithfulness to an agreed common purpose and consistency with justified expectations of the other party. When one party has discretion, there’s an implied obligation to use reasonable efforts in light of their ability, means or expectations not to act arbitrarily or irrationally.
+
+A: Here, the contract is silent as to the question of trade usage that ... is trying to introduce.
+
+C: Therefore, the term at issue is an implied term.
+
+**UCC and RST implied terms rules in case I want to use:** The UCC integrates implied terms into its expanded definition of every agreement. By this definition, an agreement is "The bargain of the parties as found in their language or by implication from other circumstances including course of dealing, usage of trade, or course of performance." The Restatement Second defines implied terms as terms that must be inferred from the conduct of the parties, and a contract with implied terms one which often involves a course of dealing between the parties or a common trade usage.
+---
+
+I: The next sub-issue is whether the evidence is evidence of trade usage.
+
+R: Trade usage is any practice having such regularity of observance in a place, vocation or trade, as to justify an expectation that it will be observed with respect to the transaction in question. To determine whether evidence is trade usage, courts look at established practices in the industry and in locale. Regularity of observance helps to establish a practice. An issue that comes up when determining whether evidence is evidence of trade usage is how to define a trade. To define a trade, courts look at the practice in the particular trade AND in the particular locality. Businesses can be held to more general business practices than private persons, to the extent of actual knowledge of those practices.
+
+A: Here, ...
+
+C: Therefore, ...
+
+I: The next sub-issue is whether the evidence that ... wants to introduce is evidence of course of dealing.
+
+R: Under the UCC, course of dealing is the way in which parties have dealt with each other in the past. To see whether there was course of dealing, courts look at prior contracts between the same parties.
+
+A: Here, ...
+
+C: Therefore, ...
+
+I: The next sub-issue is whether the evidence shows course of performance.
+
+R: To determine whether evidence shows course of performance, courts look at how the parties have dealt with each other during the performance of the contract in question. This is particularly done with installment contracts, where there are repeated occasions for performance. Courts look specifically at the actions of the parties in carrying out the contract at issue.
+
+A: Here, ...
+
+C: Therefore, ...
+
+I: The next sub-issue is whether there was good faith and best efforts.
+
+R: Under Restatement Second of Contracts, neither party shall do anything that will have the effect of destroying or injuring the right of the other party to receive the fruits of the contract. This means that one party cannot (1) prevent the other party from performing, nor (2) exercise discretion under the contract to hurt the other party. There must be (3) faithfulness to an agreed common purpose and (4) consistency with justified expectations of the other party. where a contract contemplates the exercise of discretion, the party shall not act arbitrarily or irrationally in exercising that discretion. This duty to use good faith and best efforts reflects social norms which people should normally indend to comply with.
+
+A: Here, ...
+
+C: Therefore, ...
+
+**Whether evidence admissible**
+
+I: The next issue is whether the evidence is admissible.
+
+R: A formalist approach to the interpretation of contracts does not admit extrinsic evidence when the terms of the contract are clear and unambiguous. This approach assumes that words can have set meanings independent of particular contexts. By the plain meaning rule, formalist courts do their best to stick only to terms which are within the "four corners" of the document. A contextualist - or legal realist - approach looks outside the four corners of the document and admits extrinsic evidence even if the contract terms seem clear on their face. Contextualists assume that words have meaning only in context. Therefore, when interpreting words a contextualist court looks at other extrinsic evidence such as writings, oral statements, and implied terms such as trade usage, course of dealings and course of performance. In Nanakuli, which was decided from a legal realist perspective, the court looked beyond the four corners of the document to common usages, understandings, and expectations. Extrinsic evidence is never admissible if it contradicts the contract, but it can supplement a contract or modify it.
+
+A: Here, ... does not contradict... because ... A formalist court would ... and a contextualist court would ... (Under either approach, terms are probably vague and both approaches would consider extrinsic evidence to explain. PER: Implied terms like TU, CD, or CP would be admissible to explain. Depends on what the evidence is. Is there a custom surrounding these terms?)
+
+C: Therefore, ...
+
+C: Therefore, ...
+
 
 Terms at issue:
 Explain Formalist vs. Contextualist approaches  
-Under either approach, terms are probably vague and both approaches would consider extrinsic evidence to explain.  
-PER:  Implied terms like TU, CD, or CP would be admissible to explain.
-Depends on what the evidence is. Is there a custom surrounding these terms?
+
 How it’s interpreted could go either way.*  
+
+## Framework for Interpreting Express Terms
+
+Is there a dispute over the meaning of terms? go to > Framework for interpreting express terms
+
+1. What term or clause is at Issue
+2. what's the issue? (vague, ambiguous)
+3. what are the possible interpretations?
+4. What evidence is being introduced?
+5. Assess the evidence (does it amount to TU, CD, CP etc.)
+6. Will the evidence be admissible in the jurisdiction at hand? (discuss Formalist vs. Contextualist approaches)
+7. Is the evidence admissible under the PER? (yes, to interpret)
+8. Do any rules of construction apply?
+
+---
+
+## Framework for Interpreting Implied Terms
+
+1. What evidence is being introduced?
+2. Assess the evidence (does it amount to TU, CD, CP etc.)
+3. Is the evidence admissible under the PER? (Evidence of TU, CD, CP is admissible unless it contradicts) (other evidence admissible unless the contract is fully integrated)
 
 ---
 
