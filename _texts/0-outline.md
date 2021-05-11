@@ -2475,7 +2475,7 @@ A:
 
 I: The first question is how much damages Buyer would be entitled to under the Expectation theory.
 
-R: The expectation theory of contract damages aims to put the plaintiff in as good a position as she would have been in had the contract been performed. When applying the expectation theory, courts calculate …
+R: The expectation theory of contract damages aims to put the plaintiff in as good a position as she would have been in had the contract been performed. When applying the expectation theory, courts measure the difference between what was given and what was promised, along with consequential and incidental expenses minus any payments received from the breaching party and any costs incurred as a result of the breach. The proper amount is that which puts the non-breaching party in as good a position as she would have been in had the contract been performed.
 
 A: Here,
 
@@ -2928,10 +2928,11 @@ Jacob and Youngs?
 
 ## Measuring Restitution Damages
 
-Something should go here. See also writing assignment 3.
+Restitution is an equitable remedy which aims to prevent unjust enrichment. Restitution damages aims to restore the benefit conferred to the non-breaching party. Put simply, the plaintiff will get the value of whatever was conferred to the defendant when there was a contract. There are two general limits to recovery, which is that a complete breach of contract is needed, and the damages will be capped at the contract price if the restitution damages exceed it.
+
 ---
 
-Halliburton
+**Halliburton**
 
 On an exam id want to say net benefit (how much did the buyer expect to be better off by this contract - usu what's the contract price and what's the price the buyer would have to pay to replace the thing) in halliburton they didnt buy a replacement
 
