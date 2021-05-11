@@ -42,8 +42,11 @@ toc:
 - Measuring Expectation in Construction Contracts
 - Measuring Restitution Damages
 - Punitive damages
+- Limitations
 - Foreseeability
+- Certainty
 - Mitigation
+- Non Pecuniary Damages
 
 
 ---
@@ -2617,7 +2620,7 @@ Need to subtract out the expected cost of performance OR subtract any expected m
 - I could have been in another movie so subtract the salary I could have gotten from the other movie.
 
 ---
-## Non-Pecuniary Damages
+## Non Pecuniary Damages
 
 - Usually not awarded
 - Not foreseeable
