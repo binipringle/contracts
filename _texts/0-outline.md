@@ -2452,28 +2452,19 @@ R: The remedy of specific performance, which is an injunction for the breaching 
 
 I: Assuming that the court finds that ... breached the contract with ... to provide ... the next question is what remedy the court should apply.
 
-R: When a party breaches a contract, courts often find that the breaching party must pay damages. Damages are not to punish a party for breaching but to compensate the other party for their loss; damages need to be foreseeable and proved to a reasonable certainty, and the loss must arise naturally from breach or reasonably be in the contemplation of the parties. There are three theories for measuring money damages. These are expectation, reliance and restitution. The choice of which measure of damages is within the court’s discretion, but there are guidelines. The starting point is courts always want to award damages whenever they can, because that is supposed to mirror exactly what happened if the contract had not been breached. Expectation damages and reliance damages are forward looking because they are trying to put the parties in the position they would have been in had the contract not been breached. Expectation is the goal and usually awarded. However, a court is likely to award reliance damages when the contract is too speculative for expectation damages. A court is likely to award restitution damages when there's no contract or if the contract is unenforceable. Another kind of damages are non-pecuniary damages (Pain and suffering). These are generally not recoverable because they are hard to measure.
+R: When a party breaches a contract, courts often find that the breaching party must pay damages. Damages are not to punish a party for breaching but to compensate the other party for their loss; damages need to be foreseeable and proved to a reasonable certainty, and the loss must arise naturally from breach or reasonably be in the contemplation of the parties. The non-breaching party must prove a causal connection with reasonable certainty between the loss or damages caused by the breach. The causal connection cannot be too remote or theoretical. Limitations on damages are (i) Certainty (reasonable), (ii) Foreseeability, (iii) Mitigation.  Certainty should amount to a reasonable certainty not mathematical precision and the yardstick is estimated from standard or similar business in that area; profit history, etc.
+
+There are three theories for measuring money damages. These are expectation, reliance and restitution. The choice of which measure of damages is within the court’s discretion, but there are guidelines. The starting point is courts always want to award damages whenever they can, because that is supposed to mirror exactly what happened if the contract had not been breached.
+
+Expectation damages and reliance damages are forward looking because they are trying to put the parties in the position they would have been in had the contract not been breached. Expectation is the goal and usually awarded. However, a court is likely to award reliance damages when the contract is too speculative for expectation damages. A court is likely to award restitution damages when there's no contract or if the contract is unenforceable. Another kind of damages are non-pecuniary damages (Pain and suffering). These are generally not recoverable because they are hard to measure.
 
 **Damages rules to tack on to general damages rule:**
 
 **Construction contracts damages rule**
 
-For breach of a construction contract, the injured party may generally recover all damages that are direct, natural, and immediate consequences of the breach and were reasonably within the parties' contemplation at the time they entered the contract. If the contractor fails to perform or incompletely performs, damages should be measured by the reasonable cost of replacement or completion [cutting corners-did not grade land below surface].
+R: For breach of a construction contract, the injured party may generally recover all damages that are direct, natural, and immediate consequences of the breach and were reasonably within the parties' contemplation at the time they entered the contract. If the contractor fails to perform or incompletely performs, damages should be measured by the reasonable cost of replacement or completion [cutting corners-did not grade land below surface].
 
-Limitations on damages are (i) Certainty (reasonable), (ii) Foreseeability, (iii) Mitigation.  Certainty should amount to a reasonable certainty not mathematical precision and the yardstick is estimated from standard or similar business in that area; profit history, etc.
-
-The non-breaching party must prove a causal connection with reasonable certainty between the loss or damages caused by the breach. The causal connection cannot be too remote or theoretical.
-
-I: The first sub issue is whether there was substantial performance.
-
-R: For a court to find that there was substantial performance, the beginning of performance is required, not just mere preparation.
-
-A: Here, Seller substantially performed where it reconstructed the condominium unit it had agreed to reconstruct for Buyer.
-
-C: Therefore, there was substantial performance.
-
-
-I: The second sub issue is how damages for breach of the substantially performed contract should be calculated.
+I: The first issue is how damages for breach should be calculated.
 
 R: The three theories of contract damages which courts use to calculate damages are the expectation theory, the reliance theory and the restitution theory.
 
