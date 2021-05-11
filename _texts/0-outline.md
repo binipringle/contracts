@@ -2376,6 +2376,8 @@ A: Here, ...
 
 C: Therefore, the contract is fully integrated.
 
+## Parol Evidence Rule
+
 I: The next sub-issue is whether any of the exceptions to the parol evidence rule apply.
 
 R: Exceptions to the parol evidence rule are (1) extrinsic evidence is always admissible to explain or interpret a term when that term is ambiguous or unclear; (2) the parol evidence rule does not apply to modifications or subsequent agreements; and (3) the parol evidence rule does not exclude evidence to establish a defense to contract formation.
