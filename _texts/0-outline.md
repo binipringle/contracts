@@ -1555,21 +1555,9 @@ C: Therefore, the contract should be voided because of impracticability because 
 
 ## Unconscionability
 
-Can this be written more succinctly? More clearly? I don't know. There's a lot of critique of this clause in class and by the professor.
-
-**3 Definitions of Unconscionability (look at other outline to see difference between RST and UCC)**
-
-- UCC § 2-302 (and comment), RST § 208
-
-- Williams v. Walker Thomas (this is THE landmark case for unconsionability) (U.S. Court of Appeals for D.C. Circuit [1965]. Terms of a retail Purchase Agreement: "The amount of each periodic installment payment to be made by the [purchaser]  to the Company under this present lease shall be inclusive of and not in addition to the amount of each installment payment to be made by [purchaser] under such prior leases, bills or accounts; and all payments now and hereafter made by [purchaser] shall be credited pro rata on all outstanding leases, bills and accounts due the Company by [purchaser] at the time each such payment is made.")
-
-- Procedural and Substantive unconscionability
-
-*This is the only defense that looks at substantive fairness* Substantive unfairness is really unfairness of the terms. We saw that everything up until now courts will not look at the adequacy of consideration, because the more important principle is assent; if we're dealing with two parties with full capacity who look like they know what they're doing, the court doesn't care. It goes back to the presumption of neo-classical economic theory, and the court doesn't care if the terms are unfair. The court doesn't look at fairness. It looks for lack of assent. The doctrine of unconscionability is looking at really unfair terms. Really unfair terms are what trigger the doctrine. At the core unconsionability is about bad behavior. The core is not whether a person was sophisticated or educated enough to understand. It's about whether a person took advantage of it. If we change the way we think about defenses (especially unconscionability), can we take the focus off human frailties and inadequacies of the person seeking to avoid the contract and put the focus on the limits we must or should place on the use of power? If we did this all of these defenses would still work. But we would change the focus to the limits on the use of power.
-
 I: The question is whether there was unconscionability where ...
 
-R: For a court to find that there was unconscionability there must be an “absence of meaningful choice on the part of one of the parties together with contract terms that are unreasonably favorable to the other party.” The two kinds of unfairness are procedural unfairness and substantive unfairness; the more there is of one the less is needed of the other. Generally, the doctrine calls for some of both. Courts are more inclined to find unconscionability where there is procedural unfairness than where there is substantive unfairness.
+R: For a court to find that there was unconscionability there must be an “absence of meaningful choice on the part of one of the parties together with contract terms that are unreasonably favorable to the other party.” The two kinds of unfairness are procedural unfairness and substantive unfairness; the more there is of one the less is needed of the other. Generally, the doctrine calls for some of both. Courts are more inclined to find unconscionability where there is procedural unfairness than where there is substantive unfairness. Unconscionability is the only defense that looks at substantive fairness. Substantive unfairness is really unfairness of the terms. We saw that everything up until now courts will not look at the adequacy of consideration, because the more important principle is assent; if we're dealing with two parties with full capacity who look like they know what they're doing, the court doesn't care. It goes back to the presumption of neo-classical economic theory, and the court doesn't care if the terms are unfair. The court doesn't look at fairness. It looks for lack of assent. The doctrine of unconscionability is looking at really unfair terms. Really unfair terms are what trigger the doctrine. At the core unconsionability is about bad behavior. The core is not whether a person was sophisticated or educated enough to understand. It's about whether a person took advantage of it. If we change the way we think about defenses (especially unconscionability), can we take the focus off human frailties and inadequacies of the person seeking to avoid the contract and put the focus on the limits we must or should place on the use of power? If we did this all of these defenses would still work. But we would change the focus to the limits on the use of power.
 
 A:
 
@@ -1590,6 +1578,12 @@ A: Here, ...
 C: Therefore, there is/is not substantive unfairness.
 
 C: Therefore, there is unconscionability because there is procedural unfairness and substantive unfaireness.
+
+**3 Definitions of Unconscionability (look at other outline to see difference between RST and UCC)**
+
+- UCC § 2-302 (and comment), RST § 208
+
+- Williams v. Walker Thomas (this is THE landmark case for unconsionability) (U.S. Court of Appeals for D.C. Circuit [1965]. Terms of a retail Purchase Agreement: "The amount of each periodic installment payment to be made by the [purchaser]  to the Company under this present lease shall be inclusive of and not in addition to the amount of each installment payment to be made by [purchaser] under such prior leases, bills or accounts; and all payments now and hereafter made by [purchaser] shall be credited pro rata on all outstanding leases, bills and accounts due the Company by [purchaser] at the time each such payment is made.")
 
 ---
 
@@ -1626,14 +1620,6 @@ Substantive unfairness
 - Shockingly one-sided
 - Shocks the conscience of the court
 - Extreme in light of commercial setting
-
-**Williams v. Walker Thomas (p 460)**
-
-- What procedural unfairness present?
-- What substantive unfairness?
-- Should seller have a duty not to sell to people who are at higher risk of defaulting?
-- Should they not extend credit?
-- Try to talk someone out of buying?
 
 ---
 
@@ -2101,10 +2087,6 @@ Sale of farm together with “cattle, hogs, and other animals.”  Does that inc
 
 ---
 
-
-
----
-
 Rules of interpretation
 
 expressio unius est exclusio alterius  (The expression of one thing is the exclusion of another)
@@ -2138,35 +2120,12 @@ Framework
 
 ---
 
-Pacific Gas (p 594) **(really good example of the contextualist approach)**
+Pacific Gas (p 594) **(really good example of the contextualist approach)** d was doing work on p's stuff and damages some of p's stuff (turbine). p repairs and then says d owes them money to indemnify p against all loss resulting from injury to property ... from the contract. D agreed to indemnify P against: “all loss ... resulting from injury to property in connection with performance of the K.” Did this case involve loss resulting from injury to property? yes. Why doesn’t D think they have to pay? D says there was loss to property but that's not what we meant. we meant all loss resulting in injury to all third party property in connection with performance of the K." Trial court takes formalist approach. Plain meaning of clause is you have to pay. Supreme court takes a contextualist approach. Introduces extrinsic evidence. Does the language of the contract have to be ambiguous to justify considering extrinsic evidence? No it does not. There is the key. If the language of the contract is clear on its face like in this case, the formalists will not introduce extrinsic evidence, but the contextualist court will allow extrinsic evidence which may have other interpretations within the industry. On the other hand, if the language in the contract is vague or ambiguous, both the formalist and contextualist courts will allow extrinsic evidence.  
 
-d was doing work on p's stuff and damages some of p's stuff (turbine). p repairs and then says d owes them money to indemnify p against all loss resulting from injury to property ... from the contract. D agreed to indemnify P against: “all loss ... resulting from injury to property in connection with performance of the K.”
-
-Did this case involve loss resulting from injury to property? yes
-
-Why doesn’t D think they have to pay? D says there was loss to property but that's not what we meant. we meant all loss resulting in injury to all third party property in connection with performance of the K."
-
-Trial court takes formalist approach. Plain meaning of clause is you have to pay.
-
-Supreme court takes a contextualist approach. Introduces extrinsic evidence.
-
-- How does the court justify the use of that approach?
-- What evidence does D want court to consider?
-- Does the language of the contract have to be ambiguous to justify considering extrinsic evidence? No it does not. There is the key. If the language of the contract is clear on its face like in this case, the formalists will not introduce extrinsic evidence, but the contextualist court will allow extrinsic evidence which may have other interpretations within the industry.
-
-On the other hand, if the language in the contract is vague or ambiguous, both the formalist and contextualist courts will allow extrinsic evidence.  
 
 ---
 
-phew
-
----
-
-I THINK I PROB MISSED SOMETHING HERE - A CLASS OR SOMETHING
-
----
-
-# Parol Evidence Rule
+# PER
 
 Default is that evidence of prior statements leading up to the K is not admissible.
 
@@ -2327,11 +2286,7 @@ A:
 
 ## Interpretation
 
-The question is whether the court should admit extrinsic evidence of trade usage as part of the agreement between Fiber Industries (seller) and Salem Carpet (buyer) where Salem bought fiber from Fiber but refused to pay.
-
-The first sub-issue is what term or clause is at issue. Terms in a contract can be express or implied. Express terms are terms that are written in the contract. Implied terms are terms not written in the contract but may be admissible by implication from other circumstances including course of dealing, usage of trade, or course of performance. A formalist interpretation of contracts does not admit implied terms but sticks to only terms within the four corners of the document. A contextualist approach looks outside the four corners of the document and allows implied terms. Here, the contract is silent as to the question of trade usage that the buyer is trying to introduce. Therefore, the term at issue is an implied term.
-
-
+Historically, in terms of contract interpretation before the UCC, you really needed a lot of terms in the writing to make something a contract. If too many terms were missing and the terms were unclear or vague, the contract would be unenforceable. In the past, the courts would simply not enforce it; sometimes the parties wanted to enforce a contract but the court wouldn’t. The legal realists wanted to make things less rigid and more flexible and they created the idea of creating a framework for introducing extrinsic evidence. Extrinsic evidence is evidence outside of the four corners of the document. It can be conversations, other documents, experts getting on the stand and explaining, other things explaining and clarifying what the parties intended when this is not clear in the document. With contract interpretation the goal is to get at the intent of the parties. The goal is not to fill in the gaps with things that are fair or the most common usages.
 
 **IF EXPRESS TERMS**
 
@@ -2342,18 +2297,6 @@ R: The terms of an agreement can be in express or implied terms. Express terms a
 A: Here, there were ... terms in writing where ...
 
 C: Therefore, the court would interpret ... terms.
-
-The next issue is whether this evidence of carpet industry trade usage is admissible under the Parol Evidence Rule. Under the Parol Evidence Rule, terms in writing may not be contradicted but may be supplemented or explained by trade usage, course of delivery or course of performance. However, consistent additional terms are not admissable if the contract is fully integrated. A contract is fully integrated where the document is the complete and final expression of the parties’ agreement. Courts determine whether a contract is fully integrated by looking at the intention of the parties through their words and actions, and whether there is a merger clause. Here, the evidence of carpet industry trade usage is trade usage that does not contradict the terms in writing because the contract is silent on the issue. The contract is fully integrated because it contains a merger clause which provides that the contract “contains all the terms and conditions of the purchase agreement and shall constitute the complete and exclusive agreement between Seller and Purchaser.” Therefore, the evidence of carpet industry trade usage is admissible because it is trade usage, supplements or explains the terms in writing, and is not an additional term.
-
-Therefore, the court should admit extrinsic evidence of trade usage as part of the agreement between Fiber and Salem.
-
-I: The second sub-issue is whether the terms are clear and unambiguous.
-
-R: When terms are ambiguous or unclear, specific provisions generally control over general provisions, but courts will favor interpretations that give meaning to the whole contract, because it results in a fairer bargain. When a preliminary consideration of all credible evidence offered to prove the intent of the parties still leaves contractual terms fairly susceptible to at least two rational interpretations, extrinsic evidence relevant to prove either of these meanings is admissible.
-
-A: Here, the breaching party would argue that... The non-breaching party would argue that ... The court would likely find that ...  breached.
-
-C: Therefore, the extrinsic evidence is admissable because the terms are unclear.
 
 **IF IMPLIED TERMS**
 
@@ -2366,11 +2309,20 @@ A: Here, the contract is silent as to the question of trade usage that ... is tr
 C: Therefore, the term at issue is an implied term.
 
 **UCC and RST implied terms rules in case I want to use:** The UCC integrates implied terms into its expanded definition of every agreement. By this definition, an agreement is "The bargain of the parties as found in their language or by implication from other circumstances including course of dealing, usage of trade, or course of performance." The Restatement Second defines implied terms as terms that must be inferred from the conduct of the parties, and a contract with implied terms one which often involves a course of dealing between the parties or a common trade usage.
+
+I: The second sub-issue is whether the terms are clear and unambiguous.
+
+R: When terms are ambiguous or unclear, specific provisions generally control over general provisions, but courts will favor interpretations that give meaning to the whole contract, because it results in a fairer bargain. When a preliminary consideration of all credible evidence offered to prove the intent of the parties still leaves contractual terms fairly susceptible to at least two rational interpretations, extrinsic evidence relevant to prove either of these meanings is admissible.
+
+A: Here, the breaching party would argue that... The non-breaching party would argue that ... The court would likely find that ...  breached.
+
+C: Therefore, extrinsic evidence is admissible because the terms are unclear.
+
 ---
 
 I: The next sub-issue is whether the evidence is evidence of trade usage.
 
-R: Trade usage is any practice having such regularity of observance in a place, vocation or trade, as to justify an expectation that it will be observed with respect to the transaction in question. To determine whether evidence is trade usage, courts look at established practices in the industry and in locale. Regularity of observance helps to establish a practice. An issue that comes up when determining whether evidence is evidence of trade usage is how to define a trade. To define a trade, courts look at the practice in the particular trade AND in the particular locality. Businesses can be held to more general business practices than private persons, to the extent of actual knowledge of those practices.
+R: Trade usage is any practice having such regularity of observance in a place, vocation or trade, as to justify an expectation that it will be observed with respect to the transaction in question. To determine whether evidence is trade usage, courts look at established practices in the industry and in locale. Regularity of observance helps to establish a practice. An issue that comes up when determining whether evidence is evidence of trade usage is how to define a trade. To define a trade, courts look at the practice in the particular trade AND in the particular locality. If there is evidence of trade usage and it is admissible, it becomes a term of the contract like any other term. *Therefore, if you have evidence of trade usage and the court finds that it is admissible, you can enforce the term.*
 
 A: Here, ...
 
@@ -2410,34 +2362,31 @@ A: Here, ... does not contradict... because ... A formalist court would ... and 
 
 C: Therefore, ...
 
-C: Therefore, ...
+I: The next issue is whether extrinsic evidence is admissible under the Parol Evidence Rule.
 
+R: Under the Parol Evidence Rule, terms in writing may not be contradicted but may be supplemented or explained by trade usage, course of delivery or course of performance. Consistent additional terms are admissible if the contract is partially integrated (the document is final as to what is written but not complete) but are not admissible if the contract is fully integrated. A contract is fully integrated where the document is the complete and final expression of the parties’ agreement. The assumption is that everything the parties agreed to prior to signing the contract is embodied in the written agreement, as this gives integrity and weight to the written contract. Exceptions to the parol evidence rule are (1) extrinsic evidence is always admissible to explain or interpret a term when that term is ambiguous or unclear; (2) the parol evidence rule does not apply to modifications or subsequent agreements; and (3) the parol evidence rule does not exclude evidence to establish a defense to contract formation.
 
-Terms at issue:
-Explain Formalist vs. Contextualist approaches  
+A:
 
-How it’s interpreted could go either way.*  
+I: The first sub-issue is whether the contract is fully integrated.
 
-## Framework for Interpreting Express Terms
+R: Courts determine whether a contract is fully integrated by looking at the intention of the parties through their words and actions, and whether there is a valid merger clause. A merger clause is a clause stating that the parties intend the signed contract to be a complete and final statement of their agreement.
 
-Is there a dispute over the meaning of terms? go to > Framework for interpreting express terms
+A: Here, ...
 
-1. What term or clause is at Issue
-2. what's the issue? (vague, ambiguous)
-3. what are the possible interpretations?
-4. What evidence is being introduced?
-5. Assess the evidence (does it amount to TU, CD, CP etc.)
-6. Will the evidence be admissible in the jurisdiction at hand? (discuss Formalist vs. Contextualist approaches)
-7. Is the evidence admissible under the PER? (yes, to interpret)
-8. Do any rules of construction apply?
+C: Therefore, the contract is fully integrated.
 
----
+I: The next sub-issue is whether any of the exceptions to the parol evidence rule apply.
 
-## Framework for Interpreting Implied Terms
+R: Exceptions to the parol evidence rule are (1) extrinsic evidence is always admissible to explain or interpret a term when that term is ambiguous or unclear; (2) the parol evidence rule does not apply to modifications or subsequent agreements; and (3) the parol evidence rule does not exclude evidence to establish a defense to contract formation.
 
-1. What evidence is being introduced?
-2. Assess the evidence (does it amount to TU, CD, CP etc.)
-3. Is the evidence admissible under the PER? (Evidence of TU, CD, CP is admissible unless it contradicts) (other evidence admissible unless the contract is fully integrated)
+A: Here, ...
+
+C: Therefore, the evidence of ... is admissible because it is trade usage, supplements or explains the terms in writing, and is not an additional term.
+
+C: Therefore, the court should admit extrinsic evidence of ... as part of ...
+
+C: Therefore, there was/was not a breach where ...
 
 ---
 
@@ -2547,16 +2496,6 @@ C: Therefore, Buyer would be entitled to … damages under the expectation theor
 
 ---
 
-There are three Theories of Contract Damages
-
-**Expectation theory of contract damages** aim to put the plaintiff in as good a position as she would have been in had the contract been performed.
-
-**Reliance theory of contract damages** aims to put the plaintiff back in the position she would have been in had there been no K (the plaintiff gets back all expenses incurred in reliance on the contract).
-
-**Restitution theory of contract damages** aims to put the defendant back in the position he would have been in had there been no contract (plaintiff gets back all benefits conferred on defendant). The policy reason that drives the restitution theory of contract damages is to prevent unjust enrichment.
-
----
-
 ## Measuring Expectation
 
 | Net benefit expected (expected profit) (expectation) | + | All costs actually incurred |
@@ -2607,28 +2546,6 @@ Expectation element (when builder breaches) = value of performance (expected) - 
 
 1. Diminution in value (using market value); market value expected minus market value received (*used when substantial performance*)
 2. Cost of completion (*used when no substantial performance*)
-
----
-
-# Damages
-
-Can be money damages OR specific performance
-
-## Money damages Three theories
-
-- Expectation: Put plaintiff in as good a position as they would have been in had contract been fully performed.
-- Reliance: Put the plaintiff back in the position they would have been in had there been no contract.
-- Restitution: Put the defendant back in the position they would have been in had there been no contract.
-
-Hypo
-
-- One year rental agreement: $1,000/mth rent
-- Comparable apt is $1,200/mth
-- Tenant pays $1,000 deposit
-- Tenant buys $825 worth of furniture
-- Landlord breaches before tenant moves in
-
-What damages? calculate under each theory
 
 ---
 
